@@ -1,0 +1,146 @@
+<DOCUMENT>
+<TYPE>EX-99.11
+<SEQUENCE>12
+<FILENAME>tv482945_ex99-11.htm
+<DESCRIPTION>EXHIBIT 99.11
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 8pt Arial, Helvetica, Sans-Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.11 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Clayton
+Rating Agency ATR QM Data Fields</B></FONT></P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Name:</TD>
+    <TD COLSPAN="3" STYLE="font-weight: bold; text-align: left">Verus&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Project Name:</TD>
+    <TD COLSPAN="3" STYLE="font-weight: bold; text-align: left">Verus 2018-1</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Start - End Dates:</TD>
+    <TD COLSPAN="3" STYLE="font-weight: bold; text-align: left">6/14/2017 - 8/5/2017</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Deal Loan Count:</TD>
+    <TD COLSPAN="3" STYLE="font-weight: bold; text-align: left">8</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-style: italic; text-align: left">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="font-style: italic; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="width: 22%">&nbsp;</TD>
+    <TD STYLE="width: 29%">&nbsp;</TD>
+    <TD STYLE="width: 20%">&nbsp;</TD>
+    <TD STYLE="width: 29%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="4" STYLE="font-weight: bold; text-align: left">Rating Agency ATR QM Data Fields</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-style: italic; text-align: left">Loans in Report:&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="font-style: italic; text-align: left">8</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: #3366FF">
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 35%; padding-left: 3pt">Loan Number</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 29%; padding-left: 3pt">Loan Level ATR/QM Status</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 20%; padding-left: 3pt">Application Date Prior to 1/10/2014</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 16%; padding-left: 3pt">TRID Indicator</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; border: Black 0.5pt solid; text-align: left; padding-left: 3pt">701081</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">No</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Yes</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; padding-left: 3pt">1706002485</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">No</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Yes</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; padding-left: 3pt">1706002462</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">No</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Yes</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; padding-left: 3pt">1708002611</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">No</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Yes</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; padding-left: 3pt">700743</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">No</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Yes</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; padding-left: 3pt">700745</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">No</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Yes</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; padding-left: 3pt">700746</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">No</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Yes</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; padding-left: 3pt">700750</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">No</TD>
+    <TD STYLE="color: #25396E; vertical-align: middle; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: white; padding-left: 3pt">Yes</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
