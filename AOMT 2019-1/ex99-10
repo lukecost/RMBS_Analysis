@@ -1,0 +1,1425 @@
+<DOCUMENT>
+<TYPE>EX-99.10
+<SEQUENCE>11
+<FILENAME>ex99-10.htm
+<DESCRIPTION>AMC DATA COMPARE (INCREMENTAL LOANS)
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin: 0"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0; font: normal 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; font-weight: normal; font-style: normal"><A HREF="aomt-abs15g_010919.htm">Angel Oak Mortgage Trust I, LLC 2019-1&nbsp;ABS-15G</A></FONT></P>
+
+<P STYLE="margin: 0; font: normal 10pt Times New Roman, Times, Serif"><FONT STYLE="font: normal 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="margin: 0; font: normal 10pt Times New Roman, Times, Serif; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; font-style: normal; font-variant: normal"><B>Exhibit
+99.10</B></FONT></P>
+
+
+<IMG SRC="image_001.jpg" ALT="">
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 9pt Calibri, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="color: navy; font-size: 14pt; font-weight: bold; padding-right: 3pt; padding-left: 3pt">Data Compare (Non-Ignored)</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 14pt; font-weight: bold; text-align: left; background-color: white; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 14pt; font-weight: bold; text-align: left; background-color: white; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 14pt; font-weight: bold; text-align: left; background-color: white; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 14pt; font-weight: bold; text-align: left; background-color: white; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="color: navy; font-size: 10pt; font-weight: bold; padding-right: 3pt; padding-left: 3pt">Run Date - 1/9/2019 3:11:19 PM</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 10pt; font-weight: bold; text-align: left; background-color: white; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 10pt; font-weight: bold; text-align: left; background-color: white; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 10pt; font-weight: bold; text-align: left; background-color: white; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 10pt; font-weight: bold; text-align: left; background-color: white; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: navy">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 6%; padding-right: 3pt; padding-left: 3pt; white-space: nowrap">AMC Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 8%; padding-right: 3pt; padding-left: 3pt; white-space: nowrap">Customer Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 8%; padding-right: 3pt; padding-left: 3pt; white-space: nowrap">Seller Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 9%; padding-right: 3pt; padding-left: 3pt; white-space: nowrap">Investor Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 16%; padding-right: 3pt; padding-left: 3pt; white-space: nowrap">Field Label</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 9%; padding-right: 3pt; padding-left: 3pt; white-space: nowrap">Bid Tape Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 9%; padding-right: 3pt; padding-left: 3pt; white-space: nowrap">Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 6%; padding-right: 3pt; padding-left: 3pt; white-space: nowrap">Compare Status</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: rgb(191,191,191) 0.5pt solid; text-align: left; width: 29%; padding-right: 3pt; padding-left: 3pt">Comments</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">203095369</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Note Date</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">203095369</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">203355930</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">203574625</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">203634698</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">203893883</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204142641</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204145576</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204145912</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204179243</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204179243</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204224763</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">590</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">650</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204224763</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204224763</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204240981</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204240981</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">756</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">754</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204240981</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204240981</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204240982</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204240982</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204269402</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204269402</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">643</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">678</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204269402</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204270906</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204270906</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">780</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">770</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204270906</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204278613</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204278616</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">City</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204278616</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204282064</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204282064</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">705</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">739</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204282064</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204282066</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204282066</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332614</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332614</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332614</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332615</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332615</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332615</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332616</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332616</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">748</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">758</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204332616</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204349153</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204349153</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204350678</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204350691</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">City</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204354031</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">City</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204354031</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204354056</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204364188</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204426841</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">679</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">737</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204426841</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204426867</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204451743</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">PUD</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204451750</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204451753</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204451758</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">PUD</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204458282</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204460375</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204460378</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204460386</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204460394</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">PUD</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">PUD Attached</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204471222</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204475983</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204479203</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204479207</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204479246</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204479252</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204492646</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original CLTV</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204492646</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original LTV</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204492655</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204492655</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204497431</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204510583</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">741</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">737</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204510583</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204510583</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204510597</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Refi Purpose</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Cash-out - Other</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Rate/Term</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204510597</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204510603</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">752</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">719</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204510603</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204510603</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204515278</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204515278</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204548220</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">709</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">726</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204548225</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">City</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204549032</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204549032</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">700</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">688</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204549032</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571778</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571778</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571779</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571779</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">639</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">626</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571779</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571779</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571780</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571780</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">646</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">588</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204571780</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592889</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Application Date</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592889</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592890</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592894</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Application Date</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592894</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592904</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original CLTV</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592923</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original Interest Rate</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592923</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Purpose</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Refinance</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592923</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Safe Harbor QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592926</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original Interest Rate</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592926</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Purpose</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Refinance</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592926</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Higher Priced QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592930</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original Interest Rate</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592930</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Purpose</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Refinance</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592930</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Higher Priced QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592936</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original Interest Rate</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592936</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Purpose</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Refinance</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592936</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Higher Priced QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592942</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original Interest Rate</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592942</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">PUD</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592942</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Purpose</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Refinance</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592942</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Safe Harbor QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592947</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original Interest Rate</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592947</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Purpose</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Refinance</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204592947</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Higher Priced QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204630395</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204630396</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">772</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">788</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204630396</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204735873</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Safe Harbor QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204735883</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Higher Priced QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204759475</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204895463</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204895463</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">637</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">639</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204895489</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204895520</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204895520</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Originator Loan Designation</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">Non QM</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">N/A</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204895520</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">204919146</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">Investor: Qualifying Housing Ratio</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; background-color: whitesmoke; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border: rgb(191,191,191) 0.5pt solid; text-align: left; padding-right: 3pt; padding-left: 3pt">&nbsp;</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
