@@ -1,0 +1,766 @@
+<DOCUMENT>
+<TYPE>EX-99.7
+<SEQUENCE>8
+<FILENAME>ex99-7.htm
+<DESCRIPTION>CLAYTON CONDITIONS SUMMARY
+<TEXT>
+<html>
+<head>
+     <title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div align="left" style="margin-top: 0; margin-bottom: 0"><div style="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0"><a href="aomt-abs15g_071919.htm">Angel Oak Mortgage Trust  2019-4&nbsp;ABS-15G</a></p>
+
+<p style="margin: 0; text-align: right">&nbsp;</p>
+
+<p style="margin: 0; text-align: right">&nbsp;</p>
+
+<p style="margin: 0; text-align: right"><b>Exhibit 99.7</b></p>
+
+<p style="margin: 0">&nbsp;</p>
+
+<p style="margin: 0"></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; font: 10pt Arial, Helvetica, Sans-Serif">
+<tr style="vertical-align: top; background-color: white">
+    <td colspan="2" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">Client Name:</td>
+    <td colspan="3" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">&nbsp;</td>
+    <td colspan="3" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td colspan="2" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">Client Project Name:</td>
+    <td colspan="3" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">AOMT 2019-4</td>
+    <td colspan="3" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td colspan="2" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">Start - End Dates:</td>
+    <td colspan="3" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">10/2/2018 - 5/8/2019</td>
+    <td colspan="3" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td colspan="2" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">Deal Loan Count:</td>
+    <td colspan="3" style="font-size: 8pt; font-weight: bold; text-align: right; white-space: nowrap">551</td>
+    <td colspan="3" style="font-size: 8pt; font-weight: bold; text-align: left; white-space: nowrap">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td colspan="2" style="font-size: 8pt; font-style: italic; text-align: left; white-space: nowrap">&nbsp;</td>
+    <td colspan="6" style="font-size: 8pt; font-style: italic; text-align: left; white-space: nowrap">&nbsp;</td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td style="width: 3%; white-space: nowrap">&nbsp;</td>
+    <td style="width: 1%; white-space: nowrap">&nbsp;</td>
+    <td style="width: 2%; white-space: nowrap">&nbsp;</td>
+    <td style="width: 2%; white-space: nowrap">&nbsp;</td>
+    <td style="width: 1%; white-space: nowrap">&nbsp;</td>
+    <td style="width: 9%; white-space: nowrap">&nbsp;</td>
+    <td style="width: 1%; white-space: nowrap">&nbsp;</td>
+    <td style="width: 81%; white-space: nowrap">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td colspan="4" style="font-size: 12pt; font-weight: bold; vertical-align: top; text-align: left; white-space: nowrap">Conditions Report 2.0</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td colspan="2" style="font-size: 8pt; font-weight: bold; font-style: italic; vertical-align: top; text-align: left; white-space: nowrap">Loans in Report:</td>
+    <td colspan="2" style="font-size: 8pt; font-style: italic; vertical-align: top; text-align: right; white-space: nowrap">551</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td colspan="2" style="font-size: 8pt; font-weight: bold; font-style: italic; vertical-align: top; text-align: left; white-space: nowrap">Loans with Conditions:</td>
+    <td colspan="2" style="font-size: 8pt; font-style: italic; vertical-align: top; text-align: right; white-space: nowrap">541</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td></tr>
+<tr>
+    <td colspan="7" style="color: white; font-size: 8pt; font-weight: bold; vertical-align: top; border-top: #EDEBEB 1.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 1.5pt solid; text-align: left; background-color: #48489C">745 - Total Active Conditions</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="6" style="font-size: 8pt; font-weight: bold; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">5 - Material Conditions</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">4 - Property Valuations Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">4 - Category: Value</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">1 - Compliance Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: TILA/RESPA Integrated Disclosure</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="6" style="font-size: 8pt; font-weight: bold; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">740 - Non-Material Conditions</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">85 - Credit Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">9 - Category: Assets</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">40 - Category: Credit/Mtg History</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">4 - Category: DTI</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">18 - Category: Income/Employment</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Insurance</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Legal Documents</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: LTV/CLTV</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">10 - Category: Terms/Guidelines</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Title</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">3 - Property Valuations Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: FEMA</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">2 - Category: Property</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">652 - Compliance Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">6 - Category: Ability to Repay/Qualified Mortgage</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Borrower's Interest</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">8 - Category: Compliance Manual</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">2 - Category: Documentation</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">17 - Category: Federal Consumer Protection</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Federal Higher-Priced</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">3 - Category: Repayment Ability</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">183 - Category: RESPA</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Right of Rescission&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">13 - Category: State Consumer Protection</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">5 - Category: State Prepayment Penalty</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">34 - Category: State Rate Spread</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">5 - Category: Texas Home Equity</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: TILA</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">372 - Category: TILA/RESPA Integrated Disclosure</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td colspan="7" style="color: white; font-size: 8pt; font-weight: bold; vertical-align: top; border-top: #EDEBEB 1.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 1.5pt solid; text-align: left; background-color: #48489C">927 - Total Satisfied Conditions</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td>&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt">&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt">&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt">&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt">&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt; white-space: nowrap">&nbsp;</td>
+    <td style="border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt; white-space: nowrap">&nbsp;</td>
+    <td>&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">171 - Credit Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Ability to Repay/Qualified Mortgage</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">20 - Category: Application</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">26 - Category: Assets</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">12 - Category: Credit/Mtg History</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">21 - Category: DTI</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">36 - Category: Income/Employment</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">17 - Category: Insurance</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">20 - Category: Legal Documents</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">2 - Category: LTV/CLTV</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Potential Misrepresentation</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">11 - Category: Terms/Guidelines</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">4 - Category: Title</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">501 - Property Valuations Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">480 - Category: Appraisal</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">8 - Category: FEMA</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">3 - Category: Property</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Re-Verifications</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">9 - Category: Value</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">255 - Compliance Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">24 - Category: Ability to Repay/Qualified Mortgage</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">4 - Category: Compliance Manual</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">14 - Category: Documentation</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Federal Higher-Priced</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">10 - Category: Finance Charge Tolerance</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Repayment Ability</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">21 - Category: RESPA</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">5 - Category: Right of Rescission&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Section 32</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">2 - Category: State Consumer Protection</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">10 - Category: Texas Home Equity</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: TILA</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">161 - Category: TILA/RESPA Integrated Disclosure</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td colspan="7" style="color: white; font-size: 8pt; font-weight: bold; vertical-align: top; border-top: #EDEBEB 1.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 1.5pt solid; text-align: left; background-color: #48489C">108 - Total Waived Conditions</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td>&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt">&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt">&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt">&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt">&nbsp;</td>
+    <td style="border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt; white-space: nowrap">&nbsp;</td>
+    <td style="border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-top-color: #EDEBEB; border-top-width: 0.5pt; white-space: nowrap">&nbsp;</td>
+    <td>&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">98 - Credit Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">35 - Category: Assets</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">14 - Category: Credit/Mtg History</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: DTI</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">6 - Category: Income/Employment</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">22 - Category: LTV/CLTV</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">19 - Category: Terms/Guidelines</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: Title</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">9 - Property Valuations Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">3 - Category: Appraisal</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">6 - Category: Property</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td>
+    <td colspan="4" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left">1 - Compliance Review Scope</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+<tr>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td>
+    <td colspan="2" style="font-size: 8pt; vertical-align: top; border-top: #EDEBEB 0.5pt solid; border-right: #EDEBEB 1.5pt solid; border-bottom: #EDEBEB 0.5pt solid; border-left: #EDEBEB 0.5pt solid; text-align: left; background-color: #A3BACF; white-space: nowrap">1 - Category: TILA/RESPA Integrated Disclosure</td>
+    <td style="vertical-align: bottom; background-color: white">&nbsp;</td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td style="white-space: nowrap">&nbsp;</td>
+    <td>&nbsp;</td></tr>
+<tr style="background-color: white">
+    <td colspan="6" style="font: 7pt Tahoma, Helvetica, Sans-Serif; vertical-align: top; text-align: center; white-space: nowrap"><p style="margin-top: 0; margin-bottom: 0">&nbsp;<br> <br> <br> <br> <br> &copy;2019 Clayton Services LLC. All rights
+                                                                                                                                  reserved. Ownership and use of this report is governed by the legal agreement between Clayton and the party for which</p>
+                                                                                                                                  <p style="margin-top: 0; margin-bottom: 0">it was
+                                                                                                                                  prepared. Any use not expressly authorized by such agreement, including reliance on this report by anyone other than such
+                                                                                                                                  party, is prohibited.&nbsp;</p></td>
+    <td style="vertical-align: bottom; white-space: nowrap">&nbsp;</td>
+    <td style="vertical-align: bottom">&nbsp;</td></tr>
+</table>
+
+
+<p style="margin: 0">&#160;</p>
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
