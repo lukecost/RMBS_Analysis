@@ -1,0 +1,74 @@
+<DOCUMENT>
+<TYPE>EX-99.19
+<SEQUENCE>20
+<FILENAME>e7408ex99-19.htm
+<DESCRIPTION>INGLET BLAIR DATA COMPARISON
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; text-align: right"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 9pt"><B>Exhibit 99.19</B></FONT></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: #BFBFBF">
+    <TD STYLE="font-weight: bold; border: Black 0.5pt solid; text-align: center; width: 10%">Loan ID</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 16%">Data Field</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 13%">Tape Data</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 11%">IB Review Value</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 50%">Discrepancy Comments</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">419942726</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">47.10</TD>
+    <TD STYLE="text-align: center">51.56</TD>
+    <TD STYLE="text-align: left">Review DTI of xxxxx is based on Gap credit report from xxxxx resulted in a higher DTI than what was approved by the seller. DTI is within guideline max of xxxxx%.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">419942726</TD>
+    <TD STYLE="text-align: center">Representative Credit Score</TD>
+    <TD STYLE="text-align: center">702.0</TD>
+    <TD STYLE="text-align: center">688.0</TD>
+    <TD STYLE="text-align: left">Review fico score of xxxxx is based on updated credit report dated xxxxx.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">419942751</TD>
+    <TD STYLE="text-align: center">Property Type</TD>
+    <TD STYLE="text-align: center">Single Family - Detached</TD>
+    <TD STYLE="text-align: center">PUD - Detached</TD>
+    <TD STYLE="text-align: left">Per the appraisal, the subject property type is a PUD detached.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">419942751</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">34.82</TD>
+    <TD STYLE="text-align: center">41.86</TD>
+    <TD STYLE="text-align: left">Approved DTI per UW transmittal/1008 is xxxxx%. Review DTI xxxxx%. Source of tape is unknown.&nbsp;</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">419942751</TD>
+    <TD STYLE="text-align: center">Representative Credit Score</TD>
+    <TD STYLE="text-align: center">687.0</TD>
+    <TD STYLE="text-align: center">669.0</TD>
+    <TD STYLE="text-align: left">B1 (primary earner) mid-score is xxxxx, which matches the credit report and the UW Transmittal. B2 mid-score is xxxxx. Source of tape is unknown.&nbsp;</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
