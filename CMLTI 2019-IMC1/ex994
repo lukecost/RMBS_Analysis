@@ -1,0 +1,152 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>5
+<FILENAME>efc19-553_ex994.htm
+<DESCRIPTION>LOAN LEVEL TAPE COMPARE
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Sidlay Austin LLP
+         Document created using EDGARfilings PROfile 6.0.0.0
+         Copyright 1995 - 2019 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <table cellspacing="0" cellpadding="2" border="0" id="z8996e59ec992489f99331738f1ca276b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 21.13%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Client Name:</div>
+          </td>
+          <td style="width: 78.87%; vertical-align: top; background-color: #FFFFFF;" colspan="4">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 21.13%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Client Project Name:</div>
+          </td>
+          <td style="width: 78.87%; vertical-align: top; background-color: #FFFFFF;" colspan="4">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt;">CMLTI 2019-IMC1</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 21.13%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Start - End Dates:</div>
+          </td>
+          <td style="width: 78.87%; vertical-align: top; background-color: #FFFFFF;" colspan="4">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt;">8/3/2018 - 5/15/2019</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 21.13%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Deal Loan Count:</div>
+          </td>
+          <td style="width: 78.87%; vertical-align: top; background-color: #FFFFFF;" colspan="4">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt;">933</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 21.13%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-style: italic;">&#160;</div>
+          </td>
+          <td style="width: 78.87%; vertical-align: top; background-color: #FFFFFF;" colspan="4">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-style: italic;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 21.13%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000; font-family: Arial, sans-serif;">&#160;</div>
+          </td>
+          <td style="width: 19.72%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000; font-family: Arial, sans-serif;">&#160;</div>
+          </td>
+          <td style="width: 19.72%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000; font-family: Arial, sans-serif;">&#160;</div>
+          </td>
+          <td style="width: 19.72%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000; font-family: Arial, sans-serif;">&#160;</div>
+          </td>
+          <td style="width: 19.72%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000; font-family: Arial, sans-serif;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 60.57%; vertical-align: top; background-color: #FFFFFF;" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Loan Level Tape Compare Upload</div>
+          </td>
+          <td style="width: 19.72%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000; font-family: Arial, sans-serif;">&#160;</div>
+          </td>
+          <td style="width: 19.72%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000; font-family: Arial, sans-serif;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 21.13%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-style: italic;">Loans in Report</div>
+          </td>
+          <td style="width: 78.87%; vertical-align: top; background-color: #FFFFFF;" colspan="4">
+            <div style="line-height: 9.1pt; color: #000000; font-family: Arial, sans-serif; font-size: 8pt; font-style: italic;">933</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="line-height: 15.75pt; margin-bottom: 10pt;"><br style="line-height: 15.75pt;">
+    </div>
+    <table cellspacing="0" cellpadding="2" border="0" id="z5af09fcce64e4c2da3e97ad4d963f800" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 13.05%; vertical-align: middle; background-color: #0000FF; border-left: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Loan Number</div>
+          </td>
+          <td style="width: 14.57%; vertical-align: middle; background-color: #0000FF; border-left: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Borrower Last Name</div>
+          </td>
+          <td style="width: 11.38%; vertical-align: middle; background-color: #0000FF; border-left: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Field</div>
+          </td>
+          <td style="width: 11.38%; vertical-align: middle; background-color: #0000FF; border-left: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Tape Data</div>
+          </td>
+          <td style="width: 11.38%; vertical-align: middle; background-color: #0000FF; border-left: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Reviewer Data</div>
+          </td>
+          <td style="width: 38.24%; vertical-align: middle; background-color: #0000FF; border-left: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">Discrepancy Comments</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 13.05%; vertical-align: middle; background-color: #F2F2F2;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">&#160;</div>
+          </td>
+          <td style="width: 14.57%; vertical-align: middle; background-color: #F2F2F2;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">&#160;</div>
+          </td>
+          <td style="width: 11.38%; vertical-align: middle; background-color: #F2F2F2;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">&#160;</div>
+          </td>
+          <td style="width: 11.38%; vertical-align: middle; background-color: #F2F2F2;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">&#160;</div>
+          </td>
+          <td style="width: 11.38%; vertical-align: middle; background-color: #F2F2F2;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">&#160;</div>
+          </td>
+          <td style="width: 38.24%; vertical-align: middle; background-color: #F2F2F2;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 8pt; font-weight: bold;">&#160;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="line-height: 15.75pt; margin-bottom: 10pt;"><br style="line-height: 15.75pt;">
+    </div>
+    <div style="line-height: 8pt; color: #000000; font-family: Arial, sans-serif; font-size: 7pt;">&#169;2019 Clayton Services LLC. All rights reserved. Ownership and use of this report is governed by the legal agreement between Clayton and
+      the party for which it was prepared. Any use not expressly authorized by such agreement, including reliance on this report by anyone other than such party, is prohibited.</div>
+    <div style="line-height: 15.75pt; margin-bottom: 10pt;"><br style="line-height: 15.75pt;">
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
