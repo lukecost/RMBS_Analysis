@@ -1,0 +1,963 @@
+<DOCUMENT>
+<TYPE>EX-99.13
+<SEQUENCE>14
+<FILENAME>t1701960_ex99-13.htm
+<DESCRIPTION>EXHIBIT 99.13
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B>EXHIBIT 99.13 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Clayton
+Loan Level Tape Compare Upload</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="width: 20%; font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Name:</b></font></td>
+    <TD NOWRAP STYLE="width: 80%">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Project Name:</b></font></td>
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">VERUS 2017-2</font></td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Start - End Dates:</b></font></td>
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">5/27/2016 - 12/31/2017</font></td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Deal Loan Count:</b></font></td>
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">69</font></td></tr>
+<tr style="vertical-align: bottom">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif">&nbsp;</td>
+    <TD NOWRAP>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td colspan="2" style="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Loan Level Tape Compare Upload</b></font></td></tr>
+<tr style="vertical-align: bottom">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif">&nbsp;</td>
+    <TD NOWRAP>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>Loans in Report</i></font></td>
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>68</i></font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="background-color: blue">
+    <TD NOWRAP STYLE="width: 17%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Loan Number</b></font></td>
+    <TD STYLE="border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; width: 12%"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Borrower Last Name</b></font></td>
+    <TD NOWRAP STYLE="width: 22%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Field Name</b></font></td>
+    <TD NOWRAP STYLE="width: 26%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Tape Data</b></font></td>
+    <TD NOWRAP STYLE="width: 23%; border: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Reviewer Data</b></font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1607000857</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Low Rise Condo (1-4)</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Mid Rise Condo&nbsp;&nbsp;(5-8)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1607000857</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-123422.04</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">123422.04</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1608000984</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1608000984</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">327654.14</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1608001010</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">55953.26</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1609001030</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">245215.73</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001110</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">4271.79</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001113</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">2 Family</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001113</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">97184.71</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001115</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">2 Family</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001115</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">97352.79</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001118</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">683</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">752</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001118</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Sales Price</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001118</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">124776.72</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001119</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-97987.40</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">14660.21</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001128</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">40046.08</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001132</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">174504.99</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001206</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original LTV</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001206</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Sales Price</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001206</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-1054.92</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001255</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Low Rise Condo (1-4)</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">High Rise Condo (9+)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001255</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1205315.34</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001279</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001279</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">93320.62</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001281</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001281</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">337741.00</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001296</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR-Attached</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">3 Family</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001296</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-479799.16</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">479799.16</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001297</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">68289.38</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001441</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B></B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="width: 20%; font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Name:</b></font></td>
+    <TD NOWRAP STYLE="width: 80%">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Project Name:</b></font></td>
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">VERUS 2017-2</font></td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Start - End Dates:</b></font></td>
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">5/27/2016 - 12/31/2017</font></td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Deal Loan Count:</b></font></td>
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">69</font></td></tr>
+<tr style="vertical-align: bottom">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif">&nbsp;</td>
+    <TD NOWRAP>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td colspan="2" style="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Loan Level Tape Compare Upload</b></font></td></tr>
+<tr style="vertical-align: bottom">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif">&nbsp;</td>
+    <TD NOWRAP>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>Loans in Report</i></font></td>
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>68</i></font></td></tr>
+</table>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="background-color: blue">
+    <TD STYLE="width: 17%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Loan Number</b></font></td>
+    <TD STYLE="width: 12%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Borrower Last Name</b></font></td>
+    <TD STYLE="width: 22%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Field Name</b></font></td>
+    <TD STYLE="width: 26%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Tape Data</b></font></td>
+    <TD STYLE="width: 23%; border: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Reviewer Data</b></font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001441</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-30290.99</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">217305.44</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001442</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR-Attached</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001442</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">81414.60</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001461</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">36633.36</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001462</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original LTV</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001462</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">3 Family</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001462</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Sales Price</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001470</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-40136.07</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">40136.07</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001471</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001471</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">82862.45</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001473</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Low Rise Condo (1-4)</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">High Rise Condo (9+)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001473</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-477986.03</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">477986.03</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001474</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original LTV</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001474</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-300284.28</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">467706.85</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001573</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">145005.66</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001583</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">192473.93</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001584</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001584</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">711</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">715</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001584</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">91042.38</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001587</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001587</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">2450.00</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">11579.38</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001588</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original LTV</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001588</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Sales Price</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001588</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">265120.00</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001589</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">669</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">679</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001589</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-71887.60</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">515548.83</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001590</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-192359.82</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">192653.63</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001591</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Attached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001591</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">33729.34</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001640</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001640</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-74552.19</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">75000.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001644</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">62707.11</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001671</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-37443.65</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">23474.87</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001693</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001693</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">762</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">731</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001693</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">155369.49</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001701</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001701</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">110708.22</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001723</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001723</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">58485.03</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;&nbsp;</B></FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B></B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="width: 20%; font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Name:</b></font></td>
+    <TD NOWRAP STYLE="width: 80%">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Project Name:</b></font></td>
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">VERUS 2017-2</font></td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Start - End Dates:</b></font></td>
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">5/27/2016 - 12/31/2017</font></td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Deal Loan Count:</b></font></td>
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">69</font></td></tr>
+<tr style="vertical-align: bottom">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif">&nbsp;</td>
+    <TD NOWRAP>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td colspan="2" style="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Loan Level Tape Compare Upload</b></font></td></tr>
+<tr style="vertical-align: bottom">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif">&nbsp;</td>
+    <TD NOWRAP>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>Loans in Report</i></font></td>
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>68</i></font></td></tr>
+</table>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="background-color: blue">
+    <TD STYLE="width: 17%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Loan Number</b></font></td>
+    <TD STYLE="width: 12%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Borrower Last Name</b></font></td>
+    <TD STYLE="width: 22%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Field Name</b></font></td>
+    <TD STYLE="width: 26%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Tape Data</b></font></td>
+    <TD STYLE="width: 23%; border: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Reviewer Data</b></font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001724</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">13288.04</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001727</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">108423.94</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001732</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001732</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original LTV</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001732</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-290858.94</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">290858.94</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001780</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">68146.67</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001782</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">394.96</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001807</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001807</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">48741.01</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703001873</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">68730.32</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703001881</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-3503.48</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">71315.48</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703001896</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original Appraised Value</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703001896</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Original LTV</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703001896</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-155777.31</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">261390.62</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703002000</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM Status</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">(No Data)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703002000</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-779715.91</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">797565.91</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703002001</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">703</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">715</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703002001</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">93360.59</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002014</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-41858.97</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">41858.97</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002015</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">638</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">659</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002015</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-67984.42</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">83635.74</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002025</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002025</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">3576.05</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">39548.39</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002034</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002034</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">722</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">718</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002034</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-248003.01</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">248003.01</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002036</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-111938.08</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">110886.92</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002038</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Attached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002038</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">57468.44</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002051</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">80810.76</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002064</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Margin (ARM Loan)</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">3.990</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">(No Data)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002064</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">750</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">740</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002064</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-9441.61</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002101</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">134998.14</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002170</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Representative Credit Score for Grading</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">736</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">764</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002170</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-212983.68</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">367405.40</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002184</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM Status</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">(No Data)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002184</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002184</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-673457.83</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">637447.82</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002186</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;&nbsp;</B></FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B></B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="width: 20%; font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Name:</b></font></td>
+    <TD NOWRAP STYLE="width: 80%">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Project Name:</b></font></td>
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">VERUS 2017-2</font></td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Start - End Dates:</b></font></td>
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">5/27/2016 - 12/31/2017</font></td></tr>
+<tr style="vertical-align: top">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Deal Loan Count:</b></font></td>
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">69</font></td></tr>
+<tr style="vertical-align: bottom">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif">&nbsp;</td>
+    <TD NOWRAP>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td colspan="2" style="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Loan Level Tape Compare Upload</b></font></td></tr>
+<tr style="vertical-align: bottom">
+    <TD NOWRAP STYLE="font: 11pt Times New Roman, Times, Serif">&nbsp;</td>
+    <TD NOWRAP>&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>Loans in Report</i></font></td>
+    <TD STYLE="font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>68</i></font></td></tr>
+</table>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="background-color: blue">
+    <TD STYLE="width: 17%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Loan Number</b></font></td>
+    <TD STYLE="width: 12%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>Borrower
+Last Name</B></FONT></td>
+    <TD STYLE="width: 22%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Field Name</b></font></td>
+    <TD STYLE="width: 26%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Tape Data</b></font></td>
+    <TD STYLE="width: 23%; border: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Reviewer Data</b></font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002186</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">137630.28</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002337</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">SFR</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Detached PUD</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002337</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">72661.44</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002365</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Property Type</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Low Rise Condo (1-4)</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Mid Rise Condo&nbsp;&nbsp;(5-8)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002365</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">-33860.44</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">53877.77</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002375</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Margin (ARM Loan)</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">4.000</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">3.990</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002375</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">281799.52</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002377</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM Status</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">(No Data)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002377</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">3593.50</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1203.41</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002409</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">318854.56</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">0.00</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002424</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Margin (ARM Loan)</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">3.990</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">(No Data)</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002424</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">XXX</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Total Cash Out</font></td>
+    <TD STYLE="border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">17166.02</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1741.11</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 7pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center">&copy;2017 Clayton Services LLC. All rights reserved.
+Ownership and use of this report is governed by the legal agreement between Clayton and the party for which it was prepared. Any
+use not expressly authorized by such agreement, including reliance on this report by anyone other than such party, is prohibited.</P>
+
+<P STYLE="font: 7pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
