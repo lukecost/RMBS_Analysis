@@ -1,0 +1,534 @@
+<DOCUMENT>
+<TYPE>EX-99.14
+<SEQUENCE>15
+<FILENAME>tv503955_ex99-14.htm
+<DESCRIPTION>EXHIBIT 99.14
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.14 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>CRES
+ATR QM Data Fields</B></FONT></P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Arial, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 30%"><IMG SRC="tv503955_ex99-14img1.jpg" ALT=""></TD>
+    <TD STYLE="width: 70%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 14pt"><B>ATR QM Data Fields</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><I>Loans in Report: 69</I></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Arial, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="background-color: #1F4E78">
+    <TD STYLE="width: 25%; border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>DD Loan Number</B></FONT></TD>
+    <TD STYLE="width: 13%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>Client Loan <BR>
+Number</B></FONT></TD>
+    <TD STYLE="width: 35%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>Loan Level ATR/QM Status</B></FONT></TD>
+    <TD STYLE="width: 15%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>Application <BR>
+Date Prior to <BR>
+1/10/2014</B></FONT></TD>
+    <TD STYLE="width: 12%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>TRID <BR>
+Indicator</B></FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">1601000306</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">1603000380</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">1603000382</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704263</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704264</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704265</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704266</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704267</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704268</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704269</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704271</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704272</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704273</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704274</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704275</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704276</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704277</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704278</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704279</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704280</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704281</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">704282</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705174</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705175</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705176</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705177</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705178</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705179</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705180</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705181</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705184</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705185</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705186</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705187</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705188</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Arial, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 30%"><IMG SRC="tv503955_ex99-14img1.jpg" ALT=""></TD>
+    <TD STYLE="width: 70%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 14pt"><B>ATR QM Data Fields</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><I>Loans in Report: 69</I></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Arial, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="background-color: #1F4E78">
+    <TD STYLE="border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 25%"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>DD Loan Number</B></FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 13%"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>Client Loan <BR>
+Number</B></FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 35%"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>Loan Level ATR/QM Status</B></FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 15%"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>Application <BR>
+Date Prior to <BR>
+1/10/2014</B></FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; width: 12%"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><B>TRID <BR>
+Indicator</B></FONT></TD></TR>
+
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705189</FONT></TD>
+    <TD NOWRAP STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705190</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Not covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705191</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">QM/HPML (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705192</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">QM/HPML (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705194</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705195</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">QM/HPML (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705196</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705198</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705199</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705200</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">705203</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">1512000252</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">QM/HPML (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708142</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708143</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708144</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708145</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708146</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708147</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">QM/HPML (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708148</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708149</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708150</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">QM/HPML (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708151</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708152</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708153</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708154</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">QM/HPML (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708155</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708156</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708157</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708158</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708159</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708160</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708161</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">QM/HPML (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708162</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">708163</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt">Yes</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
