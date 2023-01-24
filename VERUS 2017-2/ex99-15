@@ -1,0 +1,475 @@
+<DOCUMENT>
+<TYPE>EX-99.15
+<SEQUENCE>16
+<FILENAME>t1701960_ex99-15.htm
+<DESCRIPTION>EXHIBIT 99.15
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B>EXHIBIT 99.15 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Clayton
+Rating Agency ATR QM Data Fields</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;&nbsp;</B></FONT></P>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Name:</b></font></td>
+    <td nowrap style="width: 68%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Project Name:</b></font></td>
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>VERUS 2017-2</b></font></td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Start - End Dates:</b></font></td>
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>7/12/2016 - 5/26/2017</b></font></td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Deal Loan Count:</b></font></td>
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>69</b></font></td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td>
+    <td nowrap style="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap colspan="2" style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 12pt"><b>Rating Agency ATR QM Data Fields</b></font></td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td>
+    <td nowrap style="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>Loans in Report: </i></font></td>
+    <td style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>69</i></font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="background-color: #3366FF">
+    <TD NOWRAP STYLE="width: 32%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Loan Number</b></font></td>
+    <TD NOWRAP STYLE="width: 32%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Loan Level ATR/QM Status</b></font></td>
+    <TD NOWRAP STYLE="width: 20%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Application Date Prior<BR>
+ to 1/10/2014</b></font></td>
+    <TD NOWRAP STYLE="width: 16%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>TRID Indicator</b></font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1607000832</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1607000857</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1608000984</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1608001010</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1609001030</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001110</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001113</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001115</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001118</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001119</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001128</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">QM: Rebuttable Presumption</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001132</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001206</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1610001255</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001279</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001281</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001296</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Pre-TRID</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001297</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Pre-TRID</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001441</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1611001442</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001461</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001462</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001470</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001471</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001473</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">QM: Rebuttable Presumption</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1612001474</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001573</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001583</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001584</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B></B></FONT></P>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; font: 11pt Times New Roman, Times, Serif"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Name:</b></font></td>
+    <td nowrap style="width: 68%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Client Project Name:</b></font></td>
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>VERUS 2017-2</b></font></td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Start - End Dates:</b></font></td>
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>7/12/2016 - 5/26/2017</b></font></td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>Deal Loan Count:</b></font></td>
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><b>69</b></font></td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td>
+    <td nowrap style="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap colspan="2" style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 12pt"><b>Rating Agency ATR QM Data Fields</b></font></td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td>
+    <td nowrap style="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td nowrap style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>Loans in Report: </i></font></td>
+    <td style="font: 11pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><i>69</i></font></td></tr>
+</table>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="background-color: #3366FF">
+    <TD NOWRAP STYLE="width: 32%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Loan Number</b></font></td>
+    <TD NOWRAP STYLE="width: 32%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Loan Level ATR/QM Status</b></font></td>
+    <TD NOWRAP STYLE="width: 20%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>Application Date Prior<BR>
+ to 1/10/2014</b></font></td>
+    <TD NOWRAP STYLE="width: 16%; border-top: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: white"><b>TRID Indicator</b></font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001587</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001588</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001589</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001590</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001591</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001640</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001644</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001671</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001693</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1701001701</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001723</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001724</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001727</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001732</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001780</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001782</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1702001807</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703001873</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703001881</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703001896</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703002000</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1703002001</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002014</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002015</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002025</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002034</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002036</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002038</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002051</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002064</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1704002101</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002170</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002184</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002186</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1705002337</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002365</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002375</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002377</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">ATR/QM: Not Applicable</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002409</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+<tr style="background-color: white">
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; border-left: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">1706002424</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Non-QM: Lender documented all ATR UW factors</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">No</font></td>
+    <TD STYLE="border-right: silver 1pt solid; border-bottom: silver 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><font style="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt; color: #25396E">Yes</font></td></tr>
+</table>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
