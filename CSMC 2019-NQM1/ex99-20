@@ -1,0 +1,581 @@
+<DOCUMENT>
+<TYPE>EX-99.20
+<SEQUENCE>21
+<FILENAME>e7408ex99-20.htm
+<DESCRIPTION>INGLET BLAIR EXCEPTION REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; text-align: right"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 9pt"><B>Exhibit 99.20</B></FONT></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" BORDERCOLOR="Black" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: #BFBFBF">
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Loan ID</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Exception ID</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Exception ID Date</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Condition Category</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 10%">Condition Standardized Description</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Condition ID</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Alternative Condition Grade</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Status</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 21%">Condition Custom Description</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Cleared Date</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 10%">Compensating Factors</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 10%">Lender Response</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 10%">Comments</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Moody's Final Exception Level Grade</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Fitch Final Exception Level Grade</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">S&amp;P Final Exception Level Grade</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">Kroll Final Exception Level Grade</TD>
+<TD STYLE="font-weight: bold; text-align: center; width: 3%">DBRS Final Exception Level Grade</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406538</TD>
+<TD STYLE="text-align: center">06/05/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>No Real Estate Commission(s) disclosed on final Closing Disclosure for Purchase transaction (12 CFR 1026.38(g)(4))</TD>
+<TD STYLE="text-align: center">TRID 0196</TD>
+<TD STYLE="text-align: center">2</TD>
+<TD STYLE="text-align: center">Acknowledged</TD>
+<TD>Final CD did not indicate any commissions paid to real estate agents.&nbsp;&nbsp;However, seller CD indicates Real estate agent commissions were paid by the seller.</TD>
+<TD>&nbsp;</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd from lender: PCCD uploaded.&nbsp;&nbsp;**No PCCD CD was provided on xxxxx please resend.</TD>
+<TD>Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.<BR>
+Mitigated Risk: Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406539</TD>
+<TD STYLE="text-align: center">06/05/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>Missing valid Change of Circumstance(s)</TD>
+<TD STYLE="text-align: center">TRID 0171</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing Change of Circumstance for following changes: change in lender and to loan type from VA to conventional to support new LE dated xxxxx was not found in the file<BR>
+Change of circumstance for loan amount change on CD dated xxxxx was not found in the file.&nbsp;</TD>
+<TD STYLE="text-align: center">06/22/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd from lender: COC dated xxxxx reflecting the change in loan type from VA to Conventional.&nbsp;&nbsp;<BR>
+<BR>
+Recd from lender: COC 4-4 noted that there was a change in the loan type. ** Finding remains lenders response does not address the following: Change in lender and to loan type from VA to conventional to support new LE dated xxxxx or Change of circumstance for loan amount change on xxxxx.&nbsp;&nbsp;COC dated xxxxx was considered in initial review.<BR></TD>
+<TD>Recd from lender: COC dated xxxxx reflecting the change in loan type from VA to Conventional.&nbsp;&nbsp;</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406567</TD>
+<TD STYLE="text-align: center">06/05/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>Missing Affiliated Business Disclosure</TD>
+<TD STYLE="text-align: center">COMP 0010</TD>
+<TD STYLE="text-align: center">2</TD>
+<TD STYLE="text-align: center">Acknowledged</TD>
+<TD>Missing Affiliated Business Disclosure for xxxxx.&nbsp;&nbsp;Per the FACTS sheet the lender has affiliates.</TD>
+<TD>&nbsp;</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Investor forwarded the comments from the seller:<BR>
+<BR>
+I received the below info from Legal regarding the Affiliated Business Disclosure (ABD) issue as noted in the blue text.<BR>
+<BR>
+I believe the affiliate business disclosure is only required in the event there is a referral. It is my understanding that xxxxx did not/does not refer business to affiliates.<BR>
+<BR>
+I have done some additional research, and based on what I can find, the ABD is required when we have an Affiliate that is a settlement service provider and we referred the borrower.&nbsp;&nbsp;Our Affiliates are not a Settlement Service provider nor did we refer the borrower; thus the disclosure is not required.<BR>
+<BR>
+Exception remains as the seller has affiliates and should disclose them to the borrower to be in compliance with RESPA.&nbsp;&nbsp;Seller has not provided a list of their affiliates they have so unable to confirm if any were used.&nbsp;&nbsp;Best practice is to disclose all affiliates as part of initial disclosures; referrals can be made verbally and indirectly&nbsp;&nbsp;so it is not possible to confirm from a document file if any referrals were provided.&nbsp;&nbsp;The ABD is not required when the lender has no affiliates, but should be provided consistently when they do to maintain adherence to RESPA.</TD>
+<TD>Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.<BR>
+Mitigated Risk: Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406573</TD>
+<TD STYLE="text-align: center">06/05/2018</TD>
+<TD STYLE="text-align: center">Property</TD>
+<TD>Subject Property Address does not match Appraisal Address</TD>
+<TD STYLE="text-align: center">APPR 0008</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>The property address on all legal documents including the Note and the Deed of Trust is incorrect.&nbsp;&nbsp;Address includes &quot;Addition&quot; which is part of the legal description.&nbsp;&nbsp;Property Address verified per the Survey, Appraisal, Tax Certificate, and USPS Zip Code look up is xxxxx.</TD>
+<TD STYLE="text-align: center">06/19/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd a copy of the Note with a new page 1 reflecting the corrected property address printed after the fact.&nbsp;&nbsp;Exception remains pending Investor approval of this document and for updated Deed of Trust to match.</TD>
+<TD>Recd copy of corrected Note and Deed of Trust with documentation to verify corrected instrument was sent to be re recorded.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406589</TD>
+<TD STYLE="text-align: center">06/06/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Income Documentation is Insufficient</TD>
+<TD STYLE="text-align: center">CRED 0082</TD>
+<TD STYLE="text-align: center">2</TD>
+<TD STYLE="text-align: center">Acknowledged</TD>
+<TD>Unable to complete Income Analysis- Missing required signed P&amp;L or Earnings summary covering xxxxx-xxxxx prepared by the borrower as required per guidelines.</TD>
+<TD>&nbsp;</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Per Investor, review loan is a 24 month personal bank statement doc type.&nbsp;&nbsp;Borrower was qualified on 100% of deposits averaged over 24 months, less any unsupported large deposits/credits from returns and account transfers.&nbsp;&nbsp;Deposits are consistent and typical for the borrowers line of work.<BR>
+Investor elects to waive with compensating factors:<BR>
+Verified liquid assets and/or savings history - xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the xxxxx matrix.<BR>
+xxxxx -Recd P&amp;L from the seller; the P&amp;L covers xxxxxmonths instead of xxxxx months.&nbsp;&nbsp;Using average monthly expenses for xxxxxmonths and the xxxxx-xxxxx gross income figures the P&amp;L is supported by the bank statements and reflects $xxxxx, which is higher than the income used by the original UW at $xxxxx.</TD>
+<TD>Client: Per Investor, review loan is a 24 month personal bank statement doc type.&nbsp;&nbsp;Borrower was qualified on 100% of deposits averaged over 24 months, less any unsupported large deposits/credits from returns and account transfers.&nbsp;&nbsp;Deposits are consistent and typical for the borrowers line of work.<BR>
+Investor elects to waive with compensating factors:<BR>
+Verified liquid assets and/or savings history - xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the xxxxx matrix.</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406590</TD>
+<TD STYLE="text-align: center">06/06/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Underwriting Loan Approval is Deficient</TD>
+<TD STYLE="text-align: center">APRV 0010</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing evidence of agency ineligibility. This may be satisfied through a DU or LP underwriting findings report in file verifying the loan does not qualify for delivery. Alternatively, an Underwriter Certification will be required for any loans where a DU or LP report is not available or does not adequately identify the reason for ineligibility (ie. This loan is not Agency eligible due to bank statement documentation type).</TD>
+<TD STYLE="text-align: center">06/15/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd update from Investor with with the following note: Investor Response:&nbsp;&nbsp;Borrower was qualified using business bank statement doc type.&nbsp;&nbsp;Doc Type is ineligible for delivery to GSE/FNMA.</TD>
+<TD>Recd update from Investor with with the following note: Investor Response:&nbsp;&nbsp;Borrower was qualified using business bank statement doc type.&nbsp;&nbsp;Doc Type is ineligible for delivery to GSE/FNMA.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406839</TD>
+<TD STYLE="text-align: center">06/06/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Unacceptable Credit History</TD>
+<TD STYLE="text-align: center">CRED 0009</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing Alternate confirmation that there is no new debt which may include a new credit report, pre-close credit score soft-pull or gap report: * DTI should be recalculated based on any new debt * Any new credit scores must be reviewed for qualifications * Rapid rescore of credit only permitted for confirmation of pay down and/or payoff of debt.</TD>
+<TD STYLE="text-align: center">06/25/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd gap credit report from the lender dated xxxxx.&nbsp;&nbsp;Updated monthly payments result in a DTI of xxxxx%.&nbsp;&nbsp;Borrower does qualify for expanded DTI under xxxx guidelines, as the mid score is xxxxx.<BR>
+<BR>
+Recd from lender: Fraud Guard shows there was a new debt. We reviewed and confirmed they opened a new credit card but it did not have a balance and therefore no payment. Since it is 0 there was nothing to include in the DTI on this. Credit report was uploaded. ** Finding remains no affirmation of no new debt was signed by the borrower at closing and no new credit report, pre-close credit score soft-pull or gap report was provided for review.&nbsp;</TD>
+<TD>Recd gap credit report from the lender dated xxxxx.&nbsp;&nbsp;Updated monthly payments result in a DTI of xxxxx%.&nbsp;&nbsp;Borrower does qualify for expanded DTI under xxxx guidelines, as the mid score is xxxxx.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406886</TD>
+<TD STYLE="text-align: center">06/07/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Guideline Exception(s)</TD>
+<TD STYLE="text-align: center">GIDE 0001</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing Updated Investor Loan Submission Form reflecting the Correct Program, Doc Type, Credit Grade, and QM Designation.</TD>
+<TD STYLE="text-align: center">06/19/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd Submission Form that matches the loan type.&nbsp;&nbsp;However the loan amount, sales price/appraised value, and DTI do not match the final approval.&nbsp;&nbsp;Exception remains for the final Submission form with accurate loan information.</TD>
+<TD>Recd copy of the Submission Form with Non-QM Designation.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406892</TD>
+<TD STYLE="text-align: center">06/07/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Discrepancy between 1003 and documentation stated and/or verified in file</TD>
+<TD STYLE="text-align: center">APP 0006</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Final 1003 reflects the following discrepancies: <BR>
+1) Incorrect Property Address.;&nbsp;&nbsp;<BR>
+2) Self-Employment Box is not marked.&nbsp;&nbsp;</TD>
+<TD STYLE="text-align: center">06/19/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd final 1003 with &quot;addition&quot; whited out from the subject property address and the self employment box checked, however these changes to the original form have not been initialed by the borrower.&nbsp;&nbsp;Exception remains pending borrower acknowledgement of the updated document.</TD>
+<TD>Recd copy of 1003 reflecting the corrected property address executed and initialed by the borrower. (Self-employment Box is Immaterial)</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406909</TD>
+<TD STYLE="text-align: center">06/07/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>LE or CD is Deficient</TD>
+<TD STYLE="text-align: center">TRID 0148</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing NPS signature on the final CD dated xxxxx as required in Community Property State for Owner Occupied transactions.&nbsp;&nbsp;</TD>
+<TD STYLE="text-align: center">06/19/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>&nbsp;</TD>
+<TD>Exception set in error. Exception cancelled/closed.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406915</TD>
+<TD STYLE="text-align: center">06/07/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>Missing Evidence of Re-disclosure and a valid COC for an increase in the &quot;Cannot Increase Category&quot; fee(s) from the last disclosed Closing Disclosure.&nbsp;&nbsp;</TD>
+<TD STYLE="text-align: center">TRID 0120</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>The sum of non-specific (lump sum) lender credits and specific lender credits disclosed on the last Closing Disclosure ($xxxxx) has decreased below the amount disclosed on the Loan Estimate sent on xxxxx, ($xxxxx). Non-specific lender credits are generalized payments that do not pay for a particular fee. Specific lender credits are specific payments to pay for a specific fee. The total amount of non-specific and specific lender credits cannot decrease unless a new disclosure is provided and there is a valid changed circumstance associated with the re-disclosure, or the creditor provides an additional credit for the increase in Closing Costs above the legal limit. (12 CFR 1026.19(e)(3)(i) and comments 19(e)(3)(i)-5 and -6; 12 CFR 1026.19(f)(2)(v); 12 CFR 1026.37(g)(6); 12 CFR 1026.38(h)).</TD>
+<TD STYLE="text-align: center">06/15/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd change of circumstance form from the decrease in lender credits, it appears these were for the lender paid broker compensation which changed due to a change in loan amount and rate.&nbsp;&nbsp;</TD>
+<TD>Recd change of circumstance form from the decrease in lender credits, it appears these were for the lender paid broker compensation which changed due to a change in loan amount and rate.&nbsp;</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406916</TD>
+<TD STYLE="text-align: center">06/07/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>Missing Evidence of Re-disclosure and a valid COC for the sum of non-specific (lump sum) lender credits and specific lender credits ($) that have decreased from the amount disclosed on the Loan Estimate/Closing Disclosure.&nbsp;&nbsp;</TD>
+<TD STYLE="text-align: center">TRID 0121</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>The sum of non-specific (lump sum) lender credits and specific lender credits ($xxxx) has decreased from the amount disclosed on the Loan Estimate sent on xxxxx, ($xxxxx). Non-specific lender credits are generalized payments that do not pay for a particular fee. Specific lender credits are specific payments to pay for a specific fee. The total amount of non-specific and specific lender credits cannot decrease unless a new disclosure is provided and there is a valid changed circumstance associated with the re-disclosure. (12 CFR 1026.19e)(3)(i) and comments 19(e)(3)(i)-5 and -6; 12 CFR 1026.37(g)(6); 12 CFR 1026.38(h)).</TD>
+<TD STYLE="text-align: center">06/15/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd change of circumstance form from the decrease in lender credits, it appears these were for the lender paid broker compensation which changed due to a change in loan amount and rate.&nbsp;</TD>
+<TD>Recd change of circumstance form from the decrease in lender credits, it appears these were for the lender paid broker compensation which changed due to a change in loan amount and rate.&nbsp;</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406923</TD>
+<TD STYLE="text-align: center">06/07/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Income used to qualify does not adhere to Appendix Q</TD>
+<TD STYLE="text-align: center">QMATR 0010</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing Appendix Q/ATR underwriter worksheet which details the income and obligations considered in the evaluation as required by the xxxxx guidelines.</TD>
+<TD STYLE="text-align: center">09/23/2019</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd update from Investor with with the following note:Client prepared 1008 which evaluates income and obligations used by UW is acceptable to meet Investor Requirements.</TD>
+<TD>Recd update from Investor with with the following note:Client prepared 1008 which evaluates income and obligations used by UW is acceptable to meet Investor Requirements.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406954</TD>
+<TD STYLE="text-align: center">06/07/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Sales Contract is not executed by all Parties</TD>
+<TD STYLE="text-align: center">CRED 0106</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing copy of final sales contract executed by all parties with all earnest money receipted by the title company.</TD>
+<TD STYLE="text-align: center">06/19/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>&nbsp;</TD>
+<TD>Recd copy of the final executed sales contract.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942726</TD>
+<TD STYLE="text-align: center">406957</TD>
+<TD STYLE="text-align: center">06/07/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Missing Verification of Rental</TD>
+<TD STYLE="text-align: center">CRED 0021</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing xxxx months housing history as required per the guidelines . Rent free letters from spouses are not permitted. Housing history is required.&nbsp;&nbsp;A rent free letter from the borrower's spouse is in the file.&nbsp;&nbsp;Borrower has previous mortgage history of xxxxx months up until xx/xxxx with no reported lates, However, most recent xxxxx months housing history was not found in the file.</TD>
+<TD STYLE="text-align: center">06/15/2018</TD>
+<TD>Verified liquid assets and/or savings history - Borrower has sufficient verified assets/reserves.&nbsp;&nbsp;xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Low LTV/CLTV/HCLTV - LTV/CLTV is xxxxx% w/a max allowed of xxxxx% for an OO/Purchase per the guideline matrix.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the guideline matrix.; No Apparent Right to Statutory Damages - Override to EV2 due to Immaterial Issue.&nbsp;&nbsp;No assignee liability.</TD>
+<TD>Recd update from Investor with with the following note: Investor elects to waive requirement based on rent free letter provided by spouse.<BR>
+Verified liquid assets and/or savings history - xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the xxxxx matrix.</TD>
+<TD>Recd update from Investor with with the following note: Investor elects to waive requirement based on rent free letter provided by spouse.<BR>
+Verified liquid assets and/or savings history - xxxxx months of reserves have been verified with a minimum requirement of xxxxx mths.; Verified credit history - Borrower has a mid FICO of xxxxx w/a minimum requirement of xxxxx for an OO/Purchase per the xxxxx matrix.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412164</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>Mortgage/Deed of Trust is Incomplete</TD>
+<TD STYLE="text-align: center">DEED 0049</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing the the signature page to the PUD Rider.<BR></TD>
+<TD STYLE="text-align: center">07/17/2018</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>Recd a complete copy of the Deed of Trust and the riders.&nbsp;&nbsp;The PUD rider is complete and was executed by both borrowers.&nbsp;&nbsp;Exception cleared.</TD>
+<TD>Recd a complete copy of the Deed of Trust and the riders.&nbsp;&nbsp;The PUD rider is complete and was executed by both borrowers.&nbsp;&nbsp;Exception cleared.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412177</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>No Real Estate Commission(s) disclosed on final Closing Disclosure for Purchase transaction (12 CFR 1026.38(g)(4))</TD>
+<TD STYLE="text-align: center">TRID 0196</TD>
+<TD STYLE="text-align: center">2</TD>
+<TD STYLE="text-align: center">Acknowledged</TD>
+<TD>The borrowers final CD dated xxxxx does not reflects the sales commissions paid to the listing/selling agents.&nbsp;&nbsp;The Seller CD does reflect the Commissions paid.</TD>
+<TD>&nbsp;</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>&nbsp;</TD>
+<TD>Client: Override to EV2 due to immaterial issue.</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412207</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>Missing Affiliated Business Disclosure</TD>
+<TD STYLE="text-align: center">COMP 0010</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Updated:&nbsp;&nbsp;Missing evidence the Affiliated Business Disclosure was provided to the borrower.&nbsp;&nbsp;Lender provided the privacy disclosure reflecting xxxxx does have an affiliated business.&nbsp;&nbsp;Pending a copy of the Affiliated Business Disclosure.&nbsp;&nbsp;<BR>
+<BR>
+Original:&nbsp;&nbsp;Missing evidence the Affiliated Business Disclosure was provided to the borrower, or verification that the lender does not have any Affiliated Businesses.</TD>
+<TD STYLE="text-align: center">07/27/2018</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>Lender provided the privacy disclosure reflecting xxxxx does have an affiliated business xxxxx.&nbsp;&nbsp;Final CD confirms xxxxx was not a payee on the CD.</TD>
+<TD>Lender provided the privacy disclosure reflecting xxxxx does have an affiliated business xxxxx.&nbsp;&nbsp;Final CD confirms xxxxx was not a payee on the CD.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412231</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Income Documentation is Insufficient</TD>
+<TD STYLE="text-align: center">CRED 0082</TD>
+<TD STYLE="text-align: center">2</TD>
+<TD STYLE="text-align: center">Acknowledged</TD>
+<TD>Per guidelines the bank statements and the P&amp;Ls should cover about the same period of calendar months, within xxxxx months.&nbsp;&nbsp;The P&amp;Ls used for calculating income were for xxxxx-xxxxx, and the bank statements were for xxxxx-xxxxx.&nbsp;&nbsp;Missing exception for greater than a xxxxx month variance. The income in xxxxx and YTD is substantially higher than it was in xxxxx, so averaging only xxxxx and xxxxx P&amp;Ls is a more conservative approach. <BR>
+&nbsp;<BR>
+Total eligible deposits xxxxx $xxxxx, average monthly deposits $xxxxx.&nbsp;&nbsp;The average monthly gross income from the P&amp;L xxxxx is $xxxxx.&nbsp;&nbsp;The average eligible deposits are xxxxx% higher than the average gross income.<BR>
+<BR>
+Total eligible deposits xxxxx $xxxx, average monthly deposits $xxxxx.&nbsp;&nbsp;The average monthly gross income from the P&amp;L for the same period is $xxxxxx.&nbsp;&nbsp;The P&amp;L average is xxxxx% higher than the eligible deposits, but this is within the xxxxx% variance allowable per guidelines.<BR>
+<BR>
+Total eligible deposits xxxxx $xxxxx, average monthly deposits $xxxxx.&nbsp;&nbsp;The average monthly gross income from the P&amp;L for xxxxx is $xxxxx.&nbsp;&nbsp;The average eligible deposits are xxxxx% higher than the average gross income.<BR>
+<BR>
+<BR></TD>
+<TD>&nbsp;</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>&nbsp;</TD>
+<TD>The income in xxxx and YTD is substantially higher than it was in xxxx, so averaging only xxxx and xxxx P&amp;Ls is a more conservative approach. <BR>
+Mitigated Risk: The income in xxxx and YTD is substantially higher than it was in xxxx, so averaging only xxxx and xxxx P&amp;Ls is a more conservative approach.&nbsp;</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD>
+<TD STYLE="text-align: center">B</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412234</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Income used to qualify does not adhere to Appendix Q</TD>
+<TD STYLE="text-align: center">QMATR 0010</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Updated: Missing ATR worksheet detailing income and liabilities used by the underwriter.&nbsp;&nbsp;The seller provided a copy of the borrower's ATR certification and the UW transmittal/agency-ineligible certification .&nbsp;&nbsp;Still pending the underwriter's ATR worksheet as required by xxxxx of the xxxxx guidelines, or exception from xxxx waiving this requirement.<BR>
+<BR>
+Previous:Missing ATR worksheet detailing income and liabilities used by the underwriter.&nbsp;&nbsp;The seller provided a copy of the borrower's ATR certification that was signed at closing.&nbsp;&nbsp;Still pending the underwriter's ATR worksheet as required by xxxxx of the xxxxx guidelines.<BR>
+<BR>
+Original: Missing ATR worksheet detailing income and liabilities used by the underwriter.</TD>
+<TD STYLE="text-align: center">09/23/2019</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>Client response provided:&quot;Originator has completed a 1008, 1003 as well as an income worksheet. Combination of<BR>
+documents contain UW income calculations as well as liabilities used for qualification. xxxx elects to waive with compensating factors: xxxxx Months reserves, 0x30 x xxxxx months housing history&quot;.<BR></TD>
+<TD>xxxxx confirmed acceptance of the previously provided documents as the UW ATR worksheet.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412248</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Missing Verification of Rental</TD>
+<TD STYLE="text-align: center">CRED 0021</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing xxxxx months cancelled checks to confirm the borrower's rental housing history.&nbsp;&nbsp;Per the VOR the Monthly Rent payable to xxxxx was $xxxxx per month with a few months that varied due to payments on repairs made.</TD>
+<TD STYLE="text-align: center">09/23/2019</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>Recd copies of xxxxx months of cashier's checks for rental payment history.&nbsp;&nbsp;**Exception cleared.</TD>
+<TD>Recd copies of xxxxx months of cashier's checks for rental payment history.&nbsp;&nbsp;**Exception cleared.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412251</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>Estimated Total Minimum/Maximum Payment Amount does not match the Disclosed Closing Disclosure Projected Payments Table (12 CFR 1026.37(b)(3))</TD>
+<TD STYLE="text-align: center">TRID 0092</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Using lenders tax calculations -The Estimated Total Maximum Payment Amount in column 1 of the Disclosed Closing Disclosure Projected Payments Table does not match the value in the System Calculated Projected Payments Table. The Disclosed Projected Payments Table contains a value of (xxxxx), while the Calculated Projected Payments Table has a value of (xxxxx).<BR>
+<BR>
+Variance is due to the calculation of Property Taxes.&nbsp;&nbsp;See exception re: Missing Evidence of Verified Property Tax and / or Homeowners Insurance Information for details.</TD>
+<TD STYLE="text-align: center">08/01/2018</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>Recd from lender:&nbsp;&nbsp;FNMA has limited guidance and client is stating they have used the xx% method in the past and have not had any issues.&nbsp;&nbsp;Speaking with the client, they use xx% on new construction as the tax assessor value 9 out of 10 times will be significantly less than appraised value/sales price.&nbsp;&nbsp;Since there is no specific guidance the lender feels they have used a reasonable estimate of the real estate taxes.&nbsp;&nbsp;Can you please reconsider?<BR>
+<BR>
+**Finding cleared/removed using lenders calculation of taxes for New Construction.;</TD>
+<TD>**Finding cleared/removed using lenders calculation of taxes for New Construction.;</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412257</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Missing Evidence of Verified Property Tax and / or Homeowners Insurance Information</TD>
+<TD STYLE="text-align: center">CRED 0103</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Updated: The calculation used for the improved taxes on the new construction property does not match the information on the tax certificate available.&nbsp;&nbsp;FNMA and other Investors are not able to provide a formula for property tax calculation as rates and methods vary in each area.&nbsp;&nbsp;The title company can provide the property tax calculation and/or the estimated property taxes for new construction; in this instance they provided the lender with the tax certificate.&nbsp;&nbsp;This tax certificate does not reflect a taxable factor of xxxxx% and the reduction to taxable value is not supported. Property taxes based on the tax certificate with no exemption are $xxxxx (sales price x the tax rate reflected on the tax certificate) annually, or $xxxx monthly.&nbsp;&nbsp;A homestead exemption calculation was completed by the reviewer to give a best case scenario, as the original calculation reflects a variance of $xxxxx to the documented tax rate.&nbsp;&nbsp;<BR>
+<BR>
+Original:&nbsp;&nbsp;Property Taxes were under disclosed, unable to determine why the lender only used xxxxx% of the purchase price per the Property Tax Calculator.&nbsp;&nbsp;Review based taxes on the sales price as that will be used in the next assessment from xxxxx.&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+<BR>
+For review, annual property taxes of $xxxxx ($xxxxx monthly) was used, in assuming the borrowers will take advantage of homestead exemption and based off of the purchase price.</TD>
+<TD STYLE="text-align: center">07/27/2018</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>Recd from lender:&nbsp;&nbsp;FNMA has limited guidance and client is stating they have used the xxxxx% method in the past and have not had any issues.&nbsp;&nbsp;Speaking with the client, they use xxxxx% on new construction as the tax assessor value 9 out of 10 times will be significantly less than appraised value/sales price.&nbsp;&nbsp;Since there is no specific guidance the lender feels they have used a reasonable estimate of the real estate taxes.&nbsp;&nbsp;Can you please reconsider?<BR>
+**Finding cleared/removed as there is no &quot;official guidance&quot; on calculating taxes for New Construction.</TD>
+<TD>Finding cleared/removed as there is no &quot;official guidance&quot; on calculating taxes for New Construction.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412258</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Credit</TD>
+<TD>Payoff/Demand Statement has a discrepancy in the data</TD>
+<TD STYLE="text-align: center">DMND 0002</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>Missing payoff statements for xxxxx ($xxxxx) and xxxxx ($xxxxx) reflected on the CD as paid off at closing.</TD>
+<TD STYLE="text-align: center">08/01/2018</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>Recd credit supplement dated xxxxx reflecting the debts paid in full.&nbsp;&nbsp;Exception cleared.</TD>
+<TD>Recd credit supplement dated xxxxx reflecting the debts paid in full.&nbsp;&nbsp;Exception cleared.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+<TR STYLE="vertical-align: middle">
+<TD STYLE="text-align: center">419942751</TD>
+<TD STYLE="text-align: center">412259</TD>
+<TD STYLE="text-align: center">07/05/2018</TD>
+<TD STYLE="text-align: center">Compliance</TD>
+<TD>LE or CD is Deficient</TD>
+<TD STYLE="text-align: center">TRID 0148</TD>
+<TD STYLE="text-align: center">1</TD>
+<TD STYLE="text-align: center">Closed</TD>
+<TD>The final CD dated xxxxx reflects earnest money of $xxxxx.&nbsp;&nbsp;Per the earnest money receipt and the purchase agreement, the earnest money paid was $xxxxx.&nbsp;&nbsp;Missing explanation for $xxxxx discrepancy.</TD>
+<TD STYLE="text-align: center">08/01/2018</TD>
+<TD>Low LTV/CLTV/HCLTV - LTV is xxxxx% below max.</TD>
+<TD>Recd PCCD reflecting corrected EMD, LOE for the PCCD, copy of refund and trackable USPS label.&nbsp;&nbsp;Per USPS tracking website this was delivered.&nbsp;&nbsp;Exception cleared.</TD>
+<TD>Recd PCCD reflecting corrected EMD, LOE for the PCCD, copy of refund and trackable USPS label.&nbsp;&nbsp;Per USPS tracking website this was delivered.&nbsp;&nbsp;Exception cleared.</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD>
+<TD STYLE="text-align: center">A</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
