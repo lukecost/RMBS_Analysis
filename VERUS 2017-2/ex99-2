@@ -1,0 +1,1130 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>t1701960_ex99-2.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: right"><FONT STYLE="text-transform: uppercase"><B>EXHIBIT
+99.2</B></FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>AMC
+Data Compare BUSINESS PURPOSE</B></FONT></P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"><IMG SRC="t1701960_ex99-2logo.jpg" ALT=""></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4" STYLE="padding-right: 5.4pt"><FONT STYLE="font-size: 14pt; color: navy"><B>Data Compare</B></FONT></TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4"><FONT STYLE="font-size: 10pt; color: navy"><B>Run Date - 6/29/2017 6:52:03 PM</B></FONT></TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: navy">
+    <TD NOWRAP STYLE="width: 7%; border: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>AMC Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 8%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Customer Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 8%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Seller Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 17%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Field Label</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 10%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Bid Tape Field Value</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 10%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Field Value</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 7%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Compare Status</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 33%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Comment</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1702001788</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Amortization Type</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">ARM</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Loan is a ARM product</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000525</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000572</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000571</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1606000681</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1606000769</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1606000768</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1606000766</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1606000770</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001099</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000572</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">City</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per Note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000571</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">City</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified Note and Mortgage/Appraisal with correct City.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000980</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">City</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000969</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">City</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000967</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">City</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001065</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">City</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001200</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">City</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1701001586</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">City</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1606000770</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Coborrower FTHB</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">0</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Co-Borrower is not a FTHB.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000972</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Coborrower FTHB</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">0</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Co-Borrower is not a FTHB</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">700662</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Index Type</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">LIBOR - 1 Year (Daily)</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1704002141</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Change Frequency</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">12</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001137</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Initial Floor</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">5</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">3.25</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1701001586</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Initial Floor</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1.25</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed per Note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1701001585</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Initial Floor</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1.25</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed per Note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1704002141</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Initial Floor</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7.875</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">0</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">700662</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Cap</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">6</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">700680</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Cap</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">6</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1701001586</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Max</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">5</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">13.25</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed per Note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1701001585</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Max</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">5</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">13.25</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed per Note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1702001788</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Max</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">5</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">13.75</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Life Rate Max is 13.75%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1704002141</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Max</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">6</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">13.875</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1704002141</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Min</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7.875</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001137</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Periodic Floor</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">5</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">2</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed per Note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1701001586</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Periodic Floor</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">2</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed per Note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1701001585</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Periodic Floor</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">2</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed per Note in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1704002141</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Periodic Floor</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">2</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1701001585</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">LTV Valuation Value</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">700662</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Margin</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">2</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">6</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">700662</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Maturity Date</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0"><IMG SRC="t1701960_ex99-2logo.jpg" ALT=""></P>
+
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4"><FONT STYLE="font-size: 14pt; color: navy"><B>Data Compare</B></FONT></TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4"><FONT STYLE="font-size: 10pt; color: navy"><B>Run Date - 6/29/2017 6:52:03 PM</B></FONT></TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: navy">
+    <TD NOWRAP STYLE="width: 7%; border: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>AMC Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 8%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Customer Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 8%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Seller Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 17%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Field Label</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 10%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Bid Tape Field Value</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 10%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Field Value</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 7%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Compare Status</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 33%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Comment</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001051</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Occupancy</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Primary</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Investment</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Occupancy is investment per loan file docs</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000572</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original Loan Amount</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per Note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000571</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original Loan Amount</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001258</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original Loan Amount</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001192</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original Loan Amount</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1704002141</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original P&amp;I</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">700662</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original P&amp;I</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1705002244</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original Term</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">360</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">357</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000525</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000536</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed by Security Agreement PUD Rider</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000545</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed by Valuation.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000558</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified property is a PUD using the appraisal and PUD Rider.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000561</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Condo (Low Rise)</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000568</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000536</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refinance</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Purchase</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed by HUD1</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000526</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Rate/Term</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Cash-out - Other</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000533</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Rate/Term</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Cash-out - Other</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per HUD</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000536</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Cash-out</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Purchase per HUD</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000550</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Cash-out</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Rate/Term</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Confirmed by HUD1, 1003</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000562</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Cash-out</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Rate/Term</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per HUD</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000572</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Cash-out</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Limited Cash-out GSE</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000571</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Cash-out</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Limited Cash-out GSE</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001068</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Limited Cash-out GSE</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Loan is a Limited Cash-out GSE</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001137</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Refi Purpose</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Cash-out - Other</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000525</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">707</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">689</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified per credit; avg of 2 middle scores is 695 per credit report in file.&nbsp;&nbsp;Uncertain where tape data is from.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000527</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">770</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">749</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Low mid fico per credit; tape reflect average of both mid scores</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000529</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">719</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">698</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Low mid per credit report - tape reflects average of low mid scores</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000530</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">704</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">689</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Low mid score per credit report; tape reflects average of 2 mid scores</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000535</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">782</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">774</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Low mid fico per credit; tape reflects average of both mid scores</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000537</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">697</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">694</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified per credit - low mid fico is 694.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000538</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">719</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">709</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">low mid fico per credit report; tape reflects average of both mid scores</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000539</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">710</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">691</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified low mid per Credit Report; tape reflects average of mid scores</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000540</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">762</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">723</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified low mid score per Credit Report; tape reflects average of both mid scores</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000541</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">762</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">723</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified credit score using credit report.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000558</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">690</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">688</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified with the Credit Report in the file; tape reflects average of both mid scores.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000568</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">787</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">796</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Low mid per credit report</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000571</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">734</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">711</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Low mid score from most recent credit report.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1705002243</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">695</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">696</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">696 is mid-score per 4/10/17 credit report.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000969</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">State</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000967</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">State</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001065</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">State</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000969</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000967</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001043</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0"><IMG SRC="t1701960_ex99-2logo.jpg" ALT=""></P>
+
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4"><FONT STYLE="font-size: 14pt; color: navy"><B>Data Compare</B></FONT></TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4"><FONT STYLE="font-size: 10pt; color: navy"><B>Run Date - 6/29/2017 6:52:03 PM</B></FONT></TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: navy">
+    <TD NOWRAP STYLE="width: 7%; border: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>AMC Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 8%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Customer Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 8%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Seller Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 17%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Field Label</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 10%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Bid Tape Field Value</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 10%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Field Value</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 7%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Compare Status</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 33%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Comment</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001044</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001055</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001065</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001062</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001063</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001057</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001139</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001138</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001187</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001185</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001144</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001188</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001237</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1610001190</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1611001270</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1611001368</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1611001451</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1611001274</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1611001373</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Street</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000572</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Zip</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per Note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1604000571</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Zip</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000980</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Zip</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000969</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Zip</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1608000967</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Zip</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1609001065</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Zip</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified</FONT></TD>
+    <TD STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">XXXXXX</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
