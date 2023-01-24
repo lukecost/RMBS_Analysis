@@ -1,0 +1,711 @@
+<DOCUMENT>
+<TYPE>EX-99.5
+<SEQUENCE>6
+<FILENAME>e71869ex99-5.htm
+<DESCRIPTION>AMC DATA COMPARE
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; font: bold 10pt Arial, Helvetica, Sans-Serif; text-align: right">Exhibit 99.5</P>
+
+<P STYLE="margin: 0; font: bold 10pt Arial, Helvetica, Sans-Serif; text-align: left">&nbsp;</P>
+
+<P STYLE="margin: 0 0 10pt 0pt"><IMG SRC="image_004.jpg" ALT=""></P>
+
+<P STYLE="margin: 0"></P>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <td colspan="4" dir="ltr" style="color: navy; font: bold 14pt Calibri, Helvetica, Sans-Serif">Data Compare - 09 RCO 2016-SFR1 (20161026)</td></tr>
+<tr style="vertical-align: top">
+    <td colspan="4" dir="ltr" style="color: navy; font: bold 9pt Calibri, Helvetica, Sans-Serif">Run Date - 11/7/2016 9:40:56 PM</td></tr>
+</table>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 9pt Calibri, Helvetica, Sans-Serif">
+<tr style="vertical-align: bottom; background-color: navy">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: gray 0.5pt solid; text-align: left; width: 7%">AMC Loan ID</td>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 8%">Customer Loan ID</td>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 8%">Seller Loan ID</td>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 17%">Field Label</td>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 10%">Bid Tape Field Value</td>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 10%">Field Value</td>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 33%">Comment</td>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 7%">Alternate Loan ID</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200823068</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Appraised Value</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Appraised Value of&nbsp;&nbsp;appears to have been overridden by Lender following Request for Reconsideration by Borrower.</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200823068</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">75</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">79</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Appraised Value of&nbsp;&nbsp;appears to have been overridden by Lender following Request for Reconsideration by Borrower.&nbsp;&nbsp;Appraisal reflects a value of&nbsp;&nbsp;resulting in an LTV of 79%.</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900008942</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900017192</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900010262</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900011069</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900010515</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900011403</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900008387</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900008704</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900007543</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900012595</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900010914</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900703946</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">667</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">658</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200482290</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Street</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549231</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200503445</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200597609</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200623504</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.35</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.47</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200597615</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.58</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.61</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200597625</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.52</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.63</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200597627</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200964813</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.02</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.23</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200821318</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200964821</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.27</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.34</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900009592</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900009592</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">756</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">772</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900012667</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Appraised Value</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per appraisals</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900006462</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">763</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">811</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900007469</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Maturity Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">08/01/2045</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">09/01/2045</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900015440</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">681</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">685</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900009290</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Maturity Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">10/05/2045</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">10/01/2045</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900009290</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">676</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">697</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">borr vs co borr score</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900013126</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">78.57</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">79.14</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">sales price vs appraised value</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900013126</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Sale
+    Price</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per hud&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900011396</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">771</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">813</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Highest score of the 3 borrowers</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900011190</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900011190</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">747</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">760</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per credit</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200495009</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900009094</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200688533</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Maturity Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2046-05-01</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2046-06-01</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified per Note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900014252</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.74</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">889.29</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">sales price vs appraised value</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900014252</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">681</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">676</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per credit</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900014252</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Sale
+    Price</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per HUD 1 in file&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900008350</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Appraised Value</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per appraisals provided</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900008350</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.75</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">122.35</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">purchase price vs appraised value</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900713981</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">756</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">755</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900010176</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">757</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">787</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">borr vs co borr</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900005889</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">691</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">714</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">borr vs co borr score</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900713947</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">missing note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900007386</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">771</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">794</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per credit</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900011532</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original Interest Rate</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">7.6499</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">7.7500</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549282</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.45</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.49</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549283</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2.54</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2.82</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">actual DSCR is 2.82</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549283</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">75</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">80.77</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">purchase price vs appraised value</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900713937</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.70</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">259.58</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">appraised value vs purchase price</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549285</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200495020</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">733</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549289</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.64</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.82</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549290</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.3</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.42</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Actual DSCR is 1.42</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200495028</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">58.75</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">164.5</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">appraised value vs purchase price</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900713956</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">697</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">700</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">borr vs co borr</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900713969</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">711</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">709</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200495034</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified to Note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200794980</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Contract Sales Price</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified to HUD&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200495043</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified to note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200688526</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549298</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">69.33</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">67.49</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">within tolerance</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900713946</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Sale
+    Price</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549318</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified per Note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200688532</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Maturity Date</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2046-05-01</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2046-06-01</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Per note</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200688531</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower Full Name</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">200549327</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Debt Service Coverage Ratio</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.34</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1.21</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified to docs</td>
+    <td dir="ltr" style="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</td></tr>
+</table>
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
