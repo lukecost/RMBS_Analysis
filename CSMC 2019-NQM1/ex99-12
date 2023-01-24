@@ -1,0 +1,3083 @@
+<DOCUMENT>
+<TYPE>EX-99.12
+<SEQUENCE>13
+<FILENAME>e7408ex99-12.htm
+<DESCRIPTION>OPUS ATR REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; text-align: right"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt"><B>Exhibit 99.12</B></FONT></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" BORDERCOLOR="Black" STYLE="width: 100%; border-collapse: collapse; font: 10pt Calibri, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top; background-color: #570F1A">
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 4%">Loan Number</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 5%">Channel</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 3%">Rate Lock Date</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 4%">Application Date</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 7%">Borrower Employment Indicator</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 14%">Co Borrower Employment Indicator</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 7%">Borrower Citizenship Indicator</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 7%">Co Borrower Citizenship Indicator</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 3%">Residual Income</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 3%">Points And Fees</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 7%">Points And Fees Without Reductions</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 3%">APR</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 5%">Qualifying Interest Rate</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 5%">Average Prime Offer Rate</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 3%">GSE Eligibility</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 4%">Opus QM ATR Status</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 5%">S&amp;P QM ATR Status</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 5%">Fitch QM ATR Status</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 3%">Moodys QM ATR Status</TD>
+<TD STYLE="color: white; font-size: 11pt; font-weight: bold; text-align: center; width: 3%">TRID</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162314</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">10934.859</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.4967</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.34</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162283</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">10724.09</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">0.04914</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.96</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162326</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8538.682</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04991</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.34</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162334</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05998</TD>
+<TD STYLE="text-align: center">0.05875</TD>
+<TD STYLE="text-align: center">5.14</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162285</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">7358.11</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04956</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.9</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162340</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">37408.935</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05764</TD>
+<TD STYLE="text-align: center">0.0575</TD>
+<TD STYLE="text-align: center">4.97</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162327</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">22632.022</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04929</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">4.96</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162335</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05872</TD>
+<TD STYLE="text-align: center">0.05875</TD>
+<TD STYLE="text-align: center">5.32</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162311</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">37905.381</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04861</TD>
+<TD STYLE="text-align: center">0.0475</TD>
+<TD STYLE="text-align: center">3.33</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162299</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9472.66</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04936</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.37</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162325</TD>
+<TD STYLE="text-align: center">Wholesale</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4410.571</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05024</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.17</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162341</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05447</TD>
+<TD STYLE="text-align: center">0.05375</TD>
+<TD STYLE="text-align: center">5.09</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162344</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05389</TD>
+<TD STYLE="text-align: center">0.05375</TD>
+<TD STYLE="text-align: center">4.96</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162279</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">12975.755</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04943</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.89</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162289</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8591.99</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04967</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.06</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162349</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05573</TD>
+<TD STYLE="text-align: center">0.055</TD>
+<TD STYLE="text-align: center">4.96</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162351</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05433</TD>
+<TD STYLE="text-align: center">0.05375</TD>
+<TD STYLE="text-align: center">4.96</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162332</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04701</TD>
+<TD STYLE="text-align: center">0.045</TD>
+<TD STYLE="text-align: center">4.02</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162302</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">17619.46</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04979</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.06</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162328</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">12153.847</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04346</TD>
+<TD STYLE="text-align: center">0.0425</TD>
+<TD STYLE="text-align: center">3.17</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162338</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05455</TD>
+<TD STYLE="text-align: center">0.05375</TD>
+<TD STYLE="text-align: center">5.09</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162300</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8966.76</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04838</TD>
+<TD STYLE="text-align: center">0.0475</TD>
+<TD STYLE="text-align: center">2.98</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162287</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">11665.56</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.0497</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.81</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162309</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9389.98</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04964</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.21</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162329</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">12099.709</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.0498</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.17</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162331</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">13765.836</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04934</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.18</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162303</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4919.512</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.0494</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.33</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162315</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">14742.354</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04988</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.23</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162333</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">0.04923</TD>
+<TD STYLE="text-align: center">0.04625</TD>
+<TD STYLE="text-align: center">4.34</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162276</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">10841.16</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04992</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.84</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162312</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">16600.55</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04995</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.23</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162286</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">14065.999</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04926</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.96</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162307</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">13031.283</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04944</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.11</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162346</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">0.05908</TD>
+<TD STYLE="text-align: center">0.05875</TD>
+<TD STYLE="text-align: center">4.99</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162292</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">14994.59</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.0497</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.21</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162296</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">51225.75</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04946</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.97</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162319</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">21439.168</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04946</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.34</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162330</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">7322.857</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04837</TD>
+<TD STYLE="text-align: center">0.0475</TD>
+<TD STYLE="text-align: center">6.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162323</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">28893.814</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04946</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.3</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162281</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5106.3</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04973</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.91</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162291</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">26462.66</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04956</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.97</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162336</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05978</TD>
+<TD STYLE="text-align: center">0.0575</TD>
+<TD STYLE="text-align: center">5.14</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162310</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9149.9</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.0496</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.33</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162295</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8560.67</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04954</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.97</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162318</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD STYLE="text-align: center">19352.923</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04935</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.37</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162317</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8771.027</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04947</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.23</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162324</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">35889.454</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04789</TD>
+<TD STYLE="text-align: center">0.0475</TD>
+<TD STYLE="text-align: center">3.18</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162347</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Non Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">0.05815</TD>
+<TD STYLE="text-align: center">0.05875</TD>
+<TD STYLE="text-align: center">5.11</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162322</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">12909.152</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05001</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.17</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162277</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">22609.43</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04912</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.9</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162288</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Non Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">11274.32</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04948</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.06</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162304</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Non Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">25567.106</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04924</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">2.97</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162290</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8851.656</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">0.04541</TD>
+<TD STYLE="text-align: center">0.045</TD>
+<TD STYLE="text-align: center">3.23</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162348</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.05546</TD>
+<TD STYLE="text-align: center">0.055</TD>
+<TD STYLE="text-align: center">4.97</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162284</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8251.26</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04969</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.02</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162308</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">24016.156</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04945</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.23</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162301</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">14026.65</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04929</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.36</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162342</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">1180</TD>
+<TD STYLE="text-align: center">0.058</TD>
+<TD STYLE="text-align: center">0.05625</TD>
+<TD STYLE="text-align: center">5.08</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162298</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">46468.49</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04811</TD>
+<TD STYLE="text-align: center">0.0475</TD>
+<TD STYLE="text-align: center">2.98</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">No</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162313</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4434.104</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04978</TD>
+<TD STYLE="text-align: center">0.04875</TD>
+<TD STYLE="text-align: center">3.23</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430162320</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">17150.42</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">0.04822</TD>
+<TD STYLE="text-align: center">0.0475</TD>
+<TD STYLE="text-align: center">3.33</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered/Exempt</TD>
+<TD STYLE="text-align: center">Not Covered - Exempt</TD>
+<TD STYLE="text-align: center">Not Applicable</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388982</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8914.536</TD>
+<TD STYLE="text-align: center">5313</TD>
+<TD STYLE="text-align: center">5313</TD>
+<TD STYLE="text-align: center">0.06186</TD>
+<TD STYLE="text-align: center">0.06875</TD>
+<TD STYLE="text-align: center">4.77</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388900</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">14332.364</TD>
+<TD STYLE="text-align: center">9096</TD>
+<TD STYLE="text-align: center">9096</TD>
+<TD STYLE="text-align: center">0.0628</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388963</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Non Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4621.531</TD>
+<TD STYLE="text-align: center">4551</TD>
+<TD STYLE="text-align: center">4551</TD>
+<TD STYLE="text-align: center">0.06196</TD>
+<TD STYLE="text-align: center">0.065</TD>
+<TD STYLE="text-align: center">4.61</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388980</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">7768.32</TD>
+<TD STYLE="text-align: center">7276</TD>
+<TD STYLE="text-align: center">7276</TD>
+<TD STYLE="text-align: center">0.06149</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.61</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388911</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5797.448</TD>
+<TD STYLE="text-align: center">5971</TD>
+<TD STYLE="text-align: center">5971</TD>
+<TD STYLE="text-align: center">0.06357</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388957</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">Non Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">10911.6</TD>
+<TD STYLE="text-align: center">8101</TD>
+<TD STYLE="text-align: center">8101</TD>
+<TD STYLE="text-align: center">0.06294</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388920</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4803.225</TD>
+<TD STYLE="text-align: center">5001</TD>
+<TD STYLE="text-align: center">5001</TD>
+<TD STYLE="text-align: center">0.06245</TD>
+<TD STYLE="text-align: center">0.065</TD>
+<TD STYLE="text-align: center">4.71</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388918</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">19195.829</TD>
+<TD STYLE="text-align: center">9028.66</TD>
+<TD STYLE="text-align: center">9028.66</TD>
+<TD STYLE="text-align: center">0.0627</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388899</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5048.294</TD>
+<TD STYLE="text-align: center">4551</TD>
+<TD STYLE="text-align: center">4551</TD>
+<TD STYLE="text-align: center">0.05927</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.51</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388927</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5386.213</TD>
+<TD STYLE="text-align: center">3901</TD>
+<TD STYLE="text-align: center">3901</TD>
+<TD STYLE="text-align: center">0.06292</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388923</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">17752.672</TD>
+<TD STYLE="text-align: center">13316</TD>
+<TD STYLE="text-align: center">13316</TD>
+<TD STYLE="text-align: center">0.0627</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.92</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388930</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9008.062</TD>
+<TD STYLE="text-align: center">7783</TD>
+<TD STYLE="text-align: center">7783</TD>
+<TD STYLE="text-align: center">0.06262</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388984</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">15027.884</TD>
+<TD STYLE="text-align: center">5943.5</TD>
+<TD STYLE="text-align: center">5943.5</TD>
+<TD STYLE="text-align: center">0.06189</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.8</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388951</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">3482.478</TD>
+<TD STYLE="text-align: center">3551</TD>
+<TD STYLE="text-align: center">3551</TD>
+<TD STYLE="text-align: center">0.06283</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.77</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388909</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6190.252</TD>
+<TD STYLE="text-align: center">4546</TD>
+<TD STYLE="text-align: center">4546</TD>
+<TD STYLE="text-align: center">0.05937</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.44</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388977</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4545.665</TD>
+<TD STYLE="text-align: center">4301</TD>
+<TD STYLE="text-align: center">4301</TD>
+<TD STYLE="text-align: center">0.0625</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388924</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Unemployed</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">25956.424</TD>
+<TD STYLE="text-align: center">14401</TD>
+<TD STYLE="text-align: center">14401</TD>
+<TD STYLE="text-align: center">0.06272</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388978</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9452.193</TD>
+<TD STYLE="text-align: center">6783.5</TD>
+<TD STYLE="text-align: center">6783.5</TD>
+<TD STYLE="text-align: center">0.06177</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.66</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388939</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">34786.417</TD>
+<TD STYLE="text-align: center">11001</TD>
+<TD STYLE="text-align: center">11001</TD>
+<TD STYLE="text-align: center">0.06192</TD>
+<TD STYLE="text-align: center">0.065</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388912</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6838.725</TD>
+<TD STYLE="text-align: center">4911</TD>
+<TD STYLE="text-align: center">4911</TD>
+<TD STYLE="text-align: center">0.06341</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388950</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6520.719</TD>
+<TD STYLE="text-align: center">3862</TD>
+<TD STYLE="text-align: center">3862</TD>
+<TD STYLE="text-align: center">0.06039</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.75</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388952</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5190.568</TD>
+<TD STYLE="text-align: center">4161</TD>
+<TD STYLE="text-align: center">4161</TD>
+<TD STYLE="text-align: center">0.06274</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.77</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388906</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9830.937</TD>
+<TD STYLE="text-align: center">4551</TD>
+<TD STYLE="text-align: center">4551</TD>
+<TD STYLE="text-align: center">0.06384</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388936</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">10229.467</TD>
+<TD STYLE="text-align: center">9575</TD>
+<TD STYLE="text-align: center">9575</TD>
+<TD STYLE="text-align: center">0.06276</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.92</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388903</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">20962.391</TD>
+<TD STYLE="text-align: center">6553.77</TD>
+<TD STYLE="text-align: center">6553.77</TD>
+<TD STYLE="text-align: center">0.06105</TD>
+<TD STYLE="text-align: center">0.06375</TD>
+<TD STYLE="text-align: center">4.75</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388946</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">10290.043</TD>
+<TD STYLE="text-align: center">6203.5</TD>
+<TD STYLE="text-align: center">6203.5</TD>
+<TD STYLE="text-align: center">0.06018</TD>
+<TD STYLE="text-align: center">0.0625</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388971</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Non Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5496.817</TD>
+<TD STYLE="text-align: center">5196</TD>
+<TD STYLE="text-align: center">5196</TD>
+<TD STYLE="text-align: center">0.06183</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.77</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388983</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6008.296</TD>
+<TD STYLE="text-align: center">5326</TD>
+<TD STYLE="text-align: center">5326</TD>
+<TD STYLE="text-align: center">0.06226</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.77</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388908</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">15869.414</TD>
+<TD STYLE="text-align: center">9031</TD>
+<TD STYLE="text-align: center">9031</TD>
+<TD STYLE="text-align: center">0.06293</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.77</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388940</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">21573.801</TD>
+<TD STYLE="text-align: center">16701</TD>
+<TD STYLE="text-align: center">16701</TD>
+<TD STYLE="text-align: center">0.05991</TD>
+<TD STYLE="text-align: center">0.0625</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388945</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4652.717</TD>
+<TD STYLE="text-align: center">5131</TD>
+<TD STYLE="text-align: center">5131</TD>
+<TD STYLE="text-align: center">0.06291</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388972</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6181.86</TD>
+<TD STYLE="text-align: center">6101</TD>
+<TD STYLE="text-align: center">6101</TD>
+<TD STYLE="text-align: center">0.0624</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.66</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388929</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5694.04</TD>
+<TD STYLE="text-align: center">6366</TD>
+<TD STYLE="text-align: center">6366</TD>
+<TD STYLE="text-align: center">0.05905</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.75</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388975</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">19684.621</TD>
+<TD STYLE="text-align: center">2411</TD>
+<TD STYLE="text-align: center">2411</TD>
+<TD STYLE="text-align: center">0.06189</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.77</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388935</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">16692.938</TD>
+<TD STYLE="text-align: center">16051</TD>
+<TD STYLE="text-align: center">16051</TD>
+<TD STYLE="text-align: center">0.06349</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388944</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5189.167</TD>
+<TD STYLE="text-align: center">5066</TD>
+<TD STYLE="text-align: center">5066</TD>
+<TD STYLE="text-align: center">0.06409</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.8</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388925</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8485.749</TD>
+<TD STYLE="text-align: center">8061</TD>
+<TD STYLE="text-align: center">8061</TD>
+<TD STYLE="text-align: center">0.05893</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.48</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388947</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6118.28</TD>
+<TD STYLE="text-align: center">5066</TD>
+<TD STYLE="text-align: center">5066</TD>
+<TD STYLE="text-align: center">0.06276</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388954</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">7861.323</TD>
+<TD STYLE="text-align: center">6201</TD>
+<TD STYLE="text-align: center">6201</TD>
+<TD STYLE="text-align: center">0.05997</TD>
+<TD STYLE="text-align: center">0.065</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388948</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">14521.25</TD>
+<TD STYLE="text-align: center">9301</TD>
+<TD STYLE="text-align: center">9301</TD>
+<TD STYLE="text-align: center">0.06274</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.83</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388931</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Non Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6202.827</TD>
+<TD STYLE="text-align: center">5456</TD>
+<TD STYLE="text-align: center">5456</TD>
+<TD STYLE="text-align: center">0.05997</TD>
+<TD STYLE="text-align: center">0.0625</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388949</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">13807.844</TD>
+<TD STYLE="text-align: center">3101</TD>
+<TD STYLE="text-align: center">3101</TD>
+<TD STYLE="text-align: center">0.06048</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.75</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388933</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4751.272</TD>
+<TD STYLE="text-align: center">5293.5</TD>
+<TD STYLE="text-align: center">5293.5</TD>
+<TD STYLE="text-align: center">0.06375</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388915</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8178.128</TD>
+<TD STYLE="text-align: center">6951</TD>
+<TD STYLE="text-align: center">6951</TD>
+<TD STYLE="text-align: center">0.05896</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.75</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388959</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4673.556</TD>
+<TD STYLE="text-align: center">4037</TD>
+<TD STYLE="text-align: center">4037</TD>
+<TD STYLE="text-align: center">0.0591</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.39</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388905</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">12008.581</TD>
+<TD STYLE="text-align: center">7101</TD>
+<TD STYLE="text-align: center">7101</TD>
+<TD STYLE="text-align: center">0.06362</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388979</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">3653.035</TD>
+<TD STYLE="text-align: center">3991</TD>
+<TD STYLE="text-align: center">3991</TD>
+<TD STYLE="text-align: center">0.06248</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.64</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388904</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">12656.283</TD>
+<TD STYLE="text-align: center">8101</TD>
+<TD STYLE="text-align: center">8101</TD>
+<TD STYLE="text-align: center">0.06361</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388926</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">26070.778</TD>
+<TD STYLE="text-align: center">17921</TD>
+<TD STYLE="text-align: center">17921</TD>
+<TD STYLE="text-align: center">0.06081</TD>
+<TD STYLE="text-align: center">0.06375</TD>
+<TD STYLE="text-align: center">4.71</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388901</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6939.423</TD>
+<TD STYLE="text-align: center">4531</TD>
+<TD STYLE="text-align: center">4531</TD>
+<TD STYLE="text-align: center">0.06286</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.71</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388921</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">15328.169</TD>
+<TD STYLE="text-align: center">11601</TD>
+<TD STYLE="text-align: center">11601</TD>
+<TD STYLE="text-align: center">0.05918</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388981</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4932.208</TD>
+<TD STYLE="text-align: center">4481</TD>
+<TD STYLE="text-align: center">4481</TD>
+<TD STYLE="text-align: center">0.06251</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388962</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4263.284</TD>
+<TD STYLE="text-align: center">3083.5</TD>
+<TD STYLE="text-align: center">3083.5</TD>
+<TD STYLE="text-align: center">0.06204</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388916</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9841.341</TD>
+<TD STYLE="text-align: center">7061</TD>
+<TD STYLE="text-align: center">7061</TD>
+<TD STYLE="text-align: center">0.05931</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388960</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">4342.142</TD>
+<TD STYLE="text-align: center">3668.5</TD>
+<TD STYLE="text-align: center">3668.5</TD>
+<TD STYLE="text-align: center">0.06259</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388928</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5422.85</TD>
+<TD STYLE="text-align: center">5131</TD>
+<TD STYLE="text-align: center">5131</TD>
+<TD STYLE="text-align: center">0.05997</TD>
+<TD STYLE="text-align: center">0.0625</TD>
+<TD STYLE="text-align: center">4.51</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388953</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">29953.35</TD>
+<TD STYLE="text-align: center">17001</TD>
+<TD STYLE="text-align: center">17001</TD>
+<TD STYLE="text-align: center">0.06351</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388969</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">7020.166</TD>
+<TD STYLE="text-align: center">4075</TD>
+<TD STYLE="text-align: center">4075</TD>
+<TD STYLE="text-align: center">0.062</TD>
+<TD STYLE="text-align: center">0.065</TD>
+<TD STYLE="text-align: center">4.61</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388907</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5808.136</TD>
+<TD STYLE="text-align: center">4151</TD>
+<TD STYLE="text-align: center">4151</TD>
+<TD STYLE="text-align: center">0.06388</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.93</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388902</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9371.597</TD>
+<TD STYLE="text-align: center">5441</TD>
+<TD STYLE="text-align: center">5441</TD>
+<TD STYLE="text-align: center">0.0627</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.83</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388967</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">12934.54</TD>
+<TD STYLE="text-align: center">10363.5</TD>
+<TD STYLE="text-align: center">10363.5</TD>
+<TD STYLE="text-align: center">0.06177</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.8</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388910</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">39138.885</TD>
+<TD STYLE="text-align: center">20438.5</TD>
+<TD STYLE="text-align: center">20438.5</TD>
+<TD STYLE="text-align: center">0.05981</TD>
+<TD STYLE="text-align: center">0.065</TD>
+<TD STYLE="text-align: center">4.51</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388938</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8355.362</TD>
+<TD STYLE="text-align: center">6101</TD>
+<TD STYLE="text-align: center">6101</TD>
+<TD STYLE="text-align: center">0.06291</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388976</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">7301.088</TD>
+<TD STYLE="text-align: center">6106</TD>
+<TD STYLE="text-align: center">6106</TD>
+<TD STYLE="text-align: center">0.06178</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.64</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388974</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8622.202</TD>
+<TD STYLE="text-align: center">6769</TD>
+<TD STYLE="text-align: center">6769</TD>
+<TD STYLE="text-align: center">0.05939</TD>
+<TD STYLE="text-align: center">0.0625</TD>
+<TD STYLE="text-align: center">4.39</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388970</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">29866.192</TD>
+<TD STYLE="text-align: center">16801</TD>
+<TD STYLE="text-align: center">16801</TD>
+<TD STYLE="text-align: center">0.06013</TD>
+<TD STYLE="text-align: center">0.06375</TD>
+<TD STYLE="text-align: center">4.58</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388941</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5830.066</TD>
+<TD STYLE="text-align: center">6001</TD>
+<TD STYLE="text-align: center">6001</TD>
+<TD STYLE="text-align: center">0.05991</TD>
+<TD STYLE="text-align: center">0.0625</TD>
+<TD STYLE="text-align: center">4.71</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388932</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">14944.933</TD>
+<TD STYLE="text-align: center">15241</TD>
+<TD STYLE="text-align: center">15241</TD>
+<TD STYLE="text-align: center">0.06349</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.9</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388961</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5581.989</TD>
+<TD STYLE="text-align: center">3036</TD>
+<TD STYLE="text-align: center">3036</TD>
+<TD STYLE="text-align: center">0.0621</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.69</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388973</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8232.824</TD>
+<TD STYLE="text-align: center">8121</TD>
+<TD STYLE="text-align: center">8121</TD>
+<TD STYLE="text-align: center">0.05854</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.37</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388955</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD STYLE="text-align: center">7316.7</TD>
+<TD STYLE="text-align: center">4221</TD>
+<TD STYLE="text-align: center">4221</TD>
+<TD STYLE="text-align: center">0.06326</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.83</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388914</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">9423.232</TD>
+<TD STYLE="text-align: center">7601</TD>
+<TD STYLE="text-align: center">7601</TD>
+<TD STYLE="text-align: center">0.06296</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388942</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6873.01</TD>
+<TD STYLE="text-align: center">6041</TD>
+<TD STYLE="text-align: center">6041</TD>
+<TD STYLE="text-align: center">0.06363</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.9</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388964</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">7781.65</TD>
+<TD STYLE="text-align: center">4383.5</TD>
+<TD STYLE="text-align: center">4383.5</TD>
+<TD STYLE="text-align: center">0.06</TD>
+<TD STYLE="text-align: center">0.0625</TD>
+<TD STYLE="text-align: center">4.61</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388966</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5945.916</TD>
+<TD STYLE="text-align: center">6658.5</TD>
+<TD STYLE="text-align: center">6658.5</TD>
+<TD STYLE="text-align: center">0.06236</TD>
+<TD STYLE="text-align: center">0.0675</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388965</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">6552.43</TD>
+<TD STYLE="text-align: center">6171</TD>
+<TD STYLE="text-align: center">6171</TD>
+<TD STYLE="text-align: center">0.06182</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.7</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388913</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Foreign National</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5622.266</TD>
+<TD STYLE="text-align: center">4901</TD>
+<TD STYLE="text-align: center">4901</TD>
+<TD STYLE="text-align: center">0.06092</TD>
+<TD STYLE="text-align: center">0.06375</TD>
+<TD STYLE="text-align: center">4.79</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388956</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">8111.175</TD>
+<TD STYLE="text-align: center">4701</TD>
+<TD STYLE="text-align: center">4701</TD>
+<TD STYLE="text-align: center">0.06216</TD>
+<TD STYLE="text-align: center">0.065</TD>
+<TD STYLE="text-align: center">4.71</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388934</TD>
+<TD STYLE="text-align: center">Correspondent Bulk</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">17857.38</TD>
+<TD STYLE="text-align: center">5550</TD>
+<TD STYLE="text-align: center">5550</TD>
+<TD STYLE="text-align: center">0.05931</TD>
+<TD STYLE="text-align: center">0.06125</TD>
+<TD STYLE="text-align: center">4.44</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388919</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">2936.641</TD>
+<TD STYLE="text-align: center">3241</TD>
+<TD STYLE="text-align: center">3241</TD>
+<TD STYLE="text-align: center">0.06225</TD>
+<TD STYLE="text-align: center">0.065</TD>
+<TD STYLE="text-align: center">4.73</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388943</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">7309.69</TD>
+<TD STYLE="text-align: center">6099.5</TD>
+<TD STYLE="text-align: center">6099.5</TD>
+<TD STYLE="text-align: center">0.06299</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388917</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">Permanent Resident Alien</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">5856.177</TD>
+<TD STYLE="text-align: center">5331</TD>
+<TD STYLE="text-align: center">5331</TD>
+<TD STYLE="text-align: center">0.06264</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="text-align: center">430388937</TD>
+<TD STYLE="text-align: center">Retail</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">XXXX</TD>
+<TD STYLE="text-align: center">Employed</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">US</TD>
+<TD>&nbsp;</TD>
+<TD STYLE="text-align: center">14447.958</TD>
+<TD STYLE="text-align: center">8601</TD>
+<TD STYLE="text-align: center">8601</TD>
+<TD STYLE="text-align: center">0.0626</TD>
+<TD STYLE="text-align: center">0.06625</TD>
+<TD STYLE="text-align: center">4.82</TD>
+<TD STYLE="text-align: center">No</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM/Compliant</TD>
+<TD STYLE="text-align: center">Non-QM</TD>
+<TD STYLE="text-align: center">NonQM</TD>
+<TD STYLE="text-align: center">Yes</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
