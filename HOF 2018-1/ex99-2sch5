@@ -1,0 +1,266 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>13
+<FILENAME>e1126ex99-2sch5.htm
+<DESCRIPTION>WAIVED CONDITIONS SUMMARY REPORT
+<TEXT>
+<HTML>
+<HEAD>
+ <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<table border="0" cellpadding="2" cellspacing="0" style="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<tr style="background-color: white">
+ <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">Client Name:</td>
+ <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">&nbsp;</TD>
+ </tr>
+<tr style="background-color: white">
+ <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">Client Project Name:</td>
+ <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">&nbsp;</TD>
+ </tr>
+<tr style="background-color: white">
+ <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">Start - End Dates:</td>
+ <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">1/6/2016 - 3/26/2018</td>
+ </tr>
+<tr style="background-color: white">
+ <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">Deal Loan Count:</td>
+ <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">770</td>
+ </tr>
+<tr style="vertical-align: bottom; background-color: white">
+ <TD STYLE="width: 6%">&nbsp;</TD>
+ <TD STYLE="width: 24%; text-align: left">&nbsp;</TD>
+ </tr>
+<tr style="vertical-align: top; background-color: white">
+ <TD COLSPAN="2" STYLE="font-weight: bold; text-align: left">Waived Conditions Summary</TD>
+ </tr>
+<tr style="vertical-align: bottom; background-color: white">
+ <TD>&nbsp;</TD>
+ <TD STYLE="text-align: left">&nbsp;</TD>
+ </tr>
+<tr style="background-color: white">
+ <TD STYLE="font-style: italic; vertical-align: top; text-align: left">Report Run Date:</td>
+ <TD STYLE="font-style: italic; vertical-align: top; text-align: left">6/7/2018 2:49 PM</td>
+ </tr>
+</table>
+
+
+<P STYLE="margin: 0"> </P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="1" CELLPADDING="2" CELLSPACING="0" BORDERCOLOR="Silver" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<tr style="background-color: #3366FF">
+ <TD STYLE="color: white; font-weight: bold; vertical-align: middle; text-align: left; width: 14%">Review Scope</td>
+ <TD STYLE="color: white; font-weight: bold; vertical-align: middle; text-align: left; width: 16%">Category</td>
+ <TD STYLE="color: white; font-weight: bold; vertical-align: middle; text-align: left; width: 14%">Code</td>
+ <TD STYLE="color: white; font-weight: bold; vertical-align: middle; text-align: left; width: 47%">Description</td>
+ <TD STYLE="color: white; font-weight: bold; vertical-align: bottom; text-align: center; width: 9%">Count</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Terms/Guidelines</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDTER110</td>
+ <TD STYLE="color: #25396E; text-align: left">Loan amount exceeds guideline maximum</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Terms/Guidelines</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDTER127</td>
+ <TD STYLE="color: #25396E; text-align: left">Payment shock does not meet guidelines</td>
+ <TD STYLE="text-align: right">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Terms/Guidelines</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDTER3122</td>
+ <TD STYLE="color: #25396E; text-align: left">Loan documents do not meet guideline requirements</td>
+ <TD STYLE="text-align: right">5</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Terms/Guidelines</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDTER3124</td>
+ <TD STYLE="color: #25396E; text-align: left">Loan documents do not meet guideline requirements</td>
+ <TD STYLE="text-align: right">3</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Terms/Guidelines</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDTER3930</td>
+ <TD STYLE="color: #25396E; text-align: left">Maximum PTI exceeding limits per guidelines</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Credit/Mtg History</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDCRMH120</td>
+ <TD STYLE="color: #25396E; text-align: left">Collections, charge offs, liens, etc. exceed guidelines</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Credit/Mtg History</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDCRMH149</td>
+ <TD STYLE="color: #25396E; text-align: left">Missing support docs for VOM/VOR (e.g. cancelled checks)</td>
+ <TD STYLE="text-align: right">5</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Credit/Mtg History</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDCRMH193</td>
+ <TD STYLE="color: #25396E; text-align: left">Length of mortgage/rental history in file does not meet guideline requirement</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Credit/Mtg History</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDCRMH3000</td>
+ <TD STYLE="color: #25396E; text-align: left"># of Tradelines Does Not Meet Guideline Requirements</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">DTI</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDDTI187</td>
+ <TD STYLE="color: #25396E; text-align: left">Debt Ratio &gt; 50%</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">LTV/CLTV</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDLTV107</td>
+ <TD STYLE="color: #25396E; text-align: left">LTV Exception 5% or Less</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">LTV/CLTV</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDLTV3024</td>
+ <TD STYLE="color: #25396E; text-align: left">LTV Exceeds Guideline Requirement by less than 5%</td>
+ <TD STYLE="text-align: right">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">LTV/CLTV</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDLTV3026</td>
+ <TD STYLE="color: #25396E; text-align: left">LTV Exceeds Guideline Requirement by at least 5%, but less than 10%</td>
+ <TD STYLE="text-align: right">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">LTV/CLTV</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDLTV3028</td>
+ <TD STYLE="color: #25396E; text-align: left">LTV Exceeds Guideline Requirement by 10% or more</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Title</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDTIL875</td>
+ <TD STYLE="color: #25396E; text-align: left">Title Does Not Agree With Mortgage</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Income/Employment</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDINC2340</td>
+ <TD STYLE="color: #25396E; text-align: left">Employment verification does not meet guidelines</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Application</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDAPP130</td>
+ <TD STYLE="color: #25396E; text-align: left">Application is incomplete</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Application</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDAPP3822</td>
+ <TD STYLE="color: #25396E; text-align: left">Missing or incomplete documentation related to citizenship/residency</td>
+ <TD STYLE="text-align: right">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Assets</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDAST2670</td>
+ <TD STYLE="color: #25396E; text-align: left">Asset documentation is insufficient per guideline requirements</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Credit</td>
+ <TD STYLE="color: #25396E; text-align: left">Assets</td>
+ <TD STYLE="color: #25396E; text-align: left">CRDAST3078</td>
+ <TD STYLE="color: #25396E; text-align: left">Insufficient # of months cash reserves for PITI per guideline requirements</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Property Valuations</td>
+ <TD STYLE="color: #25396E; text-align: left">Property</td>
+ <TD STYLE="color: #25396E; text-align: left">PRVAPROP2556</td>
+ <TD STYLE="color: #25396E; text-align: left">Acreage exceeds property eligibility guidelines</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Compliance</td>
+ <TD STYLE="color: #25396E; text-align: left">TILA/RESPA Integrated Disclosure</td>
+ <TD STYLE="color: #25396E; text-align: left">CMPTRID3620</td>
+ <TD STYLE="color: #25396E; text-align: left">TRID - Costs at Closing and or Calculating Cash to Close tables are inconsistent across disclosures</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Compliance</td>
+ <TD STYLE="color: #25396E; text-align: left">TILA/RESPA Integrated Disclosure</td>
+ <TD STYLE="color: #25396E; text-align: left">CMPTRID3706</td>
+ <TD STYLE="color: #25396E; text-align: left">TRID - Curable Issue #1 related to the Closing Disclosure in file</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Compliance</td>
+ <TD STYLE="color: #25396E; text-align: left">TILA/RESPA Integrated Disclosure</td>
+ <TD STYLE="color: #25396E; text-align: left">CMPTRID3716</td>
+ <TD STYLE="color: #25396E; text-align: left">TRID - Curable issue related to the Closing Disclosure in file</td>
+ <TD STYLE="text-align: right">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Compliance</td>
+ <TD STYLE="color: #25396E; text-align: left">TILA/RESPA Integrated Disclosure</td>
+ <TD STYLE="color: #25396E; text-align: left">CMPTRID4210</td>
+ <TD STYLE="color: #25396E; text-align: left">TRID - LE: Either both options or neither option was checked for the Servicing topic in the LE Other Considerations section</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Compliance</td>
+ <TD STYLE="color: #25396E; text-align: left">TILA/RESPA Integrated Disclosure</td>
+ <TD STYLE="color: #25396E; text-align: left">CMPTRID4352</td>
+ <TD STYLE="color: #25396E; text-align: left">TRID - CD: At least one section contains formatting that does not comply with the Regulation</td>
+ <TD STYLE="text-align: right">3</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Compliance</td>
+ <TD STYLE="color: #25396E; text-align: left">Federal Consumer Protection</td>
+ <TD STYLE="color: #25396E; text-align: left">CMPFDCP849</td>
+ <TD STYLE="color: #25396E; text-align: left">TILA - Required ARM Loan Program Disclosure missing</td>
+ <TD STYLE="text-align: right">7</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Compliance</td>
+ <TD STYLE="color: #25396E; text-align: left">RESPA</td>
+ <TD STYLE="color: #25396E; text-align: left">CMPRESPA2698</td>
+ <TD STYLE="color: #25396E; text-align: left">RESPA - List of homeowners counseling organizations not in file</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+ <TD STYLE="color: #25396E; text-align: left">Compliance</td>
+ <TD STYLE="color: #25396E; text-align: left">RESPA</td>
+ <TD STYLE="color: #25396E; text-align: left">CMPRESPA3470</td>
+ <TD STYLE="color: #25396E; text-align: left">RESPAYour Home Loan Toolkit not timely</td>
+ <TD STYLE="text-align: right">1</td></tr>
+<tr style="vertical-align: middle; background-color: #F0F0F0">
+ <TD STYLE="color: #25396E; font-weight: bold; text-align: left">Total</td>
+ <TD STYLE="color: #25396E; font-weight: bold; text-align: left">&nbsp;</TD>
+ <TD STYLE="color: #25396E; font-weight: bold; text-align: left">&nbsp;</TD>
+ <TD STYLE="color: #25396E; font-weight: bold; text-align: left">&nbsp;</TD>
+ <TD STYLE="color: #25396E; font-weight: bold; text-align: right">52</td></tr>
+</table>
+
+
+<P STYLE="margin: 0"> </P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="text-align: center; font: 7pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"><BR> &copy;2018 Clayton Services LLC. All rights reserved. Ownership and use of this report is governed by the legal agreement between Clayton and the party for which it was prepared. Any use not expressly authorized by such agreement, including reliance on this report by anyone other than such party, is prohibited. </P>
+
+
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+ <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt"></P></DIV>
+ <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
