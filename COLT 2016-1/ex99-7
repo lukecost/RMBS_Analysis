@@ -1,0 +1,658 @@
+
+EX-99.7
+8
+e00525ex99-7.htm
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+
+
+
+
+EXHIBIT
+99.7
+Report
+of Independent Accountants on Applying Agreed-Upon Procedures 
+ 
+
+Deloitte & Touche LLP performed an agreed-upon
+procedures engagement conducted in accordance with attestation standards established by the American Institute of Certified Public
+Accountants (the “Services”) as described in the attached Independent Accountants’ Report on Applying Agreed-Upon
+Procedures dated May 19, 2016 (the “Report”).
+Accordingly:
+
+·The nature, scope and design of the Services are solely the responsibility
+of the “Specified Parties” identified in the Report and the sufficiency of the Services performed is solely the responsibility
+of the Specified Parties; 
+
+·Deloitte & Touche LLP makes no representations as to the sufficiency
+of the Services for the purposes of the Specified Parties or for any other purpose; 
+
+·The Report is intended solely for the use of the Specified Parties
+and is not intended to be used by anyone other than the Specified Parties; and 
+
+·Deloitte & Touche LLP was not engaged to conduct, and did not
+conduct, (i) an audit conducted in accordance with generally accepted auditing standards or (ii) an examination or a review conducted
+in accordance with attestation standards established by the American Institute of Certified Public Accountants, the objective of
+which would be the expression of an opinion or limited assurance; Deloitte & Touche LLP does not express such an opinion, limited
+assurance, or any other form of assurance. 
+ 
+The Report contains a description of the following:
+
+(i)the type of assets;
+
+(ii)the sample size;
+
+(iii)how the sample size was determined and, if applicable, computed;
+and 
+
+(iv)the scope and manner of the Services performed. 
+ 
+None of the engagement,
+Services or Report was intended to address, nor did they address, the following:
+
+(i)the conformity of the origination of the assets to stated underwriting
+or credit extension guidelines, standards, criteria or other requirements; 
+
+(ii)the value of collateral securing such assets; or 
+
+(iii)the compliance of the originator of the assets with federal, state,
+and local laws and regulations.
+ 
+As of the date of this Form, Deloitte &
+Touche LLP performed no other procedures that would be considered due diligence services related to COLT 2016-1, Mortgage-Pass-Through
+Certificates, Series 2016-1.
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment:
+Item 5 of Form ABS Due Diligence-15E related
+to
+COLT 2016-1, Mortgage-Pass-Through Certificates,
+Series 2016-1
+ 
+Independent Accountants’ Report on Applying
+Agreed-Upon Procedures dated May 19, 2016
+related to COLT
+2016-1, Mortgage-Pass-Through Certificates, Series 2016-1.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+Deloitte & Touche LLP
+
+Suite 400
+
+Harborside Plaza 10
+
+Jersey City, NJ 07311
+
+USA
+
+Tel:  +1 212 937 8200
+
+Fax: +1 212 937 8298
+
+ 
+www.deloitte.com
+
+ 
+ 
+ 
+May 19, 2016
+ 
+ 
+LSRMF Acquisitions I, LLC
+2711 North Haskell Avenue, Suite 1700
+Dallas, Texas 75204
+ 
+Independent Accountants’ Report
+on Applying Agreed-Upon Procedures
+ 
+Ladies and Gentlemen:
+ 
+We have performed the procedures described
+below, which were agreed to by LSRMF Acquisitions I, LLC (the “Company”) and Hudson Americas L.P. (“Hudson Americas”)
+and Credit Suisse Securities (USA) LLC (“Credit Suisse” and, together with Hudson Americas and the Company, the “Specified
+Parties”) related to their evaluation of certain information with respect to a portfolio of mortgage loans in conjunction
+with the proposed offering of COLT 2016-1, Mortgage-Pass-Through Certificates, Series 2016-1 (the “Transaction”).
+ 
+This agreed-upon procedures engagement was
+conducted in accordance with attestation standards established by the American Institute of Certified Public Accountants. The sufficiency
+of these procedures is solely the responsibility of the Specified Parties of this report. Consequently, we make no representations
+regarding the sufficiency of the procedures described below either for the purpose for which this report has been requested or
+for any other purpose.
+ 
+ 
+Agreed-Upon Procedures 
+ 
+On May 6, 2016, representatives of Hudson Americas,
+on behalf of the Company, provided us with (i) a computer-generated mortgage loan data file and related record layout with respect
+to 377 mortgage loans (the “Initial Data File”) and (ii) a supplemental data file containing the maturity date for
+each of the 377 mortgage loans included on the Initial Data File (the “Supplemental Data File”). At the Company’s
+instruction, we appended the Initial Data File with the information set forth on the Supplemental Data File. The Initial Data File,
+as adjusted, is hereinafter referred to as the “Statistical Data File.”
+ 
+At the Company’s instruction,
+we randomly selected 190 mortgage loans (the “Sample Loans”) from the Statistical Data File and performed certain comparisons
+and recomputations for each of the Sample Loans relating to the mortgage loans characteristics (the “Characteristics”)
+set forth on the Statistical Data File and indicated below.
+  
+
+
+ 
+Member of
+
+ 
+Deloitte Touche Tohmatsu 
+Limited
+
+
+ 
+ 
+
+Characteristics
+
+
+
+1.      
+        Loan number (for identification purposes only)
+2.      
+        Original principal balance
+3.      
+        Original interest rate
+4.      
+        Monthly P&I payment
+5.      
+        First payment date
+6.      
+        Maturity date
+7.      
+        Original term to maturity
+8.      
+        Index description*
+9.      
+        Initial/next interest rate adjustment date*
+10.   
+        Interest rate adjustment frequency*
+11.   
+        Gross margin*
+12.   
+        Maximum interest rate*
+13.   
+        Minimum interest rate*
+ 
+
+14.   
+        Property state
+15.   
+        Property zip code
+16.   
+        Prepayment penalty term (if applicable)
+17.   
+        Interest only term (if applicable)
+18.   
+        Occupancy status
+19.   
+        Property type
+20.   
+        Appraised value
+21.   
+        Sales price (if applicable)
+22.   
+        Loan purpose
+23.   
+        Junior lien balance (if applicable)
+24.   
+        Original loan-to-value ratio
+25.   
+        Combined loan-to-value ratio
+ 
+
+* For adjustable rate loans only
+We compared Characteristics 2. through 15.
+to the corresponding information set forth on or derived from the respective Fixed Rate Note, Adjustable Rate Note or Modification
+Agreement (collectively, the “Note”); Characteristic 16. to the Note or Prepayment Penalty Rider (collectively, the
+“Prepayment Penalty Rider”); Characteristic 17. to the Note or Interest Only Addendum (collectively, the “Interest
+Only Addendum”); Characteristic 18. to the Residential Loan Application (the “Application”); Characteristics
+19. and 20. to the Uniform Residential Appraisal Report (the “Appraisal Report”); Characteristics 21. and 22. (for
+those Sample Loans for which the loan purpose field appearing on the Statistical Data File indicated a “first time home purchase”
+or “other-than-first-time home purchase”) to the “Settlement Statement,” “Closing Disclosure”
+and/or Application (as applicable) and Characteristic 23. to the Settlement Statement or “Underwriting Summary” (collectively,
+the “Junior Lien Summary”).
+ 
+Further, with respect to Characteristic 22.,
+for those Sample Loans for which the loan purpose is indicated on the Statistical Data File as a (i) “rate/term refinance
+- borrower initiated” or (ii) cash out: debt consolidation, cash out: home improvement/renovation or cash out: other/multi-purpose/unknown
+purpose (collectively, “cash out refinance”), we (i) observed that there was no sales price indicated on the Settlement
+Statement and (ii) recalculated the “Amount to the Borrower” as the difference between (a) the original principal balance
+(as set forth on the Note) and (b) the sum of (1) the unpaid principal balance of the refinanced first mortgage loan, (2) the unpaid
+principal balance of any “secondary financing” relating to the subject property and (3) settlement charges relating
+to the subject mortgage loan (each as set forth on the Settlement Statement). At the Company’s instruction, we assumed that
+the loan purpose is (a) a cash out refinance if the Amount to the Borrower is greater than the greater of (i) $2,000 or (ii) 2%
+of the original principal balance (as set forth on the Note) and (b) a “rate/term refinance - borrower initiated” to
+the extent that it was not.
+ 
+With respect to Characteristic 24.,
+we recomputed the original loan-to-value ratio by dividing (a) the original principal balance (as set forth on the Note) by either
+(b) in the case of a first time home purchase or other-than-first-time home purchase (as derived from the Settlement Statement,
+Closing Disclosure and/or Application (as applicable)), the lesser of (i) the appraised value (as determined below) and (ii) sales
+price (as set forth on the Settlement Statement) or (c) in the case of a rate/term refinance - borrower initiated or cash out refinance
+(as determined above), the appraised value (as determined below), except for those Sample Loans indicated in Appendix A for which
+we were instructed by representatives of Hudson Americas, on behalf of the Company, to use the “previous purchase price”
+(as set forth on the “Previous Settlement Statement”).
+ 
+
+ 
+ 
+
+With respect to Characteristic 25.,
+we recomputed the combined loan-to-value ratio by dividing (a) the sum of (i) the original principal balance (as set forth on the
+Note) and (ii) the junior lien balance, if any (as set forth on the Junior Lien Summary) by either (b) in the case of a first time
+home purchase or other-than-first-time home purchase (as derived from the Settlement Statement, Closing Disclosure and/or Application
+(as applicable)), the lesser of (x) the appraised value (as determined below) and (y) the sales price (as set forth on the Settlement
+Statement) or (c) in the case of a rate/term refinance - borrower initiated or cash out refinance (as determined above), the appraised
+value (as determined below), except for those Sample Loans indicated in Appendix A for which we were instructed by representatives
+of Hudson Americas, on behalf of the Company, to use the previous purchase price (as set forth on the Previous Settlement Statement).
+ 
+At your instruction, for purposes of the procedures described
+above:
+ 
+
+·with respect to our comparison of Characteristics 19. and 20. and for the
+recalculations of Characteristics 24. and 25., for those Sample Loans for which the Company provided us with more than one Appraisal
+Report or an Appraisal Report and an “Appraisal Field Review Report,” each noting an appraisal date less than 30 days
+from the origination date (as set forth on the Note), we were instructed to use the report with the lowest appraised value; and
+ 
+
+·with respect to our comparison of Characteristics 24. and 25., differences of 0.0001% or less are
+noted to be “in agreement.”
+ 
+The mortgage loan
+documents described above and any other related documents used in support of the Characteristics were provided to us by representatives
+of the Company and are collectively referred to hereinafter as the “Loan Documents.” We were not requested to perform,
+and we did not perform, any procedures with respect to the preparation or verification of any of the information set forth on the
+Loan Documents and we make no representations concerning the accuracy or completeness of any of the information contained therein.
+In certain instances, our procedures were performed using data imaged facsimiles or photocopies of the Loan Documents. In addition,
+we make no representations as to whether the Loan Documents are comprehensive or valid instruments or reflect the current prevailing
+terms with respect to the corresponding Sample Loans.
+ 
+ 
+Agreed-Upon Procedures’ Findings
+ 
+The results of the foregoing procedures indicated
+that the Characteristics set forth on the Statistical Data File were found to be in agreement with the above mentioned Loan Documents,
+except as described in Appendix B. Supplemental information is contained on Appendix C.
+ 
+******
+ 
+We make no representations as to the (i) actual
+characteristics or existence of the underlying documents or data comprising the mortgage loans or underlying documentation underlying
+the Statistical Data File or the conformity of their characteristics with those assumed for purposes of the procedures described
+herein, (ii) existence or ownership of the mortgage loans or (iii) reasonableness of any of the aforementioned assumptions, information
+or methodologies.
+ 
+It should be understood that we make no representations
+as to questions of legal interpretation or as to the sufficiency for your purposes of the procedures enumerated in the preceding
+paragraphs. Also, such procedures would not necessarily reveal any material misstatement of the
+
+ 
+ 
+
+information referred to above. The information
+provided to us, including the information set forth in the Statistical Data File, is the responsibility of the Company.
+ 
+We were not engaged to conduct, and did not
+conduct, an (i) audit conducted in accordance with generally accepted auditing standards or (ii) examination or a review conducted
+in accordance with attestation standards established by the American Institute of Certified Public Accountants, the objective of
+which would be the expression of an opinion or limited assurance on the accompanying information. Accordingly, we do not express
+such an opinion, limited assurance, or any other form of assurance, including reasonable assurance. Had we performed additional
+procedures, other matters might have come to our attention that would have been reported to you. We have no responsibility to update
+this report for events or circumstances occurring after the date of this report.
+ 
+None of the engagement, procedures
+or report was intended to address, nor did they address, the (i) conformity of the origination of the assets to stated underwriting
+or credit extension guidelines, standards, criteria or other requirements, (ii) value of collateral securing such assets or (iii)
+compliance of the originator of the assets with federal, state, and local laws and regulations.
+ 
+None of the engagement, procedures
+or report were intended to satisfy, nor did they satisfy, any criteria for due diligence published by a nationally recognized statistical
+rating organization.
+ 
+This report is intended solely for the information and
+use of the Specified Parties identified above and is not intended to be and should not be used by anyone other than these Specified
+Parties.
+ 
+Yours truly,				
+ 
+
+ 
+ 
+
+ 
+Appendix A to Independent Accountants’ Report on Applying
+Agreed-Upon Procedures issued by Deloitte & Touche LLP dated May 19, 2016 (Redacted).
+ 
+In applying our agreed-upon procedures as outlined above, we recomputed
+Characteristics 24. and 25. using the previous purchase price (as set forth on the Previous Settlement Statement) for the following
+Sample Loans:
+ 
+
+
+[REDACTED]
+
+[REDACTED]
+
+[REDACTED]
+
+ 
+ 
+The information above reflects the procedures performed and is subject
+to the conditions set forth in the agreed-upon procedures report to which this appendix is attached.
+ 
+ 
+
+ 
+ 
+
+Appendix B to Independent Accountants’ Report on Applying
+Agreed-Upon Procedures issued by Deloitte & Touche LLP dated May 19, 2016.	In applying our agreed-upon procedures as
+outlined above, we noted the following:
+ 
+In applying our agreed-upon procedures as outlined above, we noted
+the following:
+ 
+
+
+Exception Description Number
+
+ 
+ 
+Exception Description
+
+ 
+ 
+
+1
+Nineteen differences in loan purpose.
+
+2
+Five differences in property type.
+
+3
+Two differences in sales price.
+
+4
+One difference in original principal balance.
+
+5
+One difference in original term to maturity.
+
+6
+One difference in first payment date.
+
+7
+One difference in original loan-to-value ratio.
+
+8
+One difference in combined loan-to-value ratio.
+
+ 
+The information above reflects the procedures performed and is subject
+to the conditions set forth in the agreed-upon procedures report to which this appendix is attached.
+ 
+ 
+
+ 
+ 
+
+Appendix C to Independent Accountants’ Report on Applying
+Agreed-Upon Procedures issued by Deloitte & Touche LLP dated May 19, 2016 (Redacted). 
+ 
+Supplemental Information Related to the Findings
+Set Forth on Appendix B
+ 
+
+
+Exception Description Number
+
+ 
+ 
+ 
+Sample Loan number
+Characteristic
+Characteristic set forth on the Statistical Data File
+Characteristic set forth on or derived from the Loan Documents
+
+ 
+ 
+ 
+ 
+ 
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+other-than-first-time home purchase
+first time home purchase
+
+1
+[REDACTED]
+Loan purpose
+other-than-first-time home purchase
+first time home purchase
+
+1
+[REDACTED]
+Loan purpose
+other-than-first-time home purchase
+first time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+other-than-first-time home purchase
+first time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+rate/term refinance -- borrower initiated
+cash out refinance
+
+1
+[REDACTED]
+Loan purpose
+other-than-first-time home purchase
+first time home purchase
+
+1
+[REDACTED]
+Loan purpose
+other-than-first-time home purchase
+first time home purchase
+
+1
+[REDACTED]
+Loan purpose
+other-than-first-time home purchase
+first time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+1
+[REDACTED]
+Loan purpose
+first time home purchase
+other-than-first-time home purchase
+
+2
+[REDACTED]
+Property type
+Townhouse
+Condo
+
+2
+[REDACTED]
+Property type
+Single Family
+PUD
+
+2
+[REDACTED]
+Property type
+PUD
+Single family
+
+2
+[REDACTED]
+Property type
+Townhouse
+PUD
+
+2
+[REDACTED]
+Property type
+Townhouse
+Condo
+
+3
+[REDACTED]
+Sales price
+$331,979.00
+Not applicable
+
+3
+[REDACTED]
+Sales price
+$566,693.00
+Not applicable
+
+4
+[REDACTED]
+Original principal balance
+$560,000.00
+$276,500.52
+
+5
+[REDACTED]
+Original term to maturity
+360 months
+358 months
+
+6
+[REDACTED]
+First payment date
+1/1/2016
+3/1/2016
+
+7
+[REDACTED]
+Original loan-to-value ratio
+74.84%
+36.95%
+
+8
+[REDACTED]
+Combined loan-to-value ratio
+74.84%
+36.95%
+
+ 
+The information above reflects the procedures performed and is subject
+to the conditions set forth in the agreed-upon procedures report to which this appendix is attached.
+
+ 
+
+
+
+
+
+
