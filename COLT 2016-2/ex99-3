@@ -1,0 +1,1105 @@
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>4
+<FILENAME>e70945ex99-3.htm
+<DESCRIPTION>AMC DATA COMPARE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P STYLE="text-align: right"><FONT STYLE="font: 10pt Arial, Helvetica, Sans-Serif"><B>Exhibit 99.3</B></FONT></p>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 9pt Calibri, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR>
+    <TD NOWRAP COLSPAN="2" STYLE="vertical-align: bottom; padding-right: 5.4pt">&nbsp;<IMG SRC="image_001.gif" ALT="" STYLE="width: 85px"></TD>
+    <TD NOWRAP STYLE="vertical-align: top; background-color: white; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD NOWRAP STYLE="vertical-align: top; background-color: white; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD NOWRAP STYLE="vertical-align: top; background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-size: 14pt"><FONT STYLE="font-size: 14pt; color: navy"><B>Data Compare - COLT 2016-2</B></FONT></TD>
+    <TD NOWRAP STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD NOWRAP STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD NOWRAP STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: navy"><B>Run Date - 8/26/2016 10:20:24 AM</B></FONT></TD>
+    <TD NOWRAP STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD NOWRAP STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">&nbsp;</TD>
+    <TD NOWRAP STYLE="background-color: white; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: navy">
+    <TD NOWRAP STYLE="width: 4%; border: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>AMC Loan ID</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 9%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Field Label</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 5%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt; color: white"><B>Bid Tape Field Value</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 5%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt; color: white"><B>Field Value</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 77%; border-top: gray 1pt solid; border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt; color: white"><B>Comment</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900014244</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;398,110.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;400,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900017443</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;330,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;333,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200508102</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;525,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;535,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200419920</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;590,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;610,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Tape reflects field review value.&nbsp;Appraisal reflects appraised value of $610,000</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200506369</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;286,341.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;289,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per Appraisal value is $289,000</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359210</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;684,615.38 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;685,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359230</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,395,348.84 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,400,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359235</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;800,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;930,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359238</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;723,076.92 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;730,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal value is 730,000</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359243</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;639,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;640,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359244</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;575,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;600,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359245</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;833,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;847,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359247</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;863,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;865,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">missing appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359251</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,176,470.59 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,180,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified $1,180,000 value per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359262</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;892,857.14 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;900,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359265</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;938,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;945,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359266</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,081,081.08 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,080,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal and 1008, value is $1,080,000</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359268</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;750,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;755,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359287</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;813,559.32 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;811,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359297</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;737,288.14 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;732,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified&nbsp;per Appraisal.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359307</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,200,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,213,800.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised value is $1,213,800, per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359310</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,289,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,290,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per Appraisal.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359314</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;810,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;845,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359317</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;738,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;750,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359324</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,105,263.16 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,097,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359328</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;738,461.54 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;740,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359349</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;2,857,142.86 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,950,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359358</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;623,800.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;635,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359360</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;945,454.55 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;950,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified with Appraisal.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359366</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;793,650.79 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;800,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359368</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;955,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;965,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359372</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,044,444.44 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,050,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified to appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359384</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;436,666.67 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;432,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised value is $432,000, per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359386</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;468,706.67 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;469,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359389</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,175,438.60 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,170,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per Appraisal in file, the appraised value is $1,170,000.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359394</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;489,230.77 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;490,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per the 442, missing the full appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359396</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,525,431.03 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,600,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359397</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,092,592.59 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,090,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal, value is $ 1,090,000</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900014200</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;375,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;385,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200625789</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;526,503.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;527,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal value is $527,000. Tape reflects Sales Price.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200580395</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,050,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,100,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised value is 1.1k Desk value is 1.05K.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900015171</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;285,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;306,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal and supported by CDA</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200466708</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;380,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;396,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Tape reflects Field review Value.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200705797</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;564,900.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;575,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900013269</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;275,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;279,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">CDA value is lower</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200664654</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;305,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;306,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified to appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200480335</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,500,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;1,600,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">$1,600,000.00 value verified to appraisal dated 1/26/2016 in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200738233</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;315,500.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;316,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per the appraisal, the appraised value is $316000</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200697741</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;210,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;225,500.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200484811</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised Value</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;629,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;642,000.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Tape data is desk review, LTV based of lower sales price of $620K</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200456474</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Max</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;11.875 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;10.875 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200480334</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Max</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;13.500 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;13.250 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">13.25% life max verified to note.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200456474</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Interest Rate Life Min</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;4.000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;2.250 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200456474</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Margin</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;4.000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;2.250 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Note</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200483366</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Margin</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;7.000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;6.500 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per the note, the margin is 6.5%.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900015595</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Occupancy</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">99</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Second Home</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900015171</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original CLTV</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;75.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;69.85 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">lender used lower value than actual value</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200697741</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original CLTV</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;75.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;73.60 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200480334</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original Interest Rate</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;7.50 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;7.25 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">7.25% original rate verified to note.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359349</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original LTV</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;51.28 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Appraised value/loan amount.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900015171</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original LTV</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;75.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;69.85 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">lender used lower value than actual value</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200697741</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original LTV</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;75.00 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;73.60 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">[REDACTED]</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200456474</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Originator Loan Designation</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Safe Harbor QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Non QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender changed loan Designation</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200661887</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Originator Loan Designation</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Higher Priced QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Safe Harbor QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender requested correction</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200506380</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Originator Loan Designation</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Higher Priced QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Non QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender requested change to Non-QM</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200494446</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Originator Loan Designation</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Higher Priced QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Non QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender required designation correction</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200489849</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Originator Loan Designation</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Higher Priced QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Non QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender changed designation to Non-QM</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200561722</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Originator Loan Designation</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Higher Priced QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Non QM</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender requested designation change</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359230</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">4 Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359238</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Condo (Low Rise)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Security Instrument contains PUD rider</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359243</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Condo (Low Rise)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359257</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Condo (Low Rise)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359293</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">4 Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359324</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">4 Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359325</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Townhouse</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal subject is a Townhouse/Row house.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900004844</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Detached</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359340</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per appraisal property type is a PUD</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359354</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property type is PUD, verified to appraisal.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359363</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">4 Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359365</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">4 Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified appraisal and security instrument</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359384</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">PUD Attached</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property type is an attached PUD, per appraisal in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359390</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">2 Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">2 Family per appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359396</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Single Family</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Condo (High Rise)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900008031</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">CONDO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Townhouse</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900004750</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Property Type</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">Detached</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">PUD</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to Appraisal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200682167</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">706</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">700</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lowest middle score of both applicants per most recent credit report.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200506370</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">710</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">702</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">mid score per credit report</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200643151</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">664</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">671</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Middle score of the most recent credit report in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200727393</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">692</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">670</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per credit in file</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200589880</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">652</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">658</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified per credit report and AUS</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200500134</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">673</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">674</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per updated credit report and scores, Lowest mid score is 674</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200480335</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">781</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">755</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">755 rep score verified to 1/14/2016 credit report in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200561721</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">647</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">655</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Tape is pre-funding credit score, review is origination credit score.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200682164</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">690</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">664</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per credit report, Tape data is from post close credit report</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200344374</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Representative FICO</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">613</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">644</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">lower of 2 mid scores per credit report</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200344374</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;47.8000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;40.9425 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review used updated debts, and calculated slightly higher income for borrower 1</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359244</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;23.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;32.2452 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per debt calculations in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359265</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;27.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;20.8137 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per application in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359293</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;23.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;27.8847 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender did not include $1349.92 negative rental income for subject in DTI calculations.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359297</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;25.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;39.2606 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified 40.83% per 1008</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359310</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;40.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.8010 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per 1003.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359316</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;47.8491 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI higher than permissible.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359324</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;44.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;39.7980 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender included taxes and insurance for primary PITI and for rental calculations for primary residence.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359346</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;10.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;18.6217 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359349</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;22.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;8.4301 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Bank statement in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359390</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;54.0612 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Unexplained 5500 c/b income listed on app w/o c/b</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359394</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;31.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;25.4781 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">appears lender included current primary expense twice in DTI</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200359396</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;27.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;19.5851 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to debts and income</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200363459</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;23.9000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;19.6918 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender did not used borrower #2's bonus income which is fully documented in file.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200419920</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;27.7000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;31.1406 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified with loan documents.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200456474</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;45.2030 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender included debts in DTI versus providing payoff and close docs per rebuttal</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200466705</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;39.6000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;44.3949 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender calculated Negative rental income from subject of $856.85 with $90 positive rental income from remaining investments.&nbsp;AMC calculated $976.96 negative rental income from subject and $124.96 negative rental income from remaining.&nbsp;Calculations based on schedule E data plus current mortgage statements for remaining investments and current data for subject property.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200480334</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;40.2000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;48.3781 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified to re-calculated income, rent loss/income, and debt documentation.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200482277</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;29.0535 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per AUS</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200484824</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;42.6000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;47.7896 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified correct DTI is 47.78957%, as confirmed by 1008 approval at 47.781</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200489850</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.3000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;40.5473 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated lower income due to bonus declining</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200495067</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;39.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.8181 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated lower income, still meets guidelines</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200500133</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.5000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.1402 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">calculated on fully indexed rate</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200500134</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;32.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.4666 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified Total DTI is accurate due to calculation of income lower than UW.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200500139</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;34.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;24.3901 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated higher income</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200500140</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;34.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.5808 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Matches 1008 as well.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200506362</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;45.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;55.0025 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per income docs</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200511906</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;33.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;38.7833 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified with income/liabilities.&nbsp;Verified with 1008 as well, DTI matches lender's.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200522137</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.6000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;48.1660 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified 49.189% per 1008.&nbsp;Lender used most conservative income from 2013 W2 for calculations.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200528680</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;32.2000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.6512 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified 35.74% per 1008</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200528689</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;44.4000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;53.8672 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per 1008/approved exception DTI 54.148%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200539703</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;20.7000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.0817 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per 1008 DTI 37.406%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200549220</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;39.9000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;48.1275 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per 1008 and calculations, DTI is 48.217%. Unable to source tape data.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200557430</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;46.5000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;50.1910 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Incorrect Subject Net Rental Income</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200561715</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.9000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;49.5853 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI per 1008 48.159%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200561719</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;24.7000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;33.1621 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender did not use bonus/commission income only base and self-employment</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200571791</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;28.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;24.3620 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender considered net rents as debt versus against income</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200591205</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;32.2000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;54.6738 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">missing leases to verify rental income</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200597288</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.2906 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per the documentation provided, the ratio is correct.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200611961</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.7000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;39.3964 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified 1008 DTI is 38.561%.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200619899</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;31.8000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.4085 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender approved at 35.604%.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200619903</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;49.5901 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Loan approved with 47.928% DTI</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200625787</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.6000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;36.9201 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI on 1008 41.607%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200630431</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;45.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;49.0039 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Per income and debt documentation in file Total Debt Ratio is 49%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200638148</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;36.4000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;39.5061 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI matches 1008 at 39.5%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200643146</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;58.7000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified DTI at 46.39% per AUS</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200643152</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;38.5000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;42.3531 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI per 1008 42.353%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200643154</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;29.5000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;36.6180 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI on 1008 36.549%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200661886</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.9000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;42.6181 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI per 1008 is 41.824%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200665546</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;45.8000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;49.5765 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Loan approved a 48.968%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200669409</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;33.5000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;36.7188 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI per 1008 36.882%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200677254</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;34.2000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;40.6698 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI per 1008 40.925%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200677255</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;38.4000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;42.9749 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified DTI of 42.936% per 1008</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200681067</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;24.2000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;32.9298 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Lender used base pay, audit used YTD &amp; prior since varying hours</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200687765</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;45.7000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;49.3852 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI with full/correct payment for Heloc is 49.38521%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200692473</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;32.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;24.5498 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">lender included 2 collection balances in monthly payments, guidelines do not require this and borrower had sufficient liquid funds to pay</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200693760</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;45.7976 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI per 1008 is 45.824%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200696584</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.9000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;40.2646 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI on 1008 is 40.577%</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200697743</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;32.8000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.7734 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Verified per final 1008 and UW notes.&nbsp;UTD where tape value originates from.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200705795</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;36.2000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.2931 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">The borrowers income was less than the AUS</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200705798</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.9000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;47.2832 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1008 DTI is 46.338%, which is within 3% of review DTI, and below 50% max allowed.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200705807</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;42.6000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;46.9382 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Tape data within 1% of approved DTI on 1008</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200722898</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;27.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;34.3158 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">1008 has DTI at 34.316%, unable to determine tape data source</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200722902</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;34.2000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;39.9035 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI per 1008 38.849%, unable to determine tape data source</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">200727393</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;29.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;23.5684 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">per docs in file</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900010471</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;47.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;42.9600 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review excluded car payment using proof in file it was paid off prior to closing</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900010686</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;38.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;33.4100 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated higher base income for borrower</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900010966</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;50.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.0400 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review used co-borrower income fully documented in file</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900011455</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;48.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;44.1500 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated higher income for co-borrower using base only</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900011477</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;31.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;25.6900 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Base income used / client used YTD. Clients other debt is $600 mo, I used $554 mo.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900012223</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;23.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated higher income fully documented in file, and lower REO debt fully documented in file with lease and schedule E</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900012257</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;25.5700 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;22.1500 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">DTI is correct</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900013551</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;27.6800 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified with income docs in file</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900014296</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;46.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;41.4300 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated slightly higher income</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900015595</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;50.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;27.4400 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Review DTI correct</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900017061</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;35.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;31.1700 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated higher income using base only</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900017338</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;34.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;28.5000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated higher income</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900017343</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;48.1000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Original underwrite did not deduct Schd C loss</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900017747</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;47.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;43.7700 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review used updated credit supplement for debt payments</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900017784</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;44.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;40.6200 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">recalculated income - DTI is correct</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900018057</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;37.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;25.0300 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">verified with loan docs</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; border-left: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">900018196</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">Total Debt Ratio</FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;18.0000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; background-color: whitesmoke; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-size: 9pt">&nbsp;12.5000 </FONT></TD>
+    <TD NOWRAP STYLE="border-right: gray 1pt solid; border-bottom: gray 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 9pt">review calculated higher income</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
