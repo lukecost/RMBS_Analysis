@@ -1,0 +1,413 @@
+<DOCUMENT>
+<TYPE>EX-99.16
+<SEQUENCE>17
+<FILENAME>ex99-16.htm
+<DESCRIPTION>DIGITAL RISK DATA INTEGRITY REPORT
+<TEXT>
+<html>
+<head>
+     <title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0; margin-bottom: 0; width: 100%"><div style="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0"><a href="gcat-abs15g_070820.htm">GCAT 2020-NQM2 Trust ABS-15G</a></p>
+
+<p style="margin: 0">&nbsp;</p>
+
+<p style="margin: 0">&nbsp;</p>
+
+<p style="text-align: right; margin: 0"><b>Exhibit 99.16</b></p>
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+<p style="margin: 0; text-align: right"><b></b></p>
+
+<p style="margin: 0; text-align: right"><b></b></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: left; width: 58%">Client:&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: left; width: 28%">XXXX</td>
+    <td dir="ltr" style="color: #406380; text-align: left; width: 14%">&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: left">Batch:&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: left">XXXX</td>
+    <td dir="ltr" style="color: #406380; text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: left">Report Pulled:</td>
+    <td dir="ltr" style="color: #406380; text-align: left">6/19/2020 12:16</td>
+    <td dir="ltr" style="color: #406380; text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: left">Loan Count:</td>
+    <td dir="ltr" style="color: #406380; text-align: left">31</td>
+    <td dir="ltr" style="color: #406380; text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: #406380">
+    <td dir="ltr" style="color: white; font-weight: bold; border: lightgrey 0.5pt solid; text-align: left">Fields Reviewed</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Discrepancy Count</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Percentage&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">** LOAN PURPOSE - (M)** [UW]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">1</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">3.85%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">**AUDIT TLTV** [UW]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">**OCCUPANCY- (M)** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">1</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">3.85%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">**ORIGINAL INTEREST RATE - (M)** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">**STATE** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">**STREET NAME** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">5</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">19.23%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">17</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">65.38%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">Life Cap Rate</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">Lifetime Floor Rate (M) (ARM) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">2</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7.69%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">Original LTV</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: left; border-top-color: lightgrey; border-top-width: 0.5pt">Total Discrepancies:</td>
+    <td dir="ltr" style="font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">26</td>
+    <td dir="ltr" style="font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">100.00%</td></tr>
+</table>
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+<p style="margin: 0; text-align: right"><b></b></p>
+
+<p style="margin: 0; text-align: right"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 1pt solid">&nbsp;</div>
+    <div style="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></div>
+    <!-- Field: /Page -->
+
+<p style="margin: 0; text-align: right">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: center; width: 7%">Client:&nbsp;</td>
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: center; width: 9%">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: left; width: 12%">XXXX</td>
+    <td dir="ltr" style="color: #406380; text-align: center; width: 7%">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center; width: 26%">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center; width: 18%">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center; width: 10%">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center; width: 11%">&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: center">Batch:&nbsp;</td>
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: left">XXXX</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: center">Report Pulled:</td>
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: left">6/19/2020 12:16</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: center">Loan Count:</td>
+    <td dir="ltr" style="color: #406380; font-weight: bold; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: left">31</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td>
+    <td dir="ltr" style="color: #406380; text-align: center">&nbsp;</td></tr>
+<tr style="vertical-align: middle; background-color: #406380">
+    <td dir="ltr" style="color: white; font-weight: bold; border: lightgrey 0.5pt solid; text-align: center">Marketing ID</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Loan Number</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Audit ID</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Borrower Last Name</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Field</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">CADIEField</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Tape Data</td>
+    <td dir="ltr" style="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Review Data</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">728805573</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">** LOAN PURPOSE - (M)** [UW]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Prop_LoanPurpose</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">728805573</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">**OCCUPANCY- (M)** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Prop_OccupancyType</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">509305264</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">509305264</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">AH_OrigDate</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">202934188</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">838845364</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">638779678</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">287098423</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">423347337</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">542648540</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">215130714</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">**STREET NAME** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Prop_SubjStreetName</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">215130714</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">103420777</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">959991888</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">**STREET NAME** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Prop_SubjStreetName</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">959991888</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">984137431</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">333659986</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Note Date</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">AH_OrigDate</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">913224421</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">730327375</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">705327876</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">**STREET NAME** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Prop_SubjStreetName</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">705327876</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">420551051</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">976722544</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">895583907</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">**STREET NAME** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Prop_SubjStreetName</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">895583907</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Gross Margin (M) [CP]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Mort_Margin</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+<tr style="vertical-align: middle; background-color: lemonchiffon">
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">672489762</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">**STREET NAME** [NT]</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Prop_SubjStreetName</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td>
+    <td dir="ltr" style="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</td></tr>
+</table>
+
+<p style="margin: 0; text-align: right">&nbsp;</p>
+
+<p style="margin: 0; text-align: right">&nbsp;</p>
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+<p style="margin: 0; text-align: right"><b></b></p>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 1pt solid">&nbsp;</div>
+    <!-- Field: /Page -->
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
