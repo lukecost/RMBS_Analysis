@@ -1,0 +1,89 @@
+<DOCUMENT>
+<TYPE>EX-99.10
+<SEQUENCE>11
+<FILENAME>ex99-10.htm
+<DESCRIPTION>AMC DATA COMPARE (OLDER LOANS)
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Data Compare -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002580,0x00002EE0,0x00002EE0,0x00005DC0,0x00003840,0x00003840,0x00002580,0x00009600,0x00002580 -->
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: times new roman; font-size: 10pt"><A HREF="aomt-abs15g_081420.htm">Angel Oak Mortgage Trust 2020-5 ABS-15G</A></FONT></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 99.10</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>&nbsp;</B></P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 9pt Calibri, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4" STYLE="padding-top: 3px; padding-left: 3px; font-size: 11pt; text-align: left"><IMG SRC="ex99-10_img001.jpg" ALT=""></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4" DIR="LTR" STYLE="color: navy; font-size: 14pt; font-weight: bold">Data Compare - REP-6187</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="4" DIR="LTR" STYLE="color: navy; font-weight: bold">Run Date - 7/22/2020 2:41:21 AM</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: navy">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: gray 0.5pt solid; text-align: left; width: 6%">AMC Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 8%">Customer Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 8%">Seller Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 16%">Field Label</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 10%">Bid Tape Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 10%">Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 6%">Compare Status</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 30%">Comment</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 6%">Alternate Loan ID</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900017687</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">AppraisalDate</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">900017687</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
