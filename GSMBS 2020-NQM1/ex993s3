@@ -1,0 +1,1559 @@
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>23
+<FILENAME>efc20-658_ex993s3.htm
+<DESCRIPTION>SCHEDULE 3 - EXCEPTION SUPPLEMENTAL REPORT
+<TEXT>
+<html>
+<head>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head><body>
+<table border="1" align="left" cellpadding="1" cellspacing="0">
+<tr>
+<td width="117">GS_LOAN_NUMBER</td>
+<td width="156">Investor Loan Number</td>
+<td width="145">EXCEPTIONID</td>
+<td width="155">EXCEPTIONIDDATE</td>
+<td width="155">CONDITIONCATEGORY</td>
+<td width="257">CONDITIONSTANDARDIZEDDESCRIPTION</td>
+<td width="444">EXCEPTIONCHOSEN</td>
+<td width="384">EDITEDEXCEPTION</td>
+<td width="187">COMPENSATINGFACTORS</td>
+<td width="205">FOLLOW-UPCOMMENTS</td>
+<td width="212">EXCEPTION STATUS</td>
+<td width="136">CLEAREDDATE</td>
+<td width="166">OVERRIDEDATE</td>
+<td width="100">EXCEPTIONLEVELGRADE</td>
+<td width="100">COMPLETEDATE</td>
+<td width="100">OUTSIDEQCDATE</td>
+<td width="116">NOTEDATE</td>
+<td width="114">PROPERTYSTATE</td>
+<td width="99">OCCUPANCY</td>
+<td width="114">PURPOSE</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Liquid Reserves are less than Guidelines Required</td>
+<td width="444">Liquid Reserves are less than Guidelines Required</td>
+<td width="384">The liquid reserves of 8.38 months or $XXX are less than the Guidelines minimum required of 18.00 or $XXX.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Hazard Insurance Effective Date is after the Note Date</td>
+<td width="444">Hazard Insurance Effective Date is after the Note Date</td>
+<td width="384">The hazard insurance effective date of XX/XX/XXXX is after the note date of XX/XX/XXXX. The Hazard Insurance Declaration in file is effective XX/XX/XXXX through XX/XX/XXXX. However the subject loan closed on XX/XX/XXXX. Missing verification of hazard insurance coverage from XX/XX/XXXX through XX/XX/XXXX.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Qualifying DTI exceeds Guideline Maximum Allowable</td>
+<td width="444">Qualifying DTI exceeds Guideline Maximum Allowable</td>
+<td width="384">Qualifying DTI of 51.68 exceeds guideline maximum of 43.00. Lender qualified at XXX%. Source of variance is unclear due to conflicting UW worksheet documentation. Unable to verify lender itemized calculation for all income and liability sources for qualification purposes.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Borrower Liabilities Verification</td>
+<td width="444">Borrower Liabilities Verification</td>
+<td width="384">Leases for the subject property not provided. (XXX). Rental income documentation for subject property requires the appraisal form 1025 (which was provided) and copies of the current lease agreements(s), per the Seller Guide effective March 9 2020 located on page 61.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Liquid Reserves are less than Guidelines Required</td>
+<td width="444">Liquid Reserves are less than Guidelines Required</td>
+<td width="384">The liquid reserves of 6.00 months or $XXX are less than the Guidelines minimum required of $XXX. 401k assets not considered for reserves. Guidelines require that retirement accounts that do not allow for withdrawal are ineligible for reserves. Page 403 of the loan file shows that a withdrawal while employed is only allowable when the borrower is of retirement age. The borrower is XX.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Down payment Source not Verified</td>
+<td width="444">Down payment Source not Verified</td>
+<td width="384">The down payment source is could not be verified. Gift letter states $XXX from mother; however, no documentation received. Post closing email states gift was actually $XXX; however, no revised gift letter nor evidence funds were received provided. Post close note also indicates gift from father was never received. A revised 1003 with evidence of changes was not provided in the loan file.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">CT NPHLA Average Prime Offer Rate APR Threshold - HOEPA (High Cost)/APR</td>
+<td width="444">CT NPHLA Average Prime Offer Rate APR Threshold - HOEPA (High Cost)/APR</td>
+<td width="384">This loan exceeded the average prime offer rate APR threshold. (CT SB 949 &#167;3(a)(7)(F)(ii))The loan is a first lien and the APR exceeds the Average Prime Offer Rate (XXX%) by XXX% or more.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">CHARM Booklet is Missing</td>
+<td width="444">CHARM Booklet is Missing</td>
+<td width="384">The CHARM booklet is missing from the loan file.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Second Home</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Second Home</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Second Home</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Transmittal Summary is Missing</td>
+<td width="444">Transmittal Summary is Missing</td>
+<td width="384">The transmittal summary is missing from the loan file.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">No Credit Findings</td>
+<td width="444">No Credit Findings</td>
+<td width="384">The loan meets all applicable credit guidelines.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Purchase</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Borrower Transcripts are missing</td>
+<td width="444">Borrower Transcripts are missing</td>
+<td width="384">The borrower transcripts are missing from the loan file.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Third Party Valuation Product not Provided</td>
+<td width="444">Third Party Valuation Product not Provided</td>
+<td width="384">Third Party Valuation Product not Provided to Support Origination Appraised Value within XXX%.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refinance</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Borrower - Residency Alien Documentation</td>
+<td width="444">Borrower - Residency Alien Documentation</td>
+<td width="384">The borrower and/or coborrower indicates Resident Alient statuses; however, the file contains no evidence documenting status.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Cash Out Refi</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">Charges That In Total Cannot Increase Test</td>
+<td width="444">Charges That In Total Cannot Increase Test</td>
+<td width="384">This loan failed the charges that in total cannot increase more than XXX% test. (12 CFR &#167;1026.19(e)(3)(ii))The loan contains third-party services that the consumer was permitted to shop for and the charges exceed the good faith tolerance according to &#167;1026.19(e)(3)(ii). The final charges that in total cannot increase more than XXX% ($XXX) exceed the comparable charges ($XXX) by more than XXX% ($XXX). Please see the table that displays the Charges That Cannot Increase More Than XXX% for a comparison of the data between the provided disclosures. An estimate of a charge for a third-party service or a recording fee is in good faith if:(A) The aggregate amount of charges for third-party services and recording fees paid by or imposed on the consumer does not exceed the aggregate amount of such charges disclosed under &#167;1026.19(e)(1)(i) by more than XXX%;(B) The charge for the third-party service is not paid to the creditor or an affiliate of the creditor; and(C) The creditor permits the consumer to shop for the third-party service consistent with &#167;1026.19(e)(1)(vi). XXX% tolerance violation in the amount of $XXX on final CD XX/XX/XXXX. Need evidence of COC, PCCD or refund check in the amount of $XXX.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Cash Out Refi</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Appraisal - Value is supported within 10% of original appraised value</td>
+<td width="444">Appraisal - Value is supported within 10% of original appraised value</td>
+<td width="384">The appraised value was supported within XXX% and all applicable appraisal guidelines were satisified.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Investment Property</td>
+<td width="114">Cash Out Refi</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Valuations</td>
+<td width="257">Appraisal - Value is supported within 10% of original appraised value</td>
+<td width="444">Appraisal - Value is supported within 10% of original appraised value</td>
+<td width="384">The appraised value was supported within XXX% and all applicable appraisal guidelines were satisified.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refi</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Compliance</td>
+<td width="257">No Compliance Findings</td>
+<td width="444">No Compliance Findings</td>
+<td width="384">The loan is in compliance with all applicable laws and regulations.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Cleared</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refi</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Title Policy - Missing</td>
+<td width="444">Title Policy - Missing</td>
+<td width="384">Title Policy is missing from the loan file.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refi</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">Fraud Report Shows Uncleared Alerts</td>
+<td width="444">Fraud Report Shows Uncleared Alerts</td>
+<td width="384">Fraud report shows the following alerts that have not been cleared: No state license found for state associated with this transaction and a possible match was found for the underwriter on Freddie Mac Exclusionary List. the file did not contain evidence these alerts were cleared.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refi</td>
+</tr>
+<tr>
+<td width="117">XXXXX</td>
+<td width="156">XXXXX</td>
+<td width="145">XXXXX</td>
+<td width="155">XX/XX/XXXX</td>
+<td width="155">Credit</td>
+<td width="257">DTI Exceeds AUS Maximum Allowable</td>
+<td width="444">DTI Exceeds AUS Maximum Allowable</td>
+<td width="384">The qualifying back-end DTI of XXX (Total Income of XXX, Orig PITI of XXX, Monthly debt of XXXX) exceeds the maximum allowable per AUS of XXX. The back-end DTI of XXX (Total Income of XXX , Orig PITI of XXX, Monthly debt of XXX) exceeds the maximum allowable of XXX per AUS. The lender excluded a debt to XXXXXX; however, there was no evidence in the file that this was satisfied.</td>
+<td width="187">&nbsp;</td>
+<td width="205">&nbsp;</td>
+<td width="212">Resolved</td>
+<td width="136">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="100">1</td>
+<td width="100">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="116">XX/XX/XXXX</td>
+<td width="114">XX</td>
+<td width="99">Owner occupied</td>
+<td width="114">Cash Out Refi</td>
+</tr>
+<tr>
+</tr></table>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
