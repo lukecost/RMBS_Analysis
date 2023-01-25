@@ -1,0 +1,732 @@
+<DOCUMENT>
+<TYPE>EX-99.19
+<SEQUENCE>20
+<FILENAME>ex99-19.htm
+<DESCRIPTION>EDGEMAC FINAL TAPE COMPARE REPORT
+<TEXT>
+<html>
+<head>
+     <title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</div></div><!-- Field: /Rule-Page -->
+<P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: times new roman; font-size: 10pt"><a href="aomt-abs15g_082720.htm">Angel Oak Mortgage Trust 2020-6 ABS-15G</A></FONT></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 99.19</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</p>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Verdana, Helvetica, Sans-Serif">
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; border-left: black 1pt solid; text-align: left; width: 5%">TPR Firm:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; text-align: left; width: 9%">EdgeMAC</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; text-align: left; width: 5%">Date Submitted:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; border-right: black 1pt solid; text-align: left; width: 9%">8/11/2020</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom; width: 14%">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom; width: 11%">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom; width: 7%">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom; width: 7%">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom; width: 33%">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-left: black 1pt solid; text-align: left">Client Name:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; text-align: left">Angel Oak</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; text-align: left">Report:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-right: black 1pt solid; text-align: left">Final Tape Compare Report</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: left">Client Project:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; text-align: left">AOMT 2020-6</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; text-align: left">Loans in report:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: left">37</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: #07292F">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: lightgrey 0.5pt solid">Report Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt">Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt">Edge MAC ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt">Seller Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt">Originator</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt">Field</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-left-color: lightgrey; border-left-width: 0.5pt">Final Tape Data</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-left-color: lightgrey; border-left-width: 0.5pt">Reviewer Data</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt">Comment</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001277</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001277</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">20.167</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">20.527</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001456</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001456</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">33.604</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">33.659</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001436</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001436</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">40.403</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">40.367</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001479</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Full Documentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001479</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">34.427</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">29.455</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001498</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">35.223</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">34.504</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001385</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">45.03</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">45.220</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001483</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001483</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Loan Purpose</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash-Out Refinance</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">9</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001486</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">43.952</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">44.986</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001823</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">1007 Rent Schedule</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001823</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DSCR</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">165.2</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">143.360</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001468</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Number of Units</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001438</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001387</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001387</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">42.409</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">42.387</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001494</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Full Documentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001448</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">38.879</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">46.300</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001488</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">25.037</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">25.096</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001464</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001464</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">33.44</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">33.104</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001461</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Verification (S/E Only)</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001461</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">39.628</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">39.748</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001443</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Asset Depletion</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001443</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">37.109</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">37.558</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001820</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Co Borrower 1 Self-Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001820</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Coborrower 1 First Name</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001820</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Coborrower 1 Last Name</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001820</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Co-Borrower 1 SSN</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001820</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">1007 Rent Schedule</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001820</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DSCR</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">175.5</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">170.800</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001485</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001434</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">20.013</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">20.944</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001490</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001490</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">35.761</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">35.756</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001822</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">1007 Rent Schedule</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001822</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DSCR</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">163.9</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">145.520</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001439</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001439</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">9.362</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7.125</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001425</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">40.222</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">41.288</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001480</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Asset Depletion</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001480</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">49.916</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">49.946</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001487</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001487</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">36.358</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">35.774</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001477</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Asset Depletion</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001477</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">40.175</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">39.291</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001496</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001496</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">22.867</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">21.951</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001495</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001495</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">22.776</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">22.998</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001454</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001454</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">42.542</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">41.883</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001455</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001455</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">37.357</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">29.685</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001497</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001497</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">32.319</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">32.401</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7001825</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Existing Lease</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001471</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">FullDocumentation</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">12 Month Bank Statements</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; border-top-color: lightgrey; border-top-width: 0.5pt">08/11/2020</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">70001471</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: right; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">29.816</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Discrepancy</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></b></p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"></p>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 1pt solid">&nbsp;</div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</p>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
