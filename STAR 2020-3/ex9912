@@ -1,0 +1,184 @@
+<DOCUMENT>
+<TYPE>EX-99.12
+<SEQUENCE>13
+<FILENAME>efc20-568_ex9912.htm
+<DESCRIPTION>DR VALUATION REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <table cellspacing="0" cellpadding="0" id="zd11a603470ab4063a9a3d79f865ded82" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 22.8%; vertical-align: top;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Client:</div>
+          </td>
+          <td style="width: 44.16%; vertical-align: top;">
+            <div style="line-height: 9.1pt; color: #000000;">XXXX</div>
+          </td>
+          <td style="width: 33.04%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 22.8%; vertical-align: top;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Batch:</div>
+          </td>
+          <td style="width: 44.16%; vertical-align: top;">
+            <div style="line-height: 9.1pt; color: #000000;">XXXX</div>
+          </td>
+          <td style="width: 33.04%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 22.8%; vertical-align: top;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Report Pulled:</div>
+          </td>
+          <td style="width: 44.16%; vertical-align: top;">
+            <div style="line-height: 9.1pt; color: #000000;">3/3/2020 11:45 AM</div>
+          </td>
+          <td style="width: 33.04%; vertical-align: top;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 22.8%; vertical-align: top;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Loan Count:</div>
+          </td>
+          <td style="width: 44.16%; vertical-align: top;">
+            <div style="line-height: 9.1pt; color: #000000;">3</div>
+          </td>
+          <td style="width: 33.04%; vertical-align: top;">&#160;</td>
+        </tr>
+
+    </table>
+    <div> <br>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="2" border="0" id="zf9014ed04265496fb50c832b9bfdcc3c" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 6.26%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Audit</div>
+            </td>
+            <td style="width: 12.12%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Loan Number</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Appraisal Form Value</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">CDA Date</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">CDA Diff from Appraisal</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">CDA Value</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">CDA Variance</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Field Review Date</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Field Review Diff from Appraisal</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Field Review Value</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Field Review Variance</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 6.26%; vertical-align: top; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">6704314</div>
+            </td>
+            <td style="width: 12.12%; vertical-align: top; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 6.26%; vertical-align: top; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">6704315</div>
+            </td>
+            <td style="width: 12.12%; vertical-align: top; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 6.26%; vertical-align: top; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">6704316</div>
+            </td>
+            <td style="width: 12.12%; vertical-align: top; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+            </td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+            <td style="width: 9.07%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+          </tr>
+
+      </table>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
