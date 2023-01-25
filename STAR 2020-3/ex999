@@ -1,0 +1,300 @@
+<DOCUMENT>
+<TYPE>EX-99.9
+<SEQUENCE>10
+<FILENAME>efc20-568_ex999.htm
+<DESCRIPTION>DR DATA INTEGRITY REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <table cellspacing="0" cellpadding="2" border="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z5e233840a21743f689216cf349524f35">
+
+        <tr>
+          <td style="width: 20%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #406380; font-weight: bold;">Client:</div>
+          </td>
+          <td style="width: 80%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #406380;">XXXX</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #406380; font-weight: bold;">Batch:</div>
+          </td>
+          <td style="width: 80%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #406380;">XXXX</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #406380; font-weight: bold;">Report Pulled:</div>
+          </td>
+          <td style="width: 80%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #406380;">5/19/2020 4:07:29 PM</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #406380; font-weight: bold;">Loan Count:</div>
+          </td>
+          <td style="width: 80%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #406380;">3</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="line-height: 15.75pt;"><br style="line-height: 15.75pt;">
+    </div>
+    <div style="line-height: 15.75pt">&#160;</div>
+    <table cellspacing="0" cellpadding="2" border="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zb853a54177014c4e8c441530e309dc6b">
+
+        <tr>
+          <td style="width: 57.09%; vertical-align: middle; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Fields Reviewed</div>
+          </td>
+          <td style="width: 28.54%; vertical-align: middle; background-color: #406380; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Discrepancy Count</div>
+          </td>
+          <td style="width: 14.37%; vertical-align: middle; background-color: #406380; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Percentage</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 57.09%; vertical-align: middle; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #000000;">Index Type</div>
+          </td>
+          <td style="width: 28.54%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+          </td>
+          <td style="width: 14.37%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">0.00%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 57.09%; vertical-align: middle; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #000000;">Loan Purpose</div>
+          </td>
+          <td style="width: 28.54%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+          </td>
+          <td style="width: 14.37%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">0.00%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 57.09%; vertical-align: middle; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #000000;">Origination/Note Date</div>
+          </td>
+          <td style="width: 28.54%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">2</div>
+          </td>
+          <td style="width: 14.37%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">66.67%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 57.09%; vertical-align: middle; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #000000;">Originator Back-End DTI</div>
+          </td>
+          <td style="width: 28.54%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">1</div>
+          </td>
+          <td style="width: 14.37%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">33.33%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 57.09%; vertical-align: middle; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #000000;">Property Type</div>
+          </td>
+          <td style="width: 28.54%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+          </td>
+          <td style="width: 14.37%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">0.00%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 57.09%; vertical-align: middle; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #000000;">Subject Street Address</div>
+          </td>
+          <td style="width: 28.54%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">0</div>
+          </td>
+          <td style="width: 14.37%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000;">0.00%</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 57.09%; vertical-align: middle; background-color: #FFFFFF; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Total Discrepancies:</div>
+          </td>
+          <td style="width: 28.54%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000; font-weight: bold;">3</div>
+          </td>
+          <td style="width: 14.37%; vertical-align: middle; background-color: #FFFFFF; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="text-align: center; line-height: 9.1pt; color: #000000; font-weight: bold;">100.00%</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="line-height: 15.75pt;"><br style="line-height: 15.75pt;">
+    </div>
+    <div style="line-height: 15.75pt">&#160;</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after: always;" id="DSPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="2" border="0" id="z2270022a6613488f95fc8e4ce17f1aac" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 20%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+              <div style="line-height: 9.1pt; color: rgb(64, 99, 128); font-family: 'Times New Roman',Times,serif; font-weight: bold;">Client:</div>
+            </td>
+            <td style="width: 80%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+              <div style="line-height: 9.1pt; color: #406380;">XXXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 20%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+              <div style="line-height: 9.1pt; color: rgb(64, 99, 128); font-family: 'Times New Roman',Times,serif; font-weight: bold;">Batch:</div>
+            </td>
+            <td style="width: 80%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+              <div style="line-height: 9.1pt; color: #406380;">XXXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 20%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+              <div style="line-height: 9.1pt; color: rgb(64, 99, 128); font-family: 'Times New Roman',Times,serif; font-weight: bold;">Report Pulled:</div>
+            </td>
+            <td style="width: 80%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+              <div style="line-height: 9.1pt; color: #406380;">5/19/2020 4:07:29 PM</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 20%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+              <div style="line-height: 9.1pt; color: rgb(64, 99, 128); font-family: 'Times New Roman',Times,serif; font-weight: bold;">Loan Count:</div>
+            </td>
+            <td style="width: 80%; vertical-align: middle; background-color: rgb(255, 255, 255);">
+              <div style="line-height: 9.1pt; color: #406380;">3</div>
+            </td>
+          </tr>
+
+      </table>
+      <div style="line-height: 15.75pt;"><br style="line-height: 15.75pt;">
+      </div>
+      <div style="line-height: 15.75pt">&#160;</div>
+      <table cellspacing="0" cellpadding="2" border="0" id="za35b3fd0d9dc4fb1832247860ebf3d66" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #406380; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Audit ID</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #406380; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Loan Number</div>
+            </td>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #406380; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Borrower Last Name</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #406380; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Field</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #406380; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">CADIEField</div>
+            </td>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #406380; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Tape Data</div>
+            </td>
+            <td style="width: 13.69%; vertical-align: middle; background-color: #406380; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Review Data</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">6704316</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="line-height: 9.1pt; color: #000000;">Origination/Note Date</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="line-height: 9.1pt; color: #000000;">AH_OrigDate</div>
+            </td>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 13.69%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">6704315</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="line-height: 9.1pt; color: #000000;">Origination/Note Date</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="line-height: 9.1pt; color: #000000;">AH_OrigDate</div>
+            </td>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 13.69%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">6704315</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="line-height: 9.1pt; color: #000000;">Originator Back-End DTI</div>
+            </td>
+            <td style="width: 19.14%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="line-height: 9.1pt; color: #000000;">Mort_DTI</div>
+            </td>
+            <td style="width: 9.63%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+            <td style="width: 13.69%; vertical-align: middle; background-color: #FFFACD; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+              <div style="text-align: center; line-height: 9.1pt; color: #000000;">XXXX</div>
+            </td>
+          </tr>
+
+      </table>
+      <div style="line-height: 15.75pt;"><br style="line-height: 15.75pt;">
+      </div>
+      <div style="line-height: 15.75pt">&#160;</div>
+    </div>
+    <div> <br>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
