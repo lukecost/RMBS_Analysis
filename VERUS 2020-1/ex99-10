@@ -1,0 +1,1013 @@
+<DOCUMENT>
+<TYPE>EX-99.10
+<SEQUENCE>11
+<FILENAME>tm201909d1_ex99-10.htm
+<DESCRIPTION>CLAYTON LOAN LEVEL TAPE COMPARE UPLOAD
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.10 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Clayton
+Loan Level Tape Compare Upload</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: left"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: left"><FONT STYLE="text-transform: uppercase"><B></B></FONT></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: left"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 8pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding-bottom: 0; white-space: nowrap; width: 20%; padding-right: 0; padding-left: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Client
+    Name:</B></FONT></TD>
+    <TD STYLE="padding-bottom: 0; white-space: nowrap; width: 80%; padding-right: 0; padding-left: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Verus
+    </FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding-bottom: 0; white-space: nowrap; padding-right: 0; padding-left: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Client
+    Project Name:</B></FONT></TD>
+    <TD STYLE="padding-bottom: 0; white-space: nowrap; padding-right: 0; padding-left: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Verus
+    2020-1</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding-bottom: 0; white-space: nowrap; padding-right: 0; padding-left: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Start
+    - End Dates:</B></FONT></TD>
+    <TD STYLE="padding-bottom: 0; white-space: nowrap; padding-right: 0; padding-left: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">6/2019
+    - 12/2019</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding-bottom: 0; white-space: nowrap; padding-right: 0; padding-left: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Deal
+    Loan Count:</B></FONT></TD>
+    <TD STYLE="padding-bottom: 0; padding-right: 0; padding-left: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">214
+    </FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: left"><FONT STYLE="text-transform: uppercase"><B></B></FONT></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt"><B>Loan Level Tape Compare Upload</B></FONT></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: middle; background-color: blue">
+    <TD STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: center; width: 16%"><FONT STYLE="font-size: 10pt">Loan
+    Number</FONT></TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 27%"><FONT STYLE="font-size: 10pt">Field
+    Name</FONT></TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 33%"><FONT STYLE="font-size: 10pt">Tape
+    Data</FONT></TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 24%"><FONT STYLE="font-size: 10pt">Reviewer
+    Data</FONT></TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">732151</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">36.2020</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">28.8298</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732153</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Last Name</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733667</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Last Name</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732164</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">49.1800</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">51.3736</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733669</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">39.6030</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29.4639</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733669</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">36.5120</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29.0693</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732173</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">43.2130</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">47.7466</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732173</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">40.7100</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">44.9803</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735947</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732179</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732179</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29.5350</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">24.9332</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732179</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">28.1170</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">23.5156</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732180</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 First Time Home Buyer</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733677</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">42.9740</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">33.2234</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732191</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732192</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732192</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">43.2890</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">40.6871</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732193</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732194</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732194</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">42.8230</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">38.1518</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732195</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732196</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732196</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">46.9130</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">41.7516</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734987</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">19.7260</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">16.2798</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734987</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">14.9320</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">11.5929</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733678</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Last Name</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733679</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">32.9510</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">28.4921</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732204</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Last Name</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733311</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">18.3830</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">15.2046</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733311</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">16.1110</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">12.9325</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733311</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Property
+    City</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733312</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">75</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">71</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733312</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">75</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">71</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734400</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 First Time Home Buyer</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734400</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">46.3140</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">43.9707</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734400</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">33.0330</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29.5961</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733313</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">39.2730</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">41.2824</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734409</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">38.2650</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">32.1645</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734409</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">30.2280</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">24.1386</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735952</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">25.6510</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">21.7868</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735952</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">19.5070</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">16.6568</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734990</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.9880</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">42.7024</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733693</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Last Name</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733701</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">22.6780</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">17.9282</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733701</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    P&amp;I</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">2009.24</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">2009.25</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734418</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">56</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">55</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734993</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.3250</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">28.5958</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734993</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">35.5940</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">26.8647</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733318</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">47.9640</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">44.0188</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733318</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">19.3460</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">15.3968</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735957</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">34.6270</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.4166</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734397</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733320</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">42.0830</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">45.3609</FONT></TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733705</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">47.2780</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">39.6529</FONT></TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733705</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">35.6790</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt; background-color: white"><FONT STYLE="font-size: 10pt">28.0538</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733706</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">17.7130</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">20.3313</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734419</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">25</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734419</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">25</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734994</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">41.8920</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">34.0570</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734994</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">25.7560</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">16.8650</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734994</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733708</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">58</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">64</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733708</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">40</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">44</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733321</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Last Name</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">736662</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">44.1460</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">52.7970</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">736662</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">21.9760</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">26.1298</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733714</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">733714</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">24.0450</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">19.7657</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735962</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">45.7500</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">43.5251</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735962</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.6960</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">34.9649</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734998</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">35.6140</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.8237</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734414</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.1900</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">44.3934</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734408</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">44.7170</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">32.6531</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734408</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">39.9190</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">27.9997</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735005</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">41.5110</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.0256</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735005</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29.5560</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">24.5759</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735964</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">46.2600</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">41.6113</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735964</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">28.6160</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">23.9183</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734420</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Last Name</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734420</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735009</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 First Time Home Buyer</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735009</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735968</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">49.5330</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">45.9451</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735968</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">36.9710</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">33.6963</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735970</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">49.9550</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">41.8967</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735970</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">49.9550</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">41.8967</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735011</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">47.1790</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.3337</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735011</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">33.9070</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">24.9736</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735974</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.0120</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">32.0286</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735974</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">25.0930</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">20.3216</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735974</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    P&amp;I</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">5960.62</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">5960.63</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735979</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 First Time Home Buyer</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">736661</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">42.0730</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">36.0931</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">736661</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">33.0010</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">26.9105</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">736660</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">80</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">81</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">736660</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">23.7970</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">41.3948</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">736660</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">80</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">81</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735983</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">49.4440</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">42.1341</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735983</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">45.2440</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.2870</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">736663</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Borrower
+    1 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732216</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">33.9500</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">36.0698</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732219</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">43.8750</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">34.5753</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732219</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">39.0510</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29.7050</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734552</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734584</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734555</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734564</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Disbursement
+    Date</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734566</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734566</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Number
+    of Units</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">2</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">1</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734580</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734580</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    Term</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">360</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">480</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734615</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734585</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734585</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Margin
+    (ARM Loan)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">3.500</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">3.750</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734585</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    Term</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">360</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">480</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734585</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Origination
+    Date</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734557</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734617</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734617</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    Appraised Value</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734608</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Disbursement
+    Date</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734568</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Disbursement
+    Date</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734568</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Margin
+    (ARM Loan)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">3.500</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">3.750</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734554</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734586</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734549</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734553</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734576</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734576</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Origination
+    Date</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734579</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734550</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    Appraised Value</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734595</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Disbursement
+    Date</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734551</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Rate
+    and Term Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Cashout
+    Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734602</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Disbursement
+    Date</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734588</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">73</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">74</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734588</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">73</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">74</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">731756</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    Appraised Value</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734256</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    Balance</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734247</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">15.3200</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">21.6184</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734258</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">16.6050</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">24.9807</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734250</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">30.9790</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">37.8649</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">734257</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">46.6390</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">49.0007</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735434</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Property
+    Street Address</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735440</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">29.9720</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">15.1752</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735429</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">45.4020</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">40.5329</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">735438</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">23.5760</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">21.1805</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 10pt">732283</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">Original
+    Term</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">60</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: Black 1pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 10pt">480</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: left"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
