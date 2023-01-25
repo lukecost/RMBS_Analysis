@@ -1,0 +1,740 @@
+<DOCUMENT>
+<TYPE>EX-99.6
+<SEQUENCE>7
+<FILENAME>ex99-6.htm
+<DESCRIPTION>AMC LEGACY EXCEPTION GRADES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV>
+
+<P STYLE="font-weight: bold; margin: 0 0 12pt; text-align: right"></P>
+
+<P STYLE="margin: 0 0 0pt; text-align: left"><A HREF="aomt-abs15g_120820.htm">AOMT 2020-R1 ABS-15G</A></P>
+<P STYLE="margin: 0 0 12pt; font-weight: bold; text-align: right">Exhibit 99.6</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"><IMG SRC="logo.gif" ALT=""></P>
+
+<P STYLE="color: #214D88; font: bold 12pt Segoe UI; margin-top: 0pt; margin-bottom: 0pt">Exception Grades</P>
+
+<P STYLE="color: #214D88; font: bold 10pt Segoe UI; margin-top: 0pt; margin-bottom: 0pt">Run Date - 12/4/2020 8:04:54 AM</P>
+
+<TABLE BORDER="1" CELLPADDING="3" BORDERCOLOR="Black" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 9pt Calibri, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: bottom; background-color: #214D88">
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 25%">AMC Loan ID</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Customer Loan ID</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Seller Loan ID</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Loan Exception ID</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Exception ID</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; text-align: right; width: 3%">Exception Date</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Exception Type</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Exception Category</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Exception Subcategory</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Exception</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Exception Detail</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Exception Information</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Compensating Factors</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Compensating Factor Information</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Applying Party</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Follow-up Comments</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; text-align: right; width: 3%">Cleared Date</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; text-align: right; width: 3%">Cured Date</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; text-align: right; width: 3%">Waived Date</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; text-align: center; width: 3%">Exception Level Grade</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; text-align: right; width: 3%">Exception Level Rating</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; text-align: right; width: 3%">Note Date</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Property State</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Occupancy</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Purpose</TD>
+<TD STYLE="color: white; font: bold 8pt Segoe UI; width: 3%">Exception Remediation</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008279</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900012643</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Mortgage Exception Approved Form - rate exception.</TD>
+<TD></TD>
+<TD>1. Borr has paid current xxxx mtg since 2006 with no lates. 2. xxxx for 10 yrs - same business. 3. $3831 residual income.</TD>
+<TD></TD>
+<TD></TD>
+<TD>This is a Non-prime loan, allowing for Underwriter Exceptions with compensating factors</TD>
+<TD></TD>
+<TD STYLE="text-align: right">08/16/2015</TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008279</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900012646</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Borrower is a Non-Permanent Resident Alien (per Mortgage Exception form and Final 1003), Bank Statement Loan Programs are not allowed</TD>
+<TD></TD>
+<TD>1) Borrower has paid current xxxx mtg since 2006 with not lates&nbsp;2) xxxx for 10 years - same business&nbsp;3) $3831 residual income- program only requires $1500</TD>
+<TD></TD>
+<TD></TD>
+<TD>7/13/15 Received Mortgage Exception Approval Form for Bank Statement loan with a Non-US Citizen. He is a non-permanent resident alien, Borrower has limited tradelines. Rate Exception</TD>
+<TD></TD>
+<TD STYLE="text-align: right">08/16/2015</TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900011382</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>AUS</TD>
+<TD>Guideline Issue</TD>
+<TD>Guideline Requirement: Total debt ratio discrepancy.</TD>
+<TD>Updated DTI of 43.48&gt; max allowed of 43; Mortgage Exception Approval Form in file. DTI over 35/43% for cashout transaction</TD>
+<TD></TD>
+<TD>1) mortgage history 0x30 99 &amp; 86 months. 2) LTV 10% below program requirements. 3) 26 months reserves.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>loan_1003.purpose/refi_purpose /&nbsp;tigre_value / Refi cash out / NO MATCH</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900010394</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Mortgage Exception Approval Form in file (page 559). Back end DTI 48%.</TD>
+<TD></TD>
+<TD>Compensating Factors: 1) LTV 10% below program requirements, 2) Residual $8000.00. 3) Length of time on job for borrower 40 years.</TD>
+<TD></TD>
+<TD></TD>
+<TD>1/26/16 Received Mortgage Exception approval, Received Appendix A to May 25, 2015, DTI exceptions allowed.</TD>
+<TD STYLE="text-align: right">02/04/2016</TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>loan_1003.purpose/refi_purpose /&nbsp;tigre_value / Refi cash out / NO MATCH</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016781</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900021083</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>&gt;250% payment shock &gt; 150% max Mortgage Exception Approval Form in file. Payment Shock exceeds 250%.</TD>
+<TD></TD>
+<TD>1) DTI 17/24. 2) Reserves in excess of program requirement. 3) Residual 16,000.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017028</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900017422</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>AUS</TD>
+<TD>Guideline Issue</TD>
+<TD>Guideline Requirement: Total debt ratio discrepancy.</TD>
+<TD>Updated DTI of 49.99&gt; max allowed of 43, unable to verify Deposits for May 2015 $26,200</TD>
+<TD></TD>
+<TD>1) 10+ years xxxx. 2) Reserves above stated guidelines. 3) 0 x 30 residential pay history for 24 mos.</TD>
+<TD></TD>
+<TD></TD>
+<TD>8/25/15 Received clarification on April / May statements, DTI is now at 49.99%, exception in file for DTI above 43%.</TD>
+<TD STYLE="text-align: right">08/25/2015</TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Second Home</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017028</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900021392</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Mortgage Exception Approval Form. Back end DTI above 43%.</TD>
+<TD></TD>
+<TD>1) 10+ years xxxx. 2) Reserves above stated guidelines. 3) 0 x 30 residential pay history for 24 mos.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="text-align: right">08/25/2015</TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Second Home</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007588</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900011952</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Mortgage Exception Approval Form in file. LTV &gt; 75% for Limited.</TD>
+<TD></TD>
+<TD>Compensating Factors: &lt;125 % pymt shock. 2) Low housing ration (&lt;25%). 3) Strong ties to subject (prev owned &amp; rented last 5 yrs)</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900014190</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900018556</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Mortgage Exception Approval Form in file. Expired Green Card.</TD>
+<TD></TD>
+<TD>Compensating Factors: 1) Borr has established residency/business in US. 2) Application on file &amp; Borro to forward new card upon rcpt. 3) Significantly low ratios/high disposable/Full doc loan.</TD>
+<TD></TD>
+<TD></TD>
+<TD>1/26/16 Received Permanent resident card, with expiration date of xx/xx/xxxx</TD>
+<TD STYLE="text-align: right">01/26/2016</TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900014190</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900018609</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Compliance</TD>
+<TD>Compliance</TD>
+<TD>Federal</TD>
+<TD>TIL Finance Charge Tolerance</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>1/29/16 Received Corrected final TIL, letter to borrower regarding Index, and FED-EX label showing it was mailed out 1/28/16, remains an EV3 for being outside 60 days of discovery.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>3&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900015592</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>AUS</TD>
+<TD>Guideline Issue</TD>
+<TD>Guideline Requirement: Loan to value discrepancy.</TD>
+<TD>80% LTV &gt; 75% max (Non Prime w/Limited Tradelines).&nbsp;Lender's Mortgage Exception Approval Form in file (p 152)</TD>
+<TD></TD>
+<TD>low ratios (&lt; 30/30), 10% min investment met (own funds), &gt; $3000.00 disposable, &lt; 125% payment shock</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900015595</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>AUS</TD>
+<TD>Guideline Issue</TD>
+<TD>Guideline Requirement: PITIA reserves months discrepancy.</TD>
+<TD>3 mos reserves &lt; 6 mos (Non Prime w/Limited Tradelines). Lender's Mortgage Exception Approval Form in file (p 152)</TD>
+<TD></TD>
+<TD>low ratios (&lt; 30/30), 10% min investment met (own funds), &gt; $3000.00 disposable, &lt; 125% payment shock</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900013378</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900017638</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Compliance</TD>
+<TD>HUD</TD>
+<TD>Document Error</TD>
+<TD>HUD Error: Disbursement date is blank.</TD>
+<TD>1) Page of 1 of HUD-1 provided indicates subject mortgage paid off and no consumer debts paid off. Addendum to HUD-1 indicates subject mortgage paid off and 4 consumer debts paid off. 2) Missing copies of&nbsp;4 consumer debt payoff checks. Loan approval based on 4 consumer debts paid off through closing for the purpose of qualifying.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>Debt was added back into ratios</TD>
+<TD></TD>
+<TD STYLE="text-align: right">07/15/2016</TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>loan_1003.purpose/refi_purpose /&nbsp;tigre_value / Refi cash out / NO MATCH</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900013378</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900017742</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Mortgage Exception Approval Form in file. Back End DTI above 43%. Less than 6 months full reserves verified. Documents on sale of art accepted for $10,000.</TD>
+<TD></TD>
+<TD>Compensating Factors: 1) Housing ratio &lt; 30%. 2) &lt; 125% payment shock. 3) &gt; $6000 disposable. 4) Co-borrower also has retirement in the UK not used. Comp factor only.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>loan_1003.purpose/refi_purpose /&nbsp;tigre_value / Refi cash out / NO MATCH</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016774</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900021193</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Compliance</TD>
+<TD>Compliance</TD>
+<TD>Federal</TD>
+<TD>TIL Finance Charge Tolerance</TD>
+<TD>Finance Charge Variance $3,134.29</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>1/29/16 Received Corrected final TIL, letter to borrower regarding Index, and FED-EX label showing it was mailed out 1/28/16, remains an EV3 for being outside 60 days of discovery.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>3&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Second Home</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007855</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900012219</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Mortgage Exception Approval Form in file. First time home buyer / Alt Doc Program.</TD>
+<TD></TD>
+<TD>Compensating Factors: 1) 23 months canceled rent checks. 2) 9 months reserves. 3) 9 years on job.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007855</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900012274</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Compliance</TD>
+<TD>Compliance</TD>
+<TD>Federal</TD>
+<TD>TIL Finance Charge Tolerance</TD>
+<TD>Finance Charge Variance $5,234.54 underdisclosed</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>1/29/16 Received Corrected final TIL, letter to borrower regarding Index, and FED-EX label showing it was mailed out 1/28/16, remains an EV3 for being outside 60 days of discovery.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>3&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007855</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900012418</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Compliance</TD>
+<TD>Compliance</TD>
+<TD>Federal</TD>
+<TD>RESPA 2010 GFE to Actual Interest Rate</TD>
+<TD>HUD-1 reflects $0.64 cure credit from Lender.&nbsp;GFE Transfer Tax $4048.69.&nbsp;HUD-1 Transfer Tax $4049.33</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006964</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900011268</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>AUS</TD>
+<TD>Guideline Issue</TD>
+<TD>Guideline Requirement: PITIA reserves months discrepancy.</TD>
+<TD>1 months reserves &lt; 6 months min.&nbsp;$2484.69 in verified assets &lt; $12680.34 required.&nbsp;Reserves required are exclusive of cash-out ($25337.67) received.</TD>
+<TD></TD>
+<TD>$5233.26 disposable income, 24.32% / 39.78% DTI &lt; 43%, Payment Shock less than 125%, 0x30x24 mtg history</TD>
+<TD></TD>
+<TD></TD>
+<TD>1/26/16 Received Mortgage Exception approval form for Short Reserves.</TD>
+<TD STYLE="text-align: right">01/26/2016</TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>loan_1003.purpose/refi_purpose /&nbsp;tigre_value / Refi cash out / NO MATCH</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012731</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900013125</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>AUS</TD>
+<TD>Guideline Issue</TD>
+<TD>Guideline Requirement: Total debt ratio discrepancy.</TD>
+<TD>Updated DTI of 45.66 &gt; max allowed of 43, Revolving Account Jared was not included in Original DTI as less than 5 payments left, however, account is a revolving account.</TD>
+<TD></TD>
+<TD>1) xxxx 16 years 2) $16,778.21 disposable income 3) &gt; 20 mos PITIA reserves</TD>
+<TD></TD>
+<TD></TD>
+<TD>10/26/15 Received Mortgage Exception Approval Form for Back end ratio &gt; 43%</TD>
+<TD STYLE="text-align: right">10/26/2015</TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012731</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900017150</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Compliance</TD>
+<TD>Compliance</TD>
+<TD>Federal</TD>
+<TD>TIL Finance Charge Tolerance</TD>
+<TD>Finance Charge Variance $3,608.46, underdisclosed</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>1/29/16 Received Corrected final TIL, letter to borrower regarding Index, and FED-EX label showing it was mailed out 1/28/16, remains an EV3 for being outside 60 days of discovery.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>3&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011172</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900015536</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>Credit</TD>
+<TD>Miscellaneous</TD>
+<TD>Credit Exception:</TD>
+<TD>Mortgage Exception Approval Form in file. Decline in income &amp; used of 2 accounts (consecutively, not concurrently) on bank statement program &amp; back end ration &gt; 43%.</TD>
+<TD></TD>
+<TD>Compensating Factors: 1) Housing payment reduction/0% payment shock. 2) used conserve calc for income. 3) &gt; 30 mos PITIA reserves.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011172</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD>900015591</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Compliance</TD>
+<TD>Compliance</TD>
+<TD>Federal</TD>
+<TD>TIL Finance Charge Tolerance</TD>
+<TD>Finance Charge Variance $3,528.14</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>1/29/16 Received Corrected final TIL, letter to borrower regarding Index, and FED-EX label showing it was mailed out 1/28/16, remains an EV3 for being outside 60 days of discovery.</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>3&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="font: 8pt Segoe UI">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008107</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD STYLE="text-align: right">900008501</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD>AUS</TD>
+<TD>Guideline Issue</TD>
+<TD>Guideline Requirement: Total debt ratio discrepancy.</TD>
+<TD>Updated Housing DTI of 36.94 &gt; max allowed of 35</TD>
+<TD></TD>
+<TD>1) 30% Down Payment own funds&nbsp;2) 793 FICO with perfect 0X30 Credit (incl 52 mos mtg thru xx/xx sale) 3) 3 mos &gt; than required PITIA Reserves&nbsp;4) Only 1 Consurmer Debt w low bal/pymt</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="text-align: center">2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="text-align: center">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008107</TD>
+<TD STYLE="font: 8pt Segoe UI">xxxx</TD>
+<TD></TD>
+<TD STYLE="text-align: right">900012409</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+<TD>Credit</TD>
+<TD></TD>
+<TD></TD>
+<TD>Payment Shock is excessive and/or greater than that allowed by guidelines</TD>
+<TD>256% payment shock &gt; 150% max</TD>
+<TD></TD>
+<TD>Exception approval based on 793&nbsp;FICO wth perfect 0 X 30 Credit, only 1 consumer debt with low balance and payment, over 30% down payment of own funds</TD>
+<TD>Exception approval in file</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="text-align: center">2&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD STYLE="text-align: center">xx</TD>
+<TD>Primary</TD>
+<TD>Purchase</TD>
+<TD></TD></TR>
+</TABLE>
+
+<!-- Field: Page; Options: Last --><DIV STYLE="border-bottom: Black 1pt solid">&nbsp;</DIV><!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
