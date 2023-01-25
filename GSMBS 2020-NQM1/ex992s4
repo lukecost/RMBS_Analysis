@@ -1,0 +1,1315 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>15
+<FILENAME>efc20-658_ex992s4.htm
+<DESCRIPTION>SCHEDULE 4 - LOAN LEVEL TAPE COMPARE
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <table cellspacing="0" cellpadding="2" border="0" id="zf7bc0a30cb6d459d93ceb2182ece15d1" style="font-family: 'Times New Roman',Times,serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);">
+
+        <tr>
+          <td style="width: 20.74%; vertical-align: top; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Client Name:</div>
+          </td>
+          <td style="width: 79.26%; vertical-align: top; background-color: rgb(255, 255, 255);" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif;">Goldman Sachs</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20.74%; vertical-align: top; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Client Project Name:</div>
+          </td>
+          <td style="width: 79.26%; vertical-align: top; background-color: rgb(255, 255, 255);" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif;">GSMBS 2020-NQM1</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20.74%; vertical-align: top; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Start - End Dates:</div>
+          </td>
+          <td style="width: 79.26%; vertical-align: top; background-color: rgb(255, 255, 255);" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif;">07/2016 - 03/2020</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20.74%; vertical-align: top; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Deal Loan Count:</div>
+          </td>
+          <td style="width: 79.26%; vertical-align: top; background-color: rgb(255, 255, 255);" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif;">88</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20.74%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+          <td style="width: 26.43%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+          <td style="width: 26.42%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+          <td style="width: 26.42%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 73.58%; vertical-align: top; background-color: rgb(255, 255, 255);" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif; font-weight: bold;">Loan Level Tape Compare Upload</div>
+          </td>
+          <td style="width: 26.42%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20.74%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+          <td style="width: 26.43%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+          <td style="width: 26.42%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+          <td style="width: 26.42%; vertical-align: bottom; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 11.4pt; color: #000000; font-family: 'Times New Roman', Times, serif;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 20.74%; vertical-align: top; background-color: rgb(255, 255, 255);">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif; font-style: italic;">Loans in Report</div>
+          </td>
+          <td style="width: 79.26%; vertical-align: top; background-color: rgb(255, 255, 255);" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-family: 'Times New Roman', Times, serif; font-style: italic;">88</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="line-height: 15.75pt;"><br style="line-height: 15.75pt;">
+    </div>
+    <div style="line-height: 15.75pt;">
+      <table cellspacing="0" cellpadding="1" border="1" align="left" id="zb388247c55034a698a54a34195b54944">
+
+          <tr>
+            <td width="119">Loan Number</td>
+            <td width="104">Borrower Last Name</td>
+            <td width="167">Field Name</td>
+            <td width="184">Tape Data</td>
+            <td width="180">Reviewer Data</td>
+          </tr>
+          <tr>
+            <td width="119">700743</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">44.0428</td>
+            <td width="180">38.2338</td>
+          </tr>
+          <tr>
+            <td width="119">700743</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">70000.00</td>
+            <td width="180">75333.76</td>
+          </tr>
+          <tr>
+            <td width="119">700752</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Borrower 1 First Time Home Buyer</td>
+            <td width="184">No</td>
+            <td width="180">Yes</td>
+          </tr>
+          <tr>
+            <td width="119">700752</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">37.3245</td>
+            <td width="180">40.6203</td>
+          </tr>
+          <tr>
+            <td width="119">700752</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Months Reserves</td>
+            <td width="184">4.00</td>
+            <td width="180">10.88</td>
+          </tr>
+          <tr>
+            <td width="119">700752</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">152000.00</td>
+            <td width="180">156000.00</td>
+          </tr>
+          <tr>
+            <td width="119">700753</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">39.8080</td>
+            <td width="180">28.2522</td>
+          </tr>
+          <tr>
+            <td width="119">700753</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Front)</td>
+            <td width="184">18.6906</td>
+            <td width="180">13.4274</td>
+          </tr>
+          <tr>
+            <td width="119">700757</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">42.4786</td>
+            <td width="180">34.1639</td>
+          </tr>
+          <tr>
+            <td width="119">700757</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Front)</td>
+            <td width="184">39.5420</td>
+            <td width="180">31.8021</td>
+          </tr>
+          <tr>
+            <td width="119">700757</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Months Reserves</td>
+            <td width="184">12.00</td>
+            <td width="180">15.19</td>
+          </tr>
+          <tr>
+            <td width="119">16690797</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Loan Purpose</td>
+            <td width="184">Cashout Refi</td>
+            <td width="180">Purchase</td>
+          </tr>
+          <tr>
+            <td width="119">18132284</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Loan Purpose</td>
+            <td width="184">Cashout Refi</td>
+            <td width="180">Purchase</td>
+          </tr>
+          <tr>
+            <td width="119">19235978</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">325000.00</td>
+            <td width="180">335000.00</td>
+          </tr>
+          <tr>
+            <td width="119">19365794</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Loan Purpose</td>
+            <td width="184">Cashout Refi</td>
+            <td width="180">Purchase</td>
+          </tr>
+          <tr>
+            <td width="119">19365961</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Loan Purpose</td>
+            <td width="184">Cashout Refi</td>
+            <td width="180">Purchase</td>
+          </tr>
+          <tr>
+            <td width="119">19365961</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">Cooperative</td>
+            <td width="180">Detached PUD</td>
+          </tr>
+          <tr>
+            <td width="119">20266424</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Loan Purpose</td>
+            <td width="184">Cashout Refi</td>
+            <td width="180">Purchase</td>
+          </tr>
+          <tr>
+            <td width="119">21635190</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Loan Purpose</td>
+            <td width="184">Cashout Refi</td>
+            <td width="180">Purchase</td>
+          </tr>
+          <tr>
+            <td width="119">21672048</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Loan Purpose</td>
+            <td width="184">Cashout Refi</td>
+            <td width="180">Purchase</td>
+          </tr>
+          <tr>
+            <td width="119">1605000129</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">Low Rise Condo (1-4)</td>
+            <td width="180">Mid Rise Condo (5-8)</td>
+          </tr>
+          <tr>
+            <td width="119">1605000129</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">'-123422.04</td>
+            <td width="180">123422.04</td>
+          </tr>
+          <tr>
+            <td width="119">1607000154</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Representative Credit Score for Grading</td>
+            <td width="184">683</td>
+            <td width="180">752</td>
+          </tr>
+          <tr>
+            <td width="119">1607000154</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Sales Price</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">1607000154</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">124776.72</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1607000162</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">'-97987.40</td>
+            <td width="180">14660.21</td>
+          </tr>
+          <tr>
+            <td width="119">1607000170</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">4271.79</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1608000187</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">SFR-Attached</td>
+            <td width="180">3 Family</td>
+          </tr>
+          <tr>
+            <td width="119">1608000187</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">'-479799.16</td>
+            <td width="180">479799.16</td>
+          </tr>
+          <tr>
+            <td width="119">1609000199</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">SFR-Attached</td>
+            <td width="180">SFR</td>
+          </tr>
+          <tr>
+            <td width="119">1609000199</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">81414.60</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1609000203</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">SFR</td>
+            <td width="180">Detached PUD</td>
+          </tr>
+          <tr>
+            <td width="119">1609000203</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">'-74552.19</td>
+            <td width="180">75000.00</td>
+          </tr>
+          <tr>
+            <td width="119">1609000208</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">'-40136.07</td>
+            <td width="180">40136.07</td>
+          </tr>
+          <tr>
+            <td width="119">1609000214</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">398000.00</td>
+            <td width="180">415000.00</td>
+          </tr>
+          <tr>
+            <td width="119">1609000214</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">93320.62</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1610000220</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">68289.38</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1610000241</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">455797.00</td>
+            <td width="180">450000.00</td>
+          </tr>
+          <tr>
+            <td width="119">1610000241</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">82862.45</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1612000291</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">62707.11</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1612000307</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">Detached PUD</td>
+            <td width="180">Attached PUD</td>
+          </tr>
+          <tr>
+            <td width="119">1612000307</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">33729.34</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1612000311</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">480000.00</td>
+            <td width="180">500000.00</td>
+          </tr>
+          <tr>
+            <td width="119">1612000311</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Representative Credit Score for Grading</td>
+            <td width="184">762</td>
+            <td width="180">731</td>
+          </tr>
+          <tr>
+            <td width="119">1612000311</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">155369.49</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1612000336</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">597760.00</td>
+            <td width="180">598000.00</td>
+          </tr>
+          <tr>
+            <td width="119">1612000336</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">58485.03</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1701000342</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">394.96</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1701000347</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">205000.00</td>
+            <td width="180">207000.00</td>
+          </tr>
+          <tr>
+            <td width="119">1701000347</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">48741.01</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1701000375</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">Low Rise Condo (1-4)</td>
+            <td width="180">Mid Rise Condo (5-8)</td>
+          </tr>
+          <tr>
+            <td width="119">1701000375</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">'-33860.44</td>
+            <td width="180">53877.77</td>
+          </tr>
+          <tr>
+            <td width="119">1702000392</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">134998.14</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1702000400</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">875000.00</td>
+            <td width="180">956000.00</td>
+          </tr>
+          <tr>
+            <td width="119">1702000400</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original LTV</td>
+            <td width="184">77</td>
+            <td width="180">70</td>
+          </tr>
+          <tr>
+            <td width="119">1702000400</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">'-155777.31</td>
+            <td width="180">261390.62</td>
+          </tr>
+          <tr>
+            <td width="119">1702000471</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">Detached PUD</td>
+            <td width="180">Attached PUD</td>
+          </tr>
+          <tr>
+            <td width="119">1702000471</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">57468.44</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1704000581</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">17166.02</td>
+            <td width="180">1741.11</td>
+          </tr>
+          <tr>
+            <td width="119">1704002100</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">30988.24</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1705002270</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">SFR</td>
+            <td width="180">2 Family</td>
+          </tr>
+          <tr>
+            <td width="119">1705002270</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">76793.49</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1705002305</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">38557.28</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1705002347</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">SFR</td>
+            <td width="180">Detached PUD</td>
+          </tr>
+          <tr>
+            <td width="119">1706002393</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">124737.66</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1706002399</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">SFR</td>
+            <td width="180">Detached PUD</td>
+          </tr>
+          <tr>
+            <td width="119">1706002399</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">66927.32</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1706002462</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">163514.40</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">1707002491</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">'-278182.88</td>
+            <td width="180">266762.52</td>
+          </tr>
+          <tr>
+            <td width="119">1708002609</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">Low Rise Condo (1-4)</td>
+            <td width="180">High Rise Condo (9+)</td>
+          </tr>
+          <tr>
+            <td width="119">1708002609</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Total Cash Out</td>
+            <td width="184">79283.68</td>
+            <td width="180">0.00</td>
+          </tr>
+          <tr>
+            <td width="119">120020017880</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">22.1830</td>
+            <td width="180">18.9848</td>
+          </tr>
+          <tr>
+            <td width="119">120020017880</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Front)</td>
+            <td width="184">17.6560</td>
+            <td width="180">14.4583</td>
+          </tr>
+          <tr>
+            <td width="119">120020017880</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">3590.16</td>
+            <td width="180">2493.75</td>
+          </tr>
+          <tr>
+            <td width="119">120020017880</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Product Type</td>
+            <td width="184">30 Yr Fixed</td>
+            <td width="180">30 Yr Fixed Interest Only</td>
+          </tr>
+          <tr>
+            <td width="119">201019111814</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">802.00</td>
+            <td width="180">435.04</td>
+          </tr>
+          <tr>
+            <td width="119">201019114100</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">4001.79</td>
+            <td width="180">2744.45</td>
+          </tr>
+          <tr>
+            <td width="119">201019124842</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">38.1450</td>
+            <td width="180">18.8273</td>
+          </tr>
+          <tr>
+            <td width="119">201019124842</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Front)</td>
+            <td width="184">29.3170</td>
+            <td width="180">17.9038</td>
+          </tr>
+          <tr>
+            <td width="119">201019124842</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">4480.30</td>
+            <td width="180">3898.96</td>
+          </tr>
+          <tr>
+            <td width="119">201019124842</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Product Type</td>
+            <td width="184">5/1 I/O ARM</td>
+            <td width="180">10/1 I/O ARM</td>
+          </tr>
+          <tr>
+            <td width="119">201020010135</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">5237.55</td>
+            <td width="180">3981.46</td>
+          </tr>
+          <tr>
+            <td width="119">201020010135</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property City</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">201020010675</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">27.9980</td>
+            <td width="180">22.4044</td>
+          </tr>
+          <tr>
+            <td width="119">201020010675</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Front)</td>
+            <td width="184">21.6740</td>
+            <td width="180">13.9327</td>
+          </tr>
+          <tr>
+            <td width="119">201020010675</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">7954.91</td>
+            <td width="180">5463.75</td>
+          </tr>
+          <tr>
+            <td width="119">201020017570</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1198.33</td>
+            <td width="180">932.56</td>
+          </tr>
+          <tr>
+            <td width="119">201020018119</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1569.77</td>
+            <td width="180">1142.13</td>
+          </tr>
+          <tr>
+            <td width="119">201020018913</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">2913.14</td>
+            <td width="180">1323.02</td>
+          </tr>
+          <tr>
+            <td width="119">201020019438</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">36.4270</td>
+            <td width="180">51.6236</td>
+          </tr>
+          <tr>
+            <td width="119">201020019438</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">6613.49</td>
+            <td width="180">5045.78</td>
+          </tr>
+          <tr>
+            <td width="119">201020022049</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1980.72</td>
+            <td width="180">1835.61</td>
+          </tr>
+          <tr>
+            <td width="119">201020022074</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">3015.61</td>
+            <td width="180">2364.94</td>
+          </tr>
+          <tr>
+            <td width="119">201020022074</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Zip</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">201020022249</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">35.4630</td>
+            <td width="180">40.9654</td>
+          </tr>
+          <tr>
+            <td width="119">201020022249</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">4005.63</td>
+            <td width="180">3318.78</td>
+          </tr>
+          <tr>
+            <td width="119">320019100868</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019100868</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1817.88</td>
+            <td width="180">1312.21</td>
+          </tr>
+          <tr>
+            <td width="119">320019100868</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">SFR</td>
+            <td width="180">Detached PUD</td>
+          </tr>
+          <tr>
+            <td width="119">320019111139</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">4614.15</td>
+            <td width="180">3064.63</td>
+          </tr>
+          <tr>
+            <td width="119">320019111179</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1574.12</td>
+            <td width="180">1121.54</td>
+          </tr>
+          <tr>
+            <td width="119">320019112379</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019112379</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Occupancy Type</td>
+            <td width="184">Primary</td>
+            <td width="180">Second Home</td>
+          </tr>
+          <tr>
+            <td width="119">320019112379</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">789900.00</td>
+            <td width="180">790000.00</td>
+          </tr>
+          <tr>
+            <td width="119">320019112379</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">4735.01</td>
+            <td width="180">3053.30</td>
+          </tr>
+          <tr>
+            <td width="119">320019112379</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Type</td>
+            <td width="184">Low Rise Condo (1-4)</td>
+            <td width="180">High Rise Condo (9+)</td>
+          </tr>
+          <tr>
+            <td width="119">320019113325</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019113325</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">809.81</td>
+            <td width="180">554.36</td>
+          </tr>
+          <tr>
+            <td width="119">320019113979</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Back)</td>
+            <td width="184">48.1010</td>
+            <td width="180">40.7577</td>
+          </tr>
+          <tr>
+            <td width="119">320019113979</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Debt to Income Ratio (Front)</td>
+            <td width="184">29.7160</td>
+            <td width="180">24.3195</td>
+          </tr>
+          <tr>
+            <td width="119">320019113979</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019113979</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1443.34</td>
+            <td width="180">1106.50</td>
+          </tr>
+          <tr>
+            <td width="119">320019114092</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019114092</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">4951.13</td>
+            <td width="180">2625.42</td>
+          </tr>
+          <tr>
+            <td width="119">320019114092</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Zip</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019114149</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019114149</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">4630.10</td>
+            <td width="180">3053.30</td>
+          </tr>
+          <tr>
+            <td width="119">320019114262</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019114262</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1665.40</td>
+            <td width="180">1422.15</td>
+          </tr>
+          <tr>
+            <td width="119">320019125196</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019125196</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Loan Purpose</td>
+            <td width="184">Cashout Refi</td>
+            <td width="180">Rate and Term Refi</td>
+          </tr>
+          <tr>
+            <td width="119">320019125196</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1020.49</td>
+            <td width="180">648.70</td>
+          </tr>
+          <tr>
+            <td width="119">320019125196</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Zip</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019125827</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019125827</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1847.73</td>
+            <td width="180">1183.08</td>
+          </tr>
+          <tr>
+            <td width="119">320019125990</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019125990</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1429.30</td>
+            <td width="180">1020.46</td>
+          </tr>
+          <tr>
+            <td width="119">320019126089</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126089</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">637.67</td>
+            <td width="180">440.96</td>
+          </tr>
+          <tr>
+            <td width="119">320019126228</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126228</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">812.62</td>
+            <td width="180">518.09</td>
+          </tr>
+          <tr>
+            <td width="119">320019126393</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126393</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">992.82</td>
+            <td width="180">850.01</td>
+          </tr>
+          <tr>
+            <td width="119">320019126530</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126530</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1056.04</td>
+            <td width="180">897.46</td>
+          </tr>
+          <tr>
+            <td width="119">320019126554</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126554</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1031.20</td>
+            <td width="180">850.39</td>
+          </tr>
+          <tr>
+            <td width="119">320019126554</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Origination Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126587</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126587</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1126.84</td>
+            <td width="180">885.86</td>
+          </tr>
+          <tr>
+            <td width="119">320019126654</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126654</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">548.91</td>
+            <td width="180">457.35</td>
+          </tr>
+          <tr>
+            <td width="119">320019126654</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Origination Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126663</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126663</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">592.83</td>
+            <td width="180">478.18</td>
+          </tr>
+          <tr>
+            <td width="119">320019126663</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Origination Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126793</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019126793</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1986.36</td>
+            <td width="180">1396.61</td>
+          </tr>
+          <tr>
+            <td width="119">320019127013</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019127013</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">2251.48</td>
+            <td width="180">1449.62</td>
+          </tr>
+          <tr>
+            <td width="119">320019127231</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320019127231</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">3227.26</td>
+            <td width="180">2819.31</td>
+          </tr>
+          <tr>
+            <td width="119">320020011292</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Combined LTV</td>
+            <td width="184">73</td>
+            <td width="180">91</td>
+          </tr>
+          <tr>
+            <td width="119">320020011292</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320020011292</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original LTV</td>
+            <td width="184">73</td>
+            <td width="180">91</td>
+          </tr>
+          <tr>
+            <td width="119">320020011292</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">10013.18</td>
+            <td width="180">8537.04</td>
+          </tr>
+          <tr>
+            <td width="119">320020017461</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320020017461</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">225000.00</td>
+            <td width="180">230000.00</td>
+          </tr>
+          <tr>
+            <td width="119">320020017461</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1913.26</td>
+            <td width="180">1182.47</td>
+          </tr>
+          <tr>
+            <td width="119">320020017709</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320020017709</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">1560.91</td>
+            <td width="180">922.05</td>
+          </tr>
+          <tr>
+            <td width="119">320020017709</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Property Zip</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320020017709</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Representative Credit Score for Grading</td>
+            <td width="184">655</td>
+            <td width="180">648</td>
+          </tr>
+          <tr>
+            <td width="119">320020018505</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320020018505</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original Appraised Value</td>
+            <td width="184">1050000.00</td>
+            <td width="180">1117300.00</td>
+          </tr>
+          <tr>
+            <td width="119">320020018505</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">4677.44</td>
+            <td width="180">3313.22</td>
+          </tr>
+          <tr>
+            <td width="119">320020019030</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320020019030</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">2741.94</td>
+            <td width="180">2058.77</td>
+          </tr>
+          <tr>
+            <td width="119">320020019285</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Disbursement Date</td>
+            <td width="184">XXXXXX</td>
+            <td width="180">XXXXXX</td>
+          </tr>
+          <tr>
+            <td width="119">320020019285</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Occupancy Type</td>
+            <td width="184">Primary</td>
+            <td width="180">Second Home</td>
+          </tr>
+          <tr>
+            <td width="119">320020019285</td>
+            <td width="104">XXXXXX</td>
+            <td width="167">Original P&amp;I</td>
+            <td width="184">863.57</td>
+            <td width="180">622.86</td>
+          </tr>
+          <tr>
+          </tr>
+
+      </table>
+    </div>
+    <div style="line-height: 15.75pt">&#160;</div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
