@@ -1,0 +1,636 @@
+<DOCUMENT>
+<TYPE>EX-99.7
+<SEQUENCE>8
+<FILENAME>ex99-7.htm
+<DESCRIPTION>INGLETBLAIR EXCEPTION REPORT
+<TEXT>
+<html>
+<head>
+     <title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0; margin-bottom: 0; width: 100%"><div style="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><a href="ctdl-abs15g_052020.htm">CTDL 2020-1 ABS-15G</A></FONT></p>
+
+<p style="margin: 0">&nbsp;</p>
+
+<p style="text-align: right; margin: 0"><B>Exhibit 99.7&nbsp;</B></p>
+
+
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+<P STYLE="margin: 0; text-align: left"></P>
+
+<!-- Field: Set; Name: Worksheet; Value: Exception Report -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002454,0x00002454,0x00002454,0x00002454,0x00002454,0x00007D00,0x00002454,0x00002454,0x00002454,0x0000A604,0x00002454,0x0000A604,0x0000A604,0x0000A604,0x00002454,0x00002454,0x00002454,0x00002454,0x00002454,0x00002454 -->
+
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="text-align: center; vertical-align: middle; background-color: #BFBFBF">
+    <TD STYLE="font-weight: bold; border: Black 0.5pt solid; text-align: center; width: 2%">Loan Number (Selling Lender)</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Loan ID (Purchasing Lender)</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Exception ID</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Exception ID Date</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Condition Category</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 9%">Condition Standardized Description</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Condition ID</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Alternative Condition Grade</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Status</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 25%">Condition Custom Description</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Cleared Date</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 12%">Compensating Factors</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 12%">Lender Response</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 12%">Comments</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Loan Status</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Moody's Final Exception Level Grade</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Fitch Final Exception Level Grade</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">S&amp;P Final Exception Level Grade</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">Kroll Final Exception Level Grade</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%">DBRS Final Exception Level Grade</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">89</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">596642</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/03/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Final 1003 Application is Incomplete</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">APP 0002</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing final 1003 for B2. Promissory Note and Guaranty was executed by xxxxx, Trustee.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">04/02/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/27/2020- Received client response per 3/26/2020 email. <BR>
+3/25/2020- Received updated respons xxxxx response).<BR>
+3/5/2020- Received client response of: Agree B2 signed Promissory Note as xxxxhowever, Guaranty is signed personally.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Subject loan closed a Business Purpose, 1003 not required for guarantor.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">89</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">596643</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/03/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Initial 1003 Application is Incomplete</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">APP 0004</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing initial application:&nbsp;&nbsp;Initial 1003 not provided&nbsp;&nbsp;for both borrowers.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">04/02/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/5/2020- Initial 1003 received for B1. Agree B2 signed Promissory Note as xxx however, Guaranty is signed personally.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Subject loan closed a Business Purpose, 1003 not required for guarantor.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">89</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">596644</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/03/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing Copy of Unexpired, Government-issued ID</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0105</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing copy of personal identification for B2.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">04/02/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/5/2020- Received client response: Agree B2 signed Promissory Note as xxxx however, Guaranty is signed personally.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Subject loan closed a Business Purpose, 1003 not required for guarantor.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">89</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">596664</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/03/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Compliance</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing Final HUD-1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">HUD 0001</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Final Settlement statement not provided for review. Estimated Settlement Statement dated xxxxx used for review purposes.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/06/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/5/2020- Received Final Settlement statement. Exception cleared.&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">89</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">596704</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/03/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Credit Documentation is Insufficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0093</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing credit report for B2.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">04/02/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/5/2020- Received client response: Agree B2 signed Promissory Note as xxxxx however, Guaranty is signed personally.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Subject loan closed a Business Purpose, 1003 not required for guarantor.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">93</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">597956</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/05/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Compliance</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing Evidence of Re-disclosure and a valid COC for the total amount of the Closing Disclosure 10% Category fees ($) that increased by more than 10% from the amount disclosed on the prior Loan Estimate or Closing Disclosure.&nbsp;&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">TRID 0124</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">The total amount of Closing Disclosure 10% Category fees ($xx.00) increased by more than 10% from the total amount disclosed on the Loan Estimate sent on xxxxx, ($xx.00). The total amount of fees in this category cannot exceed ($xx.00) unless a new disclosure is provided and there is a valid changed circumstance associated with the re-disclosure, or the creditor provides an additional credit for the increase in Closing Costs above the legal limit. (12 CFR 1026.19(e)(3)(ii); 12 CFR 1026.19(e)(3)(iv); 12 CFR 1026.19(f)(2)(v)).</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/19/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified employment history - x yr xxxx; Verified housing payment history - xx months verified 0x30 mortgage payment history.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">03/19/20 Cleared, data input error.&nbsp;&nbsp;Corrected title fees in&nbsp;&nbsp;Section C.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">93</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">598050</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/06/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Property</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing Third Party Appraisal Review</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">APPR 0046</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing 3rd party AVM, to be ordered.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/19/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified employment history - x yr xxxxx.; Verified housing payment history - xx months verified 0x30 mortgage payment history.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3rd party AVM received. Tolerance within 10%.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">93</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">598052</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/06/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Final 1003 Application is Incomplete</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">APP 0002</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing final application executed by borrower.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/25/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified employment history - x yr xxxxx; Verified housing payment history - xx months verified 0x30 mortgage payment history.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/20/2020- Received password protected final application - unable to open document.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/24/2020- Received final application signed and dated by borrower.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">86</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">602046</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/16/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Income Documentation is Insufficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0082</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Signed LOE from Borrower stating they are using those specific assets for an ATR-in-Full source for loan repayment in not provided for review.&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/19/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Low LTV/CLTV/HCLTV - 37.13%LTV - Max 75%LTV.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/18/2020- Received signed ATR LOE from borrower dated xxxxx using A/#xxxx.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">90</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">602518</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/17/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing proof of PITI payment on non-subject property</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0096</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing proof of PITIA on 3 loans that closed concurrently with subject property.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/25/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified housing payment history - xx months 0x30 primary housing payment per supplemental report.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/19/2020- Received PCCDs and property tax provided for 2 mortgages. Verification previous mortgages PIF and actual PITIA less than estimated. Missing supporting documentation for third loan.&nbsp;&nbsp;<BR>
+3/20/2020- Received supporting documentation.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/24/2020- Received supporting documentation.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">90</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">602533</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/17/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Income Documentation is Insufficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0082</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing xxxxx bank statement: The Bank statement analysis includes xxxxx statement with an expiration date of xxxxx however xxxxx statement not provided for review.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/19/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified housing payment history - xx months 0x30 primary housing payment per supplemental report.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/19/2020- Received xxxxx bank statement. Deposits verified. Exception cleared.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">91</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">602685</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/18/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Compliance</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing &quot;Paid To&quot; designee on Closing Disclosure (12 CFR 1026.38(f)(1-5))</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">TRID 0189</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">2</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Acknowledged</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">The Home Warranty Fee in section H is missing the Payee Name.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified housing payment history - x year 0x30 month rental payment history.; Verified employment history - x year self-employed per CPA letter.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">EV2 - post close corrective action -- 3/20/2020 received PCCD with Sec H corrected.<BR>
+Mitigated Risk: EV2 - post close corrective action -- 3/20/2020 received PCCD with Sec H corrected.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">101</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">604234</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/23/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Hazard Insurance Coverage Amount is Insufficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">HAZ 0004</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">2</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Acknowledged</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Deductible exceeds maximum allowed:&nbsp;&nbsp;H03 policy deductible is $xxxxx. Max is 1% of dwelling but not to exceed $xxxxx.&nbsp;&nbsp;&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Low LTV/CLTV/HCLTV - 70%LTV - Max 75%LTV</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">EV2 - Funding exception approval.<BR>
+Mitigated Risk: EV2 - Funding exception approval.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">101</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">604235</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/23/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing Employment doc (VVOE)</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0006</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verbal verification of employment within 72 hours prior to funding not provided for review. (Disbursement date CD xxxxx)&nbsp;&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/24/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Low LTV/CLTV/HCLTV - 70%LTV - Max 75%LTV</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/24/2020- Received CSC VVOE dated xxxxx.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">97</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">603545</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/20/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Compliance</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing evidence of the Seller Closing Disclosure</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">TRID 0193</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">2</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Acknowledged</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing evidence of the Seller Closing Disclosure</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Low LTV/CLTV/HCLTV - 70%LTV - Max 90%LTV; Verified reserves - Verified reserves in the amount of $xxxxx for xxxxx months PITIA.; No Apparent Right to Statutory Damages - EV2 due to Immaterial Issue</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">EV2 - Immaterial issue - No apparent right to statutory damages.<BR>
+Mitigated Risk: EV2 - Immaterial issue - No apparent right to statutory damages.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">97</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">603562</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/20/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Compliance</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Last Closing Disclosure Total Interest Percentage (TIP) &gt; System Calculated</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">TRID 0078</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">2</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Acknowledged</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">The Last Closing Disclosure Total Interest Percentage (TIP) of (104.679%) is greater than the system calculated TIP of (104.654%). The difference is (0.025%). The TIP is the total amount of interest that the borrower will pay over the loan term as a percentage of the note amount. It is the loan's total interest payments plus prepaid interest divided by the note amount, calculated as follows: (xxxxx + xxxxx/xxxxx). (12 CFR 1026.38(o)(5))</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Low LTV/CLTV/HCLTV - 70%LTV - Max 90%LTV; Verified reserves - Verified reserves in the amount of $xxxxx for xxxxx months PITIA.; No Apparent Right to Statutory Damages - EV2 due to Immaterial Issue</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">EV2 - Immaterial issue - No apparent right to statutory damages.<BR>
+Mitigated Risk: EV2 - Immaterial issue - No apparent right to statutory damages.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">97</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">604239</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/23/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Title Policy - Schedule B Exception</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">TITL 0014</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">2</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Acknowledged</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Preliminary title Sch B-II Item #11 - 4 separate encroachments noted.&nbsp;&nbsp;&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Low LTV/CLTV/HCLTV - 70%LTV - Max 90%LTV; Verified reserves - Verified reserves in the amount of $xxxxx for xxxxx months PITIA.; No Apparent Right to Statutory Damages - EV2 due to Immaterial Issue</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">EV2 - Per xx, encroachments as noted on title are acceptable<BR>
+Mitigated Risk: EV2 - Per xx, encroachments as noted on title are acceptable</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">97</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">604246</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/23/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Asset Documentation is Insufficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0083</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing verification of earnest money deposit:&nbsp;&nbsp;Per CD, earnest money in the amount of $xxxxx was collected from borrower. $xxxxx at time of purchase contract, signed xxxxx, verified xxxx eTransfer.&nbsp;&nbsp;&nbsp;Escrow Letter states 2nd deposit in the amount of $xxxxx received for a total of $xxxxx as of xxxxx.&nbsp;&nbsp;Copy of check or bank statement showing the check cleared is not provided for review.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/24/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Low LTV/CLTV/HCLTV - 70%LTV - Max 90%LTV; Verified reserves - Verified reserves in the amount of $xxxxx for xxxxx months PITIA.; No Apparent Right to Statutory Damages - EV2 due to Immaterial Issue</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/24/2020- Received verification of earnest money deposits.&nbsp;&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">92</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">604268</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/23/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Property</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing Appraiser License</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">APPR 0043</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">XXXXX not provided for review.&nbsp;&nbsp;2 appraisals provided&nbsp;&nbsp;from same appraiser however, XXXX not included with report.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/24/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified housing payment history - xx months 0x30 mortgage payment history per credit report.; Low LTV/CLTV/HCLTV - 54.83%LTV - Max 70%LTV</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/24/2020- Received appraiser license. Expires xxxxx.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">92</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">604281</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/23/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Income Documentation is Insufficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0082</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">2</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Acknowledged</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">XXXXX Details reflects Date issued xxxxx and expiration date of xxxxx. Updated details reflecting license not expired not provided for review.<BR></TD>
+    <TD STYLE="vertical-align: middle; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified housing payment history - xx months 0x30 mortgage payment history per credit report.; Low LTV/CLTV/HCLTV - 54.83%LTV - Max 70%LTV</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">4/3/2020- Based on discussion with lender exception remains.<BR>
+3/27/2020- Received e-mail with additional information. Escalate for further review.<BR>
+3/25/2020- Pending further review with lender.<BR>
+3/24/2020- Rebuttal states 'There are several ways to document proof of xxxx and a CPA is a stand-alone item that proves xxxx.' **Missing evidence of borrower current license. Documentation in file reflects license expired xxxxx.&nbsp;&nbsp;Finding remains - missing current license.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">EV2 - 4/6/2020 License was renewed post-consummation.&nbsp;&nbsp;Received updated xxxx from xxx.gov reflecting borrower xxx expires xxxxx.<BR>
+Mitigated Risk: EV2 - 4/6/2020 xxxx was renewed post-consummation.&nbsp;&nbsp;Received updated xxx from xxx .gov reflecting borrower xxxx expires xxxxx.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">100</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">604932</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/24/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Guideline Exception(s)</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">GIDE 0001</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">2</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Acknowledged</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">ODF Foreign national loan closed as No Ratio instead of stated income as per guidelines.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Established credit history - International credit reference letter - borrower in good standing for x years.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">EV2 Meets CFPB rules however, CSC ODF Foreign National program overlay requires stated income.<BR>
+Mitigated Risk: EV2 Meets CFPB rules however, CSC ODF Foreign National program overlay requires stated income.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">100</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">605126</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/25/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Compliance</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Note is Incomplete</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">NOTE 0050</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing Personal Guaranty for xxxxx . Borrower signed Note as XXXXX of xxxxx.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/26/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Established credit history - International credit reference letter - borrower in good standing for x years.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/26/2020- Received Personal Guaranty dated xxxxx signed by xxxxx.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">100</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">605138</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/25/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Credit Documentation is Insufficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">CRED 0093</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing Business Entity Documentation: Operating Agreement for XXXXX not provided for review</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/26/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Established credit history - International credit reference letter - borrower in good standing for x years.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/26/2020 - exception cleared - Unanimous Written Consent of xxxx signed and dated xxxxx meet Operating Agreement requirements (authorization to borrower and designates signers)</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">87</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">605107</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/24/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Compliance</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">LE or CD is Deficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">TRID 0148</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">1</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Closed</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Missing pages 3 and 4 of the signed CD issued on xxxxx.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">04/01/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Low LTV/CLTV/HCLTV - 37.93%LTV - Max 70%LTV.</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">3/31/2020- Received complete CD issued xxxxx. Exception cleared.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">A</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: middle; text-align: center">103</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">605166</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">03/25/2020</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Credit</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Hazard Insurance Coverage Amount is Insufficient</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">HAZ 0004</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">2</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Acknowledged</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">H06 hazard insurance dwelling coverage xxxx with $xxx deductible - maximum deductible per guidelines 1% of dwelling coverage.</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">Verified housing payment history - 24 months 0x30 mortgage payment history</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: middle; text-align: left">EV2 - Funding exception e-mail 3/6/2020 - exception approved<BR>
+Mitigated Risk: EV2 - Funding exception e-mail 3/6/2020 - exception approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">Approved</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD>
+    <TD STYLE="vertical-align: middle; text-align: center">B</TD></TR>
+<TR STYLE="text-align: center; vertical-align: middle">
+    <TD STYLE="text-align: center">99</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center">605533</TD>
+    <TD STYLE="text-align: center">03/26/2020</TD>
+    <TD STYLE="text-align: center">Property</TD>
+    <TD STYLE="text-align: left">Appraisal value is not supported.</TD>
+    <TD STYLE="text-align: center">APPR 0003</TD>
+    <TD STYLE="text-align: center">1</TD>
+    <TD STYLE="text-align: center">Closed</TD>
+    <TD STYLE="text-align: left">Desk review required - Post-Close AVM 3/25/2020 $xxxxx Confidence Score 89 Variance -16.67% exceeds 10% tolerance.&nbsp;</TD>
+    <TD STYLE="text-align: center">04/24/2020</TD>
+    <TD STYLE="text-align: left">Low LTV/CLTV/HCLTV - 57.69%LTV - Max 70%LTV; Verified reserves - Verified reserves in the amount of $xxxxx for xx months subject property PITIA</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: left">04/24/20- ARR supports value with a Risk Rating of Reasonable.</TD>
+    <TD STYLE="text-align: center">Approved</TD>
+    <TD STYLE="text-align: center">A</TD>
+    <TD STYLE="text-align: center">A</TD>
+    <TD STYLE="text-align: center">A</TD>
+    <TD STYLE="text-align: center">A</TD>
+    <TD STYLE="text-align: center">A</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt"></P>
+
+
+
+
+
+<P STYLE="margin: 0; text-align: left"><b>&nbsp;</b></p>
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></div>
+    <!-- Field: /Page -->
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
