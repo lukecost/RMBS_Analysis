@@ -1,0 +1,625 @@
+<DOCUMENT>
+<TYPE>EX-99.7
+<SEQUENCE>8
+<FILENAME>e5570ex99-7.htm
+<DESCRIPTION>CLAYTON RATING AGENCY ATR QM DATA FIELD
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0; text-align: right"><FONT STYLE="font-size: 11pt"><B>Exhibit 99.7</B></FONT></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font-family: Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; text-align: left">lient Name:</TD>
+    <TD COLSPAN="4" STYLE="font-size: 8pt; font-weight: bold; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; text-align: left">Client Project Name:</TD>
+    <TD COLSPAN="4" STYLE="font-size: 8pt; font-weight: bold; text-align: left">OBX 2019-INV2</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; text-align: left">Start - End Dates:</TD>
+    <TD COLSPAN="4" STYLE="font-size: 8pt; font-weight: bold; text-align: left">10/4/2017-2/8/2018</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; text-align: left">Deal Loan Count:</TD>
+    <TD COLSPAN="4" STYLE="font-size: 8pt; font-weight: bold; text-align: left">28</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-size: 8pt; font-style: italic; text-align: left">&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="font-size: 8pt; font-style: italic; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="font-size: 10pt; width: 31%">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; width: 27%; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; width: 19%; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; width: 16%; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; width: 7%; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="5" STYLE="font-size: 12pt; font-weight: bold; text-align: left">Rating Agency ATR QM Data Fields</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-size: 8pt; font-style: italic; text-align: left">Loans in Report:&nbsp;</TD>
+    <TD COLSPAN="4" STYLE="font-size: 8pt; font-style: italic; text-align: left">28</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" BORDERCOLOR="Silver" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: #3366FF">
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Loan Number</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Loan Level ATR/QM Status</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Application Date Prior to 1/10/2014</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">TRID Indicator</TD>
+    <TD COLSPAN="1" STYLE="color: white; font-weight: bold; text-align: left">Lender Application Date</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Broker Application Date</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">GSE Eligible</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">QRM Flag</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">ATR/QM Total Points and Fees</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Rate Lock Date</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">APR</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Bwr 1 Employment Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Bwr 2 Employment Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Bwr 1 Foreign National Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Bwr 2 Foreign National Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Residual Income Analysis in File</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">ATR/QM Residual Income</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left">Loan Status</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000018872</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">14081.7</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.899</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019873</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1595</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.5377</TD>
+    <TD STYLE="color: #25396E; text-align: left">Retired</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019875</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.625</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019876</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.875</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019880</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.875</TD>
+    <TD STYLE="color: #25396E; text-align: left">Retired</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019881</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.25</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019882</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.625</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Permanent Resident Alien</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019883</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.5</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">Non-Permanent Resident Alien</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019884</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">3.875</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019885</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.25</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Unemployed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019887</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">5.125</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020002</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.25</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020232</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.75</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020324</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.875</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020329</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">5.125</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020355</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.75</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020356</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.875</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020357</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">2371</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.4369</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020358</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">5.5001</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">ClientComplete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020359</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.5</TD>
+    <TD STYLE="color: #25396E; text-align: left">Retired</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020361</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.625</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020362</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.5</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020363</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.25</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Retired</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020364</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.875</TD>
+    <TD STYLE="color: #25396E; text-align: left">Retired</TD>
+    <TD STYLE="color: #25396E; text-align: left">Retired</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020365</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.75</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020366</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">12452.49</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.4627</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020367</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">1</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">5</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">Unemployed</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020427</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Pre-TRID</TD>
+    <TD COLSPAN="1" STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">4.5</TD>
+    <TD STYLE="color: #25396E; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
