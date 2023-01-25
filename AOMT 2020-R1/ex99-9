@@ -1,0 +1,1208 @@
+<DOCUMENT>
+<TYPE>EX-99.9
+<SEQUENCE>10
+<FILENAME>ex99-9.htm
+<DESCRIPTION>AMC LEGACY DATA COMPARE
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV>
+
+<P STYLE="font-weight: bold; margin: 0 0 12pt; text-align: right"></P>
+
+<P STYLE="margin: 0 0 0pt; text-align: left"><A HREF="aomt-abs15g_120820.htm">AOMT 2020-R1 ABS-15G</A></P>
+<P STYLE="margin: 0 0 12pt; font-weight: bold; text-align: right">Exhibit 99.9</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"><IMG SRC="logo.gif" ALT="">&nbsp;</P>
+
+<P STYLE="color: navy; font: bold 14pt Calibri, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">Data Compare - REP-7324</P>
+
+<P STYLE="color: navy; font: bold 9pt Calibri, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">Run Date - 12/5/2020 12:03:54 AM</P>
+
+<TABLE BORDER="1" CELLPADDING="3" BORDERCOLOR="Black" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 9pt Calibri, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: bottom; background-color: navy">
+<TD STYLE="color: white; font-weight: bold; width: 6%">AMC Loan ID</TD>
+<TD STYLE="color: white; font-weight: bold; width: 8%">Customer Loan ID</TD>
+<TD STYLE="color: white; font-weight: bold; width: 8%">Seller Loan ID</TD>
+<TD STYLE="color: white; font-weight: bold; width: 16%">Field Label</TD>
+<TD STYLE="color: white; font-weight: bold; width: 10%">Bid Tape Field Value</TD>
+<TD STYLE="color: white; font-weight: bold; width: 10%">Field Value</TD>
+<TD STYLE="color: white; font-weight: bold; width: 6%">Compare Status</TD>
+<TD STYLE="color: white; font-weight: bold; width: 30%">Comment</TD>
+<TD STYLE="color: white; font-weight: bold; width: 6%">Alternate Loan ID</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008279</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>AppraisalDate</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008279</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">41.95</TD>
+<TD STYLE=" background-color: whitesmoke">41.96</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008279</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017249</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">21.61</TD>
+<TD STYLE=" background-color: whitesmoke">20.74</TD>
+<TD></TD>
+<TD>Unsure calculated income slightly higher do to converter.Debts was from references in file</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017249</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Investment Property</TD>
+<TD STYLE=" background-color: whitesmoke">Investment</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017249</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008597</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">42.00</TD>
+<TD STYLE=" background-color: whitesmoke">36.34</TD>
+<TD>Verified</TD>
+<TD>36.33% includes documented base and overtime.</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008597</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008597</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">737.48</TD>
+<TD STYLE=" background-color: whitesmoke">737.48</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008597</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008597</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">1 Unit</TD>
+<TD STYLE=" background-color: whitesmoke">2 Family</TD>
+<TD>Verified</TD>
+<TD>Verified to Appraisal</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008597</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Refi Purpose</TD>
+<TD STYLE=" background-color: whitesmoke">Cash-Out Refinance</TD>
+<TD STYLE=" background-color: whitesmoke">Refinance Cash-out - Other</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008597</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">43.49</TD>
+<TD STYLE=" background-color: whitesmoke">43.48</TD>
+<TD></TD>
+<TD>within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">2433.09</TD>
+<TD STYLE=" background-color: whitesmoke">2433.09</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">Attached</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Attached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Refi Purpose</TD>
+<TD STYLE=" background-color: whitesmoke">Cash-Out Refinance</TD>
+<TD STYLE=" background-color: whitesmoke">Refinance Cash-out - Other</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Representative FICO</TD>
+<TD STYLE=" background-color: whitesmoke">749</TD>
+<TD STYLE=" background-color: whitesmoke">747</TD>
+<TD>Verified</TD>
+<TD>Verified to Credit Report</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900010988</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Borrower Last Name</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">47.94</TD>
+<TD STYLE=" background-color: whitesmoke">48.72</TD>
+<TD></TD>
+<TD>Within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original Interest Rate</TD>
+<TD STYLE=" background-color: whitesmoke">6.7489</TD>
+<TD STYLE=" background-color: whitesmoke">6.7490</TD>
+<TD></TD>
+<TD>Rounding</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">4468.38</TD>
+<TD STYLE=" background-color: whitesmoke">4468.38</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">1 Unit</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Refi Purpose</TD>
+<TD STYLE=" background-color: whitesmoke">Cash-Out Refinance</TD>
+<TD STYLE=" background-color: whitesmoke">Refinance Cash-out - Other</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006030</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016781</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">23.76</TD>
+<TD STYLE=" background-color: whitesmoke">23.98</TD>
+<TD></TD>
+<TD>within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016781</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016781</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">2969.62</TD>
+<TD STYLE=" background-color: whitesmoke">2969.62</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016781</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016781</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">Detached</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017028</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">49.96</TD>
+<TD STYLE=" background-color: whitesmoke">49.99</TD>
+<TD></TD>
+<TD>UW bank statement calc included deposits from May 2015, but there aren't any on the statement</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017028</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017028</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">Detached</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900017028</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007588</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">41.20</TD>
+<TD STYLE=" background-color: whitesmoke">39.67</TD>
+<TD></TD>
+<TD>within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007588</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007588</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">921.85</TD>
+<TD STYLE=" background-color: whitesmoke">921.85</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007588</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007588</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900014190</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">12.81</TD>
+<TD STYLE=" background-color: whitesmoke">21.01</TD>
+<TD>Verified</TD>
+<TD>21.00% includes $3574.87 payment secured by xx xxxx (departing residence) not documented as sold or rented.&nbsp;12.81% does not include payment</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900014190</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900014190</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">2674.91</TD>
+<TD STYLE=" background-color: whitesmoke">2674.91</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900014190</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">7/1 or 7/6 Mos ARM</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900014190</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">27.14</TD>
+<TD STYLE=" background-color: whitesmoke">27.13</TD>
+<TD></TD>
+<TD>Within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original Interest Rate</TD>
+<TD STYLE=" background-color: whitesmoke">8.8699</TD>
+<TD STYLE=" background-color: whitesmoke">8.8700</TD>
+<TD></TD>
+<TD>Rounding</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">1004.61</TD>
+<TD STYLE=" background-color: whitesmoke">1004.61</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">1 Unit</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011291</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012182</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">38.28</TD>
+<TD STYLE=" background-color: whitesmoke">37.46</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012182</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012182</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original Interest Rate</TD>
+<TD STYLE=" background-color: whitesmoke">9.1099</TD>
+<TD STYLE=" background-color: whitesmoke">9.1100</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012182</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">646.79</TD>
+<TD STYLE=" background-color: whitesmoke">646.79</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012182</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012182</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">Detached</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012182</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Representative FICO</TD>
+<TD STYLE=" background-color: whitesmoke">663</TD>
+<TD STYLE=" background-color: whitesmoke">658</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012182</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008107</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008107</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">803.31</TD>
+<TD STYLE=" background-color: whitesmoke">803.31</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008107</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008107</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">CONDO</TD>
+<TD STYLE=" background-color: whitesmoke">loan_valuation.property_type /&nbsp;tigre_value / Cond</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008107</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900013378</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">43.06</TD>
+<TD STYLE=" background-color: whitesmoke">49.70</TD>
+<TD>Verified</TD>
+<TD>Debts not paid off on HUD-1 included in audit DTI</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900013378</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900013378</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">2398.44</TD>
+<TD STYLE=" background-color: whitesmoke">2398.44</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900013378</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900013378</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Refi Purpose</TD>
+<TD STYLE=" background-color: whitesmoke">Cash-Out Refinance</TD>
+<TD STYLE=" background-color: whitesmoke">Refinance Cash-out - Other</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900013378</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016774</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">16.44</TD>
+<TD STYLE=" background-color: whitesmoke">16.47</TD>
+<TD></TD>
+<TD>Within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016774</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">1094.51</TD>
+<TD STYLE=" background-color: whitesmoke">1094.51</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016774</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">7/1 or 7/6 Mos ARM</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900016774</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">1 Unit</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007855</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">42.17</TD>
+<TD STYLE=" background-color: whitesmoke">40.13</TD>
+<TD></TD>
+<TD>Within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007855</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007855</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original Interest Rate</TD>
+<TD STYLE=" background-color: whitesmoke">8.3699</TD>
+<TD STYLE=" background-color: whitesmoke">8.3700</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007855</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">2158.48</TD>
+<TD STYLE=" background-color: whitesmoke">2158.48</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007855</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">7/1 or 7/6 Mos ARM</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006964</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006964</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">1585.46</TD>
+<TD STYLE=" background-color: whitesmoke">1585.46</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006964</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006964</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">1 Unit</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006964</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Refi Purpose</TD>
+<TD STYLE=" background-color: whitesmoke">Cash-Out Refinance</TD>
+<TD STYLE=" background-color: whitesmoke">Refinance Cash-out - Other</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900006964</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012731</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">29.08</TD>
+<TD STYLE=" background-color: whitesmoke">45.66</TD>
+<TD>Verified</TD>
+<TD>Original UW did not include xxxx revolving payment in DTI</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012731</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012731</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">4004.62</TD>
+<TD STYLE=" background-color: whitesmoke">4004.62</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012731</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">7/1 or 7/6 Mos ARM</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012731</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">1-unit</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900012731</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007208</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Borrower Last Name</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007208</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">39.56</TD>
+<TD STYLE=" background-color: whitesmoke">39.08</TD>
+<TD></TD>
+<TD>Within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007208</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007208</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">1154.81</TD>
+<TD STYLE=" background-color: whitesmoke">1154.81</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007208</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">Fixed&nbsp;</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007208</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">PUD</TD>
+<TD STYLE=" background-color: whitesmoke">PUD Attached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900007208</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Refi Purpose</TD>
+<TD STYLE=" background-color: whitesmoke">REFI R/T</TD>
+<TD STYLE=" background-color: whitesmoke">Refinance Rate/Term</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011172</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">46.81</TD>
+<TD STYLE=" background-color: whitesmoke">46.80</TD>
+<TD>Verified</TD>
+<TD>53.53% includes 5% ($450.10) of $xxxx xxxx balance reporting no monthly payment.&nbsp;46.81% excludes a payment amount for account.</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011172</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011172</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">1448.06</TD>
+<TD STYLE=" background-color: whitesmoke">1448.06</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011172</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">7/1 or 7/6 Mos ARM</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900011172</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008464</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Borrower Last Name</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008464</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>DTI</TD>
+<TD STYLE=" background-color: whitesmoke">43.88</TD>
+<TD STYLE=" background-color: whitesmoke">42.04</TD>
+<TD></TD>
+<TD>Within tolerance</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008464</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Occupancy</TD>
+<TD STYLE=" background-color: whitesmoke">Primary Home</TD>
+<TD STYLE=" background-color: whitesmoke">Primary</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008464</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">12221.99</TD>
+<TD STYLE=" background-color: whitesmoke">12221.99</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008464</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Product Description</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">7/1 or 7/6 Mos ARM</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008464</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">Detached</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008464</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Refi Purpose</TD>
+<TD STYLE=" background-color: whitesmoke">REFI R/T</TD>
+<TD STYLE=" background-color: whitesmoke">Refinance Rate/Term</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>900008464</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+</TABLE>
+
+<!-- Field: Page; Options: Last --><DIV STYLE="border-bottom: Black 1pt solid">&nbsp;</DIV><!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
