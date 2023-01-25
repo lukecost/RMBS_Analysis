@@ -1,0 +1,108 @@
+<DOCUMENT>
+<TYPE>EX-99.28
+<SEQUENCE>29
+<FILENAME>tm2032552d1_ex99-28.htm
+<DESCRIPTION>CONSOLIDATED ANALYTICS DATA COMPARE REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.28</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>CONSOLIDATED
+ANALYTICS DATA COMPARE REPORT</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B></B></FONT></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"></FONT></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="7" DIR="LTR" STYLE="font-weight: bold"><FONT STYLE="font-size: 10pt">Data Compare Report</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: #4C68A2">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; width: 16%">Account Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt; width: 5%">Pool</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt; width: 19%">Verus Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt; width: 25%">Field ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt; width: 18%">Original Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt; width: 11%">Audit Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-left-color: lightgrey; border-left-width: 0.5pt; width: 6%">Match</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border: Black 0.5pt solid; text-align: center">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left-color: Black; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-left-color: Black; border-left-width: 0.5pt">747103</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left-color: Black; border-left-width: 0.5pt">Borrower_Last_Name</TD>
+    <TD DIR="LTR" STYLE="border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left-color: Black; border-left-width: 0.5pt">FALSE</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: center; border-top-color: Black; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">747069</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower_Last_Name</TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">FALSE</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: center; border-top-color: Black; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">747067</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower_Last_Name</TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">FALSE</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: center; border-top-color: Black; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">747061</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower_Last_Name</TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">FALSE</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: center; border-top-color: Black; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">746925</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower_Last_Name</TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="color: #333333; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt">FALSE</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
