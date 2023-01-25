@@ -1,0 +1,2233 @@
+<DOCUMENT>
+<TYPE>EX-99.21
+<SEQUENCE>22
+<FILENAME>efc20-568_ex9921.htm
+<DESCRIPTION>NDA EXCEPTION DETAIL REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00002.jpg">
+    <div><br>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="0" id="z16ef528375a046baa2975cf2f5a2cc51" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 27.27%; vertical-align: top;" rowspan="1">
+              <div style="line-height: 10.25pt; color: #000000; font-style: italic; font-weight: bold;">This document is proprietary and confidential. No part of this document may be disclosed in any manner to any third party whatsoever without the prior
+                written consent of New Diligence Advisors LLC.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <div>
+        <div style="line-height: 12.55pt; color: #000000; font-weight: bold;">Finding Detail</div>
+        <div style="line-height: 12.55pt; color: #000000; font-weight: bold;"> <br>
+        </div>
+        <div style="line-height: 12.55pt; color: #000000; font-weight: bold;"> </div>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="2" border="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z33083d8473e942ceab83fb422f3c6928">
+
+            <tr>
+              <td style="width: 6.58%; vertical-align: middle; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Loan Number</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Seller Loan Number</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Borrower Name</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Original Balance</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">State</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">QM Status</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Final Overall Grade</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Final Credit Grade</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Final Property Valuations Grade</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Final Compliance Grade</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Active Material Exceptions</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Active Non-Material Exceptions</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Satisfied Exceptions</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Waived Exceptions</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Compensating Factors</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Valuation Comments</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">General Comments</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Loan Status</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Sample Group</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0331</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * Deficient Income Documentation (Lvl 2)<br>
+                  - Residual Income worksheet not signed by Underwriter.<br>
+                  <br>
+                  * This loan failed the charges that cannot increase test. (12 CFR &#167;1026.19(e)(3)(i)) (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Appraisal fee - $XXX.<br>
+                  <br>
+                  * Missing Affiliate Business Disclosure (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Per LOL flood cert: the subject pppty is partially within a Special Flood Hazard area; the structure however, is not affected and is not in the floodplain.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Credit exception:&#160; Residual Income worksheet not signed by Underwriter.<br>
+                  The File includes the Initial &amp; Final Borrower ATR Certification.<br>
+                  <br>
+                  &#160;Guidelines used dated XX/XX/XXX (loan closed XX/XX/XXX).&#160; LTV is 51.95%.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0397</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TILA violation; HPML appraisal/valuations not provided to borrower(s) within 3-business days of consummation (Lvl 3)<br>
+                  - HPML - Appraisal not provided 3 days prior to consummation.<br>
+                  <br>
+                  * This loan failed the charges that cannot increase test. (12 CFR &#167;1026.19(e)(3)(i)) (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Points-Discount Fee - $XXX; Appraisal Re-inspection - $XXX; Transfer Taxes - $XXX;&#160; Total $XXX.<br>
+                  <br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - Higher Priced Mortgage Loan (HPML) Disclosure is missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Comp factor: residual income of $XXX is 2 x required amount of $1500.</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">No issues.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Elite - 85% LTV - 24 months bank statements as proof of income.&#160; Guidelines met.&#160; (Note - cash out requires 9 months reserves). Per XX/XX/XXX G/L: max LTV for Elite cash out refinance is
+                  80%; subject transaction is 85% LTV.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0239</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.<br>
+                  <br>
+                  * Fees exceed State threshold. (Lvl 3)<br>
+                  - Prohibited state (XXX) fees - Tax Service fee - $XXX.<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Appraisal fee - $XXX.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - HPML Disclosure missing.<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 10% cumulative tolerance from Loan Estimate. (Lvl 3)<br>
+                  - 10% Cumulative tolerance violation: Courier Fee - increase of $XXX; Notary fee - increase of $XXX; Survey Fee&#160; - increase of $XXX; Wire Fee - increase of $XXX. Total $XXX.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amount is less then 1.5 million and only required 1 appraisal and CDA.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">The borrower is self-employed and income was calculated using 1-year bank statements.&#160;&#160; The Borrower was qualified with the XXXX Bank Statements program and is classified as Elite in the
+                  credit category. The LTV, FICO (809), DTI&#160; (37.360)and Reserves&#160; 6 months ($XXX) meets the guideline maximum requirements.<br>
+                  <br>
+                  <br>
+                  <br>
+                  Missing the ATR Form.&#160; The file includes the&#160; Initial and Final ATR Certification.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0087</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Fees exceed State threshold. (Lvl 3)<br>
+                  - Failed State prohibited lender fees test. (&#167;XXX):&#160; Administration fee - $XXX; Flood Cert fee - $XXX; Points - Loan Discount fee - $XXX; Processing fee - $XXX; Tax Service fee - $XXX; Total $XXX.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - The HPML Disclosure is missing.<br>
+                  <br>
+                  * State Interest Rate Test Failure (Lvl 3)<br>
+                  - Loan interest rate of XXX%, State of XXX maximum rate is 4.75%.<br>
+                  <br>
+                  * First Payment Date more than 2 Months after Settlement Date (Lvl 2)<br>
+                  - Note executed XXX first payment date is XXX.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amt &lt; $250,000, One full appraisal + CDA meets guidelines. Appraised value appears fully supported, and supports 68% LTV.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Borrower was qualified using XXX program; 12 months bank statements to verify income. Per the G/L if the DTI is greater than 45% 24 months bank statement are required along with 1
+                  compensating factor.&#160; The Final DTI for subject loan is 45.087%.. As such, income documentation does not meet guidelines.<br>
+                  <br>
+                  The 1008 mentions that&#160; since the DtI is slightly over 45 it was not necessary to obtain 24 months, however, the file did not include an approved exception allowing the use of on 12 months bank statements.<br>
+                  <br>
+                  <br>
+                  <br>
+                  Compensating factors:<br>
+                  <br>
+                  LTV of 68% is 22% below program max of 90%<br>
+                  <br>
+                  Mid FICO of 747 is 67 points higher than minimum FICO of 680<br>
+                  <br>
+                  Residual income of $XXX is more than 8 times the minimum requirement of $1500<br>
+                  <br>
+                  <br>
+                  <br>
+                  The file includes the residual income worksheet, however, the worksheet is not executed by the underwriter.<br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  Required Forms Present;<br>
+                  <br>
+                  ATR Certification<br>
+                  <br>
+                  Final ATR Certification<br>
+                  <br>
+                  VVOE<br>
+                  <br>
+                  CPA Letter</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX1102</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID violation: Missing changed circumstance documentation. (Lvl 2)<br>
+                  - Revised Loan Estimate dated XX/XX/XXX, was not accompanied by Change in Circumstance documentation.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - Higher Priced Mortgage Loan (HPML) Disclosure is missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">CDA value of $XXXX is within 0% of $XXXX Original Appraisal Valuef</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Borrower qualified under XXX bank statement guidelines.<br>
+                  <br>
+                  <br>
+                  <br>
+                  Compensating Factors: 814 FICO is &gt; 700, DTI is 7.73%, residual income of $XXX is &gt; 2x minimum required income of $1500, assets of $XXX = 90 months&#160; of reserves<br>
+                  <br>
+                  <br>
+                  <br>
+                  HPML Worksheet not in file.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX1800</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Appraisal Fee - $XXX.<br>
+                  <br>
+                  * Fees exceed State threshold. (Lvl 3)<br>
+                  - Failed State prohibited lender fees test. (&#167;XXX): Points - Loan Discount fee - $XXX; Underwriting fee - $XXX. Total $XXX.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - Higher Priced Mortgage Loan (HPML) Disclosure is missing.<br>
+                  <br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * TRID violation: Missing changed circumstance documentation. (Lvl 3)<br>
+                  - Revised Loan Estimate dated XX/XX/XXXX, was not accompanied by Change in Circumstance documentation.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Comps used to support value are at distance &gt; 10 miles from subject. 90% LTV.<br>
+                  Required documentation of 1 full Appraisal and CDA review has been provided. CDA value matches that of Appraisal.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Program: Jumbo Fixed 30 Bank Stmt VIP, 90% LTV on primary residence, 680 minimum FICO, 55% max DTI, 350% maximum payment shock, minimum of 6 months reserves verified. Income verified by 12
+                  months of bank statements<br>
+                  <br>
+                  Credit: Borrowers' credit profile: 14 established, open and active tradelines, including 1 mortgage, no late within past 24 months (most recent is XX/XX). These meet the requirements for Option 2 and Option 3 credit qualification. Mid
+                  FICO score is 715, which exceeds 680 program minimum. Most recent late is XX.XX, more than 24 months prior to Note Date. All accounts are current. Payment shock of 268% is below program maximum of 350% payment shock (VIP program).<br>
+                  <br>
+                  Income: Borrower qualified with 12 months of bank statements. Monthly income of $XXX - $XXX debts = $XXX residual income, which is 11.67 times greater than program minimum of $2500 (Loan amount &lt;= $750,000)<br>
+                  <br>
+                  Assets: Borrowers are required to provide at least 6 months&#160; PITI for subject home in verified assets ($XXX) . They are also retaining their departure home and the program requires 6 months of PITI for that property ($XXX x 6 = $XXX) for
+                  a minimum of $XXX . Verified assets meet and exceed these minimums.<br>
+                  <br>
+                  &#160;Appraisal: Comps used to support value are at distance &gt; 10 miles from subject. 90% LTV.Required documentation of 1 full Appraisal and CDA review has been provided. CDA value matches that of Appraisal.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX2643</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Verification of self employment is deficient.&#160; (Lvl 2)<br>
+                  - CPA Letter missing.<br>
+                  <br>
+                  * TRID violation: Missing changed circumstance documentation. (Lvl 3)<br>
+                  - Revised Loan Estimated dated XX/XX/XXX, was not accompanied by Change in Circumstance documentation.<br>
+                  <br>
+                  * E-sign consent violation; E-sign consent form is missing from file (Lvl 2)<br>
+                  - E-sign consent missing.<br>
+                  <br>
+                  * Residual income unknown (Lvl 3)<br>
+                  - Residual Income worksheet was not signed by the Underwriter<br>
+                  <br>
+                  * Fees exceed State threshold. (Lvl 3)<br>
+                  - Failed State prohibited lender fees test. (&#167;XXX): Points - Loan Discount fee - $XXX; Underwriting fee - $XXX. Total $XXX.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - Higher Priced Mortgage Loan (HPML) Disclosure is missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">CDA support the value of $XXX.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">The borrower qualified in XXX Category and meets all credit standards in terms of LTV (80%), Fico Score (778, DTI (28.610) and&#160; 6 months verified Reserves. Residual income required is
+                  $2,000,&#160; and 6 month for additional property.<br>
+                  <br>
+                  <br>
+                  <br>
+                  Credit Issues:<br>
+                  <br>
+                  The Residual Income worksheet was not signed by the Underwriter.<br>
+                  <br>
+                  A copy of the CPA&#160; Letter was not provided in the loan file.<br>
+                  <br>
+                  Missing the Ability to Repay (ATR) form and the Final Borrower ATR Certification.&#160; A copy of the Initial Borrower ATR Form is included.<br>
+                  <br>
+                  Missing a copy of the CPA Letter</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0418</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet (toolKit) is missing.<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Appraisal Fee - $XXX, Lender's Title Policy - $XXX. Total $XXX.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - Higher Priced Mortgage Loan (HPML) Disclosure is missing.<br>
+                  <br>
+                  * HPML; appraisal/valuations not provided to borrower(s) within 3-business days of consummation. (Lvl 2)<br>
+                  - HPML - Appraisal not provided at consummation.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amount is less than $1.5 mm. Included in the loan&#160; file is a 1004 appraisal and CDA.&#160; The appraisal and CDA values the property at $XXXK. Used the&#160; purchase price of $XXXK to calculate
+                  the LTV. No adverse items noted in the appraisal.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Borrower have FICO =&gt; 700, reserves 12 additional months and residual income is two times required amount.<br>
+                  <br>
+                  <br>
+                  <br>
+                  The file contains documentation from XXX indicating that the borrower has entered into a repayment agreement, wherein, monthly installments in the amount of $XXX is debited from the borrower's account in repayment of the $XXX.<br>
+                  <br>
+                  <br>
+                  <br>
+                  The file includes the Residual Income worksheet; however, the document is not executed by the borrower as required.<br>
+                  <br>
+                  <br>
+                  <br>
+                  The borrower qualified in the XXX Category and meets all credit standards in terms of&#160; LTV, (80%),&#160; Fico Score,(754) , DTI (37.74%) and&#160; 19 months verified Reserves.<br>
+                  <br>
+                  Payment Shock calculates to 1.13% which is within the guidelines parameters.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0426</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID violation: Missing changed circumstance documentation. (Lvl 2)<br>
+                  - Revised Loan Estimate dated XX/XX/XXX, was not accompanied by Change in Circumstance documentation.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - Higher Priced Mortgage Loan (HPML) Disclosure is missing.<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Appraisal Fee - $XXX. Invalid Change due to lack of Change in Circumstance documentation.<br>
+                  <br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Appraised value appears to be fully supported. Appraisal + CDA review meets requirements for loan amount &lt; $1.5 million.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt;"><font style="color: #000000;">The borrower qualified with theXXX program using 1 year personal &amp; Business Tax Returns. The file also documents income for the co-borrower that was not used to qualify.<br>
+                    <br>
+                    <br>
+                    <br>
+                    Minimum required residual income for XXX program is $1500. Borrowers in subject transaction have residual income of $XXX, 8 x the required minimum.<br>
+                    <br>
+                    <br>
+                    <br>
+                    Credit profile satisfies Credit History requirements: 5 established tradelines, 1 mortgage within the past 12 months, all open and active.<br>
+                    <br>
+                  </font><font style="line-height: 10.25pt;">&#160;</font></div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX5511</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).<br>
+                  <br>
+                  * Missing ROR (Lvl 3)<br>
+                  - Right-of Rescission missing.<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Lender's Title Policy - $XXX.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Compensating factor CF1 and CF2 borrower purchased subject property in XX/XX/XXXX for $XXXX approved Option 1.</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">CDA supported the value of $XXXX.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;Payment shock 110% ( max 350), residual income $1,500.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX3678</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Fees exceed State threshold (Lvl 3)<br>
+                  - Loan failed the State Regulated fees test (XXX):&#160; Points charge $XXX. State maximum (2%) $XXX. Fee variance $XXX.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Compensating factor:&#160; LTV is 10% below program max.&#160; Subject is 80% LTV.</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amount is less then 1.5 million so 1 appraisal and CDA.&#160; Rural property - 80% LTV.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Elite - full doc:&#160; Min credit score is 680, Max LTV is 90% - max DTI - 50%, compensating factor required due to 24 months bank statements - 6 months reserves.&#160; &#160; Required forms:&#160; ATR, HPML
+                  and residual income worksheet - provided.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX3373</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Missing Affiliate Business Disclosure (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Borrower is self-employed 22 years. Income documented via 24 months of bank statements. Residual income of $XXX is 5 x greater than required program minimum of $1500. Payment shock from
+                  $XXX to $XXX or 122% is well within program guidelines.</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Appraised value supports 80% LTV. Value is supported by full Appraisal and CDA analysis, which meet program requirements</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan was qualified under XXX program. Borrower has 4 active tradelines, 1 an active mortgage, history is &gt; 24 months, 703 mid FICO. Borrower meets credit qualifications for program.
+                  Credit re-established &gt; 48 months since Chap 7 BK (XX/XXX) ;&#160; time period is within guidelines<br>
+                  <br>
+                  <br>
+                  $XXX gift received on XX/XX is included in the XX/XX/XXX balance of XXX bank XXX.<br>
+                  &#160;XXX program requires a minimum of 6 months reserves; Borrower has 54 months of reserves. In addition to subject, Borrower is retaining departure home. Verified assets are sufficient to cover 6 months of reserves for that property as
+                  well. Appraised value supports 80% LTV. Value is supported by full Appraisal and CDA analysis, which meet program requirements<br>
+                  <br>
+                  Title appears to be clear. Tax certificate is in file.<br>
+                  <br>
+                  <br>
+                  Appraisal and CDA support $XXX appraised value, which supports 80% LTV used to qualify. Documentation of full appraisal + CDA review meets program requirements for documentation.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX3500</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Residual income requirement not met. (Lvl 2)<br>
+                  - Residual Income worksheet not signed by Underwriter.<br>
+                  <br>
+                  * RESPA violation; Adjustable Rate Disclosure was not provided within the required timeframe (Lvl 2)<br>
+                  - ARM disclosure dated XX/XX/XXX was not provided within a 3 days of rate lock on XX/XX/XXX.<br>
+                  <br>
+                  * RESPA violation; missing CHARM Booklet (Lvl 2)<br>
+                  - CHARM Booklet missing.<br>
+                  <br>
+                  * Assets requirement other than reserves not met (Lvl 3)<br>
+                  - Assets verified $XXX.&#160; 6 months reserves of $XXX + cash to close of $XXX for a total of $XXX required in reserves.<br>
+                  <br>
+                  * Reserve requirement was not met (Lvl 3)<br>
+                  - Assets are short funds to close. The 1008 indicates that reserves were verified from several sources including bank account #XXX from XXX.&#160; A copy of this bank statement is not in the loan file.<br>
+                  <br>
+                  * TILA violation; Higher Priced Mortgage Loan (HPML) Disclosure - missing or incorrect or unexecuted (Lvl 3)<br>
+                  - Higher Priced Mortgage Loan (HPML) Disclosure is missing.<br>
+                  <br>
+                  * RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Not Applicable</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: middle; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX3711</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Reserve requirement was not met (Lvl 3)<br>
+                  - Per guidelines, the borrower is required to have 12 months PITI reserves in the amount of&#160; $XXX.&#160; The assets provided are insufficient to satisfy the reserve requirement.<br>
+                  * TRID CD date violation; loan closed prior to end of three day waiting period from issuance of Closing Disclosure (Lvl 3)<br>
+                  - Initial Closing Disclosure receipt date can not be determined. Must be received 3 business days prior to consummation.<br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Loan Discount - $XXX; Courier fee - $XXX; Recording Service fee - $XXX. Total $XXX.<br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amount is less then 1.5 million, so only 1 appraisal and CDA is required.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX4721</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID violation; lender credits cannot decrease (Lvl 3)<br>
+                  - Lender credit reduction from $XXX to $XXX.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">CDA support the value $XXX</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXt program Purchase. No MI required. Min fic 680 for loan amount $1.5m LTV/CLTV 90%, DTI 31.97, without CP. 6 months PITI reserves for subject plus 6 months PITIA for retained property
+                  the borrower is buying a bigger home. Residual income required base on loan amount beed $3,000.&#160; Loan approved as Option 1.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX3327</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TILA violation; Finance charge is understated - outside tolerance. (Lvl 3)<br>
+                  - The finance charge is $XXX. The disclosed finance charge of $XXX is not considered accurate because it is understated by more than $XXX.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Compensating factors: FICO 799 and DTI 34%.</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Value lowered slighty on 1004 D due to half bath vs. full bath. Loan approval value $XXXX, and Appraisal Report $XXXX</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX - 24 month personal bank statements used,. Used fixed expense ratio calc. worksheet in file. Meets Option #1 for tradelines. Reserves comes from own seasoned liquid assets. Foreclosure
+                  XX/XXXX, seasoning met. Value lowered slightly on 1004D due to half bath vs. full bath.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX6210</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">CDA conform the value of $XXX.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Application date XX/XX/XX and last property sold XX/XX/XXX. Owned within last 5 years. Two credit reports provided. First one had a dispute and second one hade dispute removed. CTC $XXXX.
+                  Loan&#160; approved as XXX Bank Statement. Residual Income and Payment Shock worksheet in file.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX6648</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* RESPA violation; missing CHARM Booklet (Lvl 2)<br>
+                  - CHARM Booklet missing.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.<br>
+                  <br>
+                  * TILA violation; Finance charge is understated - outside tolerance. (Lvl 3)<br>
+                  - The finance charge is $XXX. The disclosed finance charge of $XXX is not considered accurate because it is understated by more than $XXX.<br>
+                  <br>
+                  * TRID violation: Missing changed circumstance documentation. (Lvl 3)<br>
+                  - Revised Loan Estimate dated XXX, was not accompanied by Change in Circumstance documentation.<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Courier Fee - $XXX; Settlement Fee - $XXX. Total $XXX. Invalid Change due to lack of Change in Circumstance documentation.<br>
+                  <br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Compensating factors: 75% LTV is &gt; 10% less than program maximum of 90%, residual income is 5 times greater than $2500 minimum required residual, Assets equal 103 months.<br>
+                  75% LTV, 32.93% /39.79% DTI</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amount &lt; $1.5mm requires 1 Full Appraisal + CDA.. CDA value of $XXXX is equal to Appraised value of $XXXX. As such, this meets the 10% variation allowed.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX bank stmt: Loan amount $XXX (&lt; $1.5mm), max 90% LTV , min 6 months reserves, max 350% payment shock, minimum $2500 residual income<br>
+                  <br>
+                  Credit: Borrower&#160; FICO is 698, 5 active tradelines, no lates within 24 months on active tradelines. Oldest tradeline is 120 months, maximum is $XXX.<br>
+                  Income: B1 self-employed&#160; income verified by 12 months of bank statements and lease agreement for rental property. B2 income is verified by 2018/2017 W-2s and 2 months recent paystubs. $XXX residual income exceeds program minimum of $2500
+                  by 5 times<br>
+                  Assets: Program requires 6 months of PITI minimum + 6 months for each REO. In the subject transaction, this equals $ XXX ($XXX subject + $XXX for REO) . Verified reserves equal $XXX, which is equal to 103 months.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX2619</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* RESPA violation; Adjustable Rate Disclosure was not provided within the required timeframe (Lvl 2)<br>
+                  - Adjustable Rate Disclosure dated XX/XX/XXX. Application dated XX/XX/XXX and Loan Estimate with rate lock dated XX/XX/XXX.<br>
+                  <br>
+                  * RESPA violation; missing HUD-Homeownership Counseling List (Lvl 2)<br>
+                  - Homeownership Counseling List missing.<br>
+                  <br>
+                  * RESPA violation; missing CHARM Booklet (Lvl 2)<br>
+                  - CHARM Booklet missing.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.<br>
+                  <br>
+                  * This loan failed the charges that cannot increase test. (12 CFR &#167;1026.19(e)(3)(i)) (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Points - $XXX.<br>
+                  <br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amount is less then 1.5 million so only 1 appraisal and CDA was required.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan Approval Interest Only min score 700 and XXX 1 yr with XXX Bank Statement.&#160; Borrower opted to waive escrows.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0260</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Residual income unknown (Lvl 2)<br>
+                  - Residual income worksheet missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX1017</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Annual Percentage Rate less than Stated Original Rate (Lvl 2)<br>
+                  - Note rate is XXX%. Post consummation CD's APR is XXX%.<br>
+                  <br>
+                  * RESPA violation; missing CHARM Booklet (Lvl 2)<br>
+                  - CHARM Booklet missing.<br>
+                  <br>
+                  * Fees exceed State threshold. (Lvl 3)<br>
+                  - Prohibited state (XXX) fees - Administration fee - $XXX; Loan Discount fee - $XXX; Processing fee - $XXX. Total $XXX.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Missing Special Information Booklet missing.<br>
+                  <br>
+                  * RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).<br>
+                  <br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * TILA violation; Finance charge is understated - outside tolerance. (Lvl 3)<br>
+                  - The finance charge is $XXX. The disclosed finance charge of $XXX is not considered accurate because it is understated by more than $XXX.<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 10% cumulative tolerance from Loan Estimate. (Lvl 3)<br>
+                  - 10% Cumulative tolerance violation: Document Preparation Fee - increase of $XXX; Notary fee - increase of $XXX; Lender's Title Fee - increase of $XXX. Total $XXX.<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation: Appraisal Review fee - $XXX.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Income: Minimum required residual income is $2500. Borrower&#8217;s residual income of $XXX is 51 times greater than the minimum required. Self-employment has been verified for 2 years.<br>
+                  <br>
+                  Assets: VIP Bank statement program requires a minimum of 6 months PITI reserves or $XXX. Borrower has $XXX or 55 months verified reserves.</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Appraised value appears supported. CDA value of $XXX is equal to Appraised value of $XXX. As such, the CDA value is within 10% of Appraised value.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt;"><font style="color: #000000;">XXX Bank statement: $XXXX loan amount, 80% LTV, min $2500 residual income, max 350% payment shock, 640 min FICO, 6 months reserves, max DTI of 50%<br>
+                    Borrower: $XXX residual income, 202% payment shock, 738 FICO, meets Option 1 credit criteria, 55 months verified reserves<br>
+                    Payment shock: Present housing expense is $XXX. Proposed housing expense is $XXX or 202% payment shock, which is lower than 350% maximum.<br>
+                    <br>
+                    Credit:&#160; Minimum FICO score required is 640, Borrower&#8217;s representative score is 738. Borrower has 3 active tradelines, no mortgages, all have a minimum of $2500 high credit, 2 lines have at least 24 months history, all 3 active within
+                    past 12 months. This meets the Option 1 credit qualification.<br>
+                    <br>
+                    Title: Title is clear, no issues.<br>
+                  </font><font style="line-height: 10.25pt;">&#160;</font></div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0793</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* CDA is Missing (Lvl 3)<br>
+                  - CDA is missing. Invoice for $XXX in file.<br>
+                  <br>
+                  * This loan failed the charges that cannot increase test. (12 CFR &#167;1026.19(e)(3)(i)) (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; appraisal review fee $XXX<br>
+                  <br>
+                  * Missing final application (Lvl 3)<br>
+                  - Final Application missing.<br>
+                  <br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Not Applicable</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Lower DTI due to not including the XXX monthly debt as the guidelines do not require the payment to be included.&#160; Initial escrow disclosure not required - no escrows included.&#160; Credit score
+                  FACTA disclosures, page 204 in file&#160; - unable to remove "unavailable" from data field - other disclosures screens.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0794</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.<br>
+                  <br>
+                  * RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).<br>
+                  <br>
+                  * TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Credit Report fee - $XXX.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">original appraisal transferred from XXX to XXX XX/XX/XXX</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">All loan required documents in file have been reviewed.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0220</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* TRID fee violation; Closing Disclosure fees exceeding 0% allowable tolerance from Loan Estimate (Lvl 3)<br>
+                  - Zero tolerance violation:&#160; Recording Service fee - $XXX.<br>
+                  <br>
+                  * RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.<br>
+                  <br>
+                  * RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 3)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).<br>
+                  <br>
+                  * TRID fee violation; missing evidence of a Closing Disclosure tolerance cure. (Lvl 3)<br>
+                  - Tolerance cure documentation missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amount is less then 1.5 million and so only 1 appraisal and CDA is requires.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXX bank statements (full doc)&#160; - Elite.&#160; 51% LTV, 774 credit score.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX1894</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* RESPA violation; missing Special Information Booklet (Lvl 3)<br>
+                  - Special Information Booklet missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Appraised value appears supported. Appraisal and Desktop Review meet requirements for loan amount of $XXXX</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Borrower is using XXX S XXX XXX as primary address -Borrower sold this property as of XX/XX/XXXX.&#160; Borrower's purchased another home, on XX/XX/XXXX, XXXX XXX XXXX.&#160; Reserves and debt for
+                  this property included in DTI and asset calculations.&#160; Guidelines for the Elite - 2nd home program have been met.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0416</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* RESPA violation; missing or incorrect or unexecuted Affiliated Business Disclosure. (Lvl 2)<br>
+                  - Missing AfBD-Affirmative NA (Best practice).<br>
+                  <br>
+                  * RESPA violation; missing CHARM Booklet (Lvl 2)<br>
+                  - CHARM Booklet missing.<br>
+                  <br>
+                  * TRID LE date violation; missing re-issued Loan Estimate Unable to determine Loan Estimate date compliance (Lvl 3)<br>
+                  - Revised Loan Estimate and Change in Circumstance documentation for rate lock is missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Income: Borrowers qualified with $XXX monthly income, both self-employed &gt; 2 years. Residual income of $XXX Exceeds program minimum of $1500<br>
+                  <br>
+                  Assets: Elite Program requires minimum of 6 months verified PITI in reserves, or $XXXX. Borrowers have $XXXX in verified reserves, or 258.63 months.</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Appraisal documentation is Full Appraisal + CDA, which is acceptable documentation per guidelines (Loan amount &lt;+ $1,500,000). Appraised value is $XXXX, CDA value is $XXX, which is
+                  within the 10% variance allowed by guidelines.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX Program, Interest Only XXX ARM, bank statement, min 680 FICO, 50% max DTI, min $1500 residual income,&#160; 6 months reserves, 90% max LTV, subordinate financing allowed<br>
+                  Subject transaction: 769 FICO, 28 months reserves, $XXX residual income, payment shock is negative 13.293%.<br>
+                  Credit: 769 FICO, 4 active tradelines, 0 lates within 24 months, all reporting at least 24 months, highest credit line is $24,000. Borrower credit qualifies for Option 1.<br>
+                  <br>
+                  Appraisal: Appraisal documentation is Full Appraisal + CDA, which is acceptable documentation per guidelines (Loan amount &lt;+ $1,500,000). Appraised value is $XXX, CDA value is $XXX, which is within the 10% variance allowed by
+                  guidelines.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX0439</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Compensating factors:&#160; Borrower&#8217;s assets: verified assets equal 44.36 months of reserves. The LTV of 40% is more than 10% lower than the program maximum of 80%, Representative FICO is 763,
+                  which is &gt; 700</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Appraisal: XXX property: Water heater is not double-strapped.&#160; Appraised value is supported. Value is documented by full appraisal and CDA. This meets program guidelines for documentation.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Title: Per letter of explanation, Borrowers acquired title through private, unrecorded transfer in XXX. Evidence in file shows that they have been making payments on current mortgage since
+                  then. Loan is closing in the name of a Revocable Living Trust (documentation provided).<br>
+                  <br>
+                  Borrowers were qualified with $XXX in monthly income based on 12- month average of business bank statements. However, the monthly average is actually $XXX. Applying the 50% standard expense ratio reduces average monthly income to $XXX.&#160;
+                  The file documents additional income sources per the CPA letter and bank statements in the file which supports the use of income on the 1003.<br>
+                  Residual income meets with the guideline requirements.<br>
+                  Escrow is waived</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX2023</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">* Missing verification of self employment. (Lvl 2)<br>
+                  - CPA letter documenting ownership percentage missing.</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Loan amount is less then 1.5 million&#160; so there is 1 appraisal and CDA in the file.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">The borrower is self-employed and meets the guideline requirements for the XXXX Bank Statement Program -VIP Category.<br>
+                  <br>
+                  Missing CPA letter.&#160; The file includes the initial and Final Certification.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.58%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXXX2024</div>
+              </td>
+              <td style="width: 4.43%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.94%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXXXXXX</div>
+              </td>
+              <td style="width: 4.46%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">$XXX</div>
+              </td>
+              <td style="width: 3.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX</div>
+              </td>
+              <td style="width: 7.06%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Non-QM: Lender documented all ATR UW factors</div>
+              </td>
+              <td style="width: 4.21%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 3.92%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.15%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.5%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">1</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 7.29%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 5.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 6.22%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Compensating factor: 30.65 months of verified assets</div>
+              </td>
+              <td style="width: 6.16%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">Appraisal: Loan amount &lt;= $1.5mm, requires 1 full appraisal + CDA. CDA value must be within 10% of Appraised value. Value of $XXXX is supported. CD value of $XXXX is equal to Appraised
+                  value and as such, is within the 10% variance allowed.</div>
+              </td>
+              <td style="width: 6.19%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">XXX Bank statement program, min 680 FICO, $1500 residual income, 6 months verified reserves, max 350% payment shock, max 90% LTV, if DTI &gt; 45%, 24 months bank statements + 2 comp factors<br>
+                  <br>
+                  Credit: Borrowers have 20 open/active tradelines, oldest tradeline is 276 months, maximum line is $XXX. Borrower has an XXX collection of $XXX. Per credit refresh, XXX collection has been removed. Borrowers are highly leveraged on their
+                  revolving credit lines, usage is 89%<br>
+                  <br>
+                  Income: Using only B1&#8217;s income, verified by 24 months bank statements. Borrowers were qualified using $XXX in monthly income. However, using the 50% standard expense, net monthly income is $XXX. Per guidelines, the lesser of 1003 Income
+                  or the net qualifying income is to be used. Using the reduced income, DTI increased to 84.019%, which exceeds guideline maximum of 55%. Residual income decreases from $XXX to $ XXX, which is within guidelines.<br>
+                  Assets: Minimum required assets of 6 months PITIA equals $XXXX. Borrowers have verified assets of $XXXX, or 30.65 months.</div>
+              </td>
+              <td style="width: 4.02%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+              <td style="width: 4.3%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+                <div style="line-height: 10.25pt; color: #000000;">&#160;</div>
+              </td>
+            </tr>
+
+        </table>
+        <div style="line-height: 15.75pt;"><br style="line-height: 15.75pt;">
+        </div>
+        <div style="line-height: 15.75pt">&#160;</div>
+      </div>
+      <div><br>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
