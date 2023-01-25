@@ -1,0 +1,3956 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>31
+<FILENAME>efc20-658_ex994s2.htm
+<DESCRIPTION>SCHEDULE 2 - ASF REPORT
+<TEXT>
+<html>
+  <head>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body>
+  <table cellspacing="0" cellpadding="1" border="1" align="left">
+
+      <tr>
+        <td width="104" align="center">Primary Servicer</td>
+        <td width="168" align="center">Servicing Fee Percentage</td>
+        <td width="150" align="center">Servicing Fee Flatdollar</td>
+        <td width="195" align="center">Servicing Advance Methodology</td>
+        <td width="88" align="center">Originator</td>
+        <td width="75" align="center">Loan Group</td>
+        <td width="84" align="center">Loan Number</td>
+        <td width="114" align="center">Amortization Type</td>
+        <td width="82" align="center">Lien Position</td>
+        <td width="99" align="center">HELOC Indicator</td>
+        <td width="88" align="center">Loan Purpose</td>
+        <td width="110" align="center">Cash Out Amount</td>
+        <td width="126" align="center">Total Origination and Discount Points (in dollars)</td>
+        <td width="113" align="center">Covered/High Cost Loan Indicator</td>
+        <td width="99" align="center">Relocation Loan Indicator</td>
+        <td width="101" align="center">Broker Indicator</td>
+        <td width="55" align="center">Channel</td>
+        <td width="104" align="center">Escrow Indicator</td>
+        <td width="143" align="center">Senior Loan Amount(s)</td>
+        <td width="187" align="center">Loan Type of Most Senior Lien</td>
+        <td width="278" align="center">Hybrid Period of Most Senior Lien (in months)</td>
+        <td width="205" align="center">Neg Am Limit of Most Senior Lien</td>
+        <td width="152" align="center">Junior Mortgage Balance</td>
+        <td width="219" align="center">Origination Date of Most Senior Lien</td>
+        <td width="99" align="center">Origination Date</td>
+        <td width="134" align="center">Original Loan Amount</td>
+        <td width="130" align="center">Original Interest Rate</td>
+        <td width="166" align="center">Original Amortization Term</td>
+        <td width="152" align="center">Original Term to Maturity</td>
+        <td width="164" align="center">First Payment Date of Loan</td>
+        <td width="140" align="center">Interest Type Indicator</td>
+        <td width="166" align="center">Original Interest Only Term</td>
+        <td width="106" align="center">Buy Down Period</td>
+        <td width="119" align="center">HELOC Draw Period</td>
+        <td width="135" align="center">Current Loan Amount</td>
+        <td width="132" align="center">Current Interest Rate</td>
+        <td width="183" align="center">Current Payment Amount Due</td>
+        <td width="164" align="center">Interest Paid Through Date</td>
+        <td width="148" align="center">Current Payment Status</td>
+        <td width="70" align="center">Index Type</td>
+        <td width="130" align="center">ARM Look-back Days</td>
+        <td width="86" align="center">Gross Margin</td>
+        <td width="100" align="center">ARM Round Flag</td>
+        <td width="113" align="center">ARM Round Factor</td>
+        <td width="142" align="center">Initial Fixed Rate Period</td>
+        <td width="218" align="center">Initial Interest Rate Cap (Change Up)</td>
+        <td width="236" align="center">Initial Interest Rate Cap (Change Down)</td>
+        <td width="237" align="center">Subsequent Interest Rate Reset Period</td>
+        <td width="252" align="center">Subsequent Interest Rate (Change Down)</td>
+        <td width="259" align="center">Subsequent Interest Rate Cap (Change Up)</td>
+        <td width="199" align="center">Lifetime Maximum Rate (Ceiling)</td>
+        <td width="185" align="center">Lifetime Minimum Rate (Floor)</td>
+        <td width="170" align="center">Negative Amortization Limit</td>
+        <td width="256" align="center">Initial Negative Amortization Recast Period</td>
+        <td width="296" align="center">Subsequent Negative Amortization Recast Period</td>
+        <td width="168" align="center">Initial Fixed Payment Period</td>
+        <td width="212" align="center">Subsequent Payment Reset Period</td>
+        <td width="170" align="center">Initial Periodic Payment Cap</td>
+        <td width="210" align="center">Subsequent Periodic Payment Cap</td>
+        <td width="231" align="center">Initial Minimum Payment Reset Period</td>
+        <td width="272" align="center">Subsequent Minimum Payment Reset Period</td>
+        <td width="130" align="center">Option ARM Indicator</td>
+        <td width="108" align="center">Options at Recast</td>
+        <td width="150" align="center">Initial Minimum Payment</td>
+        <td width="166" align="center">Current Minimum Payment</td>
+        <td width="192" align="center">Prepayment Penalty Calculation</td>
+        <td width="157" align="center">Prepayment Penalty Type</td>
+        <td width="192" align="center">Prepayment Penalty Total Term</td>
+        <td width="190" align="center">Prepayment Penalty Hard Term</td>
+        <td width="126" align="center">Primary Borrower ID</td>
+        <td width="203" align="center">Number of Mortgaged Properties</td>
+        <td width="168" align="center">Total Number of Borrowers</td>
+        <td width="135" align="center">Self-employment Flag</td>
+        <td width="201" align="center">Current Other Monthly Payment</td>
+        <td width="203" align="center">Length of Employment: Borrower</td>
+        <td width="228" align="center">Length of Employment: Co- Borrower</td>
+        <td width="91" align="center">Years in Home</td>
+        <td width="106" align="center">FICO Model Used</td>
+        <td width="139" align="center">Most Recent FICO Date</td>
+        <td width="257" align="center">Primary Wage Earner Original FICO: Equifax</td>
+        <td width="265" align="center">Primary Wage Earner Original FICO: Experian</td>
+        <td width="283" align="center">Primary Wage Earner Original FICO: TransUnion</td>
+        <td width="273" align="center">Secondary Wage Earner Original FICO: Equifax</td>
+        <td width="282" align="center">Secondary Wage Earner Original FICO: Experian</td>
+        <td width="298" align="center">Secondary Wage Earner Original FICO: TransUnion</td>
+        <td width="221" align="center">Most Recent Primary Borrower FICO</td>
+        <td width="194" align="center">Most Recent Co- Borrower FICO</td>
+        <td width="159" align="center">Most Recent FICO Method</td>
+        <td width="201" align="center">VantageScore: Primary Borrower</td>
+        <td width="176" align="center">VantageScore: Co- Borrower</td>
+        <td width="214" align="center">Most Recent VantageScore Method</td>
+        <td width="117" align="center">VantageScore Date</td>
+        <td width="208" align="center">Credit Report: Longest Trade Line</td>
+        <td width="217" align="center">Credit Report: Maximum Trade Line</td>
+        <td width="229" align="center">Credit Report: Number of Trade Lines</td>
+        <td width="143" align="center">Credit Line Usage Ratio</td>
+        <td width="211" align="center">Most Recent 12- month Pay History</td>
+        <td width="120" align="center">Months Bankruptcy</td>
+        <td width="126" align="center">Months Foreclosure</td>
+        <td width="195" align="center">Primary Borrower Wage Income</td>
+        <td width="166" align="center">Co-Borrower Wage Income</td>
+        <td width="196" align="center">Primary Borrower Other Income</td>
+        <td width="167" align="center">Co-Borrower Other Income</td>
+        <td width="164" align="center">All Borrower Wage Income</td>
+        <td width="161" align="center">All Borrower Total Income</td>
+        <td width="98" align="center">4506-T Indicator</td>
+        <td width="217" align="center">Borrower Income Verification Level</td>
+        <td width="201" align="center">Co-Borrower Income Verification</td>
+        <td width="211" align="center">Borrower Employment Verification</td>
+        <td width="232" align="center">Co-Borrower Employment Verification</td>
+        <td width="172" align="center">Borrower Asset Verification</td>
+        <td width="194" align="center">Co-Borrower Asset Verification</td>
+        <td width="142" align="center">Liquid / Cash Reserves</td>
+        <td width="170" align="center">Monthly Debt All Borrowers</td>
+        <td width="86" align="center">Originator DTI</td>
+        <td width="112" align="center">Fully Indexed Rate</td>
+        <td width="126" align="center">Qualification Method</td>
+        <td width="179" align="center">Percentage of Down Payment from Borrower Own Funds</td>
+        <td width="71" align="center">City</td>
+        <td width="37" align="center">State</td>
+        <td width="77" align="center">Postal Code</td>
+        <td width="89" align="center">Property Type</td>
+        <td width="69" align="center">Occupancy</td>
+        <td width="71" align="center">Sales Price</td>
+        <td width="207" align="center">Original Appraised Property Value</td>
+        <td width="196" align="center">Original Property Valuation Type</td>
+        <td width="194" align="center">Original Property Valuation Date</td>
+        <td width="334" align="center">Original Automated Valuation Model (AVM) Model Name</td>
+        <td width="192" align="center">Original AVM Confidence Score</td>
+        <td width="177" align="center">Most Recent Property Value2</td>
+        <td width="225" align="center">Most Recent Property Valuation Type</td>
+        <td width="223" align="center">Most Recent Property Valuation Date</td>
+        <td width="188" align="center">Most Recent AVM Model Name</td>
+        <td width="221" align="center">Most Recent AVM Confidence Score</td>
+        <td width="86" align="center">Original CLTV</td>
+        <td width="77" align="center">Original LTV</td>
+        <td width="148" align="center">Original Pledged Assets</td>
+        <td width="221" align="center">Mortgage Insurance Company Name</td>
+        <td width="174" align="center">Mortgage Insurance Percent</td>
+        <td width="181" align="center">MI: Lender or Borrower Paid?</td>
+        <td width="152" align="center">Pool Insurance Co. Name</td>
+        <td width="170" align="center">Pool Insurance Stop Loss %</td>
+        <td width="135" align="center">MI Certificate Number</td>
+        <td width="75" align="center">Updated DTI</td>
+        <td width="75" align="center">Updated DTI</td>
+        <td width="215" align="center">Modification Effective Payment Date</td>
+        <td width="152" align="center">Total Capitalized Amount</td>
+        <td width="141" align="center">Total Deferred Amount</td>
+        <td width="221" align="center">Pre-Modification Interest (Note) Rate</td>
+        <td width="179" align="center">Pre-Modification P&amp;I Payment</td>
+        <td width="358" align="center">Pre-Modification Initial Interest Rate Change Downward Cap</td>
+        <td width="284" align="center">Pre-Modification Subsequent Interest Rate Cap</td>
+        <td width="289" align="center">Pre-Modification Next Interest Rate Change Date</td>
+        <td width="157" align="center">Pre-Modification I/O Term</td>
+        <td width="162" align="center">Forgiven Principal Amount</td>
+        <td width="159" align="center">Forgiven Interest Amount</td>
+        <td width="150" align="center">Number of Modifications</td>
+        <td width="120" align="center">Real Estate Interest</td>
+        <td width="203" align="center">Community Ownership Structure</td>
+        <td width="124" align="center">Year of Manufacture</td>
+        <td width="221" align="center">HUD Code Compliance Indicator (Y/N)</td>
+        <td width="214" align="center">Gross Manufacturer's Invoice Price</td>
+        <td width="170" align="center">LTI (Loan-to- Invoice) Gross</td>
+        <td width="197" align="center">Net Manufacturer's Invoice Price</td>
+        <td width="55" align="center">LTI (Net)</td>
+        <td width="121" align="center">Manufacturer Name</td>
+        <td width="78" align="center">Model Name</td>
+        <td width="139" align="center">Down Payment Source</td>
+        <td width="232" align="center">Community/Related Party Lender (Y/N)</td>
+        <td width="209" align="center">Defined Underwriting Criteria (Y/N)</td>
+        <td width="120" align="center">Credit Grade</td>
+        <td width="221" align="center">Program</td>
+        <td width="101" align="center">Doc Type</td>
+        <td width="130" align="center">Bank Statement (Y/N)</td>
+        <td width="126" align="center">Bank Statement Type</td>
+        <td width="162" align="center">Months of Bank Statements</td>
+        <td width="40" align="center">DSCR</td>
+        <td width="108" align="center">DSCR: Lease in Place Flag</td>
+        <td width="108" align="center">Employment Indicator Borrower 1</td>
+        <td width="108" align="center">Employment Indicator Co-Borrower</td>
+        <td width="211" align="center">Income Verification Borrower 1 Income Doc Type</td>
+        <td width="108" align="center">Income Verification Co-Borrower Income Doc Type</td>
+        <td width="144" align="center">Housing History times 30 last 24 months</td>
+        <td width="144" align="center">Housing History times 60 last 24 months</td>
+        <td width="144" align="center">Housing History times 90 last 24 months</td>
+        <td width="144" align="center">Housing History times 120 last 24 months</td>
+        <td width="73" align="center">BK File Date</td>
+        <td width="112" align="center">BK Discharge Date</td>
+        <td width="71" align="center">BK Chapter</td>
+        <td width="121" align="center">Date of Foreclosure</td>
+        <td width="110" align="center">Date of Short Sale</td>
+        <td width="110" align="center">Date of DIL</td>
+        <td width="120" align="center">ForeignNationalFlag</td>
+        <td width="256" align="center">Lender</td>
+        <td width="185" align="center">QM Type</td>
+        <td width="274" align="center">UW Guides</td>
+        <td width="170" align="center">UW Guides Date</td>
+        <td width="170" align="center">UW Guides Date</td>
+        <td width="142" align="center">Borrower 1 Citizenship Status</td>
+        <td width="157" align="center">Co-Borrower Citizenship Status</td>
+        <td width="128" align="center">Asset Depletion Flag</td>
+        <td width="104" align="center">Ownership Type</td>
+        <td width="104" align="center">Cross Collateralized</td>
+        <td width="70" align="center">DD Loan ID</td>
+        <td width="77" align="center">TPR DD Loan ID</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">275237</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313726</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">3</td>
+        <td width="110" align="left">200405.35</td>
+        <td width="126" align="left">7875.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">3</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">294000.00</td>
+        <td width="130" align="right">.0875</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160101</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0875</td>
+        <td width="183" align="right">2312.90</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">47</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.0795</td>
+        <td width="100" align="right">0</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">36</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0000</td>
+        <td width="237" align="left">6</td>
+        <td width="252" align="right">.01</td>
+        <td width="259" align="right">.01</td>
+        <td width="199" align="right">.1475</td>
+        <td width="185" align="right">.0875</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">7</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">480.69</td>
+        <td width="203" align="right">30</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">&#160;</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20151106</td>
+        <td width="257" align="right">763</td>
+        <td width="265" align="right">749</td>
+        <td width="283" align="right">801</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">763</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">84</td>
+        <td width="217" align="left">263281.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">3</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">2</td>
+        <td width="194" align="left">2</td>
+        <td width="142" align="right">0.00</td>
+        <td width="170" align="right">$670.47</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0858</td>
+        <td width="126" align="left">1</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">13</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">490000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">490000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20170411</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.60</td>
+        <td width="77" align="right">0.60</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">A</td>
+        <td width="221" align="left">Athas Capital Group Sub Prime Loan Program</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Athas Capital Group, Inc.</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711383</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">275237</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313612</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">9</td>
+        <td width="110" align="left">658.27</td>
+        <td width="126" align="left">26370.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">3</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">812500.00</td>
+        <td width="130" align="right">.0875</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160201</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0875</td>
+        <td width="183" align="right">6391.94</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">47</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.0795</td>
+        <td width="100" align="right">0</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">84</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0000</td>
+        <td width="237" align="left">6</td>
+        <td width="252" align="right">.01</td>
+        <td width="259" align="right">.01</td>
+        <td width="199" align="right">.1475</td>
+        <td width="185" align="right">.0875</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">98</td>
+        <td width="157" align="left">1</td>
+        <td width="192" align="right">36</td>
+        <td width="190" align="right">36</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">1</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">1046.57</td>
+        <td width="203" align="right">15</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">&#160;</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20151217</td>
+        <td width="257" align="right">667</td>
+        <td width="265" align="right">714</td>
+        <td width="283" align="right">688</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">688</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">73</td>
+        <td width="217" align="left">16161.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">33</td>
+        <td width="126" align="right">69</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">1</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">3</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">7362.84</td>
+        <td width="170" align="right">$9,534.94</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0876</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">1</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">1250000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">1250000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20170412</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.65</td>
+        <td width="77" align="right">0.65</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">B</td>
+        <td width="221" align="left">Athas Capital Group Sub Prime Loan Program</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">12/1/2012</td>
+        <td width="112" align="left">4/1/2013</td>
+        <td width="71" align="left">7</td>
+        <td width="121" align="left">5/1/2010</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Athas Capital Group, Inc.</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711372</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">275237</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313491</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">3528.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">3</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">176400.00</td>
+        <td width="130" align="right">.0699</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160201</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0699</td>
+        <td width="183" align="right">1172.41</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">47</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.0795</td>
+        <td width="100" align="right">0</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">84</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0000</td>
+        <td width="237" align="left">6</td>
+        <td width="252" align="right">.01</td>
+        <td width="259" align="right">.01</td>
+        <td width="199" align="right">.1299</td>
+        <td width="185" align="right">.0699</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">2</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">722.68</td>
+        <td width="203" align="right">20</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">&#160;</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20151218</td>
+        <td width="257" align="right">788</td>
+        <td width="265" align="right">793</td>
+        <td width="283" align="right">792</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">792</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">84</td>
+        <td width="217" align="left">801.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">1</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">969.56</td>
+        <td width="170" align="right">$624.47</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0878</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">0.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">3</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">254500.00</td>
+        <td width="207" align="right">252000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">252000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20160308</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.70</td>
+        <td width="77" align="right">0.70</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">A</td>
+        <td width="221" align="left">Athas Capital Group Sub Prime Loan Program</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Athas Capital Group, Inc.</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711370</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">275237</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313170</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">3010.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">3</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">101500.00</td>
+        <td width="130" align="right">.0725</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160301</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0725</td>
+        <td width="183" align="right">692.41</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">47</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.0795</td>
+        <td width="100" align="right">0</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">36</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0000</td>
+        <td width="237" align="left">6</td>
+        <td width="252" align="right">.01</td>
+        <td width="259" align="right">.01</td>
+        <td width="199" align="right">.1325</td>
+        <td width="185" align="right">.0725</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">2</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">0</td>
+        <td width="201" align="right">456.38</td>
+        <td width="203" align="right">5</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">&#160;</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160114</td>
+        <td width="257" align="right">750</td>
+        <td width="265" align="right">746</td>
+        <td width="283" align="right">757</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">750</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">84</td>
+        <td width="217" align="left">271954.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">1</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">806.19</td>
+        <td width="170" align="right">$2,931.79</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0880</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">1.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">3</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">150000.00</td>
+        <td width="207" align="right">145000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">150000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20160308</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.70</td>
+        <td width="77" align="right">0.70</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">A</td>
+        <td width="221" align="left">Athas Capital Group Sub Prime Loan Program</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">No</td>
+        <td width="108" align="left">EMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Athas Capital Group, Inc.</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711364</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">275237</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313572</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">3</td>
+        <td width="110" align="left">56158.21</td>
+        <td width="126" align="left">14510.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">3</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">417000.00</td>
+        <td width="130" align="right">.07375</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160301</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.07375</td>
+        <td width="183" align="right">2880.12</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">47</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.0795</td>
+        <td width="100" align="right">0</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">36</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0000</td>
+        <td width="237" align="left">6</td>
+        <td width="252" align="right">.01</td>
+        <td width="259" align="right">.01</td>
+        <td width="199" align="right">.13375</td>
+        <td width="185" align="right">.07375</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">98</td>
+        <td width="157" align="left">1</td>
+        <td width="192" align="right">36</td>
+        <td width="190" align="right">36</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">6</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">634.14</td>
+        <td width="203" align="right">30</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">&#160;</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160106</td>
+        <td width="257" align="right">614</td>
+        <td width="265" align="right">656</td>
+        <td width="283" align="right">646</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">646</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">84</td>
+        <td width="217" align="left">458653.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">1</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">1</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">0.00</td>
+        <td width="170" align="right">$13,308.26</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0880</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">1</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">860000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">860000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20170407</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.48</td>
+        <td width="77" align="right">0.48</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">B</td>
+        <td width="221" align="left">Athas Capital Group Sub Prime Loan Program</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">4</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Athas Capital Group, Inc.</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711362</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">275237</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313262</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">10490.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">3</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">195000.00</td>
+        <td width="130" align="right">.0675</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160301</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0675</td>
+        <td width="183" align="right">1264.77</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">47</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.0795</td>
+        <td width="100" align="right">0</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">60</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0000</td>
+        <td width="237" align="left">6</td>
+        <td width="252" align="right">.01</td>
+        <td width="259" align="right">.01</td>
+        <td width="199" align="right">.1275</td>
+        <td width="185" align="right">.0675</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">3</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">392.76</td>
+        <td width="203" align="right">2</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">&#160;</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160112</td>
+        <td width="257" align="right">753</td>
+        <td width="265" align="right">725</td>
+        <td width="283" align="right">742</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">742</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">6</td>
+        <td width="217" align="left">220195.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">2</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">25906.00</td>
+        <td width="170" align="right">$1,121.00</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0882</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">1.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">1</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">300000.00</td>
+        <td width="207" align="right">300000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">300000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20170412</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.65</td>
+        <td width="77" align="right">0.65</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">A</td>
+        <td width="221" align="left">Athas Capital Group Sub Prime Loan Program</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">No</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Athas Capital Group, Inc.</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="170" align="left">1/1/2015</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711359</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1010607</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313274</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">3</td>
+        <td width="110" align="left">60326.97</td>
+        <td width="126" align="left">3281.75</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">66300.00</td>
+        <td width="130" align="right">.08375</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160501</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.08375</td>
+        <td width="183" align="right">503.93</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">40</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.06</td>
+        <td width="100" align="right">3</td>
+        <td width="113" align="right">0.00125</td>
+        <td width="142" align="left">35</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0200</td>
+        <td width="237" align="left">12</td>
+        <td width="252" align="right">.02</td>
+        <td width="259" align="right">.02</td>
+        <td width="199" align="right">.14375</td>
+        <td width="185" align="right">.06</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">15</td>
+        <td width="157" align="left">1</td>
+        <td width="192" align="right">36</td>
+        <td width="190" align="right">36</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">1</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">0</td>
+        <td width="201" align="right">182.86</td>
+        <td width="203" align="right">&#160;</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">&#160;</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20151201</td>
+        <td width="257" align="right">717</td>
+        <td width="265" align="right">683</td>
+        <td width="283" align="right">660</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">683</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">95</td>
+        <td width="217" align="left">40093.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">1</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">12513.37</td>
+        <td width="170" align="right">$1,066.79</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0718</td>
+        <td width="126" align="left">1</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">12</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">102000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">102000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20161019</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.65</td>
+        <td width="77" align="right">0.65</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="221" align="left">Greenbox 5000-INV-PP</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">UNKNOWN</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Greenbox Loans, Inc.</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Greenbox 5000-INV-PP</td>
+        <td width="170" align="left">3/1/2016</td>
+        <td width="170" align="left">3/1/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711341</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1010607</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313803</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">8180.22</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">183174.00</td>
+        <td width="130" align="right">.0899</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160501</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0899</td>
+        <td width="183" align="right">1472.54</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">40</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.06</td>
+        <td width="100" align="right">3</td>
+        <td width="113" align="right">0.00125</td>
+        <td width="142" align="left">36</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0200</td>
+        <td width="237" align="left">12</td>
+        <td width="252" align="right">.02</td>
+        <td width="259" align="right">.02</td>
+        <td width="199" align="right">.1499</td>
+        <td width="185" align="right">.06</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">15</td>
+        <td width="157" align="left">1</td>
+        <td width="192" align="right">12</td>
+        <td width="190" align="right">12</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">2</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">0</td>
+        <td width="201" align="right">878.88</td>
+        <td width="203" align="right">&#160;</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">&#160;</td>
+        <td width="106" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="257" align="right">&#160;</td>
+        <td width="265" align="right">&#160;</td>
+        <td width="283" align="right">&#160;</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">0</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">&#160;</td>
+        <td width="217" align="left">&#160;</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">1</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">109196.46</td>
+        <td width="170" align="right">$2,636.42</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0721</td>
+        <td width="126" align="left">1</td>
+        <td width="179" align="left">1.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">7</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">305290.00</td>
+        <td width="207" align="right">306000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">306000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20161013</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.60</td>
+        <td width="77" align="right">0.60</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="221" align="left">Greenbox 5000-INV-PP</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">No</td>
+        <td width="108" align="left">UNKNOWN</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">1</td>
+        <td width="256" align="left">Greenbox Loans, Inc.</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Greenbox 5000-INV-PP</td>
+        <td width="170" align="left">3/1/2016</td>
+        <td width="170" align="left">3/1/2016</td>
+        <td width="142" align="left">Foreign National</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711318</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1010129</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313444</td>
+        <td width="114" align="right">1</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">1338.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">0</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">243675.00</td>
+        <td width="130" align="right">.0835</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160601</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0835</td>
+        <td width="183" align="right">1847.81</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">&#160;</td>
+        <td width="130" align="right">&#160;</td>
+        <td width="86" align="right">&#160;</td>
+        <td width="100" align="right">&#160;</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">&#160;</td>
+        <td width="218" align="right">&#160;</td>
+        <td width="236" align="right">&#160;</td>
+        <td width="237" align="left">&#160;</td>
+        <td width="252" align="right">&#160;</td>
+        <td width="259" align="right">&#160;</td>
+        <td width="199" align="right">&#160;</td>
+        <td width="185" align="right">&#160;</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">6</td>
+        <td width="168" align="right">2</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">467.47</td>
+        <td width="203" align="right">5</td>
+        <td width="228" align="right">3</td>
+        <td width="91" align="right">5.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160209</td>
+        <td width="257" align="right">757</td>
+        <td width="265" align="right">769</td>
+        <td width="283" align="right">762</td>
+        <td width="273" align="right">767</td>
+        <td width="282" align="right">772</td>
+        <td width="298" align="right">773</td>
+        <td width="221" align="right">762</td>
+        <td width="194" align="right">772</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">54</td>
+        <td width="217" align="left">492049.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">1</td>
+        <td width="211" align="left">3</td>
+        <td width="232" align="left">3</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">4</td>
+        <td width="142" align="right">115813.82</td>
+        <td width="170" align="right">$15,688.96</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="126" align="left">1</td>
+        <td width="179" align="left">1.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">8</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">324900.00</td>
+        <td width="207" align="right">345000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">345000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20161013</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.75</td>
+        <td width="77" align="right">0.75</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">T2</td>
+        <td width="221" align="left">Investor Solutions- Debt Service Coverage</td>
+        <td width="101" align="left">DSCR</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">1.12</td>
+        <td width="108" align="left">No</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">No Data</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">The Federal Savings Bank</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Investor Solutions-DSCR</td>
+        <td width="170" align="left">2/23/2016</td>
+        <td width="170" align="left">2/23/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">US Citizen</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711309</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1013085</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313327</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">10795.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">195000.00</td>
+        <td width="130" align="right">.06975</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160801</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.06975</td>
+        <td width="183" align="right">1294.07</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">40</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.06</td>
+        <td width="100" align="right">3</td>
+        <td width="113" align="right">0.00125</td>
+        <td width="142" align="left">36</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0098</td>
+        <td width="237" align="left">12</td>
+        <td width="252" align="right">.02</td>
+        <td width="259" align="right">.02</td>
+        <td width="199" align="right">.12975</td>
+        <td width="185" align="right">.06</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">15</td>
+        <td width="157" align="left">1</td>
+        <td width="192" align="right">24</td>
+        <td width="190" align="right">24</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">13</td>
+        <td width="168" align="right">2</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">493.58</td>
+        <td width="203" align="right">40</td>
+        <td width="228" align="right">40</td>
+        <td width="91" align="right">14.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160620</td>
+        <td width="257" align="right">679</td>
+        <td width="265" align="right">711</td>
+        <td width="283" align="right">642</td>
+        <td width="273" align="right">746</td>
+        <td width="282" align="right">712</td>
+        <td width="298" align="right">718</td>
+        <td width="221" align="right">679</td>
+        <td width="194" align="right">718</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">99</td>
+        <td width="217" align="left">632545.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">1</td>
+        <td width="211" align="left">3</td>
+        <td width="232" align="left">3</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">4</td>
+        <td width="142" align="right">135833.65</td>
+        <td width="170" align="right">$3,652.43</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0725</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">1.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">13</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">300000.00</td>
+        <td width="207" align="right">310000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">310000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20161012</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.65</td>
+        <td width="77" align="right">0.65</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">N/A</td>
+        <td width="221" align="left">Investor Solutions - No Ratio</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">No</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">No Data</td>
+        <td width="144" align="right">3</td>
+        <td width="144" align="right">1</td>
+        <td width="144" align="right">4</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">2/1/2014</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Excelerate Capital</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Investor Property No Ratio</td>
+        <td width="170" align="left">2/23/2016</td>
+        <td width="170" align="left">2/23/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">US Citizen</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711157</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1009074</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313383</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">3</td>
+        <td width="110" align="left">243144.41</td>
+        <td width="126" align="left">900.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">0</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">938000.00</td>
+        <td width="130" align="right">.071</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20160901</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.071</td>
+        <td width="183" align="right">6303.66</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">40</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.05</td>
+        <td width="100" align="right">3</td>
+        <td width="113" align="right">0.00125</td>
+        <td width="142" align="left">60</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0200</td>
+        <td width="237" align="left">12</td>
+        <td width="252" align="right">.02</td>
+        <td width="259" align="right">.02</td>
+        <td width="199" align="right">.121</td>
+        <td width="185" align="right">.05</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">1</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">1251.60</td>
+        <td width="203" align="right">&#160;</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">0.30</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160520</td>
+        <td width="257" align="right">746</td>
+        <td width="265" align="right">776</td>
+        <td width="283" align="right">757</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">757</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">97</td>
+        <td width="217" align="left">74717.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">1</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">258745.07</td>
+        <td width="170" align="right">$8,468.23</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0910</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">13</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">1340000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">1340000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20160519</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.70</td>
+        <td width="77" align="right">0.70</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">T1</td>
+        <td width="221" align="left">Investor Solutions- Debt Service Coverage</td>
+        <td width="101" align="left">DSCR</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">1.29</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">EMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Diamond Residential Mtg Corp</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Debt Service Coverage</td>
+        <td width="170" align="left">2/23/2016</td>
+        <td width="170" align="left">2/23/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711132</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">0001978</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313503</td>
+        <td width="114" align="right">1</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">3</td>
+        <td width="110" align="left">164149.36</td>
+        <td width="126" align="left">3272.75</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">172250.00</td>
+        <td width="130" align="right">.0695</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20161001</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0695</td>
+        <td width="183" align="right">1140.21</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">&#160;</td>
+        <td width="130" align="right">&#160;</td>
+        <td width="86" align="right">&#160;</td>
+        <td width="100" align="right">&#160;</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">&#160;</td>
+        <td width="218" align="right">&#160;</td>
+        <td width="236" align="right">&#160;</td>
+        <td width="237" align="left">&#160;</td>
+        <td width="252" align="right">&#160;</td>
+        <td width="259" align="right">&#160;</td>
+        <td width="199" align="right">&#160;</td>
+        <td width="185" align="right">&#160;</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">15</td>
+        <td width="157" align="left">1</td>
+        <td width="192" align="right">12</td>
+        <td width="190" align="right">12</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">6</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">141.75</td>
+        <td width="203" align="right">2</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">2.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160713</td>
+        <td width="257" align="right">654</td>
+        <td width="265" align="right">701</td>
+        <td width="283" align="right">702</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">701</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">28</td>
+        <td width="217" align="left">7744.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">3</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">42322.42</td>
+        <td width="170" align="right">$1,281.75</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="126" align="left">1</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">1</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">265000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">265000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20160809</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.65</td>
+        <td width="77" align="right">0.65</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">T1</td>
+        <td width="221" align="left">Investor Solutions- Debt Service Coverage</td>
+        <td width="101" align="left">DSCR</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">1.56</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Crest Star Funding LLC</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Investor Solutions-DSCR T1</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711073</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">0001978</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313397</td>
+        <td width="114" align="right">1</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">3</td>
+        <td width="110" align="left">94878.18</td>
+        <td width="126" align="left">1914.25</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">100750.00</td>
+        <td width="130" align="right">.0695</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20161001</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0695</td>
+        <td width="183" align="right">666.91</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">&#160;</td>
+        <td width="130" align="right">&#160;</td>
+        <td width="86" align="right">&#160;</td>
+        <td width="100" align="right">&#160;</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">&#160;</td>
+        <td width="218" align="right">&#160;</td>
+        <td width="236" align="right">&#160;</td>
+        <td width="237" align="left">&#160;</td>
+        <td width="252" align="right">&#160;</td>
+        <td width="259" align="right">&#160;</td>
+        <td width="199" align="right">&#160;</td>
+        <td width="185" align="right">&#160;</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">15</td>
+        <td width="157" align="left">1</td>
+        <td width="192" align="right">12</td>
+        <td width="190" align="right">12</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">6</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">150.10</td>
+        <td width="203" align="right">2</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">2.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160713</td>
+        <td width="257" align="right">654</td>
+        <td width="265" align="right">701</td>
+        <td width="283" align="right">702</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">701</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">28</td>
+        <td width="217" align="left">7744.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">2</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">2</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">42322.42</td>
+        <td width="170" align="right">$817.09</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="126" align="left">1</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">1</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">155000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">155000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20160809</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.65</td>
+        <td width="77" align="right">0.65</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">T1</td>
+        <td width="221" align="left">Investor Solutions- Debt Service Coverage</td>
+        <td width="101" align="left">DSCR</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">2.07</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Crest Star Funding LLC</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Investor Solutions-DSCR T1</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711070</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1508627</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313347</td>
+        <td width="114" align="right">1</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">3</td>
+        <td width="110" align="left">99506.33</td>
+        <td width="126" align="left">2037.75</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">0</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">107250.00</td>
+        <td width="130" align="right">.0695</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20161001</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.0695</td>
+        <td width="183" align="right">709.94</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">&#160;</td>
+        <td width="130" align="right">&#160;</td>
+        <td width="86" align="right">&#160;</td>
+        <td width="100" align="right">&#160;</td>
+        <td width="113" align="right">&#160;</td>
+        <td width="142" align="left">&#160;</td>
+        <td width="218" align="right">&#160;</td>
+        <td width="236" align="right">&#160;</td>
+        <td width="237" align="left">&#160;</td>
+        <td width="252" align="right">&#160;</td>
+        <td width="259" align="right">&#160;</td>
+        <td width="199" align="right">&#160;</td>
+        <td width="185" align="right">&#160;</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">15</td>
+        <td width="157" align="left">1</td>
+        <td width="192" align="right">12</td>
+        <td width="190" align="right">12</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">6</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">278.29</td>
+        <td width="203" align="right">2</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">2.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160713</td>
+        <td width="257" align="right">654</td>
+        <td width="265" align="right">701</td>
+        <td width="283" align="right">702</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">701</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">28</td>
+        <td width="217" align="left">7744.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">1</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">42322.42</td>
+        <td width="170" align="right">$988.28</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="126" align="left">1</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">1</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">165000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">165000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20160809</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.65</td>
+        <td width="77" align="right">0.65</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">T1</td>
+        <td width="221" align="left">Investor Solutions- Debt Service Coverage</td>
+        <td width="101" align="left">DSCR</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">1.42</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Lending One LLC</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Investor Solutions- DSCR T1</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711069</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1013085</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313333</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">3</td>
+        <td width="110" align="left">104104.06</td>
+        <td width="126" align="left">16195.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">330000.00</td>
+        <td width="130" align="right">.06875</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20161101</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.06875</td>
+        <td width="183" align="right">2167.87</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">40</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.06</td>
+        <td width="100" align="right">3</td>
+        <td width="113" align="right">0.00125</td>
+        <td width="142" align="left">36</td>
+        <td width="218" align="right">0.0200</td>
+        <td width="236" align="right">0.0088</td>
+        <td width="237" align="left">12</td>
+        <td width="252" align="right">.02</td>
+        <td width="259" align="right">.02</td>
+        <td width="199" align="right">.11875</td>
+        <td width="185" align="right">.06</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">15</td>
+        <td width="168" align="right">2</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">576.76</td>
+        <td width="203" align="right">&#160;</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">14.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160907</td>
+        <td width="257" align="right">679</td>
+        <td width="265" align="right">709</td>
+        <td width="283" align="right">637</td>
+        <td width="273" align="right">731</td>
+        <td width="282" align="right">724</td>
+        <td width="298" align="right">718</td>
+        <td width="221" align="right">679</td>
+        <td width="194" align="right">724</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">99</td>
+        <td width="217" align="left">638427</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">.00</td>
+        <td width="161" align="left">.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">1</td>
+        <td width="201" align="left">1</td>
+        <td width="211" align="left">3</td>
+        <td width="232" align="left">2</td>
+        <td width="172" align="left">1</td>
+        <td width="194" align="left">1</td>
+        <td width="142" align="right">0.00</td>
+        <td width="170" align="right">$4,680.86</td>
+        <td width="86" align="right">0.00</td>
+        <td width="112" align="left">0.0755</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">1</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">&#160;</td>
+        <td width="207" align="right">515000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">515000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20160828</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.64</td>
+        <td width="77" align="right">0.64</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">N/A</td>
+        <td width="221" align="left">Investor Solutions - No Ratio</td>
+        <td width="101" align="left">No Ratio</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="211" align="left">No Data</td>
+        <td width="108" align="left">No Data</td>
+        <td width="144" align="right">3</td>
+        <td width="144" align="right">1</td>
+        <td width="144" align="right">4</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">2/1/2014</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Calculated Risk Analytics, Inc</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Investor No-Income Seller GL</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">US Citizen</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">710962</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1013085</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313447</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">7727.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">623200.00</td>
+        <td width="130" align="right">.078</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20161201</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.078</td>
+        <td width="183" align="right">4486.23</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">40</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.06</td>
+        <td width="100" align="right">3</td>
+        <td width="113" align="right">0.00125</td>
+        <td width="142" align="left">84</td>
+        <td width="218" align="right">0.0500</td>
+        <td width="236" align="right">0.0180</td>
+        <td width="237" align="left">12</td>
+        <td width="252" align="right">.02</td>
+        <td width="259" align="right">.02</td>
+        <td width="199" align="right">.128</td>
+        <td width="185" align="right">.06</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">7</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">1252.37</td>
+        <td width="203" align="right">7</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">1.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160819</td>
+        <td width="257" align="right">767</td>
+        <td width="265" align="right">734</td>
+        <td width="283" align="right">745</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">745</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">99</td>
+        <td width="217" align="left">2320000</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">108548.58</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">108548.58</td>
+        <td width="161" align="left">108548.58</td>
+        <td width="98" align="right">1</td>
+        <td width="217" align="left">5</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">3</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">711873.69</td>
+        <td width="170" align="right">$48,881.19</td>
+        <td width="86" align="right">0.45</td>
+        <td width="112" align="left">0.0756</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">1.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">7</td>
+        <td width="69" align="left">3</td>
+        <td width="71" align="right">1050000.00</td>
+        <td width="207" align="right">779000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">779000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20170408</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.80</td>
+        <td width="77" align="right">0.80</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">A</td>
+        <td width="221" align="left">Investor Solutions - Full Doc</td>
+        <td width="101" align="left">Full</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">Yes</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">Tax Returns (2014-1040, 1120S, 1065 &amp; 2015 - 1040, 1120S, 1065)</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Calculated Risk Analytics, Inc</td>
+        <td width="185" align="left">Not covered/exempt</td>
+        <td width="274" align="left">Investor Solutions Full Doc</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="170" align="left">7/25/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">710912</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1007893</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313715</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">13895.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">1</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">532000.00</td>
+        <td width="130" align="right">.077</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20161001</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.077</td>
+        <td width="183" align="right">3792.95</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">40</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.06</td>
+        <td width="100" align="right">3</td>
+        <td width="113" align="right">0.00125</td>
+        <td width="142" align="left">84</td>
+        <td width="218" align="right">0.0500</td>
+        <td width="236" align="right">0.0170</td>
+        <td width="237" align="left">12</td>
+        <td width="252" align="right">.02</td>
+        <td width="259" align="right">.02</td>
+        <td width="199" align="right">.127</td>
+        <td width="185" align="right">.06</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">2</td>
+        <td width="168" align="right">1</td>
+        <td width="135" align="right">1</td>
+        <td width="201" align="right">791.06</td>
+        <td width="203" align="right">6</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">2.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160613</td>
+        <td width="257" align="right">650</td>
+        <td width="265" align="right">668</td>
+        <td width="283" align="right">708</td>
+        <td width="273" align="right">&#160;</td>
+        <td width="282" align="right">&#160;</td>
+        <td width="298" align="right">&#160;</td>
+        <td width="221" align="right">668</td>
+        <td width="194" align="right">0</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">2007</td>
+        <td width="217" align="left">124313.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">19628.00</td>
+        <td width="166" align="left">.00</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">19628.00</td>
+        <td width="161" align="left">19628.00</td>
+        <td width="98" align="right">0</td>
+        <td width="217" align="left">5</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="211" align="left">3</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">&#160;</td>
+        <td width="142" align="right">3362.58</td>
+        <td width="170" align="right">$9,566.06</td>
+        <td width="86" align="right">0.49</td>
+        <td width="112" align="left">0.0713</td>
+        <td width="126" align="left">4</td>
+        <td width="179" align="left">1.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">1</td>
+        <td width="69" align="left">1</td>
+        <td width="71" align="right">627500.00</td>
+        <td width="207" align="right">665000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">650000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20160326</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.85</td>
+        <td width="77" align="right">0.85</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">A-</td>
+        <td width="221" align="left">Self-Employed Solutions</td>
+        <td width="101" align="left">24 Mth Bank Stmts</td>
+        <td width="130" align="left">Yes</td>
+        <td width="126" align="left">Business</td>
+        <td width="162" align="left">24</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">N/A</td>
+        <td width="108" align="left">SELFEMPLOYED</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="211" align="left">Bank Statements (8/2014 - 7/2016)</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">Integrity First Financial Group</td>
+        <td width="185" align="left">Non-QM/compliant</td>
+        <td width="274" align="left">Credit Ascent Self Employed Solutions</td>
+        <td width="170" align="left">3/1/2016</td>
+        <td width="170" align="left">3/1/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711328</td>
+      </tr>
+      <tr>
+        <td width="104" align="left">9999999</td>
+        <td width="168" align="left">0</td>
+        <td width="150" align="left">0</td>
+        <td width="195" align="left">99</td>
+        <td width="88" align="left">1004406</td>
+        <td width="75" align="left">UNK</td>
+        <td width="84" align="left">34313305</td>
+        <td width="114" align="right">2</td>
+        <td width="82" align="right">1</td>
+        <td width="99" align="right">0</td>
+        <td width="88" align="right">7</td>
+        <td width="110" align="left">0.00</td>
+        <td width="126" align="left">1675.00</td>
+        <td width="113" align="left">0</td>
+        <td width="99" align="right">0</td>
+        <td width="101" align="right">0</td>
+        <td width="55" align="right">4</td>
+        <td width="104" align="left">4</td>
+        <td width="143" align="left">.00</td>
+        <td width="187" align="left">&#160;</td>
+        <td width="278" align="left">&#160;</td>
+        <td width="205" align="left">&#160;</td>
+        <td width="152" align="left">.00</td>
+        <td width="219" align="left">&#160;</td>
+        <td width="99" align="left">XXXXXXX</td>
+        <td width="134" align="left">136000.00</td>
+        <td width="130" align="right">.079</td>
+        <td width="166" align="right">360</td>
+        <td width="152" align="right">360</td>
+        <td width="164" align="left">20161101</td>
+        <td width="140" align="left">2</td>
+        <td width="166" align="right">0</td>
+        <td width="106" align="right">0</td>
+        <td width="119" align="right">&#160;</td>
+        <td width="135" align="right">&#160;</td>
+        <td width="132" align="right">.079</td>
+        <td width="183" align="right">988.46</td>
+        <td width="164" align="left">19010101</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="70" align="left">40</td>
+        <td width="130" align="right">45</td>
+        <td width="86" align="right">.00697</td>
+        <td width="100" align="right">3</td>
+        <td width="113" align="right">0.00125</td>
+        <td width="142" align="left">60</td>
+        <td width="218" align="right">0.0500</td>
+        <td width="236" align="right">0.0500</td>
+        <td width="237" align="left">12</td>
+        <td width="252" align="right">.02</td>
+        <td width="259" align="right">.02</td>
+        <td width="199" align="right">.129</td>
+        <td width="185" align="right">.0225</td>
+        <td width="170" align="right">&#160;</td>
+        <td width="256" align="right">&#160;</td>
+        <td width="296" align="left">&#160;</td>
+        <td width="168" align="left">&#160;</td>
+        <td width="212" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="210" align="left">&#160;</td>
+        <td width="231" align="left">&#160;</td>
+        <td width="272" align="left">&#160;</td>
+        <td width="130" align="right">0</td>
+        <td width="108" align="left">&#160;</td>
+        <td width="150" align="right">&#160;</td>
+        <td width="166" align="right">&#160;</td>
+        <td width="192" align="left">0</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="192" align="right">0</td>
+        <td width="190" align="right">&#160;</td>
+        <td width="126" align="left">&#160;</td>
+        <td width="203" align="right">1</td>
+        <td width="168" align="right">2</td>
+        <td width="135" align="right">0</td>
+        <td width="201" align="right">323.76</td>
+        <td width="203" align="right">&#160;</td>
+        <td width="228" align="right">&#160;</td>
+        <td width="91" align="right">10.00</td>
+        <td width="106" align="left">1</td>
+        <td width="139" align="left">20160804</td>
+        <td width="257" align="right">700</td>
+        <td width="265" align="right">708</td>
+        <td width="283" align="right">693</td>
+        <td width="273" align="right">650</td>
+        <td width="282" align="right">648</td>
+        <td width="298" align="right">642</td>
+        <td width="221" align="right">700</td>
+        <td width="194" align="right">648</td>
+        <td width="159" align="left">3</td>
+        <td width="201" align="left">&#160;</td>
+        <td width="176" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="117" align="left">&#160;</td>
+        <td width="208" align="right">56</td>
+        <td width="217" align="left">1473.00</td>
+        <td width="229" align="left">&#160;</td>
+        <td width="143" align="left">&#160;</td>
+        <td width="211" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="126" align="right">&#160;</td>
+        <td width="195" align="left">6189.13</td>
+        <td width="166" align="left">3213.65</td>
+        <td width="196" align="left">&#160;</td>
+        <td width="167" align="left">&#160;</td>
+        <td width="164" align="left">9402.78</td>
+        <td width="161" align="left">9402.78</td>
+        <td width="98" align="right">1</td>
+        <td width="217" align="left">5</td>
+        <td width="201" align="left">5</td>
+        <td width="211" align="left">3</td>
+        <td width="232" align="left">3</td>
+        <td width="172" align="left">4</td>
+        <td width="194" align="left">4</td>
+        <td width="142" align="right">59373.49</td>
+        <td width="170" align="right">$3,950.81</td>
+        <td width="86" align="right">0.42</td>
+        <td width="112" align="left">0.0697</td>
+        <td width="126" align="left">1</td>
+        <td width="179" align="left">1.00</td>
+        <td width="71" align="left">XXXXX</td>
+        <td width="37" align="left">XX</td>
+        <td width="77" align="left">XXXXX</td>
+        <td width="89" align="left">7</td>
+        <td width="69" align="left">1</td>
+        <td width="71" align="right">170000.00</td>
+        <td width="207" align="right">170000.00</td>
+        <td width="196" align="left">3</td>
+        <td width="194" align="left">XXXXX</td>
+        <td width="334" align="left">&#160;</td>
+        <td width="192" align="right">&#160;</td>
+        <td width="177" align="left">170000</td>
+        <td width="225" align="left">9</td>
+        <td width="223" align="left">20170412</td>
+        <td width="188" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="86" align="right">0.80</td>
+        <td width="77" align="right">0.80</td>
+        <td width="148" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="174" align="right">&#160;</td>
+        <td width="181" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="135" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="75" align="left">&#160;</td>
+        <td width="215" align="left">&#160;</td>
+        <td width="152" align="left">&#160;</td>
+        <td width="141" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="179" align="left">&#160;</td>
+        <td width="358" align="left">&#160;</td>
+        <td width="284" align="left">&#160;</td>
+        <td width="289" align="left">&#160;</td>
+        <td width="157" align="left">&#160;</td>
+        <td width="162" align="left">&#160;</td>
+        <td width="159" align="left">&#160;</td>
+        <td width="150" align="left">&#160;</td>
+        <td width="120" align="left">&#160;</td>
+        <td width="203" align="left">&#160;</td>
+        <td width="124" align="left">&#160;</td>
+        <td width="221" align="left">&#160;</td>
+        <td width="214" align="left">&#160;</td>
+        <td width="170" align="left">&#160;</td>
+        <td width="197" align="left">&#160;</td>
+        <td width="55" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="78" align="left">&#160;</td>
+        <td width="139" align="left">&#160;</td>
+        <td width="232" align="left">&#160;</td>
+        <td width="209" align="left">&#160;</td>
+        <td width="120" align="left">A-</td>
+        <td width="221" align="left">Credit Ascent - Full Doc</td>
+        <td width="101" align="left">Full</td>
+        <td width="130" align="left">No</td>
+        <td width="126" align="left">N/A</td>
+        <td width="162" align="left">N/A</td>
+        <td width="40" align="left">N/A</td>
+        <td width="108" align="left">N/A</td>
+        <td width="108" align="left">RETIRED</td>
+        <td width="108" align="left">RETIRED</td>
+        <td width="211" align="left">Tax Returns (2014 - W2, 2015 - W2, 2014 1040, 2015 - 1040)</td>
+        <td width="108" align="left">1099 (2014 - 1099, 2015 - 1099, 2015 - 1040)</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="144" align="right">0</td>
+        <td width="73" align="left">&#160;</td>
+        <td width="112" align="left">&#160;</td>
+        <td width="71" align="left">&#160;</td>
+        <td width="121" align="left">&#160;</td>
+        <td width="110" align="left">5/1/2014</td>
+        <td width="110" align="left">&#160;</td>
+        <td width="120" align="right">0</td>
+        <td width="256" align="left">First Option Mortgage</td>
+        <td width="185" align="left">QM/non-HPML (safe harbor)</td>
+        <td width="274" align="left">Credit Ascent - Primary Residence</td>
+        <td width="170" align="left">3/1/2016</td>
+        <td width="170" align="left">3/1/2016</td>
+        <td width="142" align="left">US Citizen</td>
+        <td width="157" align="left">US Citizen</td>
+        <td width="128" align="left">No</td>
+        <td width="104" align="left">Fee Simple</td>
+        <td width="104" align="left">No</td>
+        <td width="70" align="left">XXXXX</td>
+        <td width="77" align="left">711066</td>
+      </tr>
+      <tr>
+      </tr>
+
+  </table>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
