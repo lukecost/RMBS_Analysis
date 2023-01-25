@@ -1,0 +1,134 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>36
+<FILENAME>efc20-658_ex994s7.htm
+<DESCRIPTION>SCHEDULE 7 - DATA COMPARE REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00003.jpg">
+    <div>
+      <div style="margin-left: 5.4pt; line-height: 18.25pt; color: #262626; font-size: 12pt; font-weight: bold;">Data Compare Report</div>
+      <div style="margin-left: 5.4pt; line-height: 12.55pt; color: #262626; font-style: italic; font-weight: bold;">Discrepancy Detail - 8/11/2020</div>
+    </div>
+  </div>
+</body>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <table cellspacing="0" cellpadding="1" border="1" align="left" id="zf5e19dd8c7b2437fadfbca1ed29d418c">
+
+      <tr>
+        <td width="77">Loan Number</td>
+        <td width="97">DD Loan Number</td>
+        <td width="104">Field Compare</td>
+        <td width="145">Tape</td>
+        <td width="196">Audited</td>
+        <td width="111">Variance</td>
+        <td width="124">Data Discrepancy Flag</td>
+      </tr>
+      <tr>
+        <td width="77">34313715</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">Appraised Value</td>
+        <td width="145">XXXXXX</td>
+        <td width="196">XXXXXX</td>
+        <td width="111">$15,000.00</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313347</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">Property City</td>
+        <td width="145">XXXXXX</td>
+        <td width="196">XXXXXX</td>
+        <td width="111">Data Discrepancy</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313612</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">Loan Purpose</td>
+        <td width="145">Unknown</td>
+        <td width="196">Rate Term Refi</td>
+        <td width="111">Data Discrepancy</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313447</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">DTI</td>
+        <td width="145">48.48</td>
+        <td width="196">45.03</td>
+        <td width="111">-3.45</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313305</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">DTI</td>
+        <td width="145">34.42</td>
+        <td width="196">42.02</td>
+        <td width="111">7.60</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313444</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">DSCR</td>
+        <td width="145">&#160;</td>
+        <td width="196">1.12</td>
+        <td width="111">Data Not Provided</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313383</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">DSCR</td>
+        <td width="145">&#160;</td>
+        <td width="196">1.29</td>
+        <td width="111">Data Not Provided</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313503</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">DSCR</td>
+        <td width="145">&#160;</td>
+        <td width="196">1.56</td>
+        <td width="111">Data Not Provided</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313397</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">DSCR</td>
+        <td width="145">&#160;</td>
+        <td width="196">2.07</td>
+        <td width="111">Data Not Provided</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+        <td width="77">34313347</td>
+        <td width="97">XXXXXX</td>
+        <td width="104">DSCR</td>
+        <td width="145">&#160;</td>
+        <td width="196">1.42</td>
+        <td width="111">Data Not Provided</td>
+        <td width="124">Y</td>
+      </tr>
+      <tr>
+      </tr>
+
+  </table>
+</body>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
