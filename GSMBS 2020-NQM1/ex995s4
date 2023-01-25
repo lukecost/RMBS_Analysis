@@ -1,0 +1,162 @@
+<DOCUMENT>
+<TYPE>EX-99.5
+<SEQUENCE>40
+<FILENAME>efc20-658_ex995s4.htm
+<DESCRIPTION>SCHEDULE 4 - EXCEPTION SUPPLEMENTAL REPORT
+<TEXT>
+<html>
+  <head>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body>
+  <table cellspacing="0" cellpadding="1" border="1" align="left">
+
+      <tr>
+        <td width="116" align="left">LOANID</td>
+        <td width="116" align="left">GS_LOAN_NUMBER</td>
+        <td width="100" align="left">Investor Loan Number</td>
+        <td width="100" align="left">EXCEPTIONID</td>
+        <td width="113" align="left">EXCEPTIONIDDATE</td>
+        <td width="141" align="left">CONDITIONCATEGORY</td>
+        <td width="168" align="left">CONDITIONSTANDARDIZEDDESCRIPTION</td>
+        <td width="200" align="left">EXCEPTIONCHOSEN</td>
+        <td width="401" align="left">EDITEDEXCEPTION</td>
+        <td width="401" align="left">COMPENSATINGFACTORS</td>
+        <td width="200" align="left">FOLLOW-UPCOMMENTS</td>
+        <td width="149" align="left">EXCEPTION STATUS</td>
+        <td width="100" align="left">CLEAREDDATE</td>
+        <td width="100" align="left">OVERRIDEDATE</td>
+        <td width="100" align="left">EXCEPTIONLEVELGRADE</td>
+        <td width="100" align="left">COMPLETEDATE</td>
+        <td width="100" align="left">OUTSIDEQCDATE</td>
+        <td width="100" align="left">NOTEDATE</td>
+        <td width="100" align="left">PROPERTYSTATE</td>
+        <td width="100" align="left">OCCUPANCY</td>
+        <td width="100" align="left">PURPOSE</td>
+      </tr>
+      <tr>
+        <td width="116" align="left">&#160;</td>
+        <td width="116" align="left">36357056</td>
+        <td width="100" align="left">XXXXXX</td>
+        <td width="100" align="left">XXXX</td>
+        <td width="113" align="left">XX/XX/XXXX</td>
+        <td width="141" align="left">Compliance</td>
+        <td width="168" align="left">Compliance</td>
+        <td width="200" align="left">TRID CD - Settlement Agent License</td>
+        <td width="401" align="left">The license number is missing for the Settlement Agent Individual Contact on the last revised PCCD issued on, XX/XX/XXXX. Truth in Lending Act (Regulation Z)12 CFR 1026.38(r)(3), (5).</td>
+        <td width="401" align="left">&#160;</td>
+        <td width="200" align="left">&#160;</td>
+        <td width="149" align="left">Acknowledged</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="right">2</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">XX</td>
+        <td width="100" align="left">Owner Occupied</td>
+        <td width="100" align="left">Other-than-first-time Home Purchase</td>
+      </tr>
+      <tr>
+        <td width="116" align="left">&#160;</td>
+        <td width="116" align="left">36357056</td>
+        <td width="100" align="left">XXXXXX</td>
+        <td width="100" align="left">XXXX</td>
+        <td width="113" align="left">XX/XX/XXXX</td>
+        <td width="141" align="left">Compliance</td>
+        <td width="168" align="left">Compliance</td>
+        <td width="200" align="left">TRID CD ' Transaction Information/Buyer Info</td>
+        <td width="401" align="left">The PCCD issued on, XX/XX/XXXX, does not reflect the correct Borrower address when compared to the Note. Truth in Lending Act (Regulation Z)12 CFR 1026.38(a)(4)(i)</td>
+        <td width="401" align="left">&#160;</td>
+        <td width="200" align="left">&#160;</td>
+        <td width="149" align="left">Acknowledged</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="right">2</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">XX</td>
+        <td width="100" align="left">Owner Occupied</td>
+        <td width="100" align="left">Other-than-first-time Home Purchase</td>
+      </tr>
+      <tr>
+        <td width="116" align="left">&#160;</td>
+        <td width="116" align="left">36357056</td>
+        <td width="100" align="left">XXXXXX</td>
+        <td width="100" align="left">XXXX</td>
+        <td width="113" align="left">XX/XX/XXXX</td>
+        <td width="141" align="left">Compliance</td>
+        <td width="168" align="left">Compliance</td>
+        <td width="200" align="left">State Consumer Credit Laws/Regulations - Prohibited Fees</td>
+        <td width="401" align="left">The loan failed the California prohibited lender fees test. This loan failed the per diem interest amount test. (XX Bus. Prof. Code 2948.5)The per diem interest amount charged on the loan ($XXXX) exceeds the per diem
+          interest charge or credit threshold ($XXXX).</td>
+        <td width="401" align="left">&#160;</td>
+        <td width="200" align="left">Finding voided.</td>
+        <td width="149" align="left">Void</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="right">1</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">XX</td>
+        <td width="100" align="left">Owner Occupied</td>
+        <td width="100" align="left">Other-than-first-time Home Purchase</td>
+      </tr>
+      <tr>
+        <td width="116" align="left">&#160;</td>
+        <td width="116" align="left">36357056</td>
+        <td width="100" align="left">XXXXXX</td>
+        <td width="100" align="left">XXXX</td>
+        <td width="113" align="left">XX/XX/XXXX</td>
+        <td width="141" align="left">Valuation</td>
+        <td width="168" align="left">Valuation</td>
+        <td width="200" align="left">Value is supported within 10% of original appraisal amount</td>
+        <td width="401" align="left">The appraised value was supported within XX% and all applicable appraisal guidelines were satisfied.</td>
+        <td width="401" align="left">&#160;</td>
+        <td width="200" align="left">&#160;</td>
+        <td width="149" align="left">Cleared</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="right">1</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">XX</td>
+        <td width="100" align="left">Owner Occupied</td>
+        <td width="100" align="left">Other-than-first-time Home Purchase</td>
+      </tr>
+      <tr>
+        <td width="116" align="left">&#160;</td>
+        <td width="116" align="left">36357056</td>
+        <td width="100" align="left">XXXXXX</td>
+        <td width="100" align="left">XXXX</td>
+        <td width="113" align="left">XX/XX/XXXX</td>
+        <td width="141" align="left">Credit</td>
+        <td width="168" align="left">Credit</td>
+        <td width="200" align="left">The loan meets all applicable credit guidelines</td>
+        <td width="401" align="left">The loan meets all applicable credit guidelines.</td>
+        <td width="401" align="left">&#160;</td>
+        <td width="200" align="left">&#160;</td>
+        <td width="149" align="left">Cleared</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="right">1</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">&#160;</td>
+        <td width="100" align="left">XX/XX/XXXX</td>
+        <td width="100" align="left">XX</td>
+        <td width="100" align="left">Owner Occupied</td>
+        <td width="100" align="left">Other-than-first-time Home Purchase</td>
+      </tr>
+      <tr>
+      </tr>
+
+  </table>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
