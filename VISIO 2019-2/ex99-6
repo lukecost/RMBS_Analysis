@@ -1,0 +1,73 @@
+<DOCUMENT>
+<TYPE>EX-99.6
+<SEQUENCE>7
+<FILENAME>e6927ex99-6.htm
+<DESCRIPTION>AMC DATA COMPARE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Ex. 99.5 %2D Data Compare -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002580,0x00002EE0,0x00002EE0,0x00003584,0x00005DC0,0x00003840,0x00003840,0x00002580,0x00009600,0x00000000 -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0; text-align: right"><B>Exhibit 99.6</B></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font-family: Calibri, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" STYLE="padding-top: 3px; padding-left: 3px; font-size: 11pt; text-align: left"><IMG SRC="image_002.jpg" ALT="" STYLE="height: 51px; width: 292px"></TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="color: navy; font-size: 14pt; font-weight: bold">Data Compare (Non-Ignored)</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 14pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 14pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 14pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 14pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="color: navy; font-size: 10pt; font-weight: bold">Run Date - 10/7/2019 1:19:38 PM</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 10pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 10pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 10pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 10pt; font-weight: bold; text-align: left; background-color: white">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font-family: Calibri, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: bottom; background-color: navy">
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border: gray 0.5pt solid; text-align: left">AMC Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt">Customer Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt">Seller Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt">Investor Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt">Field Label</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt">Bid Tape Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt">Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt">Compare Status</TD>
+    <TD DIR="LTR" STYLE="color: white; font-size: 9pt; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt">Comment</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
