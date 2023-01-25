@@ -1,0 +1,1799 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>17
+<FILENAME>efc20-658_ex992s6.htm
+<DESCRIPTION>SCHEDULE 6 - RATING AGENCY ATR REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <table cellspacing="0" cellpadding="2" border="0" id="z0d845b980ac840b5a41fbf3c551d1ab6" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 29.85%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Client Name:</div>
+          </td>
+          <td style="width: 70.15%; vertical-align: top; background-color: #FFFFFF;" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Goldman Sachs</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 29.85%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Client Project Name:</div>
+          </td>
+          <td style="width: 70.15%; vertical-align: top; background-color: #FFFFFF;" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">GSMBS 2020-NQM1</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 29.85%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Start - End Dates:</div>
+          </td>
+          <td style="width: 70.15%; vertical-align: top; background-color: #FFFFFF;" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">07/2016 TO 03/2020</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 29.85%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">Deal Loan Count:</div>
+          </td>
+          <td style="width: 70.15%; vertical-align: top; background-color: #FFFFFF;" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-weight: bold;">88</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 29.85%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000;">&#160;</div>
+          </td>
+          <td style="width: 23.38%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000;">&#160;</div>
+          </td>
+          <td style="width: 23.38%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000;">&#160;</div>
+          </td>
+          <td style="width: 23.38%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 100%; vertical-align: top; background-color: #FFFFFF;" colspan="4">
+            <div style="line-height: 13.7pt; color: #000000; font-family: Arial, sans-serif; font-size: 12pt; font-weight: bold;">Rating Agency ATR QM Data Fields</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 29.85%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000;">&#160;</div>
+          </td>
+          <td style="width: 23.38%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000;">&#160;</div>
+          </td>
+          <td style="width: 23.38%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000;">&#160;</div>
+          </td>
+          <td style="width: 23.38%; vertical-align: bottom; background-color: #FFFFFF;">
+            <div style="line-height: 11.4pt; color: #000000;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 29.85%; vertical-align: top; background-color: #FFFFFF;">
+            <div style="line-height: 9.1pt; color: #000000; font-style: italic;">Loans in Report:</div>
+          </td>
+          <td style="width: 70.15%; vertical-align: top; background-color: #FFFFFF;" colspan="3">
+            <div style="line-height: 9.1pt; color: #000000; font-style: italic;">88</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="line-height: 15.75pt;"><br style="line-height: 15.75pt;">
+    </div>
+    <div style="line-height: 15.75pt;">
+      <table cellspacing="0" cellpadding="1" border="1" align="left" id="z09dc50a7b66542f79fd9bfb4797a18b3">
+
+          <tr>
+            <td width="195">Loan Number</td>
+            <td width="180">Loan Level ATR/QM Status</td>
+            <td width="146">Application Date Prior to 1/10/2014</td>
+            <td width="130">TRID Indicator</td>
+            <td width="105">Lender Application Date</td>
+            <td width="104">Broker Application Date</td>
+            <td width="104">GSE Eligible</td>
+            <td width="104">QRM Flag</td>
+            <td width="123">ATR/QM Total Points and Fees</td>
+            <td width="104">Rate Lock Date</td>
+            <td width="104">APR</td>
+            <td width="185">Bwr 1 Employment Indicator</td>
+            <td width="184">Bwr 2 Employment Indicator</td>
+            <td width="197">Bwr 1 Foreign National Indicator</td>
+            <td width="197">Bwr 2 Foreign National Indicator</td>
+            <td width="130">Residual Income Analysis in File</td>
+            <td width="127">ATR/QM Residual Income</td>
+          </tr>
+          <tr>
+            <td width="195">1000000987</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">12715</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.0307</td>
+            <td width="185">Retired</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">7037.5</td>
+          </tr>
+          <tr>
+            <td width="195">1000000993</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">12770</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.1755</td>
+            <td width="185">Employed</td>
+            <td width="184">Unemployed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">10594.63</td>
+          </tr>
+          <tr>
+            <td width="195">120020017880</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.1354</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">20117.05</td>
+          </tr>
+          <tr>
+            <td width="195">1605000123</td>
+            <td width="180">ATR/QM: Not Applicable</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1100</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">8.1004</td>
+            <td width="185">Unemployed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">Non-Resident Alien</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1605000129</td>
+            <td width="180">ATR/QM: Not Applicable</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">5908.25</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.4308</td>
+            <td width="185">Unemployed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1607000154</td>
+            <td width="180">ATR/QM: Not Applicable</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">580</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.5595</td>
+            <td width="185">Unemployed</td>
+            <td width="184">Unemployed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1607000162</td>
+            <td width="180">ATR/QM: Not Applicable</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1100</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.7006</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1607000170</td>
+            <td width="180">ATR/QM: Not Applicable</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">595</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.6814</td>
+            <td width="185">Unemployed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1608000187</td>
+            <td width="180">ATR/QM: Not Applicable</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1275</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.5498</td>
+            <td width="185">Unemployed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1609000199</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">7593</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.0227</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1609000203</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">89492</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.1128</td>
+            <td width="185">Employed</td>
+            <td width="184">Unemployed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1609000208</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4497.28</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.0499</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1609000214</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">9050</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.9261</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1610000220</td>
+            <td width="180">ATR/QM: Not Applicable</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">3575</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.0934</td>
+            <td width="185">Unemployed</td>
+            <td width="184">Unemployed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1610000241</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">10496.93</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.1813</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1612000291</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">10555</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.1595</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1612000307</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4755</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.9754</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1612000311</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">8990</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.4912</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1612000336</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">8450.2</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.548</td>
+            <td width="185">Retired</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">16690797</td>
+            <td width="180">QM: Rebuttable Presumption</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.1246</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1701000342</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">5527</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.2925</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1701000347</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">6544.31</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.4611</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1701000375</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">27343</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.2977</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1702000392</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">7905</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.2831</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1702000400</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">28054.75</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.3211</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">Non-Permanent Resident Alien</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1702000471</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4242.5</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.2706</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1704000581</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">34613</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.4482</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1704002100</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4286.75</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">8.6449</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1705002270</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4400</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">8.2011</td>
+            <td width="185">Retired</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1705002305</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">5044.6</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.3676</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1705002347</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">5720.7</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.7392</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1706002393</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">12897</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.9036</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1706002399</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">8759.1</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.102</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1706002462</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">7331.25</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.1318</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1707002491</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">7343</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.2522</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">1708002609</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">9492.5</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.5481</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">18132284</td>
+            <td width="180">QM: Rebuttable Presumption</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">1580</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.0116</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">Yes</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">19235978</td>
+            <td width="180">QM: Rebuttable Presumption</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">775</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.7533</td>
+            <td width="185">Employed</td>
+            <td width="184">Retired</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">19365794</td>
+            <td width="180">QM: Rebuttable Presumption</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.6179</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">19365961</td>
+            <td width="180">QM: Safe Harbor</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">2087.43</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">4.4957</td>
+            <td width="185">Employed</td>
+            <td width="184">Unemployed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">201019111814</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">2329</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">8.1137</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">6079.5</td>
+          </tr>
+          <tr>
+            <td width="195">201019114100</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">10144.5</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.309</td>
+            <td width="185">Unemployed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">10958.29</td>
+          </tr>
+          <tr>
+            <td width="195">201019124842</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">13262.5</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.2761</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">20312.55</td>
+          </tr>
+          <tr>
+            <td width="195">201020010135</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">13548.2</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.7231</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">14992.58</td>
+          </tr>
+          <tr>
+            <td width="195">201020010675</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">30090</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.0424</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">45529.41</td>
+          </tr>
+          <tr>
+            <td width="195">201020017570</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4455</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.9093</td>
+            <td width="185">Retired</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">2251.1</td>
+          </tr>
+          <tr>
+            <td width="195">201020018119</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4145</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.0794</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">5295.05</td>
+          </tr>
+          <tr>
+            <td width="195">201020018913</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4700</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.1934</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">9428.2</td>
+          </tr>
+          <tr>
+            <td width="195">201020019438</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">15207.76</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.6713</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">10481.55</td>
+          </tr>
+          <tr>
+            <td width="195">201020022049</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">5563.39</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.7612</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">4130</td>
+          </tr>
+          <tr>
+            <td width="195">201020022074</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.875</td>
+            <td width="185">Employed</td>
+            <td width="184">Unemployed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">201020022249</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">14847.5</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.8331</td>
+            <td width="185">Employed</td>
+            <td width="184">Retired</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">Yes</td>
+            <td width="127">12313.13</td>
+          </tr>
+          <tr>
+            <td width="195">20266424</td>
+            <td width="180">QM: Rebuttable Presumption</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">4111.5</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.9181</td>
+            <td width="185">Retired</td>
+            <td width="184">Retired</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">21635190</td>
+            <td width="180">QM: Rebuttable Presumption</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">4037.5</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.3295</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">21672048</td>
+            <td width="180">QM: Rebuttable Presumption</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">875</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.6554</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019100868</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4100</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.2945</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">2987.6</td>
+          </tr>
+          <tr>
+            <td width="195">320019111139</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">5775</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.8716</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">13434.31</td>
+          </tr>
+          <tr>
+            <td width="195">320019111179</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">6370</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.1765</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">Yes</td>
+            <td width="127">7022.32</td>
+          </tr>
+          <tr>
+            <td width="195">320019112379</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1910</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.2817</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">7402.24</td>
+          </tr>
+          <tr>
+            <td width="195">320019113325</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">770.4</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.6251</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019113979</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">2678</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.5261</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">5038.11</td>
+          </tr>
+          <tr>
+            <td width="195">320019114092</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.1361</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">20492.46</td>
+          </tr>
+          <tr>
+            <td width="195">320019114149</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1910</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.2819</td>
+            <td width="185">Employed</td>
+            <td width="184">Unemployed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">Yes</td>
+            <td width="127">19735.72</td>
+          </tr>
+          <tr>
+            <td width="195">320019114262</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">6130</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.7918</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019125196</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">914</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.5001</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019125827</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">2000</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.233</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019125990</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">8.625</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019126089</td>
+            <td width="180">QM: Rebuttable Presumption</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">Yes</td>
+            <td width="123">2841.96</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">8.135</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">2606.33</td>
+          </tr>
+          <tr>
+            <td width="195">320019126228</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">4150</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.1478</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">Permanent Resident Alien</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">12655.05</td>
+          </tr>
+          <tr>
+            <td width="195">320019126393</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">2802.22</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.9504</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">16930.19</td>
+          </tr>
+          <tr>
+            <td width="195">320019126530</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.75</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019126554</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.75</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019126587</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">2769.8</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.9199</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019126654</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.75</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019126663</td>
+            <td width="180">ATR/QM: Exempt</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">0</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.75</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">320019126793</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">11629.8</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.5464</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">7082.86</td>
+          </tr>
+          <tr>
+            <td width="195">320019127013</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">3779.38</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.46</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">11531.82</td>
+          </tr>
+          <tr>
+            <td width="195">320019127231</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">2261.64</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.1869</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">Yes</td>
+            <td width="127">7364</td>
+          </tr>
+          <tr>
+            <td width="195">320020011292</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">8357.56</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.9307</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">11935.04</td>
+          </tr>
+          <tr>
+            <td width="195">320020017461</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1920</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.9984</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">3573.45</td>
+          </tr>
+          <tr>
+            <td width="195">320020017709</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1595</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.7982</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">Yes</td>
+            <td width="127">4240.18</td>
+          </tr>
+          <tr>
+            <td width="195">320020018505</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">1295</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">5.2797</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">148954.41</td>
+          </tr>
+          <tr>
+            <td width="195">320020019030</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">3843.1</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.5019</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">5563.61</td>
+          </tr>
+          <tr>
+            <td width="195">320020019285</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">3765</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">8.009</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">Yes</td>
+            <td width="127">15391.07</td>
+          </tr>
+          <tr>
+            <td width="195">700743</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">5260</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">9.2877</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">700752</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">3955</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">8.7922</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">2456.45</td>
+          </tr>
+          <tr>
+            <td width="195">700753</td>
+            <td width="180">ATR/QM: Not Applicable</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">9154.65</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">7.8229</td>
+            <td width="185">Employed</td>
+            <td width="184">(No Data)</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">(No Data)</td>
+            <td width="130">(No Data)</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+            <td width="195">700757</td>
+            <td width="180">Non-QM: Lender documented all ATR UW factors</td>
+            <td width="146">No</td>
+            <td width="130">Yes</td>
+            <td width="105">XXXXXX</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">No</td>
+            <td width="104">No</td>
+            <td width="123">12700</td>
+            <td width="104">XXXXXX</td>
+            <td width="104">6.9145</td>
+            <td width="185">Employed</td>
+            <td width="184">Employed</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="197">U.S. Citizen</td>
+            <td width="130">No</td>
+            <td width="127">0</td>
+          </tr>
+          <tr>
+          </tr>
+
+      </table>
+    </div>
+    <div style="line-height: 15.75pt">&#160;</div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
