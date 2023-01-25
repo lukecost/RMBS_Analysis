@@ -1,0 +1,94 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>5
+<FILENAME>tm2021749-1_ex994.htm
+<DESCRIPTION>CLAYTON LOAN LEVEL TAPE COMPARE
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.4</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Name:</TD>
+    <TD COLSPAN="3" STYLE="text-align: left">Deephaven</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Project Name:</TD>
+    <TD COLSPAN="3" STYLE="text-align: left">DRMT 2020-2</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Start - End Dates:</TD>
+    <TD COLSPAN="3" STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Deal Loan Count:</TD>
+    <TD COLSPAN="3" STYLE="text-align: left">27</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="width: 30%">&nbsp;</TD>
+    <TD STYLE="width: 18%">&nbsp;</TD>
+    <TD STYLE="width: 19%">&nbsp;</TD>
+    <TD STYLE="width: 33%">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD COLSPAN="3" STYLE="font-weight: bold; vertical-align: top; text-align: left">Loan Level Tape Compare Upload</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-style: italic; text-align: left">Loans in Report</TD>
+    <TD COLSPAN="3" STYLE="font-style: italic; text-align: left">3</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: middle; background-color: blue">
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 15%">Deal Loan ID</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 13%">Borrower Last Name</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 22%">Field Name</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 27%">Tape Data</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 23%">Reviewer Data</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right">2849507690</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Full Doc</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; border-top-color: silver; border-top-width: 0.5pt">Alt Doc/Bank Statements</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right">3280922908</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Low Rise Condo (1-4)</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">High Rise Condo (9+)</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right">6088542345</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Full Doc</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Alt Doc/Bank Statements</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
