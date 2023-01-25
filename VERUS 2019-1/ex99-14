@@ -1,0 +1,358 @@
+<DOCUMENT>
+<TYPE>EX-99.14
+<SEQUENCE>15
+<FILENAME>tv512428_ex99-14.htm
+<DESCRIPTION>CRES ATR QM DATA FIELDS
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.14 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>CRES
+ATR QM Data Fields</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><IMG SRC="tv512428_img2.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt"><B>ATR QM Data Fields</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 5.4pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt"><I>Loans in Report: 45</I></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="background-color: #1F4E78">
+    <TD STYLE="width: 15%; border: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: white"><B>DD
+    Loan</B></FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><BR>
+    <FONT STYLE="color: white"><B>Number</B></FONT></FONT></TD>
+    <TD STYLE="width: 15%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: white"><B>Client
+    Loan Number</B></FONT></TD>
+    <TD STYLE="width: 34%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: white"><B>Loan
+    Level ATR/QM Status</B></FONT></TD>
+    <TD STYLE="width: 21%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: white"><B>Application
+    Date Prior to 1/10/2014</B></FONT></TD>
+    <TD STYLE="width: 15%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: white"><B>TRID
+    Indicator</B></FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707770</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707771</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707772</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707773</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707774</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707775</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707776</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">QM/HPML
+    (rebuttable presumption)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707777</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707778</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707780</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707781</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707782</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707783</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707784</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707785</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">707786</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">708443</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">712924</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713095</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713259</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713507</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">QM/non-HPML
+    (safe harbor)</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713735</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713738</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713768</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713789</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713822</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">714156</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">714294</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">715077</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713712</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+    covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713891</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">713909</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">714384</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">715015</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">715080</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+    covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">715168</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">715515</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">715526</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">715598</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">715772</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+    covered/exempt</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">716092</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">716230</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">716487</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">716710</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; background-color: #E7E6E6"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">xxxxxx</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">716920</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-QM/compliant</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD NOWRAP STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
