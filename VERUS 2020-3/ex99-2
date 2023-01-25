@@ -1,0 +1,799 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>tm2022489d1_ex99-2.htm
+<DESCRIPTION>AMC DATA COMPARE
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; text-align: left">&nbsp;</P>
+
+<P STYLE="margin: 0; text-align: left"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>EXHIBIT
+99.2</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>AMC
+Data Compare</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+
+<P STYLE="margin: 0; text-align: left"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0; text-align: left"></P>
+
+<P STYLE="margin: 0; text-align: right"><B>&nbsp;</B></P>
+
+<P STYLE="margin: 0; text-align: left"><B>&nbsp;<IMG SRC="image_001.jpg" ALT=""></B></P>
+
+<P STYLE="margin: 0; text-align: left"><B></B></P>
+
+<P STYLE="color: #214D88; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">Data Compare</P>
+
+<P STYLE="color: #214D88; font: bold 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">Run Date - 6/9/2020 9:39:16 AM &nbsp; &nbsp; &nbsp; &nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; color: #214D88; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom; background-color: #214D88">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: gray 0.5pt solid; text-align: left; width: 4%">AMC Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 5%">Customer Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 7%">Seller Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 7%">Investor Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 18%">Field Label</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 11%">Bid Tape Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 7%">Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 5%">Compare Status</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-left-color: gray; border-left-width: 0.5pt; width: 36%">Comment</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">725270</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects Zip per Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">725270</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects documentation located in origination file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">725270</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Interest Rate Life Floor</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">3.5</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Interest Rate Life Floor' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">725270</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash From Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">13251.34</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">725270</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">43.71</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">55.18295</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used lower consumer debt than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727738</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash From Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">34042.38</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727989</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">2 Family</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727989</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Index Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">LIBOR - 1 Year (Daily)</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Prime (WSJ)</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Index Type' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727989</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Margin</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">5.25</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Margin' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727989</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Interest Rate Life Floor</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">5.25</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0.75</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Interest Rate Life Floor' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727989</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">45</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">42.24807</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727909</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">First Payment Date</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects First Payment Date per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727909</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Fastrack</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects documentation located in origination file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727909</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash From Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">228488.76</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">727909</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">37.168</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">40.43252</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">728992</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects Zip per Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">728992</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash To Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">100000</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">109233.58</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">728992</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">18</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">45.29648</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used lower consumer debt than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">733384</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">735400</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">30.44</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">33.68015</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736690</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects Zip per Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736690</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower First Name</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects Borrower name as it appears on the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736690</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Margin</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">3.5</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Margin' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736690</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Interest Rate Life Cap</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">7</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">5</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Interest Rate Life Cap' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736690</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash From Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">172235.91</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">738432</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Fastrack</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">737840</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">739</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">731</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value Representative FICO reflects the lowest mid score of all borrowers</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">737840</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash To Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">30955.39</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">737840</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Borrower FTHB</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value verified by Application, Credit Report or other documentation in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">738648</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">No Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">738064</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Street</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects Street per Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">738064</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">738064</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Appraised Value</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">738064</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Margin</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">4</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Margin' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">738064</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Interest Rate Life Cap</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">7</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">5</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Interest Rate Life Cap' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">738064</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">19.887</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">27.40164</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736289</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Original Loan Amount</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects the Note value</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736289</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736289</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Appraised Value</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736289</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Contract Sales Price</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects sales price as it appears on the sales/purchase contract and/or addendum</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">736289</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">17</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">38.46316</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739173</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739861</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash To Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">123746.15</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739010</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects Zip per Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739010</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Townhouse</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739010</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Margin</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">4</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Margin' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739010</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Interest Rate Life Cap</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">7</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">5</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Interest Rate Life Cap' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739010</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash From Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">66026.67</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739010</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">47</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">44.81235</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used lower consumer debt than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">741207</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">741212</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">739766</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">740493</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">620</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National without US Credit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">740493</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Townhouse</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">PUD Attached</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">740493</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Cash From Borrower</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">167530.28</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">740493</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">19.495</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">27.10623</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value DTI is higher than Tape value due to Lender used lower consumer debt than verified by audit</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">741962</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">742080</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">742716</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">743398</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">743398</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Interest Only</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Interest Only' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">743398</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Appraised Value</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value captured from Valuation model in file</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">743398</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Margin</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">6</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Margin' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">743398</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Interest Rate Life Cap</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">7</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">5</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field Value reflects 'Interest Rate Life Cap' per the Note</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">743398</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">23</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">30.6619</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Unable to verify due to missing information</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">743460</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">744540</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">744555</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">744570</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">744639</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">744654</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">FastEasy</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">744637</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: whitesmoke">Reduced</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Verified</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: left; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">Field value reflects source document</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
