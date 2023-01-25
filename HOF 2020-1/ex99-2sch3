@@ -1,0 +1,304 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>10
+<FILENAME>ex99-2sch3.htm
+<DESCRIPTION>LOAN LEVEL TAPE COMPARE REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0"><A HREF="hof-abs15g_042920.htm">HOF I 2020-1 DEPOSITOR LLC ABS-15G</A></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.2 - Schedule 3</B></P>
+
+<P STYLE="margin: 0; text-align: right"><B>&nbsp;</B></P>
+
+<P STYLE="margin: 0"></P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Arial, Helvetica, Sans-Serif">
+<TR>
+    <TD STYLE="white-space: nowrap; font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left; background-color: white">Client Name:</TD>
+    <TD COLSPAN="3" STYLE="white-space: nowrap; font-size: 8pt; vertical-align: top; text-align: left; background-color: white">Neuberger Berman</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="white-space: nowrap; font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left; background-color: white">Client Project Name:</TD>
+    <TD COLSPAN="3" STYLE="white-space: nowrap; font-size: 8pt; vertical-align: top; text-align: left; background-color: white">HOF 2020-1</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="white-space: nowrap; font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left; background-color: white">Start - End Dates:</TD>
+    <TD COLSPAN="3" STYLE="white-space: nowrap; font-size: 8pt; vertical-align: top; text-align: left; background-color: white">05/2017 - 01/2020</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="white-space: nowrap; font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left; background-color: white">Deal Loan Count:</TD>
+    <TD COLSPAN="3" STYLE="white-space: nowrap; font-size: 8pt; vertical-align: top; text-align: left; background-color: white">8</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="white-space: nowrap; font-size: 8pt; font-style: italic; vertical-align: top; text-align: left; background-color: white">Report Run Date:</TD>
+    <TD COLSPAN="3" STYLE="white-space: nowrap; font-size: 8pt; font-style: italic; vertical-align: top; text-align: left; background-color: white">4/2/2020</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="white-space: nowrap; background-color: white; width: 12%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; background-color: white; width: 10%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; background-color: white; width: 17%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; background-color: white; width: 25%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; background-color: white; width: 18%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; width: 6%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; width: 6%">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; width: 6%">&nbsp;</TD></TR>
+<TR>
+    <TD COLSPAN="3" STYLE="white-space: nowrap; font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left; background-color: white">Loan Level Tape Compare Upload</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="white-space: nowrap; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="white-space: nowrap; font-size: 8pt; font-style: italic; vertical-align: top; text-align: left; background-color: white">Loans in Report</TD>
+    <TD COLSPAN="3" STYLE="white-space: nowrap; font-size: 8pt; font-style: italic; vertical-align: top; text-align: left; background-color: white">5</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom; background-color: white">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; vertical-align: middle; border: Black 0.5pt solid; text-align: left; background-color: blue">Loan Number</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; vertical-align: middle; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-left-color: Black; border-left-width: 0.5pt; background-color: blue">Borrower Last Name</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; vertical-align: middle; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-left-color: Black; border-left-width: 0.5pt; background-color: blue">Field Name</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; vertical-align: middle; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-left-color: Black; border-left-width: 0.5pt; background-color: blue">Tape Data</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; vertical-align: middle; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-left-color: Black; border-left-width: 0.5pt; background-color: blue">Reviewer Data</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461205744</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Credit Report Date</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">03/16/2018</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">03/19/2018</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461205744</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">46.6100</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">52.0421</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461205744</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Lender Name</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461205744</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Max Rate at First Adjustment</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">2</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">9.7500</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461205744</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Original Appraised Value</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461205744</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Origination Date</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461205744</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Prepay Penalty Flag</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Yes</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">No</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461205744</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Representative Credit Score for Grading</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">696</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">697</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461206080</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">ATR/QM Status</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">QM: Safe Harbor</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461206080</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Lender Name</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461206080</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Max Rate at First Adjustment</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">2</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">9.1250</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4461226229</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Property City</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">3116000988</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Price Lock Date</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4108002787</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Documentation Type</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Alt Doc/Bank Statements</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">SIVA</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4108002787</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Price Lock Date</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; background-color: white">4108002787</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Property Type</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Rowhouse</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; vertical-align: middle; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt; background-color: white">Low Rise Condo (1-4)</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="8" STYLE="font-size: 8pt; text-align: center">&copy;2020 Clayton Services LLC. All rights reserved. Ownership and use of this report is governed by the legal agreement between Clayton and the party for which it was prepared. Any use not expressly authorized by such agreement, including reliance on this report by anyone other than such party, is prohibited.&nbsp;</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0"></P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
