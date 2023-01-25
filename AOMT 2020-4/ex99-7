@@ -1,0 +1,649 @@
+<DOCUMENT>
+<TYPE>EX-99.7
+<SEQUENCE>8
+<FILENAME>ex99-7.htm
+<DESCRIPTION>CLAYTON CONDITIONS DETAIL
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Conditions Detail -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00003778,0x000038A4,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x000012C0,0x00002580,0x00003840,0x00003840,0x00003840,0x00003840,0x00007080,0x00003840,0x00007080,0x00007080,0x00007080,0x00002710,0x00002710,0x00007080 -->
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: times new roman; font-size: 10pt"><A HREF="aomt-abs15g_070920.htm">Angel Oak Mortgage Trust 2020-4 ABS-15G</A></FONT></P>
+
+<P STYLE="text-align: right; margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: times new roman; font-size: 10pt"><B>Exhibit
+99.7</B></FONT></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left">Client Name:</TD>
+    <TD COLSPAN="24" STYLE="font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left">Client Project Name:</TD>
+    <TD COLSPAN="24" STYLE="font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left">AOMT 2020-4</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left">Start - End Dates:</TD>
+    <TD COLSPAN="24" STYLE="font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left">1/14/2018 - 4/11/2019</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left">Deal Loan Count:</TD>
+    <TD COLSPAN="24" STYLE="font-size: 8pt; font-weight: bold; vertical-align: top; text-align: left">2</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-size: 8pt; font-style: italic; vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD COLSPAN="24" STYLE="font-size: 8pt; font-style: italic; vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 22%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD COLSPAN="2" STYLE="font-size: 12pt; font-weight: bold; vertical-align: top; text-align: left">Conditions Report 2.0</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; font-style: italic; vertical-align: top; text-align: left">Loans in Report:</TD>
+    <TD STYLE="font-size: 8pt; font-style: italic; vertical-align: top; text-align: right">2</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-size: 8pt; font-weight: bold; font-style: italic; vertical-align: top; text-align: left">Loans with Conditions:</TD>
+    <TD STYLE="font-size: 8pt; font-style: italic; vertical-align: top; text-align: right">2</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Loan Number</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Original Principal Balance</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">State</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Initial Lender ATR/QM Status</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Loan Level ATR/QM Status</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Initial Securitization Overall Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Final Securitization Overall Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Initial Securitization Credit Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Final Securitization Credit Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Initial Securitization Property Valuations Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Final Securitization Property Valuations Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Initial Securitization Compliance Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Final Securitization Compliance Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Initial S&amp;P Overall Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Final S&amp;P Overall Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Initial S&amp;P Credit Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Final S&amp;P Credit Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Initial S&amp;P Property Valuations Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Final S&amp;P Property Valuations Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Initial S&amp;P Compliance Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Final S&amp;P Compliance Loan Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Condition Category</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Condition Sub Category</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Condition Status</TD>
+    <TD COLSPAN="2" STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Initial Securitization Condition Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #3366FF">Final Securitization Condition Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Initial S&amp;P Condition Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: #FF6600">Final S&amp;P Condition Grade</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Condition Code</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Condition Description</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Condition Material Indicator</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Initial Comments</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Client/Seller Response Comments</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Conclusion Comments</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">TRID Error Type</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; background-color: gray">Cure Method</TD>
+    <TD STYLE="color: white; font-size: 8pt; font-weight: bold; border: silver 0.5pt solid; text-align: left; background-color: gray">Compensating Factors</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">202004004</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">GA</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Compliance</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TILA/RESPA Integrated Disclosure</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Active</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CMPTRID3478</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TRID - Written List of Providers not compliant</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Written List of Providers not compliant - insufficient information to allow the consumer to contact the Translator provider ( two forms of contact needed).&nbsp;</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-right: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;7 years 1 month at current address per application.<BR>
+<BR>
+CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Qualifying credit score of 701.&nbsp;&nbsp;Minimum required is 680 for 90% LTV.<BR></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">202004004</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">GA</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Compliance</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TILA/RESPA Integrated Disclosure</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Active</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CMPTRID4352</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TRID - CD: At least one section contains formatting that does not comply with the Regulation</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Final CD XXX, section E. field State Tax - missing payee's name</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Hybrid</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-right: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;7 years 1 month at current address per application.<BR>
+<BR>
+CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Qualifying credit score of 701.&nbsp;&nbsp;Minimum required is 680 for 90% LTV.<BR></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">202004004</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">GA</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Compliance</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TILA/RESPA Integrated Disclosure</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Active</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CMPTRID3626</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TRID - CD: Loan consummated before end of waiting period</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Final LE XXX was received by borrowers on XXX. Closing date on XXX - Loan consummated before end of waiting period. 4 business days needed between final LE and consummation day.&nbsp;</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4/15/2019: Lender questioned the timing mentioned in the initial Clayton comment. There is a three business day rule from the initial CD to consummation but there is also a four day rule from final LE to consummation. Since LE XXX was e-signed on XXX with the earliest e-consent in file on XXX, consummation cannot be prior to XXX. Exception remains.</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Applicable Statute of Limitation has expired. Final grade B, non-material.</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-right: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;7 years 1 month at current address per application.<BR>
+<BR>
+CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Qualifying credit score of 701.&nbsp;&nbsp;Minimum required is 680 for 90% LTV.<BR></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">202004004</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">GA</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Missing secondary valuation for securitization supporting appraised value of XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4/29/2019 - Desk review supporting appraisal value provided.&nbsp;</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4/29/2019 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-right: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;7 years 1 month at current address per application.<BR>
+<BR>
+CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Qualifying credit score of 701.&nbsp;&nbsp;Minimum required is 680 for 90% LTV.<BR></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">202004002</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">FL</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Missing secondary valuation for securitization supporting appraised value of $XXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">04/30/2019 - Desk review supporting appraisal value provided.</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">04/30/2019 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-right: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;LTV 54.64% below guideline requirements of 70%.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Post Close Reserves $12,153.97 - 7.41 months.&nbsp;&nbsp;6 months reserves required ($1640.94 x 6 = $9,045.64) Surplus $3,108.33.<BR>
+<BR>
+CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Credit Score 741 exceeds guidelines 660.<BR></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">202004002</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">FL</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">PRVAPROP177</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Issues Indicated</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Incorrect Floor Sketch Unit XXX.&nbsp;&nbsp;Floor Sketch Unit lists 2 bedrooms 1 bath however, Appraisal Report lists 2 bedrooms 2 baths.&nbsp;&nbsp;Provide corrected grid or sketch.</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1/31/2019 -Lender provided the updated appraisal correcting the number of bathrooms to 2.</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1/31/2019 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; font-size: 8pt; border-right: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;LTV 54.64% below guideline requirements of 70%.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Post Close Reserves $12,153.97 - 7.41 months.&nbsp;&nbsp;6 months reserves required ($1640.94 x 6 = $9,045.64) Surplus $3,108.33.<BR>
+<BR>
+CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Credit Score 741 exceeds guidelines 660.<BR></TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
