@@ -1,0 +1,706 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>42
+<FILENAME>efc20-658_ex995s6.htm
+<DESCRIPTION>SCHEDULE 6 - VALUATION REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00003.jpg">
+    <div>
+      <div style="margin-left: 5.4pt; line-height: 11.4pt; color: #262626; font-weight: bold;">Valuation Report</div>
+      <div style="margin-left: 5.4pt; line-height: 11.4pt; color: #262626; font-weight: bold;">Report Run Date - 8/11/2020</div>
+      <div style="margin-left: 5.4pt; line-height: 11.4pt; color: #262626; font-weight: bold;"> <br>
+      </div>
+      <div style="line-height: 11.4pt; color: rgb(38, 38, 38); font-family: 'Times New Roman',Times,serif; font-weight: bold;">
+        <table cellspacing="0" cellpadding="1" border="1" align="left" id="z87763e9e6b6e48338e25161c82f10410">
+
+            <tr>
+              <td width="100" align="center">GS Loan Number</td>
+              <td width="100" align="center">Seller Loan Number</td>
+              <td width="100" align="center">Primary Servicer</td>
+              <td width="100" align="center">Servicing Fee Percentage</td>
+              <td width="100" align="center">Servicing Fee Flat Dollar</td>
+              <td width="100" align="center">Servicing Advance Methodology</td>
+              <td width="100" align="center">Originator</td>
+              <td width="100" align="center">Loan Group</td>
+              <td width="100" align="center">Amortization Type</td>
+              <td width="100" align="center">Lien Position</td>
+              <td width="100" align="center">HELOC Indicator</td>
+              <td width="100" align="center">Loan Purpose</td>
+              <td width="100" align="center">Cash Out Amount</td>
+              <td width="100" align="center">Total Origination and Discount Points in Dollars</td>
+              <td width="100" align="center">Covered High Cost Loan Indicator</td>
+              <td width="100" align="center">Relocation Loan Indicator</td>
+              <td width="100" align="center">Broker Indicator</td>
+              <td width="100" align="center">Channel</td>
+              <td width="100" align="center">Escrow Indicator</td>
+              <td width="100" align="center">Senior Loan Amounts</td>
+              <td width="100" align="center">Loan Type of Most Senior Lien</td>
+              <td width="100" align="center">Hybrid Period of Most Senior Lien in Months</td>
+              <td width="100" align="center">Neg Am Limit of Most Senior Lien</td>
+              <td width="100" align="center">Junior Mortgage Balance</td>
+              <td width="100" align="center">Origination Date of Most Senior Lien</td>
+              <td width="100" align="center">Origination Date</td>
+              <td width="100" align="center">Original Loan Amount</td>
+              <td width="100" align="center">Original Interest Rate</td>
+              <td width="100" align="center">Original Amortization Term</td>
+              <td width="100" align="center">Original Term to Maturity</td>
+              <td width="100" align="center">First Payment Date of Loan</td>
+              <td width="100" align="center">Interest Type Indicator</td>
+              <td width="100" align="center">Original Interest Only Term</td>
+              <td width="100" align="center">Buy Down Period</td>
+              <td width="100" align="center">HELOC Draw Period</td>
+              <td width="100" align="center">Current Loan Amount</td>
+              <td width="100" align="center">Current Interest Rate</td>
+              <td width="100" align="center">Current Payment Amount Due</td>
+              <td width="100" align="center">Interest Paid Through Date</td>
+              <td width="100" align="center">Current Payment Status</td>
+              <td width="100" align="center">Index Type</td>
+              <td width="100" align="center">ARM Look Back Days</td>
+              <td width="100" align="center">Gross Margin</td>
+              <td width="100" align="center">ARM Round Flag</td>
+              <td width="100" align="center">ARM Rounding Factor</td>
+              <td width="100" align="center">Initial Fixed Rate Period</td>
+              <td width="100" align="center">Initial Interest Rate Cap Change Up</td>
+              <td width="100" align="center">Initial Interest Rate Cap Change Down</td>
+              <td width="100" align="center">Subsequent Interest Rate Reset Period</td>
+              <td width="100" align="center">Subsequent Interest Rate Change Down</td>
+              <td width="100" align="center">Subsequent Interest Rate Cap Change Up</td>
+              <td width="100" align="center">Lifetime Maximum Rate Ceiling</td>
+              <td width="100" align="center">Lifetime Minimum Rate Floor</td>
+              <td width="100" align="center">Option ARM Negative Amortization Limit</td>
+              <td width="100" align="center">Initial Option ARM Negative Amortization Recast Period</td>
+              <td width="100" align="center">Subsequent Negative Amortization Recast Period</td>
+              <td width="100" align="center">Initial Option ARM Fixed Payment Period</td>
+              <td width="100" align="center">Subsequent Payment Reset Period</td>
+              <td width="100" align="center">Initial Option ARM Periodic Payment Cap</td>
+              <td width="100" align="center">Subsequent Option ARM Periodic Payment Cap</td>
+              <td width="100" align="center">Initial Option ARM Minimum Payment Reset Period</td>
+              <td width="100" align="center">Subsequent Option ARM Minimum Payment Reset Period</td>
+              <td width="100" align="center">Option ARM Indicator</td>
+              <td width="100" align="center">Options at Recast</td>
+              <td width="100" align="center">Initial Option ARM Minimum Payment</td>
+              <td width="100" align="center">Option ARM Current Minimum Payment</td>
+              <td width="100" align="center">Prepayment Penalty Calculation</td>
+              <td width="100" align="center">Prepayment Penalty Type</td>
+              <td width="100" align="center">Prepayment Penalty Total Term</td>
+              <td width="100" align="center">Prepayment Penalty Hard Term</td>
+              <td width="100" align="center">Primary Borrower ID</td>
+              <td width="100" align="center">Number of Mortgaged Properties</td>
+              <td width="100" align="center">Total Number of Borrowers</td>
+              <td width="100" align="center">Self employment Flag</td>
+              <td width="100" align="center">Current Other Monthly Payment</td>
+              <td width="100" align="center">Length of Employment borrower</td>
+              <td width="100" align="center">Length of Employment Co Borrower</td>
+              <td width="100" align="center">Years in Home</td>
+              <td width="100" align="center">FICO Model Used</td>
+              <td width="100" align="center">Most Recent FICO Date</td>
+              <td width="100" align="center">Primary Wage Earner Original FICO Equifax</td>
+              <td width="100" align="center">Primary Wage Earner Original FICO Experian</td>
+              <td width="100" align="center">Primary Wage Earner Original FICO Transunion</td>
+              <td width="100" align="center">Secondary Wage Earner Original FICO Equifax</td>
+              <td width="100" align="center">Secondary Wage Earner Original FICO Experian</td>
+              <td width="100" align="center">Secondary Wage Earner Original FICO Transunion</td>
+              <td width="100" align="center">Most Recent Primary Borrower FICO</td>
+              <td width="100" align="center">Most Recent Co Borrower FICO</td>
+              <td width="100" align="center">Most Recent FICO Method</td>
+              <td width="100" align="center">Vantagescore Primary Borrower</td>
+              <td width="100" align="center">Vantagescore Co Borrower</td>
+              <td width="100" align="center">Most Recent Vantagescore Method</td>
+              <td width="100" align="center">Vantagescore Date</td>
+              <td width="100" align="center">Credit Report Longest Trade Line</td>
+              <td width="100" align="center">Credit Report Maximum Trade Line</td>
+              <td width="100" align="center">Credit Report Number of Trade Lines</td>
+              <td width="100" align="center">Credit Line Usage Ratio</td>
+              <td width="100" align="center">Most Recent 12 month Pay History</td>
+              <td width="100" align="center">Borrower Prior Bankruptcy Discharge date</td>
+              <td width="100" align="center">Borrower Prior Foreclosure Discharge Date</td>
+              <td width="100" align="center">Primary Borrower Wage Income</td>
+              <td width="100" align="center">Co Borrower Wage Income</td>
+              <td width="100" align="center">Primary Borrower Other Income</td>
+              <td width="100" align="center">Co Borrower Other Income</td>
+              <td width="100" align="center">All Borrower Wage Income</td>
+              <td width="100" align="center">All Borrower Total Income</td>
+              <td width="100" align="center">4506T Indicator</td>
+              <td width="100" align="center">Borrower Income Verification Level</td>
+              <td width="100" align="center">Co Borrower Income Verification Level</td>
+              <td width="100" align="center">Borrower Employment Verification Level</td>
+              <td width="100" align="center">Co Borrower Employment Verification Level</td>
+              <td width="100" align="center">Borrower Asset Verification Level</td>
+              <td width="100" align="center">Co Borrower Asset Verification Level</td>
+              <td width="100" align="center">Liquid Cash Reserves</td>
+              <td width="100" align="center">Monthly Debt All Borrowers</td>
+              <td width="100" align="center">Originator DTI</td>
+              <td width="100" align="center">Fully Indexed Rate</td>
+              <td width="100" align="center">Qualification Method</td>
+              <td width="100" align="center">Percentage of Down Payment from Borrower Own Funds</td>
+              <td width="100" align="center">City</td>
+              <td width="100" align="center">State</td>
+              <td width="100" align="center">Postal Code</td>
+              <td width="100" align="center">Property Type</td>
+              <td width="100" align="center">Occupancy</td>
+              <td width="100" align="center">Sales Price</td>
+              <td width="100" align="center">Original Appraised Property Value</td>
+              <td width="100" align="center">Original Property Valuation Type</td>
+              <td width="100" align="center">Original Property Valuation Date</td>
+              <td width="100" align="center">Original Automated Valuation Model AVM Model Name</td>
+              <td width="100" align="center">Original AVM Confidence Score</td>
+              <td width="100" align="center">Most Recent Property Value</td>
+              <td width="100" align="center">Most Recent Property Valuation Type</td>
+              <td width="100" align="center">Most Recent Property Valuation Date</td>
+              <td width="100" align="center">Most Recent AVM Model Name</td>
+              <td width="100" align="center">Most Recent AVM Confidence Score</td>
+              <td width="100" align="center">Original CLTV</td>
+              <td width="100" align="center">Original LTV</td>
+              <td width="100" align="center">Original Pledged Assets</td>
+              <td width="100" align="center">Mortgage Insurance Company Name</td>
+              <td width="100" align="center">Mortgage Insurance Percent</td>
+              <td width="100" align="center">MI Lender or Borrower Paid?</td>
+              <td width="100" align="center">Pool Insurance Co Name</td>
+              <td width="100" align="center">Pool Insurance Stop Loss Percent</td>
+              <td width="100" align="center">MI Certificate Number</td>
+              <td width="100" align="center">Updated DTI Front End</td>
+              <td width="100" align="center">Updated DTI Back End</td>
+              <td width="100" align="center">Modification First Payment Effective date</td>
+              <td width="100" align="center">Total Capitalized Amount</td>
+              <td width="100" align="center">Total Deferred Amount</td>
+              <td width="100" align="center">Pre Modification Interest Note Rate</td>
+              <td width="100" align="center">Pre Modification P&amp;I Payment</td>
+              <td width="100" align="center">Pre Modification Initial Interest Rate Change Downward Cap</td>
+              <td width="100" align="center">Pre Modification Subsequent Interest Rate Cap</td>
+              <td width="100" align="center">Pre Modification Next Interest Rate Change Date</td>
+              <td width="100" align="center">Pre Modification IO Term</td>
+              <td width="100" align="center">Forgiven Principal Amount</td>
+              <td width="100" align="center">Forgiven Interest Amount</td>
+              <td width="100" align="center">Number of Modifications</td>
+              <td width="100" align="center">Real Estate Interest</td>
+              <td width="100" align="center">Community Ownership Structure</td>
+              <td width="100" align="center">Year of Manufacture</td>
+              <td width="100" align="center">HUD Code Compliance Indicator Y/N</td>
+              <td width="100" align="center">Gross Manufacturers Invoice Price</td>
+              <td width="100" align="center">LTI Loan to Invoice Gross</td>
+              <td width="100" align="center">Net Manufacturers Invoice Price</td>
+              <td width="100" align="center">LTI Net</td>
+              <td width="100" align="center">Manufacturer Name</td>
+              <td width="100" align="center">Model Name</td>
+              <td width="100" align="center">Down Payment Source</td>
+              <td width="100" align="center">Community Related Party Lender Y/N</td>
+              <td width="100" align="center">Defined Underwriting Criteria Y/N</td>
+              <td width="100" align="center">Chattel Indicator</td>
+              <td width="100" align="center">Primary Borrower Representative FICO</td>
+              <td width="100" align="center">Secondary Borrower Representative FICO</td>
+              <td width="100" align="center">Qualifying Loan FICO</td>
+              <td width="100" align="center">Originator DTI-back end</td>
+              <td width="100" align="center">Originator DTI-front end</td>
+              <td width="100" align="center">Property Address</td>
+              <td width="100" align="center">Maturity Date</td>
+              <td width="100" align="center">Borrower First Name</td>
+              <td width="100" align="center">Borrower Last Name</td>
+              <td width="100" align="center">CoBorrower First Name</td>
+              <td width="100" align="center">CoBorrower Last Name</td>
+              <td width="100" align="center">Flood Certificate #</td>
+              <td width="100" align="center">FEMA Flood Zone</td>
+              <td width="100" align="center">Appraisal Type</td>
+              <td width="100" align="center">Appraisal Date</td>
+              <td width="100" align="center">TILA Status</td>
+              <td width="100" align="center">App Date</td>
+              <td width="100" align="center">Points and Fees</td>
+              <td width="100" align="center">Rate Lock Date</td>
+              <td width="100" align="center">Loan APR</td>
+              <td width="100" align="center">B1 Employment Indicator</td>
+              <td width="100" align="center">B2 Employment Indicator</td>
+              <td width="100" align="center">Borrower Citizenship</td>
+              <td width="100" align="center">CoBorrower Citizenship</td>
+              <td width="100" align="center">Residual Income</td>
+              <td width="100" align="center">Non Primary Residence Total PITIA</td>
+              <td width="100" align="center">First Time Home Buyer</td>
+              <td width="100" align="center">Loan Modification Indicator (REO)</td>
+              <td width="100" align="center">Origination PITI (Subject Property)</td>
+              <td width="100" align="center">Total Reserves</td>
+              <td width="100" align="center">Co Borrower FICO Date</td>
+              <td width="100" align="center">Non-Occupying Co-Borrower Flag</td>
+              <td width="100" align="center">Leaseholds</td>
+              <td width="100" align="center">Most Recent DIL Date</td>
+              <td width="100" align="center">Co Borrower Bankruptcy Discharge</td>
+              <td width="100" align="center">Co Borrower Foreclosure Discharge Date</td>
+              <td width="100" align="center">Pre-Foreclosure Date</td>
+              <td width="100" align="center">Previous Rent Payment</td>
+              <td width="100" align="center">Co Borrower Number of Financed Properties</td>
+              <td width="100" align="center">Short Sale Date</td>
+              <td width="100" align="center">Borrower Years in Field</td>
+              <td width="100" align="center">Co Borrower Years in Field</td>
+              <td width="100" align="center">Non Occupant Co Borrower Flag</td>
+              <td width="100" align="center">CDA Date</td>
+              <td width="100" align="center">CDA Value</td>
+              <td width="100" align="center">CDA Variance</td>
+              <td width="100" align="center">Field Review Date</td>
+              <td width="100" align="center">Field Review Value</td>
+              <td width="100" align="center">Field Review Variance</td>
+              <td width="100" align="center">Original P&amp;I</td>
+            </tr>
+            <tr>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">9999999</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">99</td>
+              <td width="100" align="center">1002882</td>
+              <td width="100" align="center">UNK</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">7</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">3802.5</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">885000</td>
+              <td width="100" align="center">0.03875</td>
+              <td width="100" align="center">360</td>
+              <td width="100" align="center">360</td>
+              <td width="100" align="center">20200501</td>
+              <td width="100" align="center">2</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">2294.45</td>
+              <td width="100" align="center">16.25</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">20200210</td>
+              <td width="100" align="center">701</td>
+              <td width="100" align="center">694</td>
+              <td width="100" align="center">715</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">701</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">3</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">84</td>
+              <td width="100" align="center">45000</td>
+              <td width="100" align="center">7</td>
+              <td width="100" align="center">0.0218</td>
+              <td width="100" align="center">XXXXXXXXXXXX</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">17340</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">17340</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">4</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">3</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">4</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">251126</td>
+              <td width="100" align="center">1322</td>
+              <td width="100" align="center">0.44347</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">XX</td>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">3</td>
+              <td width="100" align="center">1</td>
+              <td width="100" align="center">1475000</td>
+              <td width="100" align="center">1475000</td>
+              <td width="100" align="center">3</td>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">1475000</td>
+              <td width="100" align="center">9</td>
+              <td width="100" align="center">6/4/2020</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">0.60000</td>
+              <td width="100" align="center">0.60000</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">701</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">701</td>
+              <td width="100" align="center">0.44347</td>
+              <td width="100" align="center">0.3684</td>
+              <td width="100" align="center">XXXXXXX</td>
+              <td width="100" align="center">4/1/2050</td>
+              <td width="100" align="center">XXXXX</td>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">XXXXXXX</td>
+              <td width="100" align="center">No</td>
+              <td width="100" align="center">3</td>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">Non-QM</td>
+              <td width="100" align="center">XXXXXX</td>
+              <td width="100" align="center">$3803</td>
+              <td width="100" align="center">3/3/2020</td>
+              <td width="100" align="center">0.03973</td>
+              <td width="100" align="center">Yes</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">US Citizen</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">9561.95</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">No</td>
+              <td width="100" align="center">No</td>
+              <td width="100" align="center">6388.05</td>
+              <td width="100" align="center">251126</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">No</td>
+              <td width="100" align="center">No</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">16</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">No</td>
+              <td width="100" align="center">06/04/2020</td>
+              <td width="100" align="center">1475000</td>
+              <td width="100" align="center">0</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">&#160;</td>
+              <td width="100" align="center">4161.60</td>
+            </tr>
+            <tr>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+              <td width="100" align="left">&#160;</td>
+            </tr>
+            <tr>
+            </tr>
+
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
