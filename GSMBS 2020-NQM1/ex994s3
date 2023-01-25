@@ -1,0 +1,1443 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>32
+<FILENAME>efc20-658_ex994s3.htm
+<DESCRIPTION>SCHEDULE 3 - BUSINESS PURPOSE SUPPLEMENTAL REPORT
+<TEXT>
+<html>
+<head>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head><body>
+<table border="1" align="left" cellpadding="1" cellspacing="0">
+<tr>
+<td width="76" align="center">Loan Number</td>
+<td width="76" align="center">DD Loan ID</td>
+<td width="167" align="center">Seller Name</td>
+<td width="124" align="center">Guideline Author</td>
+<td width="215" align="center">Loan Program</td>
+<td width="167" align="center">Documentation Type</td>
+<td width="167" align="center">Lease In Place Flag</td>
+<td width="167" align="center">Actual In-Place Rent</td>
+<td width="167" align="center">Third Party Market Rent Estimate</td>
+<td width="167" align="center">Third Party Rent Source</td>
+<td width="167" align="center">Rental Income Used for Property DSCR Calculation</td>
+<td width="167" align="center">Rental Source for Property DTI Calculation</td>
+<td width="167" align="center">Investor DTI (Prop. DTI)</td>
+<td width="167" align="center">DSCR</td>
+<td width="167" align="center">Qualifying DSCR</td>
+<td width="167" align="center">PITIA</td>
+<td width="167" align="center">Lease End Date</td>
+<td width="167" align="center">Original Lease Term</td>
+<td width="167" align="center">Rent Loss Insurance</td>
+<td width="167" align="center">Executed NOO Docs In File</td>
+<td width="167" align="center">HOA Flag</td>
+<td width="202" align="center">HOA Monthly Premium Amount</td>
+<td width="110" align="center">Monthly Property Tax</td>
+<td width="110" align="center">Monthly Insurance Cost</td>
+<td width="110" align="center">Asset Verification</td>
+<td width="110" align="center">Borrower 1 Type</td>
+<td width="110" align="center">Borrower 2 Type</td>
+<td width="110" align="center">Number of Mortgaged Properties With Lender</td>
+<td width="110" align="center">Number of Properties</td>
+<td width="110" align="center">Foreign National Alternative Credit Documentation</td>
+<td width="110" align="center">Foreign National Borrower 1</td>
+<td width="110" align="center">Foreign National Borrower 2</td>
+<td width="110" align="center">Investor Type</td>
+<td width="110" align="center">Investor Solutions Exhibit A Occupancy Certification</td>
+<td width="110" align="center">Investor Solutions Exhibit D Borrower Certification of Business Purpose</td>
+<td width="110" align="center">Months Reserves</td>
+<td width="110" align="center">Personal Guarantee</td>
+<td width="110" align="center">Borrower Residency Status</td>
+<td width="110" align="center">Qualifying Credit Score</td>
+<td width="110" align="center">Months Bankruptcy (7, 11)</td>
+<td width="110" align="center">Months Bankruptcy (13)</td>
+<td width="110" align="center">Months Deed-in-Lieu</td>
+<td width="110" align="center">Months Short Sale (or Pre-FC)</td>
+<td width="110" align="center">Prior Mtg/Rent Late (30d in 12m)</td>
+<td width="110" align="center">Prior Mtg/Rent Late (60d in 12m)</td>
+<td width="110" align="center">Prior Mtg/Rent Late (90d in 12m)</td>
+<td width="110" align="center">Prior Mtg/Rent Late (120d in 12m)</td>
+<td width="110" align="center">Prior Mtg/Rent Late (30d in 24m)</td>
+<td width="110" align="center">Prior Mtg/Rent Late (60d in 24m)</td>
+<td width="110" align="center">Prior Mtg/Rent Late (90d in 24m)</td>
+<td width="110" align="center">Prior Mtg/Rent Late (120d in 24m)</td>
+<td width="110" align="center">Life Event LOE</td>
+<td width="110" align="center">Life Event Documented</td>
+<td width="110" align="center">Prior Occupancy Type</td>
+<td width="110" align="center">Recourse</td>
+<td width="110" align="center">Section 8</td>
+<td width="110" align="center">Street Address</td>
+<td width="110" align="center">Property City</td>
+<td width="110" align="center">Property State</td>
+<td width="110" align="center">Property Zip</td>
+<td width="110" align="center">Borrower 1 First Name</td>
+<td width="110" align="center">Borrower 1 Last Name</td>
+<td width="110" align="center">Borrower 2 First Name</td>
+<td width="110" align="center">Borrower 2 Last Name</td>
+<td width="110" align="center">Borrower 3 First Name</td>
+<td width="110" align="center">Borrower 3 Last Name</td>
+<td width="110" align="center">Borrower 4 First Name</td>
+<td width="110" align="center">Borrower 4 Last Name</td>
+<td width="110" align="center">Guarantor 1 First Name</td>
+<td width="110" align="center">Guarantor 1 Last Name</td>
+<td width="110" align="center">Guarantor 2 First Name</td>
+<td width="110" align="center">Guarantor 2 Last Name</td>
+<td width="110" align="center">Borrower 1 Employment Status</td>
+<td width="110" align="center">Borrower 2 Employment Status</td>
+<td width="110" align="center">Loan Application Date</td>
+<td width="110" align="center">Sales Contract Date</td>
+<td width="110" align="center">Prior Financing Date</td>
+<td width="110" align="center">Cash-Out Seasoning</td>
+<td width="110" align="center">Qualifying Home Value for LTV</td>
+<td width="110" align="center">Number of Units</td>
+<td width="110" align="center">Year Built</td>
+<td width="110" align="center">Total Sq Ft</td>
+<td width="110" align="center">Number of Bedrooms</td>
+<td width="110" align="center">Number of Bathrooms</td>
+<td width="110" align="center">Property Condition</td>
+<td width="110" align="center">Acquisition Cost</td>
+<td width="110" align="center">Renovation Cost</td>
+</tr>
+<tr>
+<td width="76" align="left">34313726</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Athas Capital Group, Inc.</td>
+<td width="124" align="left">Athas</td>
+<td width="215" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">&nbsp;</td>
+<td width="167" align="right">4400.00</td>
+<td width="167" align="left">Form 1025</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">4400</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">312.44</td>
+<td width="110" align="right">168.25</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">7</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">0.00</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">763</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1/1/2004</td>
+<td width="110" align="right">145</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1914</td>
+<td width="110" align="right">2778</td>
+<td width="110" align="right">7</td>
+<td width="110" align="right">4</td>
+<td width="110" align="left">Average</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313612</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Athas Capital Group, Inc.</td>
+<td width="124" align="left">Athas</td>
+<td width="215" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">7,500.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">12/1/2020</td>
+<td width="167" align="right">60</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">858.00</td>
+<td width="110" align="right">188.57</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">3.05</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">688</td>
+<td width="110" align="right">33</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">7/3/2013</td>
+<td width="110" align="right">30</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">2014</td>
+<td width="110" align="right">3729</td>
+<td width="110" align="right">7</td>
+<td width="110" align="right">6</td>
+<td width="110" align="left">C2</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313491</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Athas Capital Group, Inc.</td>
+<td width="124" align="left">Athas</td>
+<td width="215" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">1,300.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">12/31/2017</td>
+<td width="167" align="right">24</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">1</td>
+<td width="202" align="right">444.00</td>
+<td width="110" align="right">259.00</td>
+<td width="110" align="right">19.68</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">2</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">First-Time Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">0.51</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">792</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">10/20/2015</td>
+<td width="110" align="right">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1973</td>
+<td width="110" align="right">1019</td>
+<td width="110" align="right">2</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">C4</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313170</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Athas Capital Group, Inc.</td>
+<td width="124" align="left">Athas</td>
+<td width="215" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">1</td>
+<td width="202" align="right">254.31</td>
+<td width="110" align="right">202.07</td>
+<td width="110" align="right">0.00</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">2</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">First-Time Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">0.70</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">750</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">12/12/2015</td>
+<td width="110" align="right">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">2003</td>
+<td width="110" align="right">763</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">C3</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313572</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Athas Capital Group, Inc.</td>
+<td width="124" align="left">Athas</td>
+<td width="215" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">5,400.00</td>
+<td width="167" align="right">5540.00</td>
+<td width="167" align="left">FNMA 1025 /FHLMC 72</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">Month to Month</td>
+<td width="167" align="left">Covered</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">433.27</td>
+<td width="110" align="right">200.87</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">6</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">0.00</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">646</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">11/29/2013</td>
+<td width="110" align="right">26</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1964</td>
+<td width="110" align="right">4175</td>
+<td width="110" align="right">9</td>
+<td width="110" align="right">6</td>
+<td width="110" align="left">Average</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313262</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Athas Capital Group, Inc.</td>
+<td width="124" align="left">Athas</td>
+<td width="215" align="left">Athas Capital Group Sub Prime Loan Program Guide</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">Covered</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">312.50</td>
+<td width="110" align="right">80.26</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">3</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">N</td>
+<td width="110" align="left">N</td>
+<td width="110" align="right">15.63</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">742</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">11/23/2015</td>
+<td width="110" align="right">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1978</td>
+<td width="110" align="right">2647</td>
+<td width="110" align="right">3</td>
+<td width="110" align="right">3</td>
+<td width="110" align="left">C3</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313274</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Greenbox Loans</td>
+<td width="124" align="left">Greenbox</td>
+<td width="215" align="left">Greenbox 5000-INV-PP</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">800.00</td>
+<td width="167" align="right">850.00</td>
+<td width="167" align="left">FNMA 1007/FHLMC 1000</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">11/1/2016</td>
+<td width="167" align="right">1/12/1900</td>
+<td width="167" align="right">833.33</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">112.86</td>
+<td width="110" align="right">70.00</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">First-Time Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">18.22</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">683</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Undisclosed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">Free and Clear</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1925</td>
+<td width="110" align="right">1196</td>
+<td width="110" align="right">3</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">C3</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313803</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Greenbox Loans</td>
+<td width="124" align="left">Greenbox</td>
+<td width="215" align="left">Greenbox 5000-INV-PP</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">&nbsp;</td>
+<td width="167" align="right">2200.00</td>
+<td width="167" align="left">FNMA 1007/FHLMC 1000</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">1</td>
+<td width="202" align="right">351.00</td>
+<td width="110" align="right">404.58</td>
+<td width="110" align="right">123.30</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">2</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">First-Time Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">46.44</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Undisclosed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">12/6/2015</td>
+<td width="110" align="right">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">2016</td>
+<td width="110" align="right">2250</td>
+<td width="110" align="right">5</td>
+<td width="110" align="right">4</td>
+<td width="110" align="left">C1</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313444</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">The Federal Savings Bank</td>
+<td width="124" align="left">Verus</td>
+<td width="215" align="left">Investor Solutions- Debt Service Coverage</td>
+<td width="167" align="left">DSCR</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">&nbsp;</td>
+<td width="167" align="right">2600.00</td>
+<td width="167" align="left">FNMA 1007/FHLMC 1000</td>
+<td width="167" align="right">2600.00</td>
+<td width="167" align="left">Third Party Rental Source</td>
+<td width="167" align="right">0.89</td>
+<td width="167" align="right">1.12</td>
+<td width="167" align="right">1.00</td>
+<td width="167" align="right">2,315.28</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">305.68</td>
+<td width="110" align="right">161.79</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="right">2</td>
+<td width="110" align="right">6</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">N</td>
+<td width="110" align="right">50.02</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">762</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">2/14/2016</td>
+<td width="110" align="right">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">2016</td>
+<td width="110" align="right">1980</td>
+<td width="110" align="right">3</td>
+<td width="110" align="right">3</td>
+<td width="110" align="left">C1</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313327</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Excelerate Capital</td>
+<td width="124" align="left">Verus</td>
+<td width="215" align="left">Investor Solutions - No Ratio</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">&nbsp;</td>
+<td width="167" align="right">2900.00</td>
+<td width="167" align="left">FNMA 1025 /FHLMC 72</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">Covered</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">312.50</td>
+<td width="110" align="right">181.08</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">13</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">75.98</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">679</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1/16/2016</td>
+<td width="110" align="right">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1953</td>
+<td width="110" align="right">5077</td>
+<td width="110" align="right">10</td>
+<td width="110" align="right">5</td>
+<td width="110" align="left">Average</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313383</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Diamond Residential Mtg Corp</td>
+<td width="124" align="left">Verus</td>
+<td width="215" align="left">Investor Solutions- Debt Service Coverage</td>
+<td width="167" align="left">DSCR</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">10,008.00</td>
+<td width="167" align="right">9750.00</td>
+<td width="167" align="left">FNMA 1025 /FHLMC 72</td>
+<td width="167" align="right">9750.00</td>
+<td width="167" align="left">Third Party Rental Source</td>
+<td width="167" align="right">0.77</td>
+<td width="167" align="right">1.29</td>
+<td width="167" align="right">1.15</td>
+<td width="167" align="right">7,555.26</td>
+<td width="167" align="right">5/31/2017</td>
+<td width="167" align="right">12</td>
+<td width="167" align="right">5285.92</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">994.93</td>
+<td width="110" align="right">256.67</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">First-Time Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">N</td>
+<td width="110" align="right">34.25</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">757</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">10/10/2012</td>
+<td width="110" align="right">46</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1887</td>
+<td width="110" align="right">4327</td>
+<td width="110" align="right">11</td>
+<td width="110" align="right">5</td>
+<td width="110" align="left">Good</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313503</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Crest Star Funding</td>
+<td width="124" align="left">Verus</td>
+<td width="215" align="left">Investor Solutions- Debt Service Coverage</td>
+<td width="167" align="left">DSCR</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">2,004.00</td>
+<td width="167" align="right">2100.00</td>
+<td width="167" align="left">FNMA 1007/FHLMC 1000</td>
+<td width="167" align="right">2004.00</td>
+<td width="167" align="left">Rent on Existing Lease</td>
+<td width="167" align="right">0.64</td>
+<td width="167" align="right">1.56</td>
+<td width="167" align="right">1.25</td>
+<td width="167" align="right">1,281.96</td>
+<td width="167" align="right">6/30/2019</td>
+<td width="167" align="right">36</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">88.50</td>
+<td width="110" align="right">53.25</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">LLC</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">6</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">33.01</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">701</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">Free and Clear</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1910</td>
+<td width="110" align="right">2846</td>
+<td width="110" align="right">5</td>
+<td width="110" align="right">2</td>
+<td width="110" align="left">C3</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313397</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Crest Star Funding</td>
+<td width="124" align="left">Verus</td>
+<td width="215" align="left">Investor Solutions- Debt Service Coverage</td>
+<td width="167" align="left">DSCR</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">1,692.00</td>
+<td width="167" align="right">1850.00</td>
+<td width="167" align="left">FNMA 1007/FHLMC 1000</td>
+<td width="167" align="right">1692.00</td>
+<td width="167" align="left">Rent on Existing Lease</td>
+<td width="167" align="right">0.48</td>
+<td width="167" align="right">2.07</td>
+<td width="167" align="right">1.25</td>
+<td width="167" align="right">817.01</td>
+<td width="167" align="right">3/31/2019</td>
+<td width="167" align="right">36</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">92.43</td>
+<td width="110" align="right">57.67</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">LLC</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">6</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">51.80</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">701</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">Free and Clear</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1925</td>
+<td width="110" align="right">1507</td>
+<td width="110" align="right">4</td>
+<td width="110" align="right">2</td>
+<td width="110" align="left">C3</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313347</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Lending One</td>
+<td width="124" align="left">Verus</td>
+<td width="215" align="left">Investor Solutions- Debt Service Coverage</td>
+<td width="167" align="left">DSCR</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">1,400.00</td>
+<td width="167" align="right">1400.00</td>
+<td width="167" align="left">FNMA 1007/FHLMC 1000</td>
+<td width="167" align="right">1400.00</td>
+<td width="167" align="left">Rent on Existing Lease</td>
+<td width="167" align="right">0.71</td>
+<td width="167" align="right">1.42</td>
+<td width="167" align="right">1.25</td>
+<td width="167" align="right">988.23</td>
+<td width="167" align="right">4/30/2019</td>
+<td width="167" align="right">36</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">217.12</td>
+<td width="110" align="right">61.17</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">LLC</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">6</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">42.83</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">701</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">Free and Clear</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1925</td>
+<td width="110" align="right">1252</td>
+<td width="110" align="right">3</td>
+<td width="110" align="right">1</td>
+<td width="110" align="left">C2</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="76" align="left">34313333</td>
+<td width="76" align="left">XXXXXX</td>
+<td width="167" align="left">Calculated Risk Analytics</td>
+<td width="124" align="left">Verus</td>
+<td width="215" align="left">Investor Solutions - No Ratio</td>
+<td width="167" align="left">No Ratio</td>
+<td width="167" align="left">1</td>
+<td width="167" align="right">1,950.00</td>
+<td width="167" align="right">2050.00</td>
+<td width="167" align="left">FNMA 1007/FHLMC 1000</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0.00</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">8/31/2017</td>
+<td width="167" align="right">24</td>
+<td width="167" align="left">NP</td>
+<td width="167" align="left">&nbsp;</td>
+<td width="167" align="right">0</td>
+<td width="202" align="left">&nbsp;</td>
+<td width="110" align="right">526.83</td>
+<td width="110" align="right">49.93</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="left">Individual</td>
+<td width="110" align="right">1</td>
+<td width="110" align="right">15</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Experienced Investor</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="left">Y</td>
+<td width="110" align="right">0.00</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">679</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">0</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">XXXXXX</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">Self-Employed</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="right">11/17/2014</td>
+<td width="110" align="right">23</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">1920</td>
+<td width="110" align="right">1505</td>
+<td width="110" align="right">3</td>
+<td width="110" align="right">2</td>
+<td width="110" align="left">C4</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+</tr>
+<tr>
+</tr></table>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
