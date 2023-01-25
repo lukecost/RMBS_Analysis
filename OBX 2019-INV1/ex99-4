@@ -1,0 +1,873 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>5
+<FILENAME>e3577ex99-4.htm
+<DESCRIPTION>CLAYTON LOAN LEVEL TAPE COMPARE REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Loan Level Tape Compare U -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x000033F4,0x000059D8,0x00007274,0x00001194,0x00004D58 -->
+
+<P STYLE="text-align: left; font: bold 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">
+ </P>
+
+
+
+<P STYLE="margin-top: 0; margin-bottom: 0; text-align: right; font: bold 10pt Arial, Helvetica, Sans-Serif">Exhibit 99.4</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0; text-align: right; font: bold 10pt Arial, Helvetica, Sans-Serif"></P>
+
+
+
+<P STYLE="margin-top: 0; margin-bottom: 0; text-align: right; font: bold 10pt Arial, Helvetica, Sans-Serif"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0; text-align: right; font: bold 10pt Arial, Helvetica, Sans-Serif"></P>
+
+
+
+
+<P STYLE="margin: 0"> </P>
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Arial, Helvetica, Sans-Serif">
+<tr style="background-color: white">
+    <TD NOWRAP STYLE="font: bold 8pt Tahoma, Helvetica, Sans-Serif; vertical-align: top; text-align: left; padding-right: 20pt">Client Name:</td>
+    <TD STYLE="font: 8pt Tahoma, Helvetica, Sans-Serif; vertical-align: top; text-align: left">&nbsp;</td>
+    </tr>
+<tr style="vertical-align: top; background-color: white">
+    <TD NOWRAP STYLE="font: bold 8pt Tahoma, Helvetica, Sans-Serif; text-align: left; width: 1%; padding-right: 20pt">Client Project Name:</td>
+    <TD STYLE="font: 8pt Tahoma, Helvetica, Sans-Serif; width: 99%; text-align: left">OBX 2019-INV1</td>
+    </tr>
+<tr style="background-color: white">
+    <TD NOWRAP STYLE="font: bold 8pt Tahoma, Helvetica, Sans-Serif; vertical-align: top; text-align: left; padding-right: 20pt">Deal Loan Count:</td>
+    <TD STYLE="font: 8pt Tahoma, Helvetica, Sans-Serif; vertical-align: top; text-align: left">119</td>
+    </tr>
+<tr style="background-color: white">
+    <TD NOWRAP STYLE="font: italic 8pt Tahoma, Helvetica, Sans-Serif; vertical-align: top; text-align: left; padding-right: 20pt">Report Run Date:</td>
+    <TD STYLE="font: italic 8pt Tahoma, Helvetica, Sans-Serif; vertical-align: top; text-align: left">1/8/2019</td>
+    </tr>
+<tr style="vertical-align: top; background-color: white">
+    <TD NOWRAP STYLE="font: bold 8pt Tahoma, Helvetica, Sans-Serif; text-align: left; padding-right: 20pt">Loan Level Tape Compare Upload</td></tr>
+<tr style="vertical-align: bottom; background-color: white">
+    <TD NOWRAP STYLE="padding-right: 20pt">&nbsp;</td>
+    <TD STYLE="text-align: left">&nbsp;</td>
+    </tr>
+<tr style="vertical-align: top; background-color: white">
+    <TD NOWRAP STYLE="font: italic 8pt Tahoma, Helvetica, Sans-Serif; text-align: left; padding-right: 20pt">Loans in Report:</td>
+    <TD STYLE="font: italic 8pt Tahoma, Helvetica, Sans-Serif; text-align: left">119</td></tr>
+</table>
+
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<tr style="vertical-align: middle; background-color: blue">
+    <td style="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Loan Number</td>
+    <td style="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Discrepancy Field</td>
+    <td colspan="2" style="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Tape Data</td>
+    <td style="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Reviewer Data</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018868</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Disbursement Date</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018869</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Disbursement Date</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018125</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">First Time Home Buyer</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">N</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018131</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">47.156</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">43.9345</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018131</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">30.183</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">27.136</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020309</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">36.615</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">38.1934</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020311</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">33.091</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">29.7523</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020313</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">40.476</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">45.0181</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020315</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">46.611</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">43.4999</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020315</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">35.505</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">32.9672</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020318</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Representative Score</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">775</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">743</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020323</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">23.62</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">17.7948</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020328</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Combined Loan to Value</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">40</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">39.2048</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020328</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Loan to Value</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">40</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">39.2048</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020333</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">45.677</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">47.9318</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020333</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">30.217</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">31.7043</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020337</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">20.032</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">18.3549</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018127</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">34.451</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">37.7422</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018127</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">11.342</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">14.3313</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018132</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">41.818</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">39.1948</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018132</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">16.537</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">15.1511</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018130</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">45.562</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">42.3291</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018876</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">34.414</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">30.6863</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018875</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Disbursement Date</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018875</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">32.946</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">40.1928</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Credit Score - Equifax/Beacon</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">700</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">712</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Credit Score - Experian/FICO</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">711</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">706</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Credit Score - Transunion/Empirical</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">716</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">725</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 4 - Verified (less than Level 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">332542.86</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">332542.88</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Equifax / Beacon</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">712</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">700</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">513</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">9581.1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Experian / FICO</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">706</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">711</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TU / Empirica</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">725</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">716</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020396</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Years on Job</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">0.05</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">0.08</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020397</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020397</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Longest Trade Line</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">309</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">306</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020397</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020397</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Total Cash Out</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">306305.62</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">306238.04</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020398</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">193356</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">386184.12</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020398</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">7641.31</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">12996.03</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020398</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020399</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">931050.84</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">604715.87</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020399</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">100</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1727.87</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020399</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020399</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020399</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Total Cash Out</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5367.98</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">252081.12</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020400</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Asset Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 4 - Verified (2 months documentation)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Stated, Partially Verified (less than Level 4)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020400</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Stated, Partially Verified (less than Level 4 or 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020400</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">36936.95</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">57542.26</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020400</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">946.63</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3414.82</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020400</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Loan Purpose</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Rate and Term Refi</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cashout Refi</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020400</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020402</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Employment Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Direct Independent Verification from 3rd Party</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 1 - Not Stated, Not Verified</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020402</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Stated, Partially Verified (less than Level 4 or 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020402</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">148315</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">154844</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020402</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">77</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">286.73</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020402</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020402</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Longest Trade Line</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">225</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">240</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Credit Score - Equifax/Beacon</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">805</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">758</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Credit Score - Experian/FICO</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">796</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">735</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Credit Score - Transunion/Empirical</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">823</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">771</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Employment Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Direct Independent Verification from 3rd Party</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 1 - Not Stated, Not Verified</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Equifax / Beacon</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">758</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">805</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1387</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4581.55</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Experian / FICO</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">735</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">796</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Total Cash Out</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">82997.81</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">125625.42</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020403</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TU / Empirica</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">771</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">823</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020404</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Stated, Partially Verified (less than Level 4 or 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020404</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">61071.92</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">60546.1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020404</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1900</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6406.93</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020404</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020404</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020405</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">47.156</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">45.5737</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020405</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">312</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">12669.61</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020405</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020405</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Longest Trade Line</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">354</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">188</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020405</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020405</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Years on Job</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2.61</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2.5</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Monthly Income</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Asset Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 4 - Verified (2 months documentation)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Stated, Partially Verified (less than Level 4)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Employment Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Direct Independent Verification from 3rd Party</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 1 - Not Stated, Not Verified</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 4 - Verified (less than Level 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">198402.51</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">138881.76</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">42.536</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">39.4161</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3446.99</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">9893.62</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Longest Trade Line</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">200</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">198</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020406</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Years on Job</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">33.92</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">33.83</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020407</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Monthly Income</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020407</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">282778.7</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">179305.37</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020407</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020407</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Years on Job</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2.68</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2.67</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020408</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Monthly Income</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020408</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2340.23</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">11765.95</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020408</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020408</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Longest Trade Line</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">202</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">184</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020408</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020408</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Years on Job</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">0.66</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6.08</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020412</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Employment Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Direct Independent Verification from 3rd Party</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 1 - Not Stated, Not Verified</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020412</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Stated, Partially Verified (less than Level 4 or 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020412</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">103</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">9169.63</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020412</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020412</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Longest Trade Line</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">363</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">512</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020412</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">7</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020413</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">25</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5816.13</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020413</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Longest Trade Line</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">125</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">123</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020413</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020414</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Employment Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Direct Independent Verification from 3rd Party</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 1 - Not Stated, Not Verified</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020414</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Stated, Partially Verified (less than Level 4 or 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020414</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">148315</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">199841.15</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020414</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">122.5</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">270.3</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020416</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Monthly Income</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020416</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">22153.69</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">531393.78</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020416</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">27.948</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">22.2832</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020416</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">167</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6611.92</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020416</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020418</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">47</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2412.21</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020418</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020418</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Total Cash Out</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">8424.53</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">94953.73</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020419</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 4 - Verified (less than Level 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020419</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cash Reserves</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">443140.47</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">316706.32</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020419</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">212.05</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5463.37</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020419</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Longest Trade Line</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">237</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">153</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020420</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower Income Verification</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 5 - Verified (24 months, CPA certified for self employed)</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Level 3 - Stated, Partially Verified (less than Level 4 or 5)</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020420</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Expense Total</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">52</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3840.68</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020420</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Income (Calculated)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020420</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Number of Mortgaged Properties</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020420</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Years on Job</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">14.06</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">14.08</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019944</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">36.872</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">29.0765</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019944</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">15.893</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">12.5951</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019946</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">34.193</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">31.587</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019949</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">44.685</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">37.9482</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019949</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">34.113</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">28.9431</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019950</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Attached PUD</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019956</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">44.276</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">46.4586</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019957</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">35.494</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">32.8722</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019969</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">31.729</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">34.1602</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019970</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Attached PUD</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019972</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">44.915</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">41.6931</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019977</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Self Employed</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Y</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019979</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Front)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">10.689</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">16.2889</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019981</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">44.779</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">41.5538</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019985</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">20.761</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">24.3833</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019995</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">48.875</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">45.3504</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000019998</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">42.308</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">44.0073</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020005</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">City</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXX</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000020006</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">32.746</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">34.3671</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018523</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">DTI (Back)</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">27.001</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">36.2861</td></tr>
+<tr style="vertical-align: middle; background-color: white">
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6000018878</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Origination Channel</td>
+    <td colspan="2" style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Broker</td>
+    <td style="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Retail</td></tr>
+<tr style="vertical-align: top; background-color: white">
+    <td colspan="5" style="color: #444649; font-family: Tahoma, Helvetica, Sans-Serif; text-align: right">&copy;2018 Clayton Services LLC. All rights reserved. Ownership and use of this report is governed by the legal agreement between Clayton and the party for which it was prepared. Any use not expressly authorized by such agreement, including reliance on this report by anyone other than such party, is prohibited.&nbsp;</td></tr>
+</table>
+
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="text-align: right; color: #444649; font: 8pt Tahoma, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+
+
+<P STYLE="margin: 0pt"> </P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+ <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 4pt solid"><P STYLE="margin: 0pt"> </P></DIV>
+ <!-- Field: /Page -->
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
