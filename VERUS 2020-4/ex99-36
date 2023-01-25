@@ -1,0 +1,249 @@
+<DOCUMENT>
+<TYPE>EX-99.36
+<SEQUENCE>37
+<FILENAME>tm2024606d1_ex99-36.htm
+<DESCRIPTION>OPUS ATR REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.36 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Opus
+ATR REPORT</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: middle; background-color: #00ACAC">
+    <TD DIR="LTR" STYLE="border: lightgrey 0.5pt solid; color: white; font-weight: bold; text-align: center; width: 3%">Customer Loan ID</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 5%">Channel</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 3%">Rate Lock Date</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 4%">Application Date</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 7%">Borrower Employment Indicator</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 19%">Co Borrower Employment Indicator</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 7%">Borrower Citizenship Indicator</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 7%">Co Borrower Citizenship Indicator</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 3%">Residual Income</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 3%">Points And Fees</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 7%">Points And Fees Without Reductions</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 3%">APR</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 5%">Qualifying Interest Rate</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 5%">Average Prime Offer Rate</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 3%">GSE Eligibility</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 5%">Originator QM/ATR Status</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 4%">TPR QM/ATR Status</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 4%">Non QM Reason</TD>
+    <TD DIR="LTR" STYLE="border-top: lightgrey 0.5pt solid; color: white; font-weight: bold; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt; width: 3%">TRID</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">734833</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">5145.97</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.05690</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.05500</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">4.07</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Not Covered/Exempt</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">732005</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">11941.44</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">6895.00</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">6895.00</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.05490</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.05375</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">4.30</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Non-QM/Compliant</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">734836</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">US</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">15131.49</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">34832.58</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">34832.58</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.04711</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.04375</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">3.86</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Non-QM/Compliant</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">734835</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">US</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">10989.91</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.04981</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.04750</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">3.69</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Not Covered/Exempt</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">727802</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">US</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">US</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.06854</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.06600</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">3.87</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Not Covered/Exempt</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">718288</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">18528.414</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">5264.7</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">5264.7</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.06268</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.06375</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">4.98</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Non-QM/Compliant</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">726984</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">7599.269</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">3780</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">3780</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.06172</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.0645</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">4.58</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Non-QM/Compliant</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">729017</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">5295.6</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">6476.96</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">6476.96</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.06162</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.0595</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">4.34</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Non-QM/Compliant</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt">736948</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Wholesale</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Employed</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Foreign National</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">10206.228</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.05692</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0.055</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">4.03</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">No</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Not Covered/Exempt</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">Yes</TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
