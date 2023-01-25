@@ -1,0 +1,233 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>11
+<FILENAME>e7287ex99-2sch4.htm
+<DESCRIPTION>RATING AGENCY ATR QM DATA FIELDS REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="margin: 0 0 6; font: bold 9pt Arial, Helvetica, Sans-Serif; text-align: right">Exhibit 99.2 - Schedule 4</P>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Rating Agency ATR QM Data Field -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x000048A8,0x00004330,0x00002EE0,0x00002710,0x00001130,0x000015E0,0x00002710,0x00002710,0x00002710,0x00002E18,0x00002710,0x00002710,0x00004524,0x000044C0,0x00004970,0x00004A38,0x00002FA8,0x00002FA8 -->
+
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="background-color: white">
+    <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">Client Name:</TD>
+    <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">HOF 2019-3</TD>
+    </TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">Client Project Name:</TD>
+    <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">HOF 2019-3</TD>
+    </TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">Start - End Dates:</TD>
+    <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">9/26/2016 - 6/5/2019</TD>
+    </TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">Deal Loan Count:</TD>
+    <TD STYLE="font-weight: bold; vertical-align: top; text-align: left">8</TD>
+    </TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="font-size: 10pt; width: 16%">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; width: 84%">&nbsp;</TD>
+    </TR>
+<TR STYLE="background-color: white">
+    <TD COLSPAN="2" STYLE="font-size: 12pt; font-weight: bold; vertical-align: top; text-align: left">Rating Agency ATR QM Data Fields</TD>
+    </TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    </TR>
+<TR STYLE="background-color: white">
+    <TD STYLE="font-style: italic; vertical-align: top; text-align: left">Loans in Report:&nbsp;</TD>
+    <TD STYLE="font-style: italic; vertical-align: top; text-align: left">8</TD>
+    </TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: #3366FF">
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Loan Number</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Loan Level ATR/QM Status</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Application Date Prior to 1/10/2014</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">TRID Indicator</TD>
+    <TD STYLE="border-top: silver 0.5pt solid; color: white; font-weight: bold; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Lender Application Date</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Broker Application Date</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">GSE Eligible</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">QRM Flag</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">ATR/QM Total Points and Fees</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Rate Lock Date</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">APR</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Bwr 1 Employment Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Bwr 2 Employment Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Bwr 1 Foreign National Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Bwr 2 Foreign National Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Residual Income Analysis in File</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">ATR/QM Residual Income</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3113002866</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="border-bottom: silver 0.5pt solid; color: #25396E; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">10078</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5.5365</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Unemployed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">0</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4461205702</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="border-bottom: silver 0.5pt solid; color: #25396E; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5675</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6.5495</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">0</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4461206452</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="border-bottom: silver 0.5pt solid; color: #25396E; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3121</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">7.1164</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">0</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4461212005</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="border-bottom: silver 0.5pt solid; color: #25396E; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">0</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6.4504</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-Resident Alien</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">0</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4461213367</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="border-bottom: silver 0.5pt solid; color: #25396E; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5519.1</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">7.4056</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Unemployed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">9481.12</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4461215818</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">ATR/QM: Exempt</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="border-bottom: silver 0.5pt solid; color: #25396E; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">12225</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6.9094</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">14356.93</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4461217848</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="border-bottom: silver 0.5pt solid; color: #25396E; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">19877.5</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6.2023</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">26758.51</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5501799141</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">QM: Safe Harbor</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="border-bottom: silver 0.5pt solid; color: #25396E; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">14395</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4.9202</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Employed</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">U.S. Citizen</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: #A6A6A6 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">0</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; padding-top: 6pt; padding-bottom: 6pt; border-bottom: Black 4pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
