@@ -1,0 +1,1942 @@
+<DOCUMENT>
+<TYPE>EX-99.1(1)
+<SEQUENCE>3
+<FILENAME>e4400ex99-1sch1.htm
+<DESCRIPTION>EXCEPTION REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Exception Report -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002EE0,0x00004B00,0x00002EE0,0x00004B00,0x00007080,0x00004B00,0x00012C00,0x00002580,0x00002580,0x00004B00,0x0000E100,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00000000,0x0002B944 -->
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Verdana, Helvetica, Sans-Serif">
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; border-left: black 1pt solid; text-align: left">TPR Firm:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; text-align: left">EdgeMAC</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; text-align: left">Date Submitted:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; border-right: black 1pt solid; text-align: left">3/11/2019</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-left: black 1pt solid; text-align: left">Client Name:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; text-align: left">Sprout</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; text-align: left">Report:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-right: black 1pt solid; text-align: left">Exception Report</TD>
+    <TD COLSPAN="25" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: left">Client Project:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; text-align: left">HOF 2019-1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; text-align: left">Loans in report:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: left">20</TD>
+    <TD COLSPAN="25" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="28" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="29" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" BORDERCOLOR="Silver" STYLE="width: 100%; border-collapse: collapse; font: 10pt Verdana, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Report Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Edge MAC ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Last Name</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Originator</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">General Category</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Exception</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Exception ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Date Exception Cured Waived Updated</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Description of Clearance</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Compensating Factors</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Exception Status</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Exception Category</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Exception Event Level</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Initial Review Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Occupancy Type</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Property State</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Note Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Loan Purpose</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">TILA Rating</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Loan Initial</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Loan Final</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Credit Initial</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Credit Final</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Compliance Initial</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Compliance Final</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Property Initial</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Property Final</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006375</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Missing appraisal invoice to ensure compliance with MDIA regulation. In transactions where the appraisal/evaluation is paid outside of closing, the creditor must provide proof of the appraisal invoice/other to validate the borrower was not imposed a fee prior to receiving early disclosures.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">143</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/10/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. FICO of 697, 17 points above min FICO of 680 as required in the guidelines<BR>
+<BR>
+2. DTI of 29.04%, 20% lower than the max DTI of 50% as required in the guidelines<BR>
+<BR>
+3. Good mortgage payment history with 0x30x12 months</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/7/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006375</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">UPDATE 12/11/2018:&nbsp;&nbsp;The wire receipt provided reflects the closing funds value, however, it is insufficient to satisfy the required 5% borrower own funds.&nbsp;&nbsp;There is a non-occupant co-borrower.&nbsp;&nbsp;Guidelines state minimum 5% borrower own funds required.&nbsp;&nbsp;&nbsp;///&nbsp;&nbsp;&nbsp;&nbsp;Missing evidence Borrower met minimum 5% = $27,750.00 cash to close, from own funds. A requirement on purchase transactions with a non-occupying borrower.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">151</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/18/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. FICO of 697, 17 points above min FICO of 680 as required in the guidelines<BR>
+<BR>
+2. DTI of 29.04%, 20% lower than the max DTI of 50% as required in the guidelines<BR>
+<BR>
+3. Good mortgage payment history with 0x30x12 months</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/7/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006375</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">Exception due to property located in FEMA disaster area with no declared end date.Compensating Factors: 1 LTV 5%&lt; program max2 DTI is 20% &lt; program max3 Appraisal completed after disaster declaration- Visual inspection does not show damages.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">162</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/7/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. FICO of 697, 17 points above min FICO of 680 as required in the guidelines<BR>
+<BR>
+2. DTI of 29.04%, 20% lower than the max DTI of 50% as required in the guidelines<BR>
+<BR>
+3. Good mortgage payment history with 0x30x12 months</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/7/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006375</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Income and Assets</TD>
+    <TD DIR="LTR">Exception approved by xxxxxx. Borrower did not bring min 5% funds to close.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">178</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/20/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. FICO of 697, 17 points above min FICO of 680 as required in the guidelines<BR>
+<BR>
+2. DTI of 29.04%, 20% lower than the max DTI of 50% as required in the guidelines<BR>
+<BR>
+3. Good mortgage payment history with 0x30x12 months</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/7/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006435</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">File Violates MDIA regulations.&nbsp;&nbsp;Appraisal Invoice in file reflects consumer paid for appraisal 05/15/2018 and Initial Loan Estimate is dated xxxxxx with no proof of receipt.&nbsp;&nbsp;Consumer may not be charged any fee, other than a credit report fee, prior to receipt of Initial Loan Estimate.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">123</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. 24 months in reserves<BR>
+<BR>
+2. Paying off/down debt <BR>
+<BR>
+3. Reducing monthly liabilities by est. $1,000.00<BR>
+<BR>
+4. Total balances paid off $52,797.37 in subject transaction</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">VT</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006435</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">UPDATED: loan is considered VT High Rate Loan, Disclosed rate is 7.70%, which is consider above 3% of the declared rate. Requires lender to also provide VT High Rate/High Point Disclosure, pursuant to Vt. Stat. Ann. tit. 9,&nbsp;&nbsp;104.Pending: Lender's Privacy Policy and VT High Rate/High Point Disclosure.(EV2)Missing the following required Federal and/or State Disclosures:&nbsp;&nbsp;Lender's Privacy Policy.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">126</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/6/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. 24 months in reserves<BR>
+<BR>
+2. Paying off/down debt <BR>
+<BR>
+3. Reducing monthly liabilities by est. $1,000.00<BR>
+<BR>
+4. Total balances paid off $52,797.37 in subject transaction</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">VT</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006435</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">xxxxxx Approved Exception for LTV exceeding max allowed of 70%. Loan is approved at 75% LTV / 81.1% CLTV.Compensating Factors:1. 24 months in reserves2. Paying off/down debt 3. Reducing monthly liabilities by est. $1,000.00</TD>
+    <TD DIR="LTR" STYLE="text-align: right">176</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/13/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. 24 months in reserves<BR>
+<BR>
+2. Paying off/down debt <BR>
+<BR>
+3. Reducing monthly liabilities by est. $1,000.00<BR>
+<BR>
+4. Total balances paid off $52,797.37 in subject transaction</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">VT</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006435</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">xxxxxx Approved Exception for CLTV. Per xxxxxx exception revision request the max allowed CLTV approved was 80.118%. xxxxxx Approved Exception for LTV exceeding max allowed of 70%. Loan is approved at 75% LTV / 81.1% CLTV.Compensating Factors:1. 24 months in reserves2. Paying off/down debt 3. Reducing monthly liabilities by est. $1,000.00</TD>
+    <TD DIR="LTR" STYLE="text-align: right">177</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/13/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. 24 months in reserves<BR>
+<BR>
+2. Paying off/down debt <BR>
+<BR>
+3. Reducing monthly liabilities by est. $1,000.00<BR>
+<BR>
+4. Total balances paid off $52,797.37 in subject transaction</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">VT</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Adjustable Rate Mortgage Disclosure (ARM) is in file, however, it is not signed or dated .&nbsp;&nbsp;Need proof ARM disclosure was issued within 3 business days of application date xxxxxx.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">35</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/26/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. DTI of 13.453%, 36.547% less than guidelines maximum of 50.00%<BR>
+2. Exception is less than 3% over max <BR>
+3. Self employed for over 5 years <BR>
+4. Conservative use of credit and no derogatory credit in the last 46 months.&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">TX</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Homeownership Counseling Notice in file, however the disclosure is dated xxxxxx which is outside the 3 business day disclosure requirement from application date of xxxxxx.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">36</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/26/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. DTI of 13.453%, 36.547% less than guidelines maximum of 50.00%<BR>
+2. Exception is less than 3% over max <BR>
+3. Self employed for over 5 years <BR>
+4. Conservative use of credit and no derogatory credit in the last 46 months.&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">TX</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Missing Initial Closing Disclosure (CD) issued to consumer at least 3 days prior to consummation with method of delivery and proof of consumer's receipt.&nbsp;&nbsp;Closing Disclosure in file is dated xxxxxx and consummation was xxxxxx.&nbsp;&nbsp;Texas Disclosure (T-64) indicates Closing Disclosure was issued on xxxxxx.&nbsp;&nbsp;Unable to complete regulatory compliance check and TRID monitoring.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">37</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/27/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. DTI of 13.453%, 36.547% less than guidelines maximum of 50.00%<BR>
+2. Exception is less than 3% over max <BR>
+3. Self employed for over 5 years <BR>
+4. Conservative use of credit and no derogatory credit in the last 46 months.&quot;</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">TX</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Added: Received eDisclosure tracking history showing Initial disclosures were sent to the borrower on xxxxxx, however this does not address the issue. The earliest LE in file is dated xxxxxx. Lender to provide LE(s) issued prior to xxxxxx for compliance review and consideration of timely delivery This loan failed the initial loan estimate delivery date test (from application) (12 CFR 1026.19(e)(1)(iii)(A)).&nbsp;&nbsp;The initial loan estimate delivery date is later than the third business day after the creditor or broker receives the consumer's written application.&nbsp;&nbsp;Application in file is dated xxxxxx and Initial Loan Estimate in file is dated xxxxxx.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">38</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/28/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. DTI of 13.453%, 36.547% less than guidelines maximum of 50.00%<BR>
+2. Exception is less than 3% over max <BR>
+3. Self employed for over 5 years <BR>
+4. Conservative use of credit and no derogatory credit in the last 46 months.&quot;</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">TX</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">UPDATED 11/27/2018; Received CoC for xxxxxx LE, however Lender still to provide LE(s) issued prior to xxxxxx for compliance review and consideration of timely delivery. Unable to complete regulatory check with initial Loan Estimate. This loan failed TRID zero fee tolerance.&nbsp;&nbsp;Loan Estimate dated xxxxxx reflects an increase in Discount Points without a Valid Change of Circumstance.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">41</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/28/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. DTI of 13.453%, 36.547% less than guidelines maximum of 50.00%<BR>
+2. Exception is less than 3% over max <BR>
+3. Self employed for over 5 years <BR>
+4. Conservative use of credit and no derogatory credit in the last 46 months.&quot;</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">TX</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">Exception approved for LTV at 77.50%. Program max 75% due to credit score of 646.Compensating Factors: 1&nbsp;&nbsp;Low DTI at 14.757% back end. 2 Exception is less than 3% over max 3 Self employed for over 5 years 4 Conservative use of credit and no derogatory credit in the last 46 months.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">48</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. DTI of 13.453%, 36.547% less than guidelines maximum of 50.00%<BR>
+2. Exception is less than 3% over max <BR>
+3. Self employed for over 5 years <BR>
+4. Conservative use of credit and no derogatory credit in the last 46 months.&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">TX</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Added 11/26/2018: Reviewed borrower's final CD reflecting the $17,000 general seller credit, however this does not address the original issue. The Seller's CD reflects a total of $40,627.50 of borrower's closing costs paid, however there is no amount listed in the seller's column of the Borrower's final CD. Please provide the final ALTA/settlement statement reflecting actual amount of seller paid fees. If seller did pay borrower closing costs, please issue Post Consummation Closing Disclosure (CD) with letter to borrower and proof of method of delivery reflecting all Seller paid fees in Seller-Paid column of Borrower's CD.The loan contains errors within one or more TRID disclosure. The Seller's CD date xxxxxx&nbsp;&nbsp;indicates that they are contributing towards the borrower's total closings (J), however the borrower's CD does not reflecting the same, or any amount paid by the seller. In this case, the creditor did not disclose in good faith by failing to disclose the true cost of the transaction. Need Post Consummation Closing Disclosure (CD) with letter to borrower and proof of method of delivery reflecting all Seller paid fees in Seller-Paid column of Borrower's CDUnder section 1026.38(t)(5)(v)(B), the &quot;information required to be disclosed by paragraphs (f) and (g) of this section with respect to costs paid by the consumer may be left blank on the disclosure provided to the seller.&quot; Sections (f) and (g) cover the closing costs on page 2. There is no provision for omitting the seller-paid costs from the disclosure provided to the buyer.This is considered a material condition</TD>
+    <TD DIR="LTR" STYLE="text-align: right">62</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/28/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. DTI of 13.453%, 36.547% less than guidelines maximum of 50.00%<BR>
+2. Exception is less than 3% over max <BR>
+3. Self employed for over 5 years <BR>
+4. Conservative use of credit and no derogatory credit in the last 46 months.&quot;</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">TX</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Added 11/26/2018: received PCCD, LOE and copy of refund check to borrower for the $650 appraisal fee. Cure is sufficient. Appraisal Invoice in file dated 9/7/2018 discloses a total amount due of $525 and also indicates appraisal was paid outside of closing (POC) on 9/7/2018. However appraisal fee disclosed on latest Closing Disclosure (xxxxxx) shows due at closing in the amount of $650. Need ALTA Settlement Statement or other post closing documentation to support final appraisal fee of $650 being collected at closing.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">67</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/26/2018</TD>
+    <TD DIR="LTR">Compliance conditions cured by satisfactory remediation docs/re-disclosures</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. DTI of 13.453%, 36.547% less than guidelines maximum of 50.00%<BR>
+2. Exception is less than 3% over max <BR>
+3. Self employed for over 5 years <BR>
+4. Conservative use of credit and no derogatory credit in the last 46 months.&quot;</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">11/20/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">TX</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Adjustable Rate Mortgage Disclosure (ARM) is in file, however, it is dated xxxxxx which is outside the 3 day disclosure requirement.&nbsp;&nbsp;Need proof the Adjustable Rate Mortgage Disclosure (ARM) was issued to consumer within 3 business days of application date.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">362</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/22/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. <BR>
+2. 31.02% DTI, 11.98% less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Housing Counselors Near You is in file, however, it is dated xxxxxx which is outside the 3 day disclosure requirement, resulting in the below RESPA violation.&nbsp;&nbsp;Need proof the Housing Counselors Near You was issued to consumer within 3 business days of the application date of xxxxxx.&nbsp;&nbsp;Federal RESPAThis loan failed the homeownership counseling organizations disclosure date test due to the following findings: (12 CFR 1024.20(a))The loan has a homeownership counseling organizations disclosure date that is not within three business days of the loan originator's application date (or the date creditor received application if loan originator's application date is not provided); or The homeownership counseling organizations disclosure date is after the closing date.Not later than three business days after a lender, mortgage broker, or dealer receives an application, or information sufficient to complete an application, the lender must provide the loan applicant with a clear and conspicuous written list of homeownership counseling organizations that provide relevant counseling services in the loan applicant's location. The list of homeownership counseling organizations distributed to each loan applicant under this section shall be obtained no earlier than 30 days prior to the time when the list is provided to the loan applicant from either:(1)The website maintained by the Bureau for lenders to use in complying with the requirements of this section; or(2)Data made available by the Bureau or HUD for lenders to use in complying with the requirements of this section, provided that the data is used in accordance with instructions provided with the data.This calculation take into account a user-submitted designation of the days that the creditor's office will be deemed to be open or not open for carrying on substantially all of its business functions, as described in 1024.2(b) and as it relates to 1024.20 (list of homeownership counseling organizations provided not later than 3 business days after a loan originator receives an application). This test excluded the following days from the business day count based on the client preferences configured on the company settings business days profile page:As not being open on SaturdayAs not being open on Sunday</TD>
+    <TD DIR="LTR" STYLE="text-align: right">363</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/22/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. <BR>
+2. 31.02% DTI, 11.98% less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Missing the following required Federal and/or State Disclosures:&nbsp;&nbsp;Loan Options Disclosure/Anti-Steering Options Disclosure and Lender's Privacy Policy.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">364</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/22/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. <BR>
+2. 31.02% DTI, 11.98% less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">This loan failed TRID timing of disclosures.&nbsp;&nbsp;&quot;Your Home Loan Toolkit&quot; is in file, however, it is dated xxxxxx which is outside the 3 day disclosure requirement and there is no cover letter that identifies the Toolkit was provided within 3 business days of application date.&nbsp;&nbsp;Need proof &quot;Your Home Loan Toolkit&quot; was issued to consumer within 3 business days of application date.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">365</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/22/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. <BR>
+2. 31.02% DTI, 11.98% less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">//UPDATE 01/28/2019: Received CD issued xxxxxx; however, no evidence as to when this document was received by the borrower, when the subject loan closed xxxxxx. Initial Closing Disclosure Timing Requirements - xxxxxx. This loan failed the initial closing disclosure delivery date test due to one of the following findings:(12 CFR 1026.19(f)(1)(ii))The initial closing disclosure delivery date is provided and the initial closing disclosure method of delivery is marked as either: ?&quot;USPS First Class Mail&quot; or &quot;Electronic Delivery&quot; or blank, and the initial closing disclosure delivery date is less than six business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; or?&quot;In Person&quot; and the initial closing disclosure delivery date is less than three business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; orThe initial closing disclosure receipt date is provided and the initial closing disclosure receipt date is less than three business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transactionThe creditor shall ensure that the consumer receives the disclosures required under paragraph 1026.19(f)(1)(i) no later than three business days before consummation.//UPDATE 01/22/2019: Response referenced initial CD - Disclosure Tracking; however, the referenced document was not provided. Still pending receipt of initial CD - Disclosure Tracking for review. This loan failed TRID timing of disclosures.&nbsp;&nbsp;Missing proof of receipt of initial Closing Disclosure (CD) received by consumer at least 3 business days prior to consummation date of xxxxxx.&nbsp;&nbsp;The Closing Disclosure in file dated xxxxxx appears to be the initial, however, it was signed at consummation resulting in the below TRID timing violation. Initial Closing Disclosure Timing Requirements - xxxxxx.&nbsp;&nbsp;This loan failed the initial closing disclosure delivery date test due to one of the following findings:(12 CFR 1026.19(f)(1)(ii))The initial closing disclosure delivery date is provided and the initial closing disclosure method of delivery is marked as either: ?&quot;USPS First Class Mail&quot; or &quot;Electronic Delivery&quot; or blank, and the initial closing disclosure delivery date is less than six business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; or?&quot;In Person&quot; and the initial closing disclosure delivery date is less than three business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; orThe initial closing disclosure receipt date is provided and the initial closing disclosure receipt date is less than three business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transactionThe creditor shall ensure that the consumer receives the disclosures required under paragraph 1026.19(f)(1)(i) no later than three business days before consummation.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">368</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/29/2019</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. <BR>
+2. 31.02% DTI, 11.98% less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV.</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">xxxxxx Approved Exception for Loan amount $xxxxxx exceeded guidelines maximum allowed loan amount of $1,000,000.00 at 90.00% LTV.Compensating Factors: 1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. 2. 31.02% DTI, less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV. 3. 14 months of reserves.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">378</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. <BR>
+2. 31.02% DTI, 11.98% less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">Missing bank statement dated 8/2017 for xxxxxx account ending #xx9059; business checking for xxxxxx. Loan program requires 12 months consecutive bank statements, preceding from the application date (xxxxxx) to calculate income. File contained 11 months:&nbsp;&nbsp;7/2018 to 9/2017.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">379</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/30/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. <BR>
+2. 31.02% DTI, 11.98% less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">xxxxxx Approved Exception; Using 11 months bank statements over 12 month requirement, to calculate qualifying income. Compensating Factors: 1.&nbsp;&nbsp;31.02% Back End Ratio (Max 43%)2. 14 months of reserves3. Self Employed over 4 years.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">509</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/30/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors: <BR>
+1. 782 FICO score, 82 points over the guidelines minimum requirement of 700. <BR>
+2. 31.02% DTI, 11.98% less than guidelines maximum requirement of 43.00% DTI for 90.00% LTV.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1809009591</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">Non-warrantable condominium at 75% LTV&nbsp;&nbsp;located in Florida; budget does not include capital reserves. FNMA max LTV for Investment condo in FL is 70%. Exception approval in file.Compensating factors: 1) 0x30 last 60 months on all prior mortgage obligations, 2) 10 months reserves; 7 months greater than 3 month minimum, 3) Established condo, project transferred to HOA/owners in 1968, 4) No commercial space; No pending litigation in project, 5) Project maintains 81.25% owner occupancy 6) Overall project delinquency is 6.25% (1 unit of 16 units)</TD>
+    <TD DIR="LTR" STYLE="text-align: right">67</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/3/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating factors: <BR>
+1) 0x30 last 60 months on all prior mortgage obligations.<BR>
+2) 10 months reserves; 7 months greater than 3 month minimum</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/4/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1809009591</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">Missing lender's response to High risk items reflected on DRIVE report. //// UPDATED 12/6/2018: (1) Fraud Detection tool reflects potential Conflict of Interest two or more parties have similar names on the loan. The co-borrower's name, xxxxxx, is also reflected as the buying agent. The purchase agreement reflects selling agent of xxxxxx with cooperating sales associate of xxxxxx.&nbsp;&nbsp;&nbsp;(2) Fraud Detection tool reflects Loan officer identified in one or more Mortgage Fraud News Articles; The NMLS number on the 1003 for the loan officer xxxxxx does not match the name of the individual with the same NMLS number reflected in the MAVENT report in file.&nbsp;&nbsp;&nbsp;///&nbsp;&nbsp;UPDATED 12/19/18&nbsp;&nbsp;Item (2) Satisfactorily addressed -rec'd re-disclosure reflecting correct NMLS ID xxxxxx originator xxxxxx. Item (1), borr is own agent.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">72</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/19/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating factors: <BR>
+1) 0x30 last 60 months on all prior mortgage obligations.<BR>
+2) 10 months reserves; 7 months greater than 3 month minimum</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/4/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810009697</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Credit</TD>
+    <TD DIR="LTR">Missing evidence of the 10/01/2018 lease payment for borrower xxxxxx at xxxxxx.&nbsp;&nbsp;Bank statements show payments thru 9/2018 only.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">103</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/11/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. LTV of 75%, 5% lower than the max LTV of 80%<BR>
+<BR>
+2. DTI of 36.65%, 13% lower than the max DTI of 50% as required in the guidelines<BR>
+<BR>
+3. Reserves of 9 months after closing and reserves requirement; only 110% of loan amount + 3 months are required in the guidelines</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/3/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810009697</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Credit</TD>
+    <TD DIR="LTR">Missing evidence of monthly obligations for the following&nbsp;&nbsp;three properties reflected on the DRIVE report - all owned free and clear:&nbsp;&nbsp;91) xxxxxx DOA 6/25/2015;&nbsp;&nbsp;(2) xxxxxx DOA 11/7/2015;&nbsp;&nbsp;(3) xxxxxx DOA 6/27/18. None are listed on the loan application.&nbsp;&nbsp;Subject to re-calculation upon receipt.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">105</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/6/2018</TD>
+    <TD DIR="LTR">Property condition cleared</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. LTV of 75%, 5% lower than the max LTV of 80%<BR>
+<BR>
+2. DTI of 36.65%, 13% lower than the max DTI of 50% as required in the guidelines<BR>
+<BR>
+3. Reserves of 9 months after closing and reserves requirement; only 110% of loan amount + 3 months are required in the guidelines</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/3/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810009697</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Income and Assets</TD>
+    <TD DIR="LTR">Missing 3 months bank statements to support the rental earnings for the properties located at: (1) xxxxxx- subject property;&nbsp;&nbsp;(2) xxxxxx;&nbsp;&nbsp;(3) xxxxxx. Only the executed copies of the lease agreements were provided. // UPDATE 12/18 Received rental owner statements for property at xxxxxx and xxxxxx evidencing 3 months rental earnings. ////NOTE::: Not using rental earnings for subject property, (1)xxxxxx.Rcvd, Reviewed &amp;&nbsp;&nbsp;Validated rental income for:&nbsp;&nbsp;(2) xxxxxx;&nbsp;&nbsp;(3) xxxxxx.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">108</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/18/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1. LTV of 75%, 5% lower than the max LTV of 80%<BR>
+<BR>
+2. DTI of 36.65%, 13% lower than the max DTI of 50% as required in the guidelines<BR>
+<BR>
+3. Reserves of 9 months after closing and reserves requirement; only 110% of loan amount + 3 months are required in the guidelines</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/3/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010113</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Missing the following required Federal and/or State Disclosures:&nbsp;&nbsp;Lender's Privacy Policy and NJ Mortgage Broker Agreement.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">140</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/17/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. DTI of 14.226%; 35% lower than max DTI of 50.000% allowed <BR>
+2. LTV of 80.00%; 5.00% less than max LTV of 85.00% allowed<BR>
+3. Loan amount is $xxxxxx; max $2,500,000 allowed<BR>
+4. 13 years self-employed&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">NJ</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010352</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">Minimum credit score is 680 for LTV of 70% vs subject score of 673. Lender exception provided maximum LTV maximum to 67.5% with a qualifying fico score of 673.&nbsp;&nbsp;Compensating factors: 1) 36 months reserves totaling $169,288.95; Exceeds minimum reserve requirement of $17,711.34, 2) DSC ratio 117.055; 17% greater than 100% minimum, 3) Average FICO 673; 33 points higher than 640 minimum Reserves of $169,288.95 exceed minimum reserve requirement of $17,711.34, 4) Good Mortgage history with 0x30x14 months</TD>
+    <TD DIR="LTR" STYLE="text-align: right">83</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating factors: <BR>
+<BR>
+1 36 months reserves; 33 months greater than 3 month minimum<BR>
+2 DSC ratio 117.055; 17% greater than 100% minimum<BR>
+3 Average FICO 673; 33 points higher than 640 minimum<BR>
+4 0x30x14 mortgage history</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">NY</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010352</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">///UPDATE 12/11/18: Missing documentation to support the guarantor's ownership interest in xxxxxx.&nbsp;&nbsp;Articles of Incorporation generally disclose the member/owner information.&nbsp;&nbsp;Substitute documentation showing percentage ownership could also be considered.////&nbsp;&nbsp;Missing Fully executed Articles of Organization signed by all members. (xxxxxx and xxxxxx). to verify the guarantors 20% ownership interest&nbsp;&nbsp;in the borrowing entity. The Articles of Organization in the file are not signed by the members. \\\\Update 12/10/2018 The Articles in the file do not provide the guarantors percentage of ownership in the borrowing entity. Please provide documentation to evidence guarantor's ownership percentage.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">84</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/12/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating factors: <BR>
+<BR>
+1 36 months reserves; 33 months greater than 3 month minimum<BR>
+2 DSC ratio 117.055; 17% greater than 100% minimum<BR>
+3 Average FICO 673; 33 points higher than 640 minimum<BR>
+4 0x30x14 mortgage history</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">NY</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010429</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Credit</TD>
+    <TD DIR="LTR">Missing satisfactory mortgage rating 1 x 30 for the past 12 months for the 2nd lien mtg in the amount of $xxxxxx for the property located at xxxxxx.&nbsp;&nbsp;///&nbsp;&nbsp;UPDATED 12/14/18: $xxxxxx obligation on xxxxxx originated 11/2017 with xxxxxx&nbsp;&nbsp;per DataVerify - does not report on credit report. Please provide documentation to support loan has no owing balance since origination date, or proof of the monthly payment history.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">69</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/18/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">MI</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010429</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Credit</TD>
+    <TD DIR="LTR">Missing satisfactory mortgage rating of 1x30 for past 12 months for property located at&nbsp;&nbsp;xxxxxx.&nbsp;&nbsp;///&nbsp;&nbsp;&nbsp;UPDATED 12/14/2018: The 1003 reflects property at xxxxxx.&nbsp;&nbsp;Missing evidence of mortgage payment history or documentation to support free and clear of mortgage liens.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">70</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/14/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/5/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">MI</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010489</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Credit</TD>
+    <TD DIR="LTR">Missing 12 month mortgage history not to exceed 1x30 for past 12 for the subject property located at xxxxxx.&nbsp;&nbsp;Recorded Mortgage was provided but no mortgage rating. ///&nbsp;&nbsp;UPDATED 12/14/2018:&nbsp;&nbsp;Recorded mortgage dated xxxxxx provided - missing most recent payment history.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">58</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/18/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">compensating factors:<BR>
+LTV of 75% is 5% below program max of 80%<BR>
+Good mortgage history of 0x30x12 current mortgage and 0x30 on all prior mortgage obligations.</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/4/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">MI</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010489</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Credit</TD>
+    <TD DIR="LTR">Missing satisfactory mortgage rating 1 x 30 for the past 12 months for the 2nd lien mtg in the amount of $xxxxxx&nbsp;&nbsp;on the property located at xxxxxx.////Update 12/6/2018 The guarantor's Drive report dated xxxxxx reflects that a 1st mortgage for $xxxxxx recorded on xxxxxx linked to the property located at xxxxxx. The guarantor's Drive report also reflects a 2nd lien in the amount of $xxxxxx also recorded on xxxxxx linked to the property located xxxxxx. The mortgage rating for this 2nd lien has not been provided. Per the lender guidelines verification of the guarantors housing obligations not appearing on a consumer credit report is required.&nbsp;&nbsp;////&nbsp;&nbsp;UPDATE 12/14/2018 The payment history for the xxxxxx mortgage obligation of $xxxxxx is met.&nbsp;&nbsp;Please provide payment history for 2nd lien of $xxxxxx, or proof no monies were ever drawn against this mortgage item.&nbsp;&nbsp;If money was drawn, please provide documentation for the mortgage history.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">59</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/18/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">compensating factors:<BR>
+LTV of 75% is 5% below program max of 80%<BR>
+Good mortgage history of 0x30x12 current mortgage and 0x30 on all prior mortgage obligations.</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/4/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">MI</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010489</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Income and Assets</TD>
+    <TD DIR="LTR">Insufficient funds verified to meet closing funds requirement of $72,913.76.&nbsp;&nbsp;File contains one xxxxxx bank statement account ending xx9832 dated 10/31/18 with balance of $5,916.09, and a LOE stating closing funds coming from refinance of property at xxxxxx.&nbsp;&nbsp;Missing 9/30/2018 xxxxxx statement ending xx9832 and corresponding HUD1 statement for xxxxxx property.&nbsp;&nbsp;Subject to re-calculation of assets upon receipt.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">64</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/6/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">compensating factors:<BR>
+LTV of 75% is 5% below program max of 80%<BR>
+Good mortgage history of 0x30x12 current mortgage and 0x30 on all prior mortgage obligations.</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/4/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">MI</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010489</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Income and Assets</TD>
+    <TD DIR="LTR">The borrower needs to supply evidence of 3 months reserves equaling $4,239.81 to satisfy the reserve requirements.&nbsp;&nbsp;Bank statement dated 10/31/2018 account ending xx9832 reflects&nbsp;&nbsp;balance of $5,916.09 less owing xxxxxx balance of $4,552.00 yields net assets of $1,364.09 and is $2,875.72 short to meet minimum requirement.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">82</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/13/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">compensating factors:<BR>
+LTV of 75% is 5% below program max of 80%<BR>
+Good mortgage history of 0x30x12 current mortgage and 0x30 on all prior mortgage obligations.</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/4/2018</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">MI</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811010999</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Missing the following required Federal and/or State Disclosures:&nbsp;&nbsp;Loan Options Disclosure/Anti-Steering Options Disclosure.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">141</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/12/2018</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. FICO of 776, 76 points above min FICO of 700 as required in the guidelines<BR>
+2. LTV of 70.002%, 14% lower than the max LTV of 85% for loan amount &lt; $1.5M<BR>
+3. Reserves of 295 months after closing and reserves requirement; only 110% of loan amount + 3 months are required in the guidelines</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/6/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811010999</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - Credit</TD>
+    <TD DIR="LTR" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif">\\\\ Update 12/12/2018 The credit report dated xxxxxx reflects the&nbsp;&nbsp;Mortgage&nbsp;&nbsp;account with xxxxxx # 9561 has not reported to the credit bureau's since 05/2016. Credit supplement requested to verify no payments required for the past 12 months.&nbsp;&nbsp;&nbsp;Missing verification of mortgage for property at xxxxxx reflecting no more than 1x30 for past 12 months .</TD>
+    <TD DIR="LTR" STYLE="text-align: right">165</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/14/2018</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. FICO of 776, 76 points above min FICO of 700 as required in the guidelines<BR>
+2. LTV of 70.002%, 14% lower than the max LTV of 85% for loan amount &lt; $1.5M<BR>
+3. Reserves of 295 months after closing and reserves requirement; only 110% of loan amount + 3 months are required in the guidelines</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12/6/2018</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011067</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1) 752 FICO; 52 points above minimum FICO of 700 as required by guidelines<BR>
+2) No credit late payments in the past 24 months, and no public records<BR>
+3) Reserves of $18,871.71; exceed the minimum reserve requirement of $7,048.56</TD>
+    <TD DIR="LTR">Closed</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/14/2019</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">NY</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Purchase</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011830</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Missing the following Federal and/or State specific disclosures:&nbsp;&nbsp;Loan Options Disclosure/Anti-Steering Options Disclosure, Privacy Policy issued by Lender and SC Mortgage Broker Fee Agreement for Financial Services.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">511</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/4/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. FICO Score 741, 61 greater than guidelines FICO minimum requirement of 680.<BR>
+2. 37.80% DTI, 12.20% less than guidelines DTI maximum of 50.00%</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/4/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">SC</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011840</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">The loan contains errors within one or more TRID disclosure.&nbsp;&nbsp;On CD issued xxxxxx, under the Estimated Taxes, Insurance and Assessments section on page one, This estimate includes, Other is missing a description of the other assessments that are not in escrow.&nbsp;&nbsp;Need Post Consummation CD with a description of the other assessments that are not in escrow and explanation letter to borrower with proof of method of delivery of all to borrower.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">334</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. DTI of 33.44%, 16.56% lower than the max DTI of 50% as required in the guidelines<BR>
+2. Reserves of 26 months, including cash out proceeds, after closing and reserve requirement in the guidelines<BR>
+3. 13 plus years as self employed<BR>
+4. Excellent mortgage payment history with 0x30x81 months&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/16/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011840</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">UPDATE 01/17/2019: This has been sent to legal for reviewThis loan failed TRID zero fee tolerance.&nbsp;&nbsp;On Loan Estimate (LE) in file dated xxxxxx the &quot;Title - Settlement Fee&quot; was added without a Valid Change of Circumstance resulting in the below TRID tolerance violation.&nbsp;&nbsp;Settlement Fee was moved to Section &quot;B&quot; at closing and is payable to an entity not on the Service Provider's List resulting in the fee falling in the Zero Tolerance bucket per TRID. Integrated Disclosures Tolerance &amp; Reimbursement Provisions - 01/04/2019 - This loan failed the charges that cannot increase test. (12 CFR 1026.19(e)(3)(i))The loan contains charges that exceed the good faith determination according to 1026.19(e)(3)(i).One or more of the final charges exceed the comparable amount. Your total tolerance violation is $1,500.00.&nbsp;&nbsp;This loan failed the reimbursement amount test. (12 CFR 1026.19(f)(2)(v))Amounts paid by the consumer exceed the permitted tolerances and the provided reimbursement amount of $1,050.00, is not sufficient to reimburse the consumer the amount by which the tolerances were exceeded, $1,500.00.&nbsp;&nbsp;Your total tolerance violation is -$450.00.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">338</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/18/2019</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. DTI of 33.44%, 16.56% lower than the max DTI of 50% as required in the guidelines<BR>
+2. Reserves of 26 months, including cash out proceeds, after closing and reserve requirement in the guidelines<BR>
+3. 13 plus years as self employed<BR>
+4. Excellent mortgage payment history with 0x30x81 months&quot;</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/16/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011840</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Missing the following required Federal and/or State Disclosures:&nbsp;&nbsp;Lender's Privacy Policy.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">339</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. DTI of 33.44%, 16.56% lower than the max DTI of 50% as required in the guidelines<BR>
+2. Reserves of 26 months, including cash out proceeds, after closing and reserve requirement in the guidelines<BR>
+3. 13 plus years as self employed<BR>
+4. Excellent mortgage payment history with 0x30x81 months&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/16/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011840</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Notice of Special Flood Hazard disclosure is in file, however, it is not signed.&nbsp;&nbsp;Need signed Notice of Special Flood Hazard disclosure.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">340</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/17/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. DTI of 33.44%, 16.56% lower than the max DTI of 50% as required in the guidelines<BR>
+2. Reserves of 26 months, including cash out proceeds, after closing and reserve requirement in the guidelines<BR>
+3. 13 plus years as self employed<BR>
+4. Excellent mortgage payment history with 0x30x81 months&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/16/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011840</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">The loan amount of $xxxxxx exceeds guidelines maximum loan amount of $3,000,000.00 with a maximum LTV of 60.00%. There is a xxxxxx exception approval in file. .</TD>
+    <TD DIR="LTR" STYLE="text-align: right">346</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/16/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. DTI of 33.44%, 16.56% lower than the max DTI of 50% as required in the guidelines<BR>
+2. Reserves of 26 months, including cash out proceeds, after closing and reserve requirement in the guidelines<BR>
+3. 13 plus years as self employed<BR>
+4. Excellent mortgage payment history with 0x30x81 months&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/16/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011840</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Credit - General Underwriting Guideline Violation</TD>
+    <TD DIR="LTR">Property was listed for sale on xxxxxx and removed on xxxxxx. Per guidelines, property cannot be listed during the last 3 months preceding the date of the loan for a cash out transaction. There is a xxxxxx exception approval in file.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">355</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/16/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. DTI of 33.44%, 16.56% lower than the max DTI of 50% as required in the guidelines<BR>
+2. Reserves of 26 months, including cash out proceeds, after closing and reserve requirement in the guidelines<BR>
+3. 13 plus years as self employed<BR>
+4. Excellent mortgage payment history with 0x30x81 months&quot;</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Credit</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">1/16/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">FL</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012253</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Property - Collateral</TD>
+    <TD DIR="LTR">The lender guidelines reflect that properties that are listed for sale within the past three months are not eligible for sale to xxxxxx.&nbsp;&nbsp;The appraisal dated 12/28/2018 indicated the subject property was listed on the Northwest Multiple Listing Services (NWMLS) on xxxxxx for $xxxxxx MLS #xxxxxx. The lender provided an approved exception to this guideline requirement. Compensating Factors:1) 726 FICO; 6 points above minimum FICO of 720 as required by guidelines, 2) Reserves of $98,099.52; exceed the minimum reserve requirement of $8,149.11, 3) DSC ratio of 103.514%; 3.51% greater than 100.00% minimum</TD>
+    <TD DIR="LTR" STYLE="text-align: right">194</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/5/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+<BR>
+1) 726 FICO; 6 points above minimum FICO of 720 as required by guidelines<BR>
+2) Reserves of $98,099.52; exceed the minimum reserve requirement of $8,149.11<BR>
+3) DSC ratio of 103.514%; 3.51% greater than 100.00% minimum</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Property</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/5/2019</TD>
+    <TD DIR="LTR">Investment Property</TD>
+    <TD DIR="LTR">WA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - rate and term</TD>
+    <TD DIR="LTR">Not covered / exempt</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012385</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">This loan failed TRID timing of disclosures.&nbsp;&nbsp;Missing proof of consumer's receipt of Loan Estimate dated xxxxxx results in the below TRID timing violation.&nbsp;&nbsp;Revised Loan Estimate Timing Requirements - xxxxxx This loan failed the revised loan estimate delivery date test (prior to consummation) due to one of the following findings: (12 CFR 1026.19(e)(4)(ii))&nbsp;&nbsp;The revised loan estimate delivery date is provided and the revised loan estimate method of delivery is marked as either:&nbsp;&nbsp;&quot;USPS First Class Mail&quot; or &quot;Electronic Delivery&quot; or blank, and the revised loan estimate delivery date is less than seven business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; or &quot;In Person&quot; and the revised loan estimate delivery date is less than four business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; or The revised loan estimate receipt date is provided and the revised loan estimate receipt date is less than four business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; or The revised loan estimate delivery date is on or after the initial closing disclosure delivery date.The creditor shall not provide a revised version of the disclosures required under 1026.19(e)(1)(i) on or after the date on which the creditor provides the disclosures required under 1026.19(f)(1)(i). The consumer must receive a revised version of the disclosures required under 1026.19(e)(1)(i) not later than four business days prior to consummation. If the revised version of the disclosures required 1026.19(e)(1)(i) is not provided to the consumer in person, the consumer is considered to have received such version three business days after the creditor delivers or places such version in the mail.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">512</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/6/2019</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. LTV of 22.523%, 57.477% lower than the max LTV of 80%<BR>
+2. FICO of 808, 128 points above min FICO of 680 as required in the guidelines <BR>
+3. Reserves 227 months after reserves requirement per guidelines</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/4/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012385</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">This loan failed TRID timing of disclosures. Missing Proof of receipt of initial Closing Disclosure (CD) dated xxxxxx&nbsp;&nbsp;received by consumer at least 3 business days prior to consummation date of xxxxxx results in the below TRID timing violation.Initial Closing Disclosure Timing Requirements - xxxxxx&nbsp;&nbsp;This loan failed the initial closing disclosure delivery date test due to one of the following findings:(12 CFR 1026.19(f)(1)(ii))&nbsp;&nbsp;The initial closing disclosure delivery date is provided and the initial closing disclosure method of delivery is marked as either: &quot;USPS First Class Mail&quot; or &quot;Electronic Delivery&quot; or blank, and the initial closing disclosure delivery date is less than six business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; or &quot;In Person&quot; and the initial closing disclosure delivery date is less than three business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction; or The initial closing disclosure receipt date is provided and the initial closing disclosure receipt date is less than three business days (counting all calendar days except Sunday and specified legal public holidays) before the consummation date, or closing / settlement date if no consummation date is provided, of the transaction.&nbsp;&nbsp;The creditor shall ensure that the consumer receives the disclosures required under paragraph 1026.19(f)(1)(i) no later than three business days before consummation.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">513</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/6/2019</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. LTV of 22.523%, 57.477% lower than the max LTV of 80%<BR>
+2. FICO of 808, 128 points above min FICO of 680 as required in the guidelines <BR>
+3. Reserves 227 months after reserves requirement per guidelines</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/4/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012385</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">This loan failed TRID zero fee tolerance.&nbsp;&nbsp;Points added on Loan Estimate dated xxxxxx without a Valid Change of Circumstance resulting in the below TRID tolerance violation.&nbsp;&nbsp;Integrated Disclosures Tolerance &amp; Reimbursement Provisions - xxxxxx - 1&nbsp;&nbsp;This loan failed the charges that cannot increase test. (12 CFR 1026.19(e)(3)(I))The loan contains charges that exceed the good faith determination according to 1026.19(e)(3)(i).&nbsp;&nbsp;One or more of the final charges exceed the comparable amount. Your total tolerance violation is $312.50.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">514</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/6/2019</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. LTV of 22.523%, 57.477% lower than the max LTV of 80%<BR>
+2. FICO of 808, 128 points above min FICO of 680 as required in the guidelines <BR>
+3. Reserves 227 months after reserves requirement per guidelines</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/4/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012385</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">This loan failed TRID zero fee tolerance.&nbsp;&nbsp;&nbsp;Lender credit was removed on Loan Estimate dated xxxxxx without a Valid Change of Circumstance resulting in the below TRID tolerance violation.Integrated Disclosures Tolerance &amp; Reimbursement Provisions - xxxxxx - 1&nbsp;&nbsp;&nbsp;This loan failed the lender credits that cannot decrease test. (12 CFR 1026.19(e)(3)(i))The loan contains charges that exceed the good faith determination according to 1026.19(e)(3)(i). The final sum of specific and non-specific lender credits ($0.00) does not exceed or equal the comparable sum of specific and non-specific lender credits ($875.00). Please see the table that displays the Charges That Cannot Increase for a comparison of the data between the provided disclosures.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">515</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/6/2019</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. LTV of 22.523%, 57.477% lower than the max LTV of 80%<BR>
+2. FICO of 808, 128 points above min FICO of 680 as required in the guidelines <BR>
+3. Reserves 227 months after reserves requirement per guidelines</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/4/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">CA</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012643</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">The loan contains errors within one or more TRID disclosure.&nbsp;&nbsp;Missing signed Lender's explanation for incomplete Closing Disclosure(s) in file missing pages and/or key data elements, however, not marked as &quot;Draft&quot; or &quot;Preliminary&quot;.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">521</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/6/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. 32.94% DTI, 17.06% less than guidelines DTI maximum of 50.00%.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/5/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">MD</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012643</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">Missing the following required Federal and/or State Disclosures:&nbsp;&nbsp;Lender's Privacy Policy and MD Mortgage Broker Agreement.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">522</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/6/2019</TD>
+    <TD DIR="LTR">Waived/Exception Granted&nbsp;</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. 32.94% DTI, 17.06% less than guidelines DTI maximum of 50.00%.</TD>
+    <TD DIR="LTR">Waived</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/5/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">MD</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012643</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Compliance - Regulatory Compliance</TD>
+    <TD DIR="LTR">This loan failed TRID zero fee tolerance.&nbsp;&nbsp;On the Loan Estimate (LE) in file dated xxxxxx the &quot;Lender Credits&quot; decreased from the initial amount of $19,406.00 to $16,874.00 without a valid Change of Circumstance, resulting in the below TRID Tolerance Violation.Integrated Disclosures Tolerance &amp; Reimbursement Provisions - xxxxxx - 1This loan failed the lender credits that cannot decrease test. (12 CFR 1026.19(e)(3)(i))The loan contains charges that exceed the good faith determination according to 1026.19(e)(3)(i). The final sum of specific and non-specific lender credits ($16,874.44) does not exceed or equal the comparable sum of specific and non-specific lender credits ($19,406.00).&nbsp;&nbsp;The total tolerance violation is $2,531.56.</TD>
+    <TD DIR="LTR" STYLE="text-align: right">523</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/6/2019</TD>
+    <TD DIR="LTR">Credit condition cleared, Compliance condition cleared (does not include compliance cures)</TD>
+    <TD DIR="LTR">Compensating Factors:<BR>
+1. 32.94% DTI, 17.06% less than guidelines DTI maximum of 50.00%.</TD>
+    <TD DIR="LTR">Cured</TD>
+    <TD DIR="LTR">Compliance</TD>
+    <TD DIR="LTR">EG1</TD>
+    <TD DIR="LTR" STYLE="text-align: right">2/5/2019</TD>
+    <TD DIR="LTR">Primary Residence</TD>
+    <TD DIR="LTR">MD</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Refinance - cash out</TD>
+    <TD DIR="LTR">Non-Qualified Mortgage</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG3&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG2&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD>
+    <TD DIR="LTR">EG1&nbsp;&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; padding-top: 6pt; padding-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
