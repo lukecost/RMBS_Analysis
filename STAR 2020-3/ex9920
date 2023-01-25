@@ -1,0 +1,1385 @@
+<DOCUMENT>
+<TYPE>EX-99.20
+<SEQUENCE>21
+<FILENAME>efc20-568_ex9920.htm
+<DESCRIPTION>NDA VALUATIONS REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00002.jpg">
+    <div><br>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z14381b0c6a074922a82ce2d62164f243">
+
+          <tr>
+            <td style="width: 66.63%; vertical-align: top;">
+              <div style="line-height: 15.95pt; color: #000000; font-size: 12pt; font-weight: bold;">VALUATION REPORT</div>
+            </td>
+            <td style="width: 33.37%; vertical-align: top;">&#160;</td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div> </div>
+      <br>
+      <table cellspacing="0" cellpadding="2" border="0" id="z2e91c9dc0e824f10ae7ef2ed1436609f" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 7.42%; vertical-align: middle; background-color: #C0C0C0; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;" rowspan="2">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Loan Number</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: middle; background-color: #C0C0C0; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;" rowspan="2">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Origination date</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: middle; background-color: #C0C0C0; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;" rowspan="2">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">OPB</div>
+            </td>
+            <td style="width: 33.6%; vertical-align: bottom; background-color: rgb(204, 204, 255); border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);" colspan="6">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Origination Values</div>
+            </td>
+            <td style="width: 28.31%; vertical-align: bottom; background-color: rgb(252, 228, 214); border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);" colspan="5">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">CDA Review Values</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: bottom; background-color: rgb(252, 228, 214); border-top: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">&#160;</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-left: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);" rowspan="2">
+              <div style="line-height: 10.25pt; color: #000000; font-weight: bold;">Valuation Comments</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 4.43%; vertical-align: middle; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Sale Price</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Appraised Value</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Appraisal Date</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Second Appraisal Value</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Second Appraisal Type</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Appraisal Date</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Value</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Variance Amount</div>
+            </td>
+            <td style="width: 6.44%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Variance(%)</div>
+            </td>
+            <td style="width: 5.54%; vertical-align: bottom; background-color: rgb(191, 191, 191); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">CDA vs. Appraisal Variance</div>
+            </td>
+            <td style="width: 6.6%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Company</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: bottom; background-color: rgb(192, 192, 192); border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt; color: #000000; font-weight: bold;">Appraisal Date</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0331</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Per LOL flood cert: the subject pppty is partially within a Special Flood Hazard area; the structure however, is not affected
+                and is not in the floodplain.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0397</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">No issues.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0239</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amount is less then 1.5 million and only required 1 appraisal and CDA.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0087</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amt &lt; $250,000, One full appraisal + CDA meets guidelines. Appraised value appears fully supported, and supports 68%
+                LTV.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX1102</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">CDA value of $XXXX is within 10% of $XXX,000 Original Appraisal Value.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX1800</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Comps used to support value are at distance &gt; 10 miles from subject. 90% LTV. Required documentation of 1 full Appraisal
+                and CDA review has been provided. CDA value matches that of Appraisal.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX2643</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">CDA support the value of $XXX.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0418</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amount is less than $1.5 mm. Included in the loan&#160; file is a 1004 appraisal and CDA.&#160; The appraisal and CDA values the
+                property at $XXXK. Used the&#160; purchase price of $XXXK to calculate the LTV. No adverse items noted in the appraisal.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0426</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Appraised value appears to be fully supported. Appraisal + CDA review meets requirements for loan amount &lt; $1.5 million.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX5511</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">CDA supported the value of $XXX.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX3678</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amount is less then 1.5 million so 1 appraisal and CDA.&#160; Rural property - 80% LTV.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX3373</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Appraised value supports 80% LTV. Value is supported by full Appraisal and CDA analysis, which meet program requirements</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX3500</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX3711</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amount is less then 1.5 million, so only 1 appraisal and CDA is required.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX4721</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">CDA support the value $XXXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX3327</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Value lowered slighty on 1004 D due to half bath vs. full bath. Loan approval value $XXX,000, and Appraisal Report $XXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX6210</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">CDA conform the value of $XXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX6648</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amount &lt; $1.5mm requires 1 Full Appraisal + CDA.. CDA value of $XXXX is equal to Appraised value of $XXXX. As such,
+                this meets the 10% variation allowed.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX2619</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amount is less then 1.5 million so only 1 appraisal and CDA was required.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0260</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX1017</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Appraised value appears supported. CDA value of $XXX is equal to Appraised value of $XXX. As such, the CDA value is within 10%
+                of Appraised value.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0793</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0794</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">original appraisal transferred from XXX to XXX Group XX/XX/XXXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0220</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amount is less then 1.5 million and so only 1 appraisal and CDA is requires.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX1894</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Appraised value appears supported. Appraisal and Desktop Review meet requirements for loan amount of $XXX</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0416</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Appraisal documentation is Full Appraisal + CDA, which is acceptable documentation per guidelines (Loan amount &lt;+
+                $1,500,000). Appraised value is $XXXX, CDA value is $XXXX, which is within the 10% variance allowed by guidelines.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX0439</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXX property: Water heater is not double-strapped.&#160;&#160; Appraised value is supported. Value is documented by full appraisal and
+                CDA. This meets program guidelines for documentation.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX2023</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Loan amount is less then 1.5 million&#160; so there is 1 appraisal and CDA in the file.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 7.42%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">XXXXXXXX2024</div>
+            </td>
+            <td style="width: 6.18%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.79%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.95%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXX</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 5.81%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; line-height: 10.25pt;">Not Applicable</div>
+            </td>
+            <td style="width: 4.43%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">$XXXX</div>
+            </td>
+            <td style="width: 5.3%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.44%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 5.54%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 6.6%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XXXXXXXXXX</div>
+            </td>
+            <td style="width: 6.38%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">XX/XX/XXXX</div>
+            </td>
+            <td style="width: 13.67%; vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+              <div style="line-height: 10.25pt;">Not Applicable</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
