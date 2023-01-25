@@ -1,0 +1,573 @@
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>11
+<FILENAME>efc20-658_ex991s10.htm
+<DESCRIPTION>SCHEDULE 10 - DATA COMPARE SUMMARY
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00002.jpg">
+    <div>
+      <div style="margin-left: 5.4pt; line-height: 13.7pt; color: #214D88; font-family: 'Segoe UI', sans-serif; font-size: 12pt; font-weight: bold;">Data Compare Summary (Total)</div>
+      <div style="margin-left: 5.4pt; line-height: 11.4pt; color: #214D88; font-weight: bold;">Run Date - 8/12/2020 6:54:09 PM</div>
+      <div style="margin-left: 5.4pt; line-height: 11.4pt; color: #214D88; font-weight: bold;"> <br>
+      </div>
+      <div style="margin-left: 5.4pt; line-height: 11.4pt; color: #214D88; font-weight: bold;">
+        <table cellspacing="0" cellpadding="1" border="1" align="left" id="z9c284deaf9194c72ae0f594d389d5622">
+
+            <tr>
+              <td width="240">Field Label</td>
+              <td width="142">Loans With Discrepancy</td>
+              <td width="137">Total Times Compared</td>
+              <td width="73">% Variance</td>
+              <td width="77"># Of Loans</td>
+            </tr>
+            <tr>
+              <td width="240"># of Borrowers</td>
+              <td width="142">0</td>
+              <td width="137">1</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240"># of Units</td>
+              <td width="142">0</td>
+              <td width="137">100</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Amortization Term</td>
+              <td width="142">4</td>
+              <td width="137">118</td>
+              <td width="73">3.39%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Amortization Type</td>
+              <td width="142">0</td>
+              <td width="137">128</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Appraised Value</td>
+              <td width="142">4</td>
+              <td width="137">69</td>
+              <td width="73">5.80%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Balloon Flag</td>
+              <td width="142">0</td>
+              <td width="137">24</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Borrower First Name</td>
+              <td width="142">0</td>
+              <td width="137">178</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Borrower FTHB</td>
+              <td width="142">1</td>
+              <td width="137">46</td>
+              <td width="73">2.17%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Borrower Full Name</td>
+              <td width="142">0</td>
+              <td width="137">1</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Borrower Last Name</td>
+              <td width="142">1</td>
+              <td width="137">290</td>
+              <td width="73">0.34%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Borrower Qualifying FICO</td>
+              <td width="142">1</td>
+              <td width="137">12</td>
+              <td width="73">8.33%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Borrower Self-Employed?</td>
+              <td width="142">0</td>
+              <td width="137">1</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Borrower SSN</td>
+              <td width="142">0</td>
+              <td width="137">67</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Cash From Borrower</td>
+              <td width="142">0</td>
+              <td width="137">1</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Cash To Borrower</td>
+              <td width="142">1</td>
+              <td width="137">21</td>
+              <td width="73">4.76%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">City</td>
+              <td width="142">1</td>
+              <td width="137">252</td>
+              <td width="73">0.40%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Coborrower First Name</td>
+              <td width="142">0</td>
+              <td width="137">10</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Coborrower FTHB</td>
+              <td width="142">0</td>
+              <td width="137">5</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Coborrower Last Name</td>
+              <td width="142">0</td>
+              <td width="137">17</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Coborrower Qualifying FICO</td>
+              <td width="142">0</td>
+              <td width="137">2</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Contract Sales Price</td>
+              <td width="142">1</td>
+              <td width="137">81</td>
+              <td width="73">1.23%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Creditor Application Date</td>
+              <td width="142">0</td>
+              <td width="137">1</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Debt Service Coverage Ratio</td>
+              <td width="142">2</td>
+              <td width="137">7</td>
+              <td width="73">28.57%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Doc Type</td>
+              <td width="142">8</td>
+              <td width="137">58</td>
+              <td width="73">13.79%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Escrow Account</td>
+              <td width="142">0</td>
+              <td width="137">56</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">First Interest Rate Change Date</td>
+              <td width="142">0</td>
+              <td width="137">24</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">First Payment Change Date</td>
+              <td width="142">0</td>
+              <td width="137">5</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">First Payment Date</td>
+              <td width="142">4</td>
+              <td width="137">127</td>
+              <td width="73">3.15%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Has Modification?</td>
+              <td width="142">0</td>
+              <td width="137">2</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Index Type</td>
+              <td width="142">0</td>
+              <td width="137">60</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Initial Rate Lock Date</td>
+              <td width="142">0</td>
+              <td width="137">1</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Only</td>
+              <td width="142">0</td>
+              <td width="137">58</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Only Period</td>
+              <td width="142">0</td>
+              <td width="137">4</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Change Frequency</td>
+              <td width="142">0</td>
+              <td width="137">20</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Initial Cap</td>
+              <td width="142">15</td>
+              <td width="137">57</td>
+              <td width="73">26.32%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Initial Floor</td>
+              <td width="142">12</td>
+              <td width="137">13</td>
+              <td width="73">92.31%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Initial Maximum</td>
+              <td width="142">0</td>
+              <td width="137">21</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Life Cap</td>
+              <td width="142">41</td>
+              <td width="137">80</td>
+              <td width="73">51.25%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Life Floor</td>
+              <td width="142">26</td>
+              <td width="137">30</td>
+              <td width="73">86.67%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Life Max</td>
+              <td width="142">11</td>
+              <td width="137">27</td>
+              <td width="73">40.74%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Life Min</td>
+              <td width="142">6</td>
+              <td width="137">21</td>
+              <td width="73">28.57%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Periodic Cap</td>
+              <td width="142">0</td>
+              <td width="137">57</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Interest Rate Periodic Floor</td>
+              <td width="142">2</td>
+              <td width="137">14</td>
+              <td width="73">14.29%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Investor: Qualifying Total Debt Ratio</td>
+              <td width="142">50</td>
+              <td width="137">181</td>
+              <td width="73">27.62%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Lender</td>
+              <td width="142">0</td>
+              <td width="137">4</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Lien Position</td>
+              <td width="142">0</td>
+              <td width="137">136</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Lookback Period</td>
+              <td width="142">1</td>
+              <td width="137">11</td>
+              <td width="73">9.09%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">LTV Valuation Value</td>
+              <td width="142">6</td>
+              <td width="137">185</td>
+              <td width="73">3.24%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Margin</td>
+              <td width="142">17</td>
+              <td width="137">121</td>
+              <td width="73">14.05%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Maturity Date</td>
+              <td width="142">1</td>
+              <td width="137">81</td>
+              <td width="73">1.23%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">MERS Min Number</td>
+              <td width="142">0</td>
+              <td width="137">2</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Note Date</td>
+              <td width="142">2</td>
+              <td width="137">84</td>
+              <td width="73">2.38%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Occupancy</td>
+              <td width="142">1</td>
+              <td width="137">265</td>
+              <td width="73">0.38%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Original CLTV</td>
+              <td width="142">3</td>
+              <td width="137">214</td>
+              <td width="73">1.40%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Original Interest Rate</td>
+              <td width="142">2</td>
+              <td width="137">233</td>
+              <td width="73">0.86%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Original Interest Rate Period</td>
+              <td width="142">0</td>
+              <td width="137">12</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Original Loan Amount</td>
+              <td width="142">1</td>
+              <td width="137">300</td>
+              <td width="73">0.33%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Original LTV</td>
+              <td width="142">4</td>
+              <td width="137">242</td>
+              <td width="73">1.65%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Original P&amp;I</td>
+              <td width="142">8</td>
+              <td width="137">86</td>
+              <td width="73">9.30%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Original Term</td>
+              <td width="142">0</td>
+              <td width="137">218</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Originator Loan Designation</td>
+              <td width="142">0</td>
+              <td width="137">16</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Payment Change Frequency</td>
+              <td width="142">0</td>
+              <td width="137">1</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">PITIA Reserves Months</td>
+              <td width="142">0</td>
+              <td width="137">24</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Prepayment Penalty Period (months)</td>
+              <td width="142">0</td>
+              <td width="137">8</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Product Description</td>
+              <td width="142">0</td>
+              <td width="137">23</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Property Type</td>
+              <td width="142">17</td>
+              <td width="137">204</td>
+              <td width="73">8.33%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Purpose</td>
+              <td width="142">2</td>
+              <td width="137">271</td>
+              <td width="73">0.74%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Qualifying Interest Rate</td>
+              <td width="142">0</td>
+              <td width="137">1</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Refi Purpose</td>
+              <td width="142">4</td>
+              <td width="137">74</td>
+              <td width="73">5.41%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Representative FICO</td>
+              <td width="142">15</td>
+              <td width="137">206</td>
+              <td width="73">7.28%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">State</td>
+              <td width="142">1</td>
+              <td width="137">270</td>
+              <td width="73">0.37%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Street</td>
+              <td width="142">0</td>
+              <td width="137">232</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Total Debt Ratio</td>
+              <td width="142">14</td>
+              <td width="137">42</td>
+              <td width="73">33.33%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Total Income</td>
+              <td width="142">0</td>
+              <td width="137">3</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Zip</td>
+              <td width="142">0</td>
+              <td width="137">245</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+              <td width="240">Total</td>
+              <td width="142">290</td>
+              <td width="137">6,162</td>
+              <td width="73">0.00%</td>
+              <td width="77">605</td>
+            </tr>
+            <tr>
+            </tr>
+
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
