@@ -1,0 +1,185 @@
+<DOCUMENT>
+<TYPE>EX-99.23
+<SEQUENCE>24
+<FILENAME>ex99-23.htm
+<DESCRIPTION>IB DATA COMPARISON
+<TEXT>
+<html>
+<head>
+     <title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</div></div><!-- Field: /Rule-Page -->
+<P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: times new roman; font-size: 10pt"><a href="aomt-abs15g_082720.htm">Angel Oak Mortgage Trust 2020-6 ABS-15G</A></FONT></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 99.23</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>&nbsp;</B></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: #C9C9C9">
+    <TD STYLE="font-weight: bold; border: Black 0.5pt solid; text-align: center; width: 11%">Loan ID</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 17%">Data Field</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 13%">Tape Data</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 11%">IB Review Value</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 48%">Discrepancy Comments</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006016</TD>
+    <TD STYLE="text-align: center">Original Loan to Value</TD>
+    <TD STYLE="text-align: right">58.00</TD>
+    <TD STYLE="text-align: right">57.00</TD>
+    <TD STYLE="text-align: left">Appraised value of xxxxx supported by desk review.&nbsp;&nbsp;Loan amount of xxxxxk results in LTV of 56.75%.&nbsp;&nbsp;1008 and Approval Certificate match IB review values.&nbsp;&nbsp;Unable to determine the source of the Tape Value.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006016</TD>
+    <TD STYLE="text-align: center">Original Combined Loan to Value</TD>
+    <TD STYLE="text-align: right">58.00</TD>
+    <TD STYLE="text-align: right">57.00</TD>
+    <TD STYLE="text-align: left">Appraised value of xxxxx supported by desk review.&nbsp;&nbsp;Loan amount of xxxxxk results in LTV of 56.75%.&nbsp;&nbsp;1008 and Approval Certificate match IB review values.&nbsp;&nbsp;Unable to determine the source of the Tape Value.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006016</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">39.30</TD>
+    <TD STYLE="text-align: center">45.34</TD>
+    <TD STYLE="text-align: left">1008 and approval reflect a DTI of 45.974%.&nbsp;&nbsp;Unable to determine the source of the tape value.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006018</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">40.53</TD>
+    <TD STYLE="text-align: center">46.41</TD>
+    <TD STYLE="text-align: left">Lender provided updated income calculation documentation and 1008/1003, post-closing, reflecting DTI of 45.806%.&nbsp;&nbsp;Variance is due to a slight income calculation discrepancy.&nbsp;&nbsp;DTI variance is non-material.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006019</TD>
+    <TD STYLE="text-align: center">Property Type</TD>
+    <TD STYLE="text-align: center">Single Family - Detached</TD>
+    <TD STYLE="text-align: center">PUD - Attached</TD>
+    <TD STYLE="text-align: left">Per the appraisal xxxxx, the subject property is an attached PUD.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006020</TD>
+    <TD STYLE="text-align: center">QM/ATR Designation</TD>
+    <TD STYLE="text-align: center">Non-QM / Compliant</TD>
+    <TD STYLE="text-align: center">Not Covered / Exempt</TD>
+    <TD STYLE="text-align: left">QM/ATR Designation not applicable due to investor purchase.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006021</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">47.65</TD>
+    <TD STYLE="text-align: center">44.62</TD>
+    <TD STYLE="text-align: left">Variance of 3.03% due to difference in REO income calc. No exception cited. Program max 50%.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006021</TD>
+    <TD STYLE="text-align: center">QM/ATR Designation</TD>
+    <TD STYLE="text-align: center">Non-QM / Compliant</TD>
+    <TD STYLE="text-align: center">Not Covered / Exempt</TD>
+    <TD STYLE="text-align: left">Source of tape is unknown.&nbsp;</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006022</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">41.10</TD>
+    <TD STYLE="text-align: center">48.23</TD>
+    <TD STYLE="text-align: left">Variance is due to additional REO and income calculation discrepancies.&nbsp;&nbsp;Lender provided a post-closing approval reflecting a DTI of 48.023.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006022</TD>
+    <TD STYLE="text-align: center">QM/ATR Designation</TD>
+    <TD STYLE="text-align: center">Non-QM / Compliant</TD>
+    <TD STYLE="text-align: center">Not Covered / Exempt</TD>
+    <TD STYLE="text-align: left">NA due to business purpose</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006025</TD>
+    <TD STYLE="text-align: center">QM/ATR Designation</TD>
+    <TD STYLE="text-align: center">Non-QM / Compliant</TD>
+    <TD STYLE="text-align: center">Not Covered / Exempt</TD>
+    <TD STYLE="text-align: left">QM/ATR not applicable, business purpose loan.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006026</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">43.17</TD>
+    <TD STYLE="text-align: center">46.35</TD>
+    <TD STYLE="text-align: left">Approval 46.22%; Review 46.35%. No material variance.&nbsp;</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006026</TD>
+    <TD STYLE="text-align: center">QM/ATR Designation</TD>
+    <TD STYLE="text-align: center">Not Covered / Exempt</TD>
+    <TD STYLE="text-align: center">Non-QM / Compliant</TD>
+    <TD STYLE="text-align: left">Source of tape is unknown.&nbsp;</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006028</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">38.52</TD>
+    <TD STYLE="text-align: center">42.13</TD>
+    <TD STYLE="text-align: left">Variance is due to lender excluding child support. Review DTI does not require a material exception.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006028</TD>
+    <TD STYLE="text-align: center">QM/ATR Designation</TD>
+    <TD STYLE="text-align: center">Non-QM / Compliant</TD>
+    <TD STYLE="text-align: center">Not Covered / Exempt</TD>
+    <TD STYLE="text-align: left">Source of tape is unknown.&nbsp;</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006030</TD>
+    <TD STYLE="text-align: center">Representative Credit Score</TD>
+    <TD STYLE="text-align: center">635.0</TD>
+    <TD STYLE="text-align: center">654.0</TD>
+    <TD STYLE="text-align: left">Tape FICO 635 is mid score of B2.&nbsp;&nbsp;Review FICO of 654 is mid score of B1 and primary wage earner.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006031</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">24.02</TD>
+    <TD STYLE="text-align: center">42.38</TD>
+    <TD STYLE="text-align: left">Tape DTI 24.022%; Approval 42.379%; Review 42.379%.&nbsp;&nbsp;No variance.&nbsp;&nbsp;Unable to determine the source of the tape value.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006032</TD>
+    <TD STYLE="text-align: center">Total Debt To Income Ratio</TD>
+    <TD STYLE="text-align: center">32.32</TD>
+    <TD STYLE="text-align: center">38.00</TD>
+    <TD STYLE="text-align: left">Unable to determine the source of the tape value. 1008 reflects DTI 41.024%.&nbsp;&nbsp;Variance is due to PITIA calculation of primary residence, non-material.&nbsp;</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">202006032</TD>
+    <TD STYLE="text-align: center">QM/ATR Designation</TD>
+    <TD STYLE="text-align: center">Non-QM / Compliant</TD>
+    <TD STYLE="text-align: center">Not Covered / Exempt</TD>
+    <TD STYLE="text-align: left">QM/ATR not applicable, business purpose loan.</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></B></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B></b></p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"></p>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 1pt solid">&nbsp;</div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</p>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
