@@ -1,0 +1,98 @@
+<DOCUMENT>
+<TYPE>EX-99.10
+<SEQUENCE>11
+<FILENAME>ex99-10.htm
+<DESCRIPTION>INGLETBLAIR TAPE COMPARISON
+<TEXT>
+<html>
+<head>
+     <title></title>
+</head>
+<body style="font: 10pt Times New Roman, Times, Serif">
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0; margin-bottom: 0; width: 100%"><div style="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><a href="ctdl-abs15g_052020.htm">CTDL 2020-1 ABS-15G</A></FONT></p>
+
+<p style="margin: 0">&nbsp;</p>
+
+<p style="text-align: right; margin: 0"><B>Exhibit 99.10&nbsp;</B></p>
+
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</B></P>
+
+<P STYLE="margin: 0; text-align: left"><B></B></P>
+
+<!-- Field: Set; Name: Worksheet; Value: TapeDiscrepancy -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002454,0x000028A0,0x00002904,0x0000332C,0x0000A604 -->
+
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: #BFBFBF">
+    <TD STYLE="font-weight: bold; border: Black 0.5pt solid; text-align: center; width: 10%">Loan # (Selling Lender)</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 12%">Data Field</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 12%">Tape Data</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 15%">IB Review Value</TD>
+    <TD STYLE="font-weight: bold; border-top: Black 0.5pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 51%">Discrepancy Comments</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">89</TD>
+    <TD STYLE="text-align: center">Property Type</TD>
+    <TD STYLE="text-align: center">Mixed-Use</TD>
+    <TD STYLE="text-align: center">Commercial</TD>
+    <TD STYLE="text-align: left">Tape value Mixed-Use. Review value Commercial based on appraisal.&nbsp;&nbsp;Property consists of xxxxx.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">89</TD>
+    <TD STYLE="text-align: center">Citadel Credit Grade</TD>
+    <TD STYLE="text-align: center">ODF</TD>
+    <TD STYLE="text-align: center">ODF+</TD>
+    <TD STYLE="text-align: left">Approval ODF+. Tape value ODF appears to be in error.&nbsp;&nbsp;Meets ODF+ guidelines</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">88</TD>
+    <TD STYLE="text-align: center">Loan Purpose</TD>
+    <TD STYLE="text-align: center">Cash Out Refinance</TD>
+    <TD STYLE="text-align: center">Rate and Term Refinance</TD>
+    <TD STYLE="text-align: left">Approval CashOut/Other refinance.&nbsp;&nbsp;Final CD&nbsp;&nbsp;borrower brought funds to closing to pay-off current 1st mortgage/purchase.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">92</TD>
+    <TD STYLE="text-align: center">Loan Purpose</TD>
+    <TD STYLE="text-align: center">Cash Out Refinance</TD>
+    <TD STYLE="text-align: center">Rate and Term Refinance</TD>
+    <TD STYLE="text-align: left">Approval Rate/Term refinance. Tape shows Loan Purpose as Cash Out Refinance - unknown source.&nbsp;&nbsp;Review Rate and Term Refinance per CD&nbsp;&nbsp;cash back is less than 1% of loan amount.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">92</TD>
+    <TD STYLE="text-align: center">Appraised Value</TD>
+    <TD STYLE="text-align: center">xxxxx</TD>
+    <TD STYLE="text-align: center">xxxxx</TD>
+    <TD STYLE="text-align: left">Tape shows Appraised Value of $xxxxx which is the initial appraised value prior to revisions. Appraisal pxxx $xxxxx which matches approval.</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="text-align: center">105</TD>
+    <TD STYLE="text-align: center">Loan Type</TD>
+    <TD STYLE="text-align: center">Conventional</TD>
+    <TD STYLE="text-align: center">Alt-A</TD>
+    <TD STYLE="text-align: left">Tape reflects Conventional--Review considered Alt A, Non QM as Income&nbsp;&nbsp;type is ODF Foreign National Loan.</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt"></P>
+
+
+
+
+
+<P STYLE="margin: 0; text-align: left"><B>&nbsp;</b></p>
+
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></div>
+    <!-- Field: /Page -->
+
+<p style="margin: 0; text-align: right"><b>&nbsp;</b></p>
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
