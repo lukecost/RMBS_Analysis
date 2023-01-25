@@ -1,0 +1,596 @@
+<DOCUMENT>
+<TYPE>EX-99.10
+<SEQUENCE>11
+<FILENAME>tm2019193d1_ex99-10.htm
+<DESCRIPTION>CLAYTON LOAN LEVEL TAPE COMPARE UPLOAD
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.10 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Clayton
+Loan Level Tape Compare Upload</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 0; white-space: nowrap; width: 30%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Client Name:</B></FONT></TD>
+    <TD STYLE="padding: 0; white-space: nowrap; width: 70%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Verus </FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 0; white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Client Project Name:</B></FONT></TD>
+    <TD STYLE="padding: 0; white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Verus 2020-2</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 0; white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Start - End Dates:</B></FONT></TD>
+    <TD STYLE="padding: 0; white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">10/2019 - 3/2020</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 0; white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Deal Loan Count:</B></FONT></TD>
+    <TD STYLE="padding: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">115 </FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"><B>Loan Level Tape Compare Upload&#9;</B>&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: middle; background-color: blue">
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 21%"><FONT STYLE="font-size: 8pt">Loan
+    Number</FONT></TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 33%"><FONT STYLE="font-size: 8pt">Field
+    Name</FONT></TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 23%"><FONT STYLE="font-size: 8pt">Tape
+    Data</FONT></TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 23%"><FONT STYLE="font-size: 8pt">Reviewer
+    Data</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">735946</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">48.7140</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">42.0538</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">735946</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Loan
+    Purpose</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Cashout
+    Refi</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Rate
+    and Term Refi</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">737971</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">45.1560</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; border-top-color: silver; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">41.4649</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">737971</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">45.1560</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">41.4649</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736680</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">48</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">50</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736680</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">48</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">50</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">737973</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">50.1750</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">46.8657</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">737975</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">49.9930</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">52.9748</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">737975</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">44.2180</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">46.8555</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">735960</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">44.2290</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">40.0363</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">735960</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">36.5930</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">32.4001</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736676</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">68</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">70</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736676</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">19.2530</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">17.1316</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736676</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">68</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">70</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739040</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">20.2600</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">37.2058</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739040</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">13.3260</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">24.4742</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">735963</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">72</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">77</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">735963</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">72</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">77</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739041</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">23.7750</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">20.6785</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739041</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">23.3380</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">20.2981</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736677</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">12.2880</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">14.5773</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739045</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">45.6260</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">47.9052</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739045</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">35.5960</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">33.0308</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">737980</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">22.4320</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">34.9999</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">737980</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">3.1060</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">31.7539</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736675</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">47.8740</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">44.5848</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736675</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">46.2060</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">44.1503</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">737987</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">49.7650</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">42.6881</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736672</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">34.0670</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">24.1690</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736672</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">29.1510</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">20.7207</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739787</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Borrower
+    1 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739791</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738006</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">50.9940</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">46.0853</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739794</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">37.4600</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">34.1550</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739794</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">31.3290</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">27.8021</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738010</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">67</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">66</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738010</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">5.5700</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">39.2730</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738010</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">67</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">66</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738011</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">18.4240</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">21.1509</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739798</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">41.1540</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">35.9818</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739798</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">35.1110</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">29.9392</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741613</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Documentation
+    Type</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No
+    Ratio</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Full
+    Doc</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">742522</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">44.3180</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">40.2315</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">742522</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">39.7300</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">35.6435</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739803</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Borrower
+    1 First Time Home Buyer</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">740959</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">38.0020</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">35.6711</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739826</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">43.7070</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">36.3049</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">739826</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">42.0390</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">34.6362</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">740964</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">28.5610</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">30.9074</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">742529</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">37.9340</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">40.9953</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741624</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Borrower
+    1 First Time Home Buyer</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741624</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">41.8280</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">39.0121</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741627</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">54.7700</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">48.7000</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741627</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">40.4580</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">35.3481</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741628</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Borrower
+    1 First Time Home Buyer</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741628</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741629</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">36.8250</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">30.2195</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736971</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Borrower
+    1 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736971</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">6.9170</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">11.5100</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736971</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Front)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">2.8190</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">5.3902</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738474</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">38.3750</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">22.2189</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738474</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Property
+    City</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738474</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Property
+    Street Address</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738475</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Property
+    Type</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Detached
+    PUD</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">SFR</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738475</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Representative
+    Credit Score for Grading</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">686</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">688</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738484</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Combined
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">75</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">77</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738484</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Debt
+    to Income Ratio (Back)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">37.9890</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">34.8610</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738484</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Margin
+    (ARM Loan)</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">5.000</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">3.500</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738484</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Original
+    Appraised Value</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738484</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Original
+    LTV</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">75</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">77</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738504</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Occupancy
+    Type</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Primary</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Second
+    Home</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738504</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Property
+    City</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738504</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Property
+    Type</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Detached
+    PUD</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">SFR</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738507</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Representative
+    Credit Score for Grading</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">764</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">767</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">738509</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Original
+    Appraised Value</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736125</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Borrower
+    2 Self Employed Flag</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736125</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Documentation
+    Type</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Full
+    Doc</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Alt
+    Doc/Bank Statements</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">736125</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Origination
+    Date</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">741880</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Documentation
+    Type</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Full
+    Doc</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Alt
+    Doc/Bank Statements</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">734049</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Documentation
+    Type</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Alt
+    Doc/Bank Statements</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Full
+    Doc</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">734919</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Documentation
+    Type</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Alt
+    Doc/Bank Statements</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Full
+    Doc</FONT></TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">734919</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Original
+    Term</FONT></TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">60</FONT></TD>
+    <TD STYLE="color: #25396E; border-right: #BFBFBF 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">360</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
