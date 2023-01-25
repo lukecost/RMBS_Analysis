@@ -1,0 +1,144 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>9
+<FILENAME>e6037ex99-2sch2.htm
+<DESCRIPTION>LOAN LEVEL TAPE COMPARE REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Loan Level Tape Compare Upload -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002C88,0x00002710,0x00002710,0x00002710,0x00002710 -->
+
+<P STYLE="margin: 0; font: bold 9pt Arial, Helvetica, Sans-Serif; text-align: right">Exhibit 99.2 - Schedule 2</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 50%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Name:</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Project Name:</TD>
+    <TD STYLE="text-align: left">HOF 2019-2</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Start - End Dates:</TD>
+    <TD STYLE="text-align: left">7/25/2016 - 4/10/2019</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Deal Loan Count:</TD>
+    <TD STYLE="text-align: left">14</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-style: italic; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-style: italic; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="font-size: 10pt; width: 25%">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; width: 25%; text-align: left">&nbsp;</TD>
+    </TR>
+<TR STYLE="background-color: white">
+    <TD COLSPAN="2" STYLE="font-weight: bold; vertical-align: top; text-align: left">Loan Level Tape Compare Upload</TD>
+    </TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-style: italic; text-align: left">Loans in Report</TD>
+    <TD STYLE="font-style: italic; text-align: left">14</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="1" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: blue">
+    <TD STYLE="color: white; font-weight: bold; text-align: left; width: 24%">Loan Number</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; width: 19%">Borrower Last Name</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; width: 19%">Field</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; width: 19%">Tape Data</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; width: 19%">Reviewer Data</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">3113002068</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; text-align: left">Alt Doc/Bank Statements</TD>
+    <TD STYLE="color: #25396E; text-align: left">Full Doc</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">3114003010</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Borrower 1 First Time Home Buyer</TD>
+    <TD STYLE="color: #25396E; text-align: left">N</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4108002787</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; text-align: left">Rowhouse</TD>
+    <TD STYLE="color: #25396E; text-align: left">Low Rise Condo (1-4)</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4461205512</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Original LTV</TD>
+    <TD STYLE="color: #25396E; text-align: left">53.333</TD>
+    <TD STYLE="color: #25396E; text-align: left">54.7945</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4461205512</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; text-align: left">Low Rise Condo (1-4)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Detached PUD</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4461206288</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM Status</TD>
+    <TD STYLE="color: #25396E; text-align: left">QM: Safe Harbor</TD>
+    <TD STYLE="color: #25396E; text-align: left">Non-QM: Lender documented all ATR UW factors</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4461206288</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Borrower 1 First Time Home Buyer</TD>
+    <TD STYLE="color: #25396E; text-align: left">N</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4461206734</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM Status</TD>
+    <TD STYLE="color: #25396E; text-align: left">QM: Safe Harbor</TD>
+    <TD STYLE="color: #25396E; text-align: left">Non-QM: Lender documented all ATR UW factors</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4461206734</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; text-align: left">Full Doc</TD>
+    <TD STYLE="color: #25396E; text-align: left">Alt Doc</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4461207369</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM Status</TD>
+    <TD STYLE="color: #25396E; text-align: left">QM: Safe Harbor</TD>
+    <TD STYLE="color: #25396E; text-align: left">Non-QM: Lender documented all ATR UW factors</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">4461207369</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; text-align: left">SFR</TD>
+    <TD STYLE="color: #25396E; text-align: left">Detached PUD</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6100197959</TD>
+    <TD STYLE="color: #25396E; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; text-align: left">Borrower 1 Self Employed Flag</TD>
+    <TD STYLE="color: #25396E; text-align: left">N</TD>
+    <TD STYLE="color: #25396E; text-align: left">Yes</TD></TR>
+</TABLE>
+
+
+
+<P STYLE="text-align: center; font: 7pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 7pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">&copy;2019 Clayton Services LLC. All rights reserved. Ownership and use of this report is governed by the legal agreement between Clayton and the party for which it was prepared. Any use not expressly authorized by such agreement, including reliance on this report by anyone other than such party, is prohibited.&nbsp;</P>
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt"><P STYLE="margin: 0pt; border-bottom: Black 4px solid">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
