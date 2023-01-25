@@ -1,0 +1,726 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>35
+<FILENAME>efc20-658_ex994s6.htm
+<DESCRIPTION>SCHEDULE 6 - VALUATION REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00007.jpg">
+    <div>
+      <div style="line-height: 11.4pt; color: #262626; font-weight: bold;">Valuation Report</div>
+      <div style="line-height: 11.4pt; color: #262626; font-weight: bold;">Report Run Date - 8/11/2020</div>
+      <div style="line-height: 11.4pt; color: #262626; font-weight: bold;"><br>
+        <table cellspacing="0" cellpadding="1" border="1" align="left" id="z37a93f80bf89419cb1422b1979f506c1">
+
+            <tr>
+              <td width="365" align="center" colspan="4">LOAN INFORMATION</td>
+              <td width="462" align="center" colspan="6">ORIGINATION VALUES</td>
+              <td width="322" align="center" colspan="4">AVM VALUES</td>
+              <td width="382" align="center" colspan="5">BPO REVIEW VALUES</td>
+              <td width="350" align="center" colspan="5">DESK REVIEW VALUES</td>
+              <td width="320" align="center" colspan="5">FIELD REVIEW VALUES</td>
+              <td width="402" align="center" colspan="5">PROPERTY INFORMATION</td>
+            </tr>
+            <tr>
+              <td width="80" align="center">Loan Number</td>
+              <td width="83" align="center">DD Loan Number</td>
+              <td width="100" align="center">Note Date</td>
+              <td width="100" align="center">Original Loan Amount</td>
+              <td width="80" align="center">Sale Price</td>
+              <td width="80" align="center">Appraised Value</td>
+              <td width="80" align="center">Appraisal Date</td>
+              <td width="80" align="center">Second Appraisal Value</td>
+              <td width="80" align="center">Second Appraisal Type</td>
+              <td width="60" align="center">Appraisal Date</td>
+              <td width="80" align="center">Value</td>
+              <td width="80" align="center">Variance Amount</td>
+              <td width="80" align="center">Variance (%)</td>
+              <td width="80" align="center">Appraisal Date</td>
+              <td width="80" align="center">Value</td>
+              <td width="80" align="center">Variance Amount</td>
+              <td width="80" align="center">Variance (%)</td>
+              <td width="60" align="center">Company</td>
+              <td width="80" align="center">Appraisal Date</td>
+              <td width="69" align="center">Value</td>
+              <td width="60" align="center">Variance Amount</td>
+              <td width="80" align="center">Variance (%)</td>
+              <td width="80" align="center">Company</td>
+              <td width="60" align="center">Appraisal Date</td>
+              <td width="75" align="center">Value</td>
+              <td width="60" align="center">Variance Amount</td>
+              <td width="60" align="center">Variance (%)</td>
+              <td width="66" align="center">Company</td>
+              <td width="60" align="center">Appraisal Date</td>
+              <td width="80" align="center">Subject Property City</td>
+              <td width="80" align="center">Subject Property State</td>
+              <td width="80" align="center">Subject Property Zip</td>
+              <td width="80" align="center">Initial Property Grade</td>
+              <td width="80" align="center">Final Property Grade</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313274</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">12/21/2015</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-6,000</td>
+              <td width="80" align="right">-5.88</td>
+              <td width="80" align="right">3/17/16</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Proteck</td>
+              <td width="60" align="right">10/19/16</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">PA</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313803</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">03/09/2016</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-6,000</td>
+              <td width="80" align="right">-1.96</td>
+              <td width="80" align="right">4/8/16</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Proteck</td>
+              <td width="60" align="right">10/13/16</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">FL</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313444</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">03/18/2016</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-10,000</td>
+              <td width="80" align="right">-2.9</td>
+              <td width="80" align="right">4/11/16</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Proteck</td>
+              <td width="60" align="right">10/13/16</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">TN</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313327</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">3,000</td>
+              <td width="80" align="right">0.97</td>
+              <td width="80" align="right">XX/XX/XX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Proteck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313491</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-5,000</td>
+              <td width="80" align="right">-1.98</td>
+              <td width="80" align="right">XX/XX/XX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Proteck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313572</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">139,000</td>
+              <td width="80" align="right">16.16</td>
+              <td width="80" align="right">XX/XX/XX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">ProTeck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313612</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-47,000</td>
+              <td width="80" align="right">-3.76</td>
+              <td width="80" align="right">XX/XX/XX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">ProTeck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313726</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-34,000</td>
+              <td width="80" align="right">-6.94</td>
+              <td width="80" align="right">XX/XX/XX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">ProTeck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313262</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-16,000</td>
+              <td width="80" align="right">-5.33</td>
+              <td width="80" align="right">XX/XX/XX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">ProTeck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313170</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-3,000</td>
+              <td width="80" align="right">-2.07</td>
+              <td width="80" align="right">XX/XX/XX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">5,000</td>
+              <td width="80" align="right">3.45</td>
+              <td width="80" align="right">Proteck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313383</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">-404,000</td>
+              <td width="80" align="right">-30.15</td>
+              <td width="80" align="right">XX/XX/XX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Clear Capital</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">C</td>
+              <td width="80" align="left">B</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313397</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Clear Capital</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313503</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Clear Capital</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313347</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">Clear Capital</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313715</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">-15,000</td>
+              <td width="80" align="right">-2.26</td>
+              <td width="80" align="right">Clear Capital</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313333</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">ProTeck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313447</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">ProTeck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+              <td width="80" align="right">34313305</td>
+              <td width="83" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="100" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="right">XX/XX/XXXX</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="60" align="right">&#160;</td>
+              <td width="80" align="right">&#160;</td>
+              <td width="69" align="right">XXXXXX</td>
+              <td width="60" align="right">0</td>
+              <td width="80" align="right">0</td>
+              <td width="80" align="right">ProTeck</td>
+              <td width="60" align="right">XX/XX/XX</td>
+              <td width="75" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="66" align="left">&#160;</td>
+              <td width="60" align="left">&#160;</td>
+              <td width="80" align="right">XXXXXX</td>
+              <td width="80" align="left">XX</td>
+              <td width="80" align="left">XXXXXX</td>
+              <td width="80" align="left">A</td>
+              <td width="80" align="left">A</td>
+            </tr>
+            <tr>
+            </tr>
+
+        </table>
+        <br>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
