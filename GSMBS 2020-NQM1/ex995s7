@@ -1,0 +1,667 @@
+<DOCUMENT>
+<TYPE>EX-99.5
+<SEQUENCE>43
+<FILENAME>efc20-658_ex995s7.htm
+<DESCRIPTION>SCHEDULE 7 - EXPANDED NON-QM ASF
+<TEXT>
+<html>
+<head>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head><body>
+<table border="1" align="left" cellpadding="1" cellspacing="0">
+<tr>
+<td width="100" align="center">Originator</td>
+<td width="100" align="center">Loan Number</td>
+<td width="100" align="center">Amortization Type</td>
+<td width="100" align="center">Lien Position</td>
+<td width="100" align="center">Loan Purpose</td>
+<td width="100" align="center">Cash Out Amount</td>
+<td width="100" align="center">Total Origination and Discount Points (in dollars)</td>
+<td width="100" align="center">Covered/High Cost Loan Indicator</td>
+<td width="100" align="center">Relocation Loan Indicator</td>
+<td width="100" align="center">Broker Indicator</td>
+<td width="100" align="center">Channel</td>
+<td width="100" align="center">Escrow Indicator</td>
+<td width="100" align="center">Senior Loan Amount(s)</td>
+<td width="100" align="center">Junior Mortgage Balance</td>
+<td width="100" align="center">Origination Date</td>
+<td width="100" align="center">Original Loan Amount</td>
+<td width="100" align="center">Original Interest Rate</td>
+<td width="100" align="center">Original Amortization Term</td>
+<td width="100" align="center">Original Term to Maturity</td>
+<td width="100" align="center">First Payment Date of Loan</td>
+<td width="100" align="center">Interest Type Indicator</td>
+<td width="100" align="center">Buy Down Period</td>
+<td width="100" align="center">HELOC Draw Period</td>
+<td width="100" align="center">Index Type</td>
+<td width="100" align="center">ARM Look-back Days</td>
+<td width="100" align="center">Gross Margin</td>
+<td width="100" align="center">ARM Round Flag</td>
+<td width="100" align="center">ARM Round Factor</td>
+<td width="100" align="center">Initial Fixed Rate Period</td>
+<td width="100" align="center">Initial Interest Rate Cap (Change Up)</td>
+<td width="100" align="center">Initial Interest Rate Cap (Change Down)</td>
+<td width="100" align="center">Subsequent Interest Rate Reset Period</td>
+<td width="100" align="center">Subsequent Interest Rate
+(Change Down)</td>
+<td width="100" align="center">Subsequent Interest Rate Cap (Change Up)</td>
+<td width="100" align="center">Lifetime Maximum Rate (Ceiling)</td>
+<td width="100" align="center">Lifetime Minimum Rate (Floor)</td>
+<td width="100" align="center">Number of Mortgaged Properties</td>
+<td width="100" align="center">Total Number of Borrowers</td>
+<td width="100" align="center">Self employment Flag</td>
+<td width="100" align="center">Current 'Other ' Monthly Payment</td>
+<td width="100" align="center">Primary Borrower Length of Employment</td>
+<td width="100" align="center">Co-Borrower Length of Employment</td>
+<td width="100" align="center">Years in Home</td>
+<td width="100" align="center">FICO Model Used</td>
+<td width="100" align="center">Most Recent FICO Date</td>
+<td width="100" align="center">Primary Wage Earner Original FICO: Equifax</td>
+<td width="100" align="center">Primary Wage Earner Original FICO: Experian</td>
+<td width="100" align="center">Primary Wage Earner Original: FICO Trans Union</td>
+<td width="100" align="center">Co-Borrower Original FICO: Equifax</td>
+<td width="100" align="center">Co-Borrower Original FICO: Experian</td>
+<td width="100" align="center">Co-Borrower Original FICO: TransUnion</td>
+<td width="100" align="center">Credit Report: Longest Trade Line</td>
+<td width="100" align="center">Credit Report: Maximum Trade Line</td>
+<td width="100" align="center">Credit Number of Trade Lines</td>
+<td width="100" align="center">Credit Line Usage Ratio</td>
+<td width="100" align="center">Primary Borrower Wage Income</td>
+<td width="100" align="center">Co-Borrower Wage Income</td>
+<td width="100" align="center">Primary Borrower Other Income</td>
+<td width="100" align="center">Co-Borrower Other Income</td>
+<td width="100" align="center">All Borrower Wage Income</td>
+<td width="100" align="center">All Borrower Total Income</td>
+<td width="100" align="center">4506-T Indicator</td>
+<td width="100" align="center">Primary Borrower Income Verification Level</td>
+<td width="100" align="center">Co-Borrower Income Verification</td>
+<td width="100" align="center">Primary Borrower Employment Verification</td>
+<td width="100" align="center">Co-Borrower Employment Verification</td>
+<td width="100" align="center">Primary Borrower Asset Verification</td>
+<td width="100" align="center">Co-Borrower Asset Verification</td>
+<td width="100" align="center">Liquid / Cash Reserves</td>
+<td width="100" align="center">Monthly Debt All Borrowers</td>
+<td width="100" align="center">Originator DTI</td>
+<td width="100" align="center">Fully Indexed Rate</td>
+<td width="100" align="center">Qualification Method</td>
+<td width="100" align="center">Percentage of Down Payment from Borrower Own Funds</td>
+<td width="100" align="center">City</td>
+<td width="100" align="center">State</td>
+<td width="100" align="center">Postal Code</td>
+<td width="100" align="center">Property Type</td>
+<td width="100" align="center">Occupancy</td>
+<td width="100" align="center">Sales Price</td>
+<td width="100" align="center">Original Appraised Property Value</td>
+<td width="100" align="center">Original Property Valuation Type</td>
+<td width="100" align="center">Original Property Valuation Date</td>
+<td width="100" align="center">Original Automated Valuation Model (AVM) Model Name</td>
+<td width="100" align="center">Original AVM Confidence Score</td>
+<td width="100" align="center">Most Recent Property Value</td>
+<td width="100" align="center">Most Recent Property Valuation Type</td>
+<td width="100" align="center">Most Recent Property Valuation Date</td>
+<td width="100" align="center">Most Recent AVM Model Name</td>
+<td width="100" align="center">Most Recent AVM Confidence Score</td>
+<td width="100" align="center">Original CLTV</td>
+<td width="100" align="center">Original LTV</td>
+<td width="100" align="center">Original Pledged Assets</td>
+<td width="100" align="center">AHMC Guideline Used by TPR For Review</td>
+<td width="100" align="center">Cash To/From Borrower at Closing</td>
+<td width="100" align="center">Primary Borrower Years in Industry</td>
+<td width="100" align="center">Co-Borrower Years in Industry</td>
+<td width="100" align="center">Borrower 3 Years in Industry</td>
+<td width="100" align="center">Borrower 4 Years in Industry</td>
+<td width="100" align="center">Junior Mortgage Drawn Amount</td>
+<td width="100" align="center">Maturity Date</td>
+<td width="100" align="center">Primary Borrower First Name</td>
+<td width="100" align="center">Primary Borrower Last Name</td>
+<td width="100" align="center">Primary Borrower Wage Income (Salary)</td>
+<td width="100" align="center">Primary Borrower Wage Income (Bonus)</td>
+<td width="100" align="center">Primary Borrower Wage Income (Commission)</td>
+<td width="100" align="center">Co-Borrower Wage Income (Salary)</td>
+<td width="100" align="center">Co-Borrower Wage Income (Bonus)</td>
+<td width="100" align="center">Co-Borrower Wage Income (Commission)</td>
+<td width="100" align="center">Borrower 3 Wage Income (Bonus)</td>
+<td width="100" align="center">Borrower 4 Wage Income (Bonus)</td>
+<td width="100" align="center">Borrower 3 Wage Income (Commission)</td>
+<td width="100" align="center">Borrower 4 Wage Income (Commission)</td>
+<td width="100" align="center">Borrower 3 Wage Income (Salary)</td>
+<td width="100" align="center">Borrower 4 Wage Income (Salary)</td>
+<td width="100" align="center">Borrower 3 Asset Verification</td>
+<td width="100" align="center">Borrower 4 Asset Verification</td>
+<td width="100" align="center">Borrower 3 Employment Verification</td>
+<td width="100" align="center">Borrower 4 Employment Verification</td>
+<td width="100" align="center">Borrower 3 Income Verification</td>
+<td width="100" align="center">Borrower 4 Income Verification</td>
+<td width="100" align="center">Property Address:
+Street</td>
+<td width="100" align="center">Application Date</td>
+<td width="100" align="center">HOA Flag</td>
+<td width="100" align="center">HOA Monthly Premium Amount</td>
+<td width="100" align="center">Most Recent Bankruptcy Type</td>
+<td width="100" align="center">Most Recent Bankruptcy Filing Date</td>
+<td width="100" align="center">Most Recent Bankruptcy Discharge Date</td>
+<td width="100" align="center">Most Recent Deed in Lieu Date</td>
+<td width="100" align="center">Most Recent Short Sale Date</td>
+<td width="100" align="center">Most Recent Foreclosure Date</td>
+<td width="100" align="center">Primary Borrower Total Income</td>
+<td width="100" align="center">Co-Borrower Total Income</td>
+<td width="100" align="center">Borrower 3 Total Income</td>
+<td width="100" align="center">Borrower 4 Total Income</td>
+<td width="100" align="center">Leasehold</td>
+<td width="100" align="center">Primary Borrower Social Security Number</td>
+<td width="100" align="center">Co-Borrower Social Security Number</td>
+<td width="100" align="center">Borrower 3 Social Security Number</td>
+<td width="100" align="center">Borrower 4 Social Security Number</td>
+<td width="100" align="center">Primary Borrower Residency Status</td>
+<td width="100" align="center">Co-Borrower Residency Status</td>
+<td width="100" align="center">Borrower 3 Residency Status</td>
+<td width="100" align="center">Borrower 4 Residency Status</td>
+<td width="100" align="center">Flood Zone Designation</td>
+<td width="100" align="center">Non Occupant Co-Borrower Flag</td>
+<td width="100" align="center">Borrower 3 Original FICO: Equifax</td>
+<td width="100" align="center">Borrower 3 Original FICO: Experian</td>
+<td width="100" align="center">Borrower 3 Original FICO: TransUnion</td>
+<td width="100" align="center">Borrower 4 Original FICO: Equifax</td>
+<td width="100" align="center">Borrower 4 Original FICO: Experian</td>
+<td width="100" align="center">Borrower 4 Original FICO: TransUnion</td>
+<td width="100" align="center">Borrower 3 Length of Employment</td>
+<td width="100" align="center">Borrower 4 Length of Employment</td>
+<td width="100" align="center">Borrower 3 Wage Income</td>
+<td width="100" align="center">Borrower 4 Wage Income</td>
+<td width="100" align="center">Borrower 3 Other Income</td>
+<td width="100" align="center">Borrower 4 Other Income</td>
+<td width="100" align="center">Original Borrower Qualification FICO</td>
+<td width="100" align="center">Second Lien Heloc Line Amount</td>
+<td width="100" align="center">HPML Flag</td>
+<td width="100" align="center">Asset Depletion Underwriting Flag</td>
+<td width="100" align="center">Audit DTI</td>
+<td width="100" align="center">Months Short Sale</td>
+<td width="100" align="center">Months Deed in Lieu</td>
+<td width="100" align="center">Front End DTI</td>
+<td width="100" align="center">Date of Most Recent Credit Event</td>
+<td width="100" align="center">Loan Program</td>
+<td width="100" align="center">TRID Flag</td>
+<td width="100" align="center">ATR Loan Type</td>
+<td width="100" align="center">Bank Statement Flag</td>
+<td width="100" align="center">Business/Personal Bank Statement</td>
+<td width="100" align="center">Foreign National Flag</td>
+<td width="100" align="center">UW Exception</td>
+<td width="100" align="center">Bank Statement Months</td>
+<td width="100" align="center">Qualifying Rate</td>
+<td width="100" align="center">Title Vesting Type</td>
+<td width="100" align="center">QM Agency UW Test</td>
+<td width="100" align="center">Non-QM DocType Flag</td>
+<td width="100" align="center">Non-QM DTI Flag</td>
+<td width="100" align="center">Non-QM Points and Fees Flag</td>
+<td width="100" align="center">Non-QM Appendix Q Flag</td>
+<td width="100" align="center">Non-QM IO Flag</td>
+<td width="100" align="center">Non-QM Investment Property Exemption Flag</td>
+<td width="100" align="center">Non-QM Business Purpose / Foreign National</td>
+<td width="100" align="center">Non-QM Loan Term Exceeds 30 yrs</td>
+<td width="100" align="center">Primary Borrower Retired Flag</td>
+<td width="100" align="center">Co-Borrower Retired Flag</td>
+<td width="100" align="center">Income Verification</td>
+<td width="100" align="center">State of Formation</td>
+<td width="100" align="center">Length of Self-Employment</td>
+<td width="100" align="center">Qualifying Rent</td>
+<td width="100" align="center">Business Expense-to-Income Ratio</td>
+<td width="100" align="center">Source of Business Expense-to-Income Ratio</td>
+<td width="100" align="center">Third Party Preparer</td>
+<td width="100" align="center">Current Milestone (pre-fund only)</td>
+<td width="100" align="center">Debt Service Coverage Ratio (DSCR)</td>
+<td width="100" align="center">IO Flag</td>
+<td width="100" align="center">Months Reserves</td>
+<td width="100" align="center">Product Type</td>
+<td width="100" align="center">Compensating Factors</td>
+<td width="100" align="center">UW Exception Flag</td>
+<td width="100" align="center">Residual Income</td>
+<td width="100" align="center">Borr 1 - Income Qual Months Personal Bank Statements</td>
+<td width="100" align="center">Borr 1 - Income Qual Months Business Bank Statements</td>
+<td width="100" align="center">Borr 1 - Income Qual Years W2</td>
+<td width="100" align="center">Borr 1 - Income Qual Years Tax Returns</td>
+<td width="100" align="center">Borr 1 - Income Qual WVOE Months</td>
+<td width="100" align="center">Borr 1 - Income Qual PNL Letter</td>
+<td width="100" align="center">Borr 1 - Income Qual CPA Letter</td>
+<td width="100" align="center">Borr 1 - Income Qual Number Paystubs</td>
+<td width="100" align="center">Borr 2&#65533; - Income Qual Months Business Bank Statements</td>
+<td width="100" align="center">Borr 2&#65533; - Income Qual Months Business Bank Statements</td>
+<td width="100" align="center">Borr 2 - Income Qual Years W2</td>
+<td width="100" align="center">Borr 2 - Income Qual Years Tax Returns</td>
+<td width="100" align="center">Borr 2 - Income Qual WVOE Months</td>
+<td width="100" align="center">Borr 2 - Income Qual PNL Letter</td>
+<td width="100" align="center">Borr 2 - Income Qual CPA Letter</td>
+<td width="100" align="center">Borr 2 - Income Qual Number Paystubs</td>
+<td width="100" align="center">First Time Homebuyer Flag</td>
+<td width="100" align="center">Co-Borrower Last Name</td>
+<td width="100" align="center">Co-Borrower First Name</td>
+<td width="100" align="center">Originator Loan ID</td>
+<td width="497" align="center">Seller Name</td>
+<td width="243" align="center">Lender Name</td>
+<td width="243" align="center">Originator Name</td>
+<td width="100" align="center">Borrower Assets</td>
+<td width="100" align="center">Borrower Employer</td>
+<td width="100" align="center">Borrower Employment Description</td>
+<td width="100" align="center">Borrower FICO: Date Original</td>
+<td width="100" align="center">Co-Borrower Employer</td>
+<td width="100" align="center">Co-Borrower Employment Description</td>
+<td width="100" align="center">Co-Borrower FICO: Original</td>
+<td width="100" align="center">Co-Borrower FICO: Date Original</td>
+<td width="100" align="center">Combined Borrower Income Other</td>
+<td width="100" align="center">Mortgage Balloon Flag</td>
+<td width="100" align="center">Mortgage Broker Name</td>
+<td width="100" align="center">Mortgage Buy Down Description</td>
+<td width="100" align="center">Mortgage Cash Out Use</td>
+<td width="100" align="center">Mortgage Cash Out Texas</td>
+<td width="100" align="center">Mortgage Convertible Flag</td>
+<td width="100" align="center">Mortgage Negam Flag</td>
+<td width="100" align="center">Mortgage Original Appraisal Comments</td>
+<td width="100" align="center">Mortgage Original Appraisal Company</td>
+<td width="100" align="center">Mortgage Original Appraiser License Number</td>
+<td width="100" align="center">Mortgage Original Appraiser Name</td>
+<td width="100" align="center">Mortgage Original AVM Value</td>
+<td width="100" align="center">Mortgage Original Appraisal Comments - 2</td>
+<td width="100" align="center">Mortgage Original Appraisal Company - 2</td>
+<td width="100" align="center">Mortgage Original Appraised Property Value - 2</td>
+<td width="100" align="center">Mortgage Original Appraiser License Number - 2</td>
+<td width="100" align="center">Mortgage Original Appraiser Name - 2</td>
+<td width="100" align="center">Mortgage Original Appraisal Valuation Date - 2</td>
+<td width="100" align="center">Mortgage Original Appraisal Valuation Type - 2</td>
+<td width="100" align="center">Mortgage Original AVM Model - 2</td>
+<td width="100" align="center">Mortgage Original AVM Confidence Score - 2</td>
+<td width="100" align="center">Mortgage Original AVM Value - 2</td>
+<td width="100" align="center">Refinance Recent Purchase Price</td>
+<td width="100" align="center">Mortgage Original Payment Amount Due</td>
+<td width="100" align="center">Mortgage Property Value Original</td>
+<td width="100" align="center">Mortgage Underwriting Exception Flag</td>
+<td width="100" align="center">Overall Loan Grade</td>
+<td width="100" align="center">Flood Payment Type</td>
+<td width="100" align="center">Co-Borrower 3 Name: First</td>
+<td width="100" align="center">Co-Borrower 3 Name: Last</td>
+<td width="100" align="center">Co-Borrower 3 Employment Description</td>
+<td width="100" align="center">Co-Borrower 3 Self-Employment Flag</td>
+<td width="100" align="center">Co-Borrower 3 FICO: Original</td>
+<td width="100" align="center">Co-Borrower 4 Name: First</td>
+<td width="100" align="center">Co-Borrower 4 Name: Last</td>
+<td width="100" align="center">Co-Borrower 4 Self Employment Flag</td>
+<td width="100" align="center">Co-Borrower 4 Employment Description</td>
+<td width="100" align="center">Co-Borrower 4 FICO: Original</td>
+<td width="100" align="center">Lender Rate Lock Date</td>
+<td width="100" align="center">Tax Transcripts in Loan File</td>
+<td width="100" align="center">AUS Underwrite Flag</td>
+<td width="100" align="center">GSE Eligible Flag</td>
+<td width="100" align="center">TPOL Issuer</td>
+<td width="100" align="center">Settlement Agent Name</td>
+<td width="100" align="center">Settlement Agent Address</td>
+<td width="100" align="center">Settlement Agent City</td>
+<td width="100" align="center">Settlement Agent State</td>
+<td width="100" align="center">Settlement Agent Zip</td>
+<td width="100" align="center">Settlement Agent Business Phone</td>
+<td width="100" align="center">Settlement Agent Email</td>
+<td width="100" align="center">Borrower Gift Amount</td>
+<td width="100" align="center">Borrower Company Name</td>
+<td width="100" align="center">Borrower Ownership%</td>
+<td width="100" align="center">Co-Borrower Business Name</td>
+<td width="100" align="center">Co-Borrower Ownership %</td>
+<td width="100" align="center">Co-Borrower 3 Business Name</td>
+<td width="100" align="center">Co-Borrower 3 Ownership %</td>
+<td width="100" align="center">Co-Borrower 4 Business Name</td>
+<td width="100" align="center">Co-Borrower 4 Ownership %</td>
+<td width="100" align="center">Co-Borrower Self-Employment Flag</td>
+<td width="100" align="center">Primary Borrower FICO: Original</td>
+<td width="100" align="center">Co-Borrower 3 Employer</td>
+<td width="100" align="center">Co-Borrower 4 Employer</td>
+<td width="100" align="center">Co-Borrower 3 FICO: Date Original</td>
+<td width="100" align="center">Co-Borrower 4 FICO: Date Original</td>
+<td width="100" align="center">Borrower 3 Retired Flag</td>
+<td width="100" align="center">Borrower 4 Retired Flag</td>
+<td width="100" align="center">Co-Borrower Length of Self-Employment</td>
+<td width="100" align="center">Co-Borrower 3 Length of Self-Employment</td>
+<td width="100" align="center">Co-Borrower 4 Length of Self-Employment</td>
+<td width="100" align="center">Borr 3 - Income Qual Months Personal Bank Statements</td>
+<td width="100" align="center">Borr 3 - Income Qual Months Business Bank Statements</td>
+<td width="100" align="center">Borr 3 - Income Qual Years W2</td>
+<td width="100" align="center">Borr 3 - Income Qual Years Tax Returns</td>
+<td width="100" align="center">Borr 3 - Income Qual WVOE Months</td>
+<td width="100" align="center">Borr 3 - Income Qual PNL Letter</td>
+<td width="100" align="center">Borr 3 - Income Qual CPA Letter</td>
+<td width="100" align="center">Borr 3 - Income Qual Number Paystubs</td>
+<td width="100" align="center">Borr 4 - Income Qual Months Personal Bank Statements</td>
+<td width="100" align="center">Borr 4 - Income Qual Months Business Bank Statements</td>
+<td width="100" align="center">Borr 4 - Income Qual Years W2</td>
+<td width="100" align="center">Borr 4 - Income Qual Years Tax Returns</td>
+<td width="100" align="center">Borr 4 - Income Qual WVOE Months</td>
+<td width="100" align="center">Borr 4 - Income Qual PNL Letter</td>
+<td width="100" align="center">Borr 4 - Income Qual CPA Letter</td>
+<td width="100" align="center">Borr 4 - Income Qual Number Paystubs</td>
+</tr>
+<tr>
+<td width="100" align="center">1002882</td>
+<td width="100" align="center">36357056</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">7</td>
+<td width="100" align="center">0.00</td>
+<td width="100" align="center">3802.5</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">XXXXXXXX</td>
+<td width="100" align="center">885000</td>
+<td width="100" align="center">0.03875</td>
+<td width="100" align="center">360</td>
+<td width="100" align="center">360</td>
+<td width="100" align="center">20200501</td>
+<td width="100" align="center">2</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">2294.45</td>
+<td width="100" align="center">16.25</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">20200210</td>
+<td width="100" align="center">701</td>
+<td width="100" align="center">694</td>
+<td width="100" align="center">715</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">84</td>
+<td width="100" align="center">45000</td>
+<td width="100" align="center">7</td>
+<td width="100" align="center">0.0218</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">17340</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">17340</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">4</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">3</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">4</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">251126</td>
+<td width="100" align="center">1322</td>
+<td width="100" align="center">0.44347</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">XXXXXXX</td>
+<td width="100" align="center">XX</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">3</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">1475000</td>
+<td width="100" align="center">XXXXXXX</td>
+<td width="100" align="center">3</td>
+<td width="100" align="center">20200228</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">1475000</td>
+<td width="100" align="center">9</td>
+<td width="100" align="center">6/4/2020</td>
+<td width="100" align="center">21</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0.60000</td>
+<td width="100" align="center">0.60000</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">Redwood 30 Year Fixed Jumbo Select Non-QM</td>
+<td width="100" align="center">568935</td>
+<td width="100" align="center">16</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">20500401</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">XXXXXXX</td>
+<td width="100" align="center">XXXXXXX</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">753.00</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">17340</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">X</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">701</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">0.44856</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0.3684</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">Redwood 30 Year Fixed Jumbo Select Non-QM</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0.03875</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">11 months or less income verification</td>
+<td width="100" align="center">CA</td>
+<td width="100" align="center">16.25</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">3</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">38</td>
+<td width="100" align="center">Redwood 30 Yr Fixed Jumbo Select Non QM</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">9562</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="497" align="center">&nbsp;</td>
+<td width="243" align="center">HomeBridge Financial Services Inc</td>
+<td width="243" align="center">HomeBridge Financial Services Inc</td>
+<td width="100" align="center">865061</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">Partner</td>
+<td width="100" align="center">20200210</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">A-West Appraisal Company</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center"></td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">4161.6</td>
+<td width="100" align="center">1475000.00</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">2</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">20200303</td>
+<td width="100" align="center">1</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">XXXXXXX</td>
+<td width="100" align="center">XXXXX</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">XXXXXXX</td>
+<td width="100" align="center">XX</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">XXXXXX</td>
+<td width="100" align="center">0</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">701</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+<td width="100" align="center">&nbsp;</td>
+</tr>
+<tr>
+</tr></table>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
