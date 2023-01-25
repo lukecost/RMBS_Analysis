@@ -1,0 +1,369 @@
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>17
+<FILENAME>e7287ex99-3sch4.htm
+<DESCRIPTION>DATA COMPARE REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0 0 6; font: bold 9pt Arial, Helvetica, Sans-Serif; text-align: right">Exhibit 99.3 - Schedule 4</P>
+
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 9pt Calibri, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; text-align: left"><FONT STYLE="font-family: Sans-Serif; font-size: 9pt; color: Red"><B><IMG SRC="image_001.gif" ALT=""></B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="color: navy; font-size: 14pt; font-weight: bold">Data Compare Summary (Total)</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="color: navy; font-size: 10pt; font-weight: bold">Run Date - 10/31/2019 1:16:50 PM</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: navy">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: gray 0.5pt solid; text-align: left; width: 37%">Field Label</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-left-color: gray; border-left-width: 0.5pt; width: 21%">Loans With Discrepancy</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-left-color: gray; border-left-width: 0.5pt; width: 20%">Total Times Compared</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-left-color: gray; border-left-width: 0.5pt; width: 11%">% Variance</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: gray 0.5pt solid; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-left-color: gray; border-left-width: 0.5pt; width: 11%"># Of Loans</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt"># of Borrowers</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt"># of Units</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">40</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">17</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">5.88%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Amortization Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">7</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">14.29%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Appraisal Date</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">6</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">37.50%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Appraised Value</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Balloon Flag</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Borrower First Name</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">22</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">4.55%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Borrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">32</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Borrower Qualifying FICO</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Borrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">12.50%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Borrower SSN</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">City</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">49</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Coborrower First Name</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">6</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Coborrower Last Name</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">6</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Coborrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">12.50%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Coborrower SSN</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">6</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Contract Sales Price</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">37</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">5.41%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Doc Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">14</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">41</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">34.15%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">First Payment Date</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">17</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Index Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Interest Only</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Interest Only Period</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Interest Rate Life Max</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Interest Rate Life Min</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">8</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">23</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">34.78%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Lien Position</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">23</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Lookback Period</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">40</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2.50%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Margin</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">4</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">19</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">21.05%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Maturity Date</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">MERS Min Number</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">4</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">25.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Note Date</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Occupancy</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">49</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">2.04%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Original CLTV</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">23</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Original Interest Rate</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">41</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Original Loan Amount</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">49</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Original LTV</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">41</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Original P&amp;I</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Original Term</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">7</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">41</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">17.07%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Origination Channel</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Origination Company Name</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">3</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">18.75%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Other Financing - Lien Position 2 - Original Loan Amount</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Property Type</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">8</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">41</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">19.51%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Purpose</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">49</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Refi Purpose</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">4</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">10</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">40.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">7</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">40</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">17.50%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Rounding Factor</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Secondary Appraisal Date</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">5</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">16</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">31.25%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Secondary Appraised Value</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">3</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">33.33%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">State</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">49</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Street</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">30</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">3.33%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Total Cash-out</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Zip</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">31</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+<TR STYLE="vertical-align: top; background-color: lightgrey">
+    <TD DIR="LTR" STYLE="font-weight: bold; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; border-left: gray 0.5pt solid; text-align: left; border-top-color: gray; border-top-width: 0.5pt">Total</TD>
+    <TD DIR="LTR" STYLE="font-weight: bold; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">83</TD>
+    <TD DIR="LTR" STYLE="font-weight: bold; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">1,072</TD>
+    <TD DIR="LTR" STYLE="font-weight: bold; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: center; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">0.00%</TD>
+    <TD DIR="LTR" STYLE="font-weight: bold; border-right: gray 0.5pt solid; border-bottom: gray 0.5pt solid; text-align: right; border-top-color: gray; border-left-color: gray; border-top-width: 0.5pt; border-left-width: 0.5pt">482</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
