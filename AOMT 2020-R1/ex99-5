@@ -1,0 +1,708 @@
+<DOCUMENT>
+<TYPE>EX-99.5
+<SEQUENCE>6
+<FILENAME>ex99-5.htm
+<DESCRIPTION>AMC DATA COMPARE
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV>
+
+<P STYLE="font-weight: bold; margin: 0 0 12pt; text-align: right"></P>
+
+<P STYLE="margin: 0 0 0pt; text-align: left"><A HREF="aomt-abs15g_120820.htm">AOMT 2020-R1 ABS-15G</A></P>
+<P STYLE="margin: 0 0 12pt; font-weight: bold; text-align: right">Exhibit 99.5</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"><IMG SRC="logo.gif" ALT="">&nbsp;</P>
+
+<P STYLE="color: #214D88; font: bold 12pt Segoe UI; margin-top: 0pt; margin-bottom: 0pt">Data Compare</P>
+
+<P STYLE="color: #214D88; font: bold 10pt Segoe UI; margin-top: 0pt; margin-bottom: 0pt">Run Date - 12/4/2020 4:39:20 PM</P>
+
+<TABLE BORDER="1" CELLPADDING="3" BORDERCOLOR="Black" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Segoe UI">
+<TR STYLE="vertical-align: bottom; background-color: #214D88">
+<TD STYLE="color: white; font-weight: bold; width: 6%">AMC Loan ID</TD>
+<TD STYLE="color: white; font-weight: bold; width: 8%">Customer Loan ID</TD>
+<TD STYLE="color: white; font-weight: bold; width: 8%">Seller Loan ID</TD>
+<TD STYLE="color: white; font-weight: bold; width: 9%">Investor Loan Number</TD>
+<TD STYLE="color: white; font-weight: bold; width: 16%">Field Label</TD>
+<TD STYLE="color: white; font-weight: bold; width: 9%">Bid Tape Field Value</TD>
+<TD STYLE="color: white; font-weight: bold; width: 9%">Field Value</TD>
+<TD STYLE="color: white; font-weight: bold; width: 6%">Compare Status</TD>
+<TD STYLE="color: white; font-weight: bold; width: 29%">Comment</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200307913</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200307913</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">0</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200340591</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">48.298</TD>
+<TD STYLE=" background-color: whitesmoke">58.15148</TD>
+<TD>Verified</TD>
+<TD>48.298% DTI and Total all monthly payments per 1008 Transmittal in file (p 487) is not in line with total housing and all other monthly obligations per final 1003 (p 28).&nbsp;Final version of 1008 Transmittal is not in file.</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200340598</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">0</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200340599</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">0</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200343477</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Verified</TD>
+<TD>Investment property not subject to ATR</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200347264</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Representative FICO</TD>
+<TD STYLE=" background-color: whitesmoke">111</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD>Verified</TD>
+<TD>Foreign National</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200347264</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Verified</TD>
+<TD>Investment property</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200348814</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200348814</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">44.205</TD>
+<TD STYLE=" background-color: whitesmoke">36.48315</TD>
+<TD>Verified</TD>
+<TD>Only used 5% for xxxx payment during audit</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200348817</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Amortization Type</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD STYLE=" background-color: whitesmoke">Fixed</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200348817</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">31.047</TD>
+<TD STYLE=" background-color: whitesmoke">49.36526</TD>
+<TD>Ignored</TD>
+<TD>Within tolerance</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200351166</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Verified</TD>
+<TD>Investment property</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200356521</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Verified</TD>
+<TD>Investment property</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200356521</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">40.059</TD>
+<TD STYLE=" background-color: whitesmoke">45.75067</TD>
+<TD>Verified</TD>
+<TD>Rental property income calculated lower during audit</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200356524</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Representative FICO</TD>
+<TD STYLE=" background-color: whitesmoke">657</TD>
+<TD STYLE=" background-color: whitesmoke">654</TD>
+<TD>Verified</TD>
+<TD>Not on borrowers credit report</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200362832</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200363992</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">42.89</TD>
+<TD STYLE=" background-color: whitesmoke">40.11386</TD>
+<TD>Ignored</TD>
+<TD>within tolerance</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200363993</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">36.649</TD>
+<TD STYLE=" background-color: whitesmoke">40.31625</TD>
+<TD>Verified</TD>
+<TD>calculated income from Bank statements less</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200363998</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Representative FICO</TD>
+<TD STYLE=" background-color: whitesmoke">550</TD>
+<TD STYLE=" background-color: whitesmoke">555</TD>
+<TD>Verified</TD>
+<TD>555 per Lender's credit report.&nbsp;550 per Broker's FACTA p 215</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200363998</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">29.15</TD>
+<TD STYLE=" background-color: whitesmoke">26.90301</TD>
+<TD>Ignored</TD>
+<TD>within tolerance</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200382075</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Representative FICO</TD>
+<TD STYLE=" background-color: whitesmoke">674</TD>
+<TD STYLE=" background-color: whitesmoke">667</TD>
+<TD>Verified</TD>
+<TD>667 is mid score for primary wage earner</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200382081</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">36.013</TD>
+<TD STYLE=" background-color: whitesmoke">49.64611</TD>
+<TD>Verified</TD>
+<TD>Less income per accountant letter.</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200382083</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">48.468</TD>
+<TD STYLE=" background-color: whitesmoke">41.18095</TD>
+<TD>Verified</TD>
+<TD>Higher income/bank statement calcs</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200390269</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Verified</TD>
+<TD>verified</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200390269</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">PUD</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD>Verified</TD>
+<TD>verified</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200409332</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">49.466</TD>
+<TD STYLE=" background-color: whitesmoke">46.33948</TD>
+<TD>Verified</TD>
+<TD>Review income slightly higher.</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200416263</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Verified</TD>
+<TD>Investment property - N/A</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200416263</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">29.485</TD>
+<TD STYLE=" background-color: whitesmoke">26.61521</TD>
+<TD>Verified</TD>
+<TD>within tolernace</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200416268</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">PUD</TD>
+<TD STYLE=" background-color: whitesmoke">PUD Attached</TD>
+<TD>Verified</TD>
+<TD>Verified by 1004 appraisal report</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200416275</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">43.664</TD>
+<TD STYLE=" background-color: whitesmoke">47.47633</TD>
+<TD>Verified</TD>
+<TD>46.25% &gt; 43% based on $13134.93 combined income from 3 documented sources.&nbsp;Lender's DTI 43.66% &gt; 43% based on $14295.17 income amount.</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200443724</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">49.922</TD>
+<TD STYLE=" background-color: whitesmoke">47.26281</TD>
+<TD>Verified</TD>
+<TD>Audit income calculated higher</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200469216</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>First Payment Date</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Verified</TD>
+<TD>Per Note</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200469216</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">Exempt from ATR</TD>
+<TD>Verified</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200469225</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Street</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Verified</TD>
+<TD>Verified to Note</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200469225</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Borrower Last Name</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Verified</TD>
+<TD>Verified to Note</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200469225</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD STYLE=" background-color: whitesmoke">761.26</TD>
+<TD>Verified</TD>
+<TD>Verified to Note</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200469225</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Appraised Value</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Verified</TD>
+<TD>Verified to Appraisal</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200469225</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD STYLE=" background-color: whitesmoke">145.71252</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200474768</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">37.305</TD>
+<TD STYLE=" background-color: whitesmoke">40.99681</TD>
+<TD>Verified</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200498437</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Original Interest Rate</TD>
+<TD STYLE=" background-color: whitesmoke">6.38</TD>
+<TD STYLE=" background-color: whitesmoke">6.375</TD>
+<TD>Verified</TD>
+<TD>Verified to Note</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200498439</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Ignored</TD>
+<TD>NA per property type</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200506774</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">0</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200506780</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Interest Rate Life Max</TD>
+<TD STYLE=" background-color: whitesmoke">7.865</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD>Verified</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200506783</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Verified</TD>
+<TD>Zip+4</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200520941</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200520941</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Representative FICO</TD>
+<TD STYLE=" background-color: whitesmoke">111</TD>
+<TD STYLE="background-color: whitesmoke"></TD>
+<TD>Ignored</TD>
+<TD>Foreign National - credit report not available</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200520941</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Verified</TD>
+<TD>Investment property</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200520941</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">14.707</TD>
+<TD STYLE=" background-color: whitesmoke">47.15503</TD>
+<TD>Verified</TD>
+<TD>matches within 2% of everything in file</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200520943</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">35.371</TD>
+<TD STYLE=" background-color: whitesmoke">49.22869</TD>
+<TD>Verified</TD>
+<TD>Per 1008, approval, loan approved at 47.257%</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200520945</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">19.927</TD>
+<TD STYLE=" background-color: whitesmoke">27.63742</TD>
+<TD>Verified</TD>
+<TD>19.927 is housing ratio, 27.639 is back-end ratio, per approval, 1008</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200520946</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">19.377</TD>
+<TD STYLE=" background-color: whitesmoke">34.97162</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200520948</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">22.016</TD>
+<TD STYLE=" background-color: whitesmoke">46.03055</TD>
+<TD>Verified</TD>
+<TD>46.03% within tolerance with Lender's 45.7% DTI.&nbsp;22.01% tape DTI is front housing ratio</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200522116</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Verified</TD>
+<TD>investment property</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200522116</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">13.65</TD>
+<TD STYLE=" background-color: whitesmoke">34.58747</TD>
+<TD>Verified</TD>
+<TD>Verified Total Debt Ratio is higher than the 1008 Underwriter's Transmittal Summary due to income calculation using 80 vs 72 hours, the HOA on the newly purchased Investment property did not include the HOA Fee in PITIA and Lender did not include the 24 month average of 2106 Unreimbursed Business Expenses found in tax returns.</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200528836</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Original P&amp;I</TD>
+<TD STYLE=" background-color: whitesmoke">749.7</TD>
+<TD STYLE=" background-color: whitesmoke">607.01</TD>
+<TD>Verified</TD>
+<TD>P&amp;I payment verified to Note</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200528836</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Refi Purpose</TD>
+<TD STYLE=" background-color: whitesmoke">Cash-out - Other</TD>
+<TD STYLE=" background-color: whitesmoke">Rate/Term</TD>
+<TD>Verified</TD>
+<TD>Verified to Approval and Rate Lock</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200528836</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD STYLE=" background-color: whitesmoke">N/A</TD>
+<TD>Verified</TD>
+<TD>Investment property</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200549333</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Originator Loan Designation</TD>
+<TD STYLE=" background-color: whitesmoke">Higher Priced QM</TD>
+<TD STYLE=" background-color: whitesmoke">Non QM</TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200589864</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200589864</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Representative FICO</TD>
+<TD STYLE=" background-color: whitesmoke">669</TD>
+<TD STYLE=" background-color: whitesmoke">666</TD>
+<TD>Verified</TD>
+<TD>Verified by report dated xx/xx/xxxx. Tape score is not documented in file.</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200589869</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Property Type</TD>
+<TD STYLE=" background-color: whitesmoke">Single Family Detached</TD>
+<TD STYLE=" background-color: whitesmoke">PUD</TD>
+<TD>Verified</TD>
+<TD>Verified by Appraisal Report</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200591129</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200591140</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Zip</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD STYLE=" background-color: whitesmoke">xxxx</TD>
+<TD>Ignored</TD>
+<TD></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200612863</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">15.368</TD>
+<TD STYLE=" background-color: whitesmoke">35.15361</TD>
+<TD>Verified</TD>
+<TD>Per documentation in file the DTI is set at 35.154% with a Calculated DTI of 35.15361%</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>200615640</TD>
+<TD>xxxx</TD>
+<TD></TD>
+<TD></TD>
+<TD>Total Debt Ratio</TD>
+<TD STYLE=" background-color: whitesmoke">100</TD>
+<TD STYLE=" background-color: whitesmoke">2158.07427</TD>
+<TD>Verified</TD>
+<TD>Investor cash flow. Cash flow ratio is below the required max of 90%: PITI of $957.73 / $1,400 monthly rental income = 68.41%.</TD></TR>
+</TABLE>
+
+<!-- Field: Page; Options: Last --><DIV STYLE="border-bottom: Black 1pt solid">&nbsp;</DIV><!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
