@@ -1,0 +1,68 @@
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>24
+<FILENAME>ex99-23.htm
+<DESCRIPTION>DIGITAL RISK QM STATUS REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: QM Status -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00003CF0,0x00002580,0x00002580,0x00000000,0x00002580,0x0002B944 -->
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: times new roman; font-size: 10pt"><A HREF="aomt-abs15g_081420.htm">Angel Oak Mortgage Trust 2020-5 ABS-15G</A></FONT></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 99.23</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>&nbsp;</B></P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font-family: Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle">
+    <TD COLSPAN="5" DIR="LTR" STYLE="color: white; font-size: 14pt">XXXX</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="font-size: 8pt">Seller:&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="5" STYLE="font-size: 10pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="font-size: 8pt">Deal ID:&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="5" STYLE="font-size: 10pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" DIR="LTR" STYLE="font-size: 8pt">Total Loan Count: 2</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="color: blue; font-size: 8pt; font-weight: bold; vertical-align: middle; border: lime 0.5pt solid; text-align: center; background-color: white">Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: blue; font-size: 8pt; font-weight: bold; vertical-align: middle; border-top: lime 0.5pt solid; border-right: lime 0.5pt solid; border-bottom: lime 0.5pt solid; text-align: center; border-left-color: lime; border-left-width: 0.5pt; background-color: white">QM Status</TD>
+    <TD DIR="LTR" STYLE="color: blue; font-size: 8pt; font-weight: bold; vertical-align: middle; border-top: lime 0.5pt solid; border-right: lime 0.5pt solid; border-bottom: lime 0.5pt solid; text-align: center; border-left-color: lime; border-left-width: 0.5pt; background-color: white">ATR Status</TD>
+    <TD STYLE="font-size: 10pt; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="font-size: 8pt; vertical-align: middle; border-right: lime 0.5pt solid; border-bottom: lime 0.5pt solid; border-left: lime 0.5pt solid; text-align: center; border-top-color: lime; border-top-width: 0.5pt">202005049</TD>
+    <TD DIR="LTR" STYLE="font-size: 8pt; vertical-align: middle; border-right: lime 0.5pt solid; border-bottom: lime 0.5pt solid; text-align: center; border-top-color: lime; border-left-color: lime; border-top-width: 0.5pt; border-left-width: 0.5pt">Non-QM</TD>
+    <TD DIR="LTR" STYLE="font-size: 8pt; vertical-align: middle; border-right: lime 0.5pt solid; border-bottom: lime 0.5pt solid; text-align: center; border-top-color: lime; border-left-color: lime; border-top-width: 0.5pt; border-left-width: 0.5pt">ATR Compliant</TD>
+    <TD STYLE="font-size: 10pt; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="font-size: 8pt; vertical-align: middle; border-right: lime 0.5pt solid; border-bottom: lime 0.5pt solid; border-left: lime 0.5pt solid; text-align: center; border-top-color: lime; border-top-width: 0.5pt">202005050</TD>
+    <TD DIR="LTR" STYLE="font-size: 8pt; vertical-align: middle; border-right: lime 0.5pt solid; border-bottom: lime 0.5pt solid; text-align: center; border-top-color: lime; border-left-color: lime; border-top-width: 0.5pt; border-left-width: 0.5pt">Non-QM</TD>
+    <TD DIR="LTR" STYLE="font-size: 8pt; vertical-align: middle; border-right: lime 0.5pt solid; border-bottom: lime 0.5pt solid; text-align: center; border-top-color: lime; border-left-color: lime; border-top-width: 0.5pt; border-left-width: 0.5pt">ATR Compliant</TD>
+    <TD STYLE="font-size: 10pt; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; vertical-align: bottom">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
