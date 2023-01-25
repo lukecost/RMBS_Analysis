@@ -1,0 +1,338 @@
+<DOCUMENT>
+<TYPE>EX-99.22
+<SEQUENCE>23
+<FILENAME>tv524702_ex99-22.htm
+<DESCRIPTION>OPUS EXCEPTION REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.22</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Opus
+Exception Report</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="background-color: #570F1A">
+    <TD STYLE="width: 4%; border: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Client
+    Loan Number</B></FONT></TD>
+    <TD STYLE="width: 6%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Exception
+    ID</B></FONT></TD>
+    <TD STYLE="width: 6%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Loan
+    Status</B></FONT></TD>
+    <TD STYLE="width: 7%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Originator
+    QM/ATR Status</B></FONT></TD>
+    <TD STYLE="width: 7%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>TPR
+    QM/ATR Status</B></FONT></TD>
+    <TD STYLE="width: 5%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Finding
+    Group</B></FONT></TD>
+    <TD STYLE="width: 3%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Status</B></FONT></TD>
+    <TD STYLE="width: 5%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>S&amp;P
+    Final&nbsp;&nbsp;Exception Grade</B></FONT></TD>
+    <TD STYLE="width: 6%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Morningstar
+    Final Exception Grade</B></FONT></TD>
+    <TD STYLE="width: 5%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Category</B></FONT></TD>
+    <TD STYLE="width: 7%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Finding
+    Name</B></FONT></TD>
+    <TD STYLE="width: 6%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Initial
+    Comment</B></FONT></TD>
+    <TD STYLE="width: 6%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Client/Seller
+    Reponse Comments</B></FONT></TD>
+    <TD STYLE="width: 14%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Conclusion
+    Comment</B></FONT></TD>
+    <TD STYLE="width: 7%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Compensating
+    Factors Merged</B></FONT></TD>
+    <TD STYLE="width: 6%; border-top: lightgrey 1pt solid; border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt; color: white"><B>Loan
+    Guide</B></FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">718298</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">b9bd31a6-453c-439d-a986-85a09695194f</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Rescind</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Incorrect
+    disclosure of Services Borrower DID NOT SHOP Fee - Section B</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A
+    Credit Report Fee was not reflected in section B of the Closing Disclosure despite evidence of a Credit Report in the file.
+    The Credit Report&nbsp;&nbsp;fee should be disclosed in section B of the Closing Disclosure or an attestation that no fee
+    was allocated to the loan transaction must be provided. Provide corrected CD and LOE to the Borrower.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">05.21.19:
+    loan is exempt per compliance--business purpose loan.12/19/2018: Non-material per SFIG guidance, loan will be graded a B for
+    all agencies. </FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Reserves
+    are higher than guideline minimum Reserves exceed requirement by 6 months or more Years Self Employed Self-employed for &gt;
+    2 years Years in Primary Residence Current primary home ownership &gt; 10 years</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">91a33353-2e00-401d-8dfc-69eb0e85fd61</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">718298</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">a1a76c13-88d6-4403-ba0c-9bf9cbd08057</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Rescind</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Total
+    Interest Percentage (TIP) is not accurate.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">The
+    Final CD reflects Total Interest Percentage (TIP) of 130.29% vs actual TIP of 128.084% with a difference of 2.206% over-disclosed.&nbsp;&nbsp;Provide
+    corrected CD and LOE to the Borrower.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">05.21.19:
+    loan is exempt per compliance--business purpose loan.12/19/2018: Non-material per SFIG guidance, loan will be graded a B for
+    all agencies.&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Reserves
+    are higher than guideline minimum Reserves exceed requirement by 6 months or more Years Self Employed Self-employed for &gt;
+    2 years Years in Primary Residence Current primary home ownership &gt; 10 years</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">91a33353-2e00-401d-8dfc-69eb0e85fd61</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">718300</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">dc6c2136-28fe-e811-bc73-f4e9d4a75ba2</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Rescind</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Missing
+    asset documentation</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Lender's
+    guidelines require 2 months' bank statements. The loan file is missing 2 months statements for account #1 listed on the final
+    application. </FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">12/13/2018:
+    Lender responded bank statement are in the loan file and that the xxxxxx account referred to was opened xxxxxx with a transfer
+    from the xxxxxx account which had 2 months statements.&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">12/14/2018:
+    Lender responded bank statement are in the loan file and that the xxxxxx account referred to was opened xxxxxx with a transfer
+    from the xxxxxx account which had 2 months statements.&nbsp;&nbsp;Audit confirmed there were 2 months bank statements for
+    xxxxxx which money was transferred to the xxxxxx account that was opened xxxxxx.&nbsp;&nbsp;Exception rescinded.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Reserves
+    are higher than guideline minimum UW Guides require 6 months reserves, loan qualified with 7.1 months reserves Years on Job
+    Borrower has 9.75 years on job Years Self Employed Borrower has 9 .75 years Self Employed</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">6ef07f33-61df-492b-b3a2-fc1e86f3124a</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">720631</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">c80807f5-7a53-4b58-b587-c43b2754df33</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Rescind</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Missing
+    Affiliated Business Disclosure</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">File
+    is missing the affiliated business disclosure. If the lender is not affiliated with any other businesses please provide an
+    attestation stating such. </FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">02/27/2019:
+    loan is exempt per compliance--business purpose loan.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">306ee244-5612-4644-a104-18bfd36fa3c6</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">720631</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">a363db5e-5376-473b-b03b-03ae1981ee12</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Rescind</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Missing
+    Special Information Booklet / Home Loan Toolkit</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Missing
+    Home Loan Toolkit</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">02/25/2019:
+    loan is exempt per compliance--business purpose loan.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">306ee244-5612-4644-a104-18bfd36fa3c6</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">719683</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">f494dc33-1f15-e911-bd2f-f4e9d4a75a52</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Cleared</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Missing
+    1008 or Underwriter Approval</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">The
+    final 1008 or Loan Approval is missing from the loan file.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">01/16/2019:
+    1008 provided.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">01/18/2019:
+    Lender provided 1008.&nbsp;&nbsp;Exception cleared.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">CLTV
+    is lower than guideline maximum UW Guides maximum CLTV of xxxxxx%, loan qualified with CLTV of xxxxxx% FICO is higher than
+    guideline minimum UW Guides require FICO of 650, loan qualified with FICO of 770 Years Self Employed Borrower has 15 years
+    Self Employed</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">800959e2-1b55-43f1-ad6c-c3c71f84b3cd</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">719683</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">c51b95e7-596e-40f8-9080-f820962ae887</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Rescind</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Incorrect
+    disclosure of Services Borrower DID NOT SHOP Fee - Section B</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">An
+    Appraisal Fee was not reflected in section B of the CD despite evidence of a flood certificate in the file.&nbsp;&nbsp;An
+    Appraisal Fee should be disclosed in section B of the Closing Disclosure or an attestation that no fee was allocated to the
+    loan transaction must be provided. Provide corrected CD and LOE to the Borrower.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">05.21.2019:
+    per compliance, loan is exempt. Business purpose loan. 01/10/2019: This finding is deemed non-material and rated a B.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">CLTV
+    is lower than guideline maximum UW Guides maximum CLTV of xxxxxx%, loan qualified with CLTV of xxxxxx% FICO is higher than
+    guideline minimum UW Guides require FICO of 650, loan qualified with FICO of 770 Years Self Employed Borrower has 15 years
+    Self Employed</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">800959e2-1b55-43f1-ad6c-c3c71f84b3cd</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">720633</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">aa931e18-e6e0-412e-845f-4199daf4192f</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Rescind</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Missing
+    Affiliated Business Disclosure</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">File
+    is missing the Affiliated Business Disclosure.&nbsp;&nbsp;If the lender/broker is not affiliated with any other businesses,
+    provide an attestation stating such.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">02/27/2019:
+    loan is exempt per compliance--business purpose loan.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">6fb94f4c-fd2c-432c-99b5-99ef57a69367</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">720632</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">22f838f5-c336-e911-bd2f-f4e9d4a75a52</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Cleared</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Failure
+    to obtain Hazard Insurance Declaration</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Subject
+    property hazard insurance to reflect correct loan number.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">02/25/2019:
+    Correspondent loan. Loan number on hazard insurance matched note. Condition cleared.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Reserves
+    are higher than guideline minimum 16.50 &gt; 6 as required. DTI is lower than guideline maximum Guidelines require 1.00 DSCR
+    loan qualified with DSCR 1.09</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">5d171c01-af6e-4adf-afb2-a950821a81bb</FONT></TD></TR>
+<TR>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; border-left: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">720632</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">61b31120-3bfb-4d7e-90d0-f598c9a79e1b</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Underwriting
+    Complete</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Not
+    Covered/Exempt</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Rescind</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Compliance</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Missing
+    Rate Lock Agreement</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Missing
+    evidence of original lock date. Compliance testing will need to be reviewed once received. </FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">02/27/2019:
+    loan is exempt per compliance--business purpose loan.</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">Reserves
+    are higher than guideline minimum 16.50 &gt; 6 as required. DTI is lower than guideline maximum Guidelines require 1.00 DSCR
+    loan qualified with DSCR 1.09</FONT></TD>
+    <TD STYLE="border-right: lightgrey 1pt solid; border-bottom: lightgrey 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 8pt">5d171c01-af6e-4adf-afb2-a950821a81bb</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
