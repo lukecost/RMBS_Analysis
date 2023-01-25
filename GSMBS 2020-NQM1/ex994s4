@@ -1,0 +1,924 @@
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>33
+<FILENAME>efc20-658_ex994s4.htm
+<DESCRIPTION>SCHEDULE 4 - EXCEPTIONS REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00003.jpg">
+    <div>
+      <div style="line-height: 18.25pt; color: #262626; font-size: 12pt; font-weight: bold;">Exceptions Report</div>
+      <div style="text-align: justify; margin-left: 5.4pt; line-height: 12.55pt; color: #262626; font-style: italic; font-weight: bold;">Report Run Date - 8/11/2020</div>
+      <div style="text-align: justify; margin-left: 5.4pt; line-height: 12.55pt; color: #262626; font-style: italic; font-weight: bold;"> <br>
+      </div>
+      <div style="text-align: justify; line-height: 12.55pt; color: rgb(38, 38, 38); font-family: 'Times New Roman',Times,serif; font-style: italic; font-weight: bold;">
+        <table cellspacing="0" cellpadding="1" border="1" align="left" id="zfc5cb05924954674be93bc0c8a39a5f4">
+
+            <tr>
+              <td width="813" colspan="9">LOAN INFORMATION</td>
+              <td width="1267" colspan="7">EXCEPTION INFORMATION</td>
+              <td width="138" colspan="2">INITIAL OVERALL GRADES</td>
+              <td width="138" colspan="2">FINAL OVERALL GRADES</td>
+              <td width="55">EVENT LEVEL</td>
+            </tr>
+            <tr>
+              <td width="80">Loan Number</td>
+              <td width="104">DD Loan Number</td>
+              <td width="86">Property State</td>
+              <td width="86">Purpose</td>
+              <td width="100">Occupancy</td>
+              <td width="143">Property Type</td>
+              <td width="33">FICO</td>
+              <td width="51">MR LTV</td>
+              <td width="130">Note Original Balance</td>
+              <td width="77">Exception ID</td>
+              <td width="94">Exception Type</td>
+              <td width="235">Exception Description</td>
+              <td width="245">Exception Note</td>
+              <td width="245">Exception General Comment</td>
+              <td width="289">Compensating Factors</td>
+              <td width="82">Exception Status</td>
+              <td width="69">DBRS</td>
+              <td width="69">S&amp;P</td>
+              <td width="69">DBRS</td>
+              <td width="69">S&amp;P</td>
+              <td width="55">Grade</td>
+            </tr>
+            <tr>
+              <td width="80">34313612</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Rate Term Refi</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">688</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15366766</td>
+              <td width="94">Credit</td>
+              <td width="235">Asset Documentation</td>
+              <td width="245">The loan file contains business bank statements for proof of funds to close. The loan must document that the borrower has 100% ownership of the account. - 15366766</td>
+              <td width="245">Business bank statments match the borrower's business and address listed on the 1003 which was sufficient to cure.</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313612</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Rate Term Refi</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">688</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15366769</td>
+              <td width="94">Credit</td>
+              <td width="235">Income Documentation</td>
+              <td width="245">The loan file is missing a lease agreement for the subject property which is required by the guidelines. - 15366769</td>
+              <td width="245">Document provided to cure</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313262</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">742</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15365442</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Missing the final loan application. - 15365442</td>
+              <td width="245">Document provided to cure</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313274</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Attached</td>
+              <td width="33">683</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15368666</td>
+              <td width="94">Credit</td>
+              <td width="235">Loan Amount Exceeds Program Parameters</td>
+              <td width="245">Loan amount of $XXXXXX does not meet the minimum required loan amount of $100,000. - 15368666</td>
+              <td width="245">(04/15/16) XXXXX granted exception</td>
+              <td width="289">1) Reserves of $12,513
+                2) LTV 65%</td>
+              <td width="82">Client Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">2</td>
+            </tr>
+            <tr>
+              <td width="80">34313715</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">668</td>
+              <td width="51">84.78 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15429222</td>
+              <td width="94">Credit</td>
+              <td width="235">LTV Exceeds Guideline</td>
+              <td width="245">LTV of 84.78% exceeds the maximum allowed LTV of 80%. - 15429222</td>
+              <td width="245">(10/31/16) XXXXX granted exception</td>
+              <td width="289">1) Borrower has 6 years of self-employment
+                2) Disposable income of $10,692</td>
+              <td width="82">Client Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">2</td>
+            </tr>
+            <tr>
+              <td width="80">34313715</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">668</td>
+              <td width="51">84.78 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15429226</td>
+              <td width="94">Credit</td>
+              <td width="235">DTI Exception</td>
+              <td width="245">The DTI of 51.14% exceeds the maximum allowed DTI of 50% using the income from the application. - 15429226</td>
+              <td width="245">Credit supplement provided to reduced monthly debts</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313715</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">668</td>
+              <td width="51">84.78 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15429781</td>
+              <td width="94">Compliance</td>
+              <td width="235">Compliance Issue</td>
+              <td width="245">Provide The Written List of Service Providers &amp; the Homeownership Counseling Organization Disclosure dated XX/XX/XXXX in order to run the compliance test. - 15429781</td>
+              <td width="245">Documents provided to cure</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313715</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">668</td>
+              <td width="51">84.78 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15429847</td>
+              <td width="94">Credit</td>
+              <td width="235">Program Criteria</td>
+              <td width="245">16 months of reserves were required and the borrower only provided .72 months. - 15429847</td>
+              <td width="245">(10/31/16) XXXXX granted exception</td>
+              <td width="289">1) Borrower has 6 years of self-employment
+                2) Disposable income of $10,692</td>
+              <td width="82">Client Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">2</td>
+            </tr>
+            <tr>
+              <td width="80">34313444</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Townhome</td>
+              <td width="33">762</td>
+              <td width="51">75.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15386160</td>
+              <td width="94">Credit</td>
+              <td width="235">Loan Amount Exceeds Program Parameters</td>
+              <td width="245">LTV of 75% exceeds the maximum allowed LTV of 65% - 15386160</td>
+              <td width="245">(04/14/16) XXXXX granted exception</td>
+              <td width="289">1) FICO score of 762
+                2) Reserves of $115,814</td>
+              <td width="82">Client Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">2</td>
+            </tr>
+            <tr>
+              <td width="80">34313444</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Townhome</td>
+              <td width="33">762</td>
+              <td width="51">75.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15387659</td>
+              <td width="94">Compliance</td>
+              <td width="235">Compliance Issue</td>
+              <td width="245">This loan failed the charges that cannot increase test. The initial loan estimate dated XX/XX/XXXX reflects an appraisal fee of $500, however the final closing disclosure reflects the appraisal fee of $710.00. The final
+                closing disclosure reflects a lender credit in the amount of $210 to cure this issue. - 15387659</td>
+              <td width="245">Final CD reflects a lender credit of $210 to cure the issue</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313327</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">2-4 Family</td>
+              <td width="33">679</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15406115</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Provide supporting documentation verifying the judgment in the amount of $5000.00 is paid prior to or at closing. The transaction is a purchase, and the underwriter is unable to determine if the judgement will affect title. -
+                15406115</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313327</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">2-4 Family</td>
+              <td width="33">679</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15406116</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Provide documentation to fully source the earnest money deposit of $3000.00 per the purchase contract. - 15406116</td>
+              <td width="245">The file contains 2 checks clearing for $3,000 which cures the issue</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313383</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">2-4 Family</td>
+              <td width="33">757</td>
+              <td width="51">70.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15413614</td>
+              <td width="94">Credit</td>
+              <td width="235">Mortgage History</td>
+              <td width="245">12 months of the borrower's most recent housing history is required which is missing from the file. - 15413614</td>
+              <td width="245">(07/07/16) XXXXX granted exception</td>
+              <td width="289">1) Reserves of $258,745
+                2) FICO score of 757</td>
+              <td width="82">Client Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">2</td>
+            </tr>
+            <tr>
+              <td width="80">34313383</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">2-4 Family</td>
+              <td width="33">757</td>
+              <td width="51">70.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15413615</td>
+              <td width="94">Property</td>
+              <td width="235">Property/Value</td>
+              <td width="245">An AVM was completed on XX/XX/XXXX as of effective date XX/XX/XXXX. The AVM value of $XXXXXX is 30.14% below the value used to originate the loan. Provide an additional valuation review in the form of an ARR, CDA, field
+                review, or second appraisal. - 15413615</td>
+              <td width="245">CDA supports value</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313383</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">2-4 Family</td>
+              <td width="33">757</td>
+              <td width="51">70.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15413616</td>
+              <td width="94">Credit</td>
+              <td width="235">Program Criteria</td>
+              <td width="245">First time investors do not qualify for cash out refinances. In this case, the borrower has not owned 2 or more properties to qualify as an experienced investor. - 15413616</td>
+              <td width="245">(07/07/16) XXXXX granted exception</td>
+              <td width="289">1) Reserves of $258,745
+                2) FICO score of 757</td>
+              <td width="82">Client Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">2</td>
+            </tr>
+            <tr>
+              <td width="80">34313503</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">701</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15423868</td>
+              <td width="94">Credit</td>
+              <td width="235">Title</td>
+              <td width="245">Provide the final title policy that reflects the vesting and omission of items 1, 2, and 3. On Schedule B Section II omit 1 and B. - 15423868</td>
+              <td width="245">Final title policy not provided. Affidavit of title provided.</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313397</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">701</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15423787</td>
+              <td width="94">Credit</td>
+              <td width="235">Title</td>
+              <td width="245">Provide the final title policy that reflects the vesting and omission of items 1, 2, and 3. On Schedule B Section II omit 1 and B. - 15423787</td>
+              <td width="245">Final title policy not provided. Affidavit of title provided.</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313305</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">700</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15439936</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Provide the final Closing Disclosure to reflect the pay-off of XXXXXXX account. - 15439936</td>
+              <td width="245">Deleted the outstanding account balance from the borrower's asset to cure the issue</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">D</td>
+              <td width="69">D</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313305</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">700</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15439937</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Provide the tax bill for the borrower's investment property located in XXXXXXXX. - 15439937</td>
+              <td width="245">Document provided to cure</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">D</td>
+              <td width="69">D</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313305</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">700</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15439942</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Provide the most recent XXXXX assets statement. The statement in the loan file is dated XX/XX/XXXX and has exceeded the 90 days document expiration date. - 15439942</td>
+              <td width="245">The account has been closed and the assets were not used</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">D</td>
+              <td width="69">D</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313305</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">700</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15440605</td>
+              <td width="94">Compliance</td>
+              <td width="235">Compliance Issue</td>
+              <td width="245">Provide the rate lock form, along with the LE corresponding with the rate lock. - 15440605</td>
+              <td width="245">Documents provided to cure</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">D</td>
+              <td width="69">D</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313305</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">700</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15440607</td>
+              <td width="94">Compliance</td>
+              <td width="235">Compliance Issue</td>
+              <td width="245">Provide the change of circumstance for XX/XX/XXXX and XX/XX/XXXX. - 15440607</td>
+              <td width="245">Documents provided to cure</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">D</td>
+              <td width="69">D</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313305</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">700</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15440608</td>
+              <td width="94">Compliance</td>
+              <td width="235">Compliance Issue</td>
+              <td width="245">Provide an updated CD as the CD in file reflects the loan is not assumable and the note in file supports assumability language. - 15440608</td>
+              <td width="245">Updated CD provided to cure issue</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">D</td>
+              <td width="69">D</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">2</td>
+            </tr>
+            <tr>
+              <td width="80">34313447</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">745</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15437315</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Provide an signed lease for the property located at XXXX Dr The lease in the loan file is not signed. - 15437315</td>
+              <td width="245">Document provided to cure</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313447</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">745</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15437316</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Provide the tax and insurance policy for the investment property located in XXXXXX. The DTI is subject to change. - 15437316</td>
+              <td width="245">The taxes were calculated using the amount from the Hud-1 in file for the property.</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313447</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">745</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15437317</td>
+              <td width="94">Credit</td>
+              <td width="235">Credit</td>
+              <td width="245">Provide the tax bill for the investment property located in XXXXXX - 15437317</td>
+              <td width="245">The taxes were calculated using the amount from the Hud-1 in file for the property.</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313447</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">745</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15437319</td>
+              <td width="94">Credit</td>
+              <td width="235">Income Documentation</td>
+              <td width="245">Provide an updated YTD profit &amp; loss statement and balance sheet as the P&amp;L in file is dated as of XX/XXXX. - 15437319</td>
+              <td width="245">Document provided to cure</td>
+              <td width="289">&#160;</td>
+              <td width="82">Cleared Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">1</td>
+            </tr>
+            <tr>
+              <td width="80">34313447</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">745</td>
+              <td width="51">80.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">15437320</td>
+              <td width="94">Credit</td>
+              <td width="235">Program Criteria</td>
+              <td width="245">The borrower is 50% owner of the business and using business funds towards the closing of the purchase transaction. 100% ownership is required in order to use the business assets. - 15437320</td>
+              <td width="245">(10/20/16) XXXXX granted exception based on the strength of the compensating factors of the loan file.</td>
+              <td width="289">1) 58.52 months of reserves, min is 22 months. 2) FICO score of 745</td>
+              <td width="82">Client Exception</td>
+              <td width="69">C</td>
+              <td width="69">C</td>
+              <td width="69">B</td>
+              <td width="69">B</td>
+              <td width="55">2</td>
+            </tr>
+            <tr>
+              <td width="80">11</td>
+              <td width="104">&#160;</td>
+              <td width="86">&#160;</td>
+              <td width="86">&#160;</td>
+              <td width="100">&#160;</td>
+              <td width="143">&#160;</td>
+              <td width="33">&#160;</td>
+              <td width="51">&#160;</td>
+              <td width="130">&#160;</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">&#160;</td>
+              <td width="69">&#160;</td>
+              <td width="69">&#160;</td>
+              <td width="69">&#160;</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+              <td width="80">34313726</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">2-4 Family</td>
+              <td width="33">763</td>
+              <td width="51">60.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+              <td width="80">34313491</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Condo Attached</td>
+              <td width="33">792</td>
+              <td width="51">70.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+              <td width="80">34313170</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Condo Attached</td>
+              <td width="33">750</td>
+              <td width="51">70.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+              <td width="80">34313572</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">646</td>
+              <td width="51">48.49 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+              <td width="80">34313803</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Purchase</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">PUD</td>
+              <td width="33">0</td>
+              <td width="51">60.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+              <td width="80">34313347</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">701</td>
+              <td width="51">65.00 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+              <td width="80">34313333</td>
+              <td width="104">XXXXXX</td>
+              <td width="86">XX</td>
+              <td width="86">Refi - Cash Out</td>
+              <td width="100">Non-Owner Occupied</td>
+              <td width="143">Single Family Detached</td>
+              <td width="33">679</td>
+              <td width="51">64.08 %</td>
+              <td width="130">XXXXXX</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="69">A</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+              <td width="80">7</td>
+              <td width="104">&#160;</td>
+              <td width="86">&#160;</td>
+              <td width="86">&#160;</td>
+              <td width="100">&#160;</td>
+              <td width="143">&#160;</td>
+              <td width="33">&#160;</td>
+              <td width="51">&#160;</td>
+              <td width="130">&#160;</td>
+              <td width="77">&#160;</td>
+              <td width="94">&#160;</td>
+              <td width="235">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="245">&#160;</td>
+              <td width="289">&#160;</td>
+              <td width="82">&#160;</td>
+              <td width="69">&#160;</td>
+              <td width="69">&#160;</td>
+              <td width="69">&#160;</td>
+              <td width="69">&#160;</td>
+              <td width="55">&#160;</td>
+            </tr>
+            <tr>
+            </tr>
+
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
