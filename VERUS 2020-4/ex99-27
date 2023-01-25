@@ -1,0 +1,422 @@
+<DOCUMENT>
+<TYPE>EX-99.27
+<SEQUENCE>28
+<FILENAME>tm2024606d1_ex99-27.htm
+<DESCRIPTION>CONSOLIDATED ANALYTICS EXCEPTION GRADES REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.27 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>CONSOLIDATED
+ANALYTICS EXCEPTION GRADES REPORT</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: bold 24pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt">Exception
+Grades Report</FONT></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: middle; background-color: #4C68A2">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: center; width: 1%"><FONT STYLE="font-size: 8pt">Loan
+    Number</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Verus
+    Loan Number</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 1%"><FONT STYLE="font-size: 8pt">Original
+    Balance</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 1%"><FONT STYLE="font-size: 8pt">State</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Loan
+    Exception Status</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Initial
+    S&amp;P Exception Grade</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Final
+    S&amp;P Exception Grade</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Initial
+    DBRS Exception Grade</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Final
+    DBRS Exception Grade</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 1%"><FONT STYLE="font-size: 8pt">Category</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 1%"><FONT STYLE="font-size: 8pt">Breach
+    ID</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 9%"><FONT STYLE="font-size: 8pt">Breach
+    Name</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Initial
+    Breach Date</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 30%"><FONT STYLE="font-size: 8pt">Initial
+    Comments</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Client/Seller
+    Response Comments</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Conclusion
+    Date</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 14%"><FONT STYLE="font-size: 8pt">Conclusion
+    Comments Date Cleared Canceled or Exception Remains Note Must State Final Status</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 1%"><FONT STYLE="font-size: 8pt">Waiver
+    or Exception</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">Waiver
+    or Exception Made By</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 19%"><FONT STYLE="font-size: 8pt">Compensating
+    Factors</FONT></TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: center; border-left-color: Black; border-left-width: 0.5pt; width: 2%"><FONT STYLE="font-size: 8pt">General
+    Comments</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">740551</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">TN</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Acknowledged</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">3436</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Payment
+    shock exceeds lender guidelines</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1/9/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/09/2020&nbsp;&nbsp;-
+    Client provided guideline exception allowing for payment shock in excess of the guideline max of 150% based on low LTV, low
+    DTI and employment history.&nbsp;&nbsp;; 01/09/2020&nbsp;&nbsp;- Payment shock of 603.026% exceeds guideline maximum of 150%.;
+    01/09/2020&nbsp;&nbsp;- Change status of 'Payment shock exceeds lender guidelines' from Active to Acknowledged by Client.;
+    01/09/2020&nbsp;&nbsp;- Change severity of 'Payment shock exceeds lender guidelines' from Material to Non-Material.; 01/09/2020&nbsp;&nbsp;-
+    Payment shock of 603.03 exceeds the lender guidelines tolerance for payment shock.&nbsp;&nbsp;;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/10/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/10/2020&nbsp;&nbsp;-
+    Change severity of 'Payment shock exceeds lender guidelines' from Material to Non-Material.; 01/10/2020&nbsp;&nbsp;- Client
+    provided guideline exception allowing for payment shock in excess of the guideline max of 150% based on low LTV, low DTI and
+    employment history.&nbsp;&nbsp;; 01/10/2020&nbsp;&nbsp;- Change status of 'Payment shock exceeds lender guidelines' from Active
+    to Acknowledged by Client.</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Waiver</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Client</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Calculated
+    DTI is Less than the Guideline Maximum - Calculated DTI of 7.56 is less than the Guideline DTI of 43.00. ; Qualifying FICO
+    is Greater than the Guideline Minimum - Qualifying FICO of 754 is Greater than the Guideline Minimum of 660.&nbsp;&nbsp;;
+    Borrower 1 has significant job time - Employer has 6.00 years on job ; Borrower has more than 2 years at current residence
+    - Borrower at current residence 4.00 years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">740551</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">TN</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Cleared</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">D</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1245</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Transmittal
+    Summary is Missing</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1/8/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/08/2020&nbsp;&nbsp;-
+    The transmittal summary is Missing;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/15/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/15/2020&nbsp;&nbsp;-
+    Client provided 1008 from the original loan file.&nbsp;&nbsp;No issues were found with document.&nbsp;&nbsp;; 01/15/2020&nbsp;&nbsp;-
+    The transmittal summary is Present</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Calculated
+    DTI is Less than the Guideline Maximum - Calculated DTI of 7.56 is less than the Guideline DTI of 43.00. ; Qualifying FICO
+    is Greater than the Guideline Minimum - Qualifying FICO of 754 is Greater than the Guideline Minimum of 660.&nbsp;&nbsp;;
+    Borrower 1 has significant job time - Employer has 6.00 years on job ; Borrower has more than 2 years at current residence
+    - Borrower at current residence 4.00 years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">740551</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">TN</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Acknowledged</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">3433</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Number
+    of Mortgage Properties Exceeds Max Allowable Per Guidelines</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1/9/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/09/2020&nbsp;&nbsp;-
+    Change severity of 'Number of Mortgage Properties Exceeds Max Allowable Per Guidelines' from Material to Non-Material.; 01/09/2020&nbsp;&nbsp;-
+    Client provided guideline exception allowing for ownership of another property as the borrower intention is to sell the property
+    but will not have it sold before closing on the subjec transaction.&nbsp;&nbsp;Listing agreement was provided.&nbsp;&nbsp;;
+    01/09/2020&nbsp;&nbsp;- Number of Properties Exceeds Max Allowable Per Guidelines.&nbsp;&nbsp;Per guidelines, borrower is
+    not allowed to own any other property and borrower owns a property in the REO section.&nbsp;&nbsp;; 01/09/2020&nbsp;&nbsp;-
+    Change status of 'Number of Mortgage Properties Exceeds Max Allowable Per Guidelines' from Active to Acknowledged by Client.;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">04/01/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">04/01/2020&nbsp;&nbsp;-
+    Client elects to waive based on compensating factors.</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Waiver</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Client</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Calculated
+    DTI is Less than the Guideline Maximum - Calculated DTI of 7.56 is less than the Guideline DTI of 43.00. ; Qualifying FICO
+    is Greater than the Guideline Minimum - Qualifying FICO of 754 is Greater than the Guideline Minimum of 660.&nbsp;&nbsp;;
+    Borrower 1 has significant job time - Employer has 6.00 years on job ; Borrower has more than 2 years at current residence
+    - Borrower at current residence 4.00 years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">740551</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">TN</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Acknowledged</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">3464</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Downpayment
+    source is from an unacceptable source</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1/9/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/09/2020&nbsp;&nbsp;-
+    Change severity of 'Downpayment source is from an unacceptable source' from Material to Non-Material.; 01/09/2020&nbsp;&nbsp;-
+    Downpayment source is from an unacceptable source.&nbsp;&nbsp;Funds to close and reserves are from the borrower's business
+    account which is not allowed per guideline.&nbsp;&nbsp;Additionally, account has a joint owner who is not on the loan which
+    is not allowed per guidelines. ; 01/09/2020&nbsp;&nbsp;- Change status of 'Downpayment source is from an unacceptable source'
+    from Active to Acknowledged by Client.; 01/09/2020&nbsp;&nbsp;- Client provided guideline exception allowing for funds to
+    close and reserves to be sourced from the borrowers business account.&nbsp;&nbsp;Additionally, waiver was allowed for the
+    account having a joint owner who is not on the loan because the joint owner is the borrower's wife.&nbsp;&nbsp;;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">04/01/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">04/01/2020&nbsp;&nbsp;-
+    Client elects to waive based on compensating factors.</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Waiver</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Client</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Calculated
+    DTI is Less than the Guideline Maximum - Calculated DTI of 7.56 is less than the Guideline DTI of 43.00. ; Qualifying FICO
+    is Greater than the Guideline Minimum - Qualifying FICO of 754 is Greater than the Guideline Minimum of 660.&nbsp;&nbsp;;
+    Borrower 1 has significant job time - Employer has 6.00 years on job ; Borrower has more than 2 years at current residence
+    - Borrower at current residence 4.00 years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">740545</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">TX</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Cleared</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">871</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Hazard
+    Insurance Indicator is Partial</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1/8/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/08/2020&nbsp;&nbsp;-
+    Hazard insurance indicator is Partial.&nbsp;&nbsp;Cover page of insurace dec was provided to show effective dates and policy
+    premium but remainder of pages showing coverage amounts is missing.&nbsp;&nbsp;;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/13/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/13/2020&nbsp;&nbsp;-
+    Hazard insurance indicator is Present.&nbsp;&nbsp;Client provided full hazard declaration pages.&nbsp;&nbsp;No issues found
+    with policy.&nbsp;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Borrower
+    1 has significant job time - Employer has 30.00 years on job ; Borrower has more than 2 years at current residence - Borrower
+    at current residence 29.00 years ; Borrower Years On Job Exceeds 10 Years - Borrower Years On Job Exceeds 10 Years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">740545</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">TX</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Acknowledged</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">3464</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Downpayment
+    source is from an unacceptable source</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1/8/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">01/08/2020&nbsp;&nbsp;-
+    Change status of 'Downpayment source is from an unacceptable source' from Active to Acknowledged by Client.; 01/08/2020&nbsp;&nbsp;-
+    Client provided guideline exception allowing for the use of a business account to source funds to close and reserves.&nbsp;&nbsp;;
+    01/08/2020&nbsp;&nbsp;- Change severity of 'Downpayment source is from an unacceptable source' from Material to Non-Material.;
+    01/08/2020&nbsp;&nbsp;- Downpayment source is from an unacceptable source.&nbsp;&nbsp;All funds for cash to close and reserves
+    are sourced from the borrower's business account which is not allowed per guidelines.&nbsp;&nbsp;;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">04/01/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">04/01/2020&nbsp;&nbsp;-
+    Client elects to waive based on compensating factors.</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Waiver</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Client</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Borrower
+    1 has significant job time - Employer has 30.00 years on job ; Borrower has more than 2 years at current residence - Borrower
+    at current residence 29.00 years ; Borrower Years On Job Exceeds 10 Years - Borrower Years On Job Exceeds 10 Years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">742830</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">CA</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Acknowledged</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1257</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Borrower
+    Employment Verification does not match Approval</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">2/25/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">02/25/2020&nbsp;&nbsp;-
+    The borrower employment verification does not match the approval.&nbsp;&nbsp;Unable to document borrower's previous employment
+    due to previous employer being dissolved.&nbsp;&nbsp;Client provided guideline exception allowing for this based on DTI under
+    36%, 70% LTV vs max of 90%, 14 months reserves vs 4 months required and residual income of $1,250.&nbsp;&nbsp;Document is
+    unsigned by the required lender parties. ;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">03/03/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">03/03/2020&nbsp;&nbsp;-
+    Change severity of 'Borrower Employment Verification does not match Approval' from Material to Non-Material.; 03/03/2020&nbsp;&nbsp;-
+    Change status of 'Borrower Employment Verification does not match Approval' from Active to Acknowledged by Client.; 03/03/2020&nbsp;&nbsp;-
+    Based on lender policy for guideline exceptions, form needs to be signed solely by UW Lead, UW MGR or Executive MGR.&nbsp;&nbsp;Form
+    in file is signed by UW MGR and is acceptable.&nbsp;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Waiver</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Client</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Calculated
+    DTI is Less than the Guideline Maximum - Calculated DTI of 30.89 is less than the Guideline DTI of 50.00. ; Qualifying FICO
+    is Greater than the Guideline Minimum - Qualifying FICO of 728 is Greater than the Guideline Minimum of 0.&nbsp;&nbsp;; Borrower
+    has more than 2 years at current residence - Borrower at current residence 10.00 years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">742830</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">CA</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Acknowledged</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">2578</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Housing
+    history does not meet guidelines</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">2/25/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">02/25/2020&nbsp;&nbsp;-
+    Housing history does not meet guidelines.&nbsp;&nbsp;Borrowers pay cash for rent and, as such, can not produce cancelled checks
+    for current rental history as required by guidelines.&nbsp;&nbsp;Client provided guideline exception allowing for this based
+    on DTI under 36%, 70% LTV vs max of 90%, 14 months reserves vs 4 months required and residual income of $1,250.&nbsp;&nbsp;Document
+    is unsigned by the required lender parties. ;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">03/03/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">03/03/2020&nbsp;&nbsp;-
+    Change severity of 'Housing history does not meet guidelines' from Material to Non-Material.; 03/03/2020&nbsp;&nbsp;- Based
+    on lender policy for guideline exceptions, form needs to be signed solely by UW Lead, UW MGR or Executive MGR.&nbsp;&nbsp;Form
+    in file is signed by UW MGR and is acceptable.&nbsp;&nbsp;; 03/03/2020&nbsp;&nbsp;- Change status of 'Housing history does
+    not meet guidelines' from Active to Acknowledged by Client.</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Waiver</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Client</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Calculated
+    DTI is Less than the Guideline Maximum - Calculated DTI of 30.89 is less than the Guideline DTI of 50.00. ; Qualifying FICO
+    is Greater than the Guideline Minimum - Qualifying FICO of 728 is Greater than the Guideline Minimum of 0.&nbsp;&nbsp;; Borrower
+    has more than 2 years at current residence - Borrower at current residence 10.00 years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">742830</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">CA</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Acknowledged</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">B</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">3415</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Loan
+    amount is less than the minimum required loan amount</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">2/25/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">02/25/2020&nbsp;&nbsp;-
+    Loan amount of xxxxxx is less than the minimum required loan amount of 150000.00.&nbsp;&nbsp;Client provided guideline exception
+    allowing for this based on DTI under 36%, 70% LTV vs max of 90%, 14 months reserves vs 4 months required and residual income
+    of $1,250.&nbsp;&nbsp;Document is unsigned by the required lender parties. ;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">03/03/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">03/03/2020&nbsp;&nbsp;-
+    Change severity of 'Loan amount is less than the minimum required loan amount' from Material to Non-Material.; 03/03/2020&nbsp;&nbsp;-
+    Based on lender policy for guideline exceptions, form needs to be signed solely by UW Lead, UW MGR or Executive MGR.&nbsp;&nbsp;Form
+    in file is signed by UW MGR and is acceptable.&nbsp;&nbsp;; 03/03/2020&nbsp;&nbsp;- Change status of 'Loan amount is less
+    than the minimum required loan amount' from Active to Acknowledged by Client.</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Waiver</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Client</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-left-color: Black; border-top-width: 0.5pt; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Calculated
+    DTI is Less than the Guideline Maximum - Calculated DTI of 30.89 is less than the Guideline DTI of 50.00. ; Qualifying FICO
+    is Greater than the Guideline Minimum - Qualifying FICO of 728 is Greater than the Guideline Minimum of 0.&nbsp;&nbsp;; Borrower
+    has more than 2 years at current residence - Borrower at current residence 10.00 years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 0.5pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">742829</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">xxxxxx</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">CA</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Cleared</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">C</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">A</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Credit</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">1257</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Borrower
+    Employment Verification does not match Approval</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">2/18/2020</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">02/18/2020&nbsp;&nbsp;-
+    The borrower employment verification does not match the approval.&nbsp;&nbsp;No VVOE for Borrower 1 xxxxxx.&nbsp;&nbsp;;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">02/21/2020&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">02/21/2020&nbsp;&nbsp;-
+    The borrower employment verification does match the approval.&nbsp;&nbsp;VOE was provided for borrower 1 xxxxxx.&nbsp;&nbsp;No
+    issues were found with content or dates of documents.&nbsp;&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 0.5pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">Qualifying
+    FICO is Greater than the Guideline Minimum - Qualifying FICO of 695 is Greater than the Guideline Minimum of 0.&nbsp;&nbsp;;
+    Borrower has more than 2 years at current residence - Borrower at current residence 12.00 years&nbsp;</FONT></TD>
+    <TD DIR="LTR" STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; text-align: left; border-top-color: Black; border-top-width: 0.5pt; border-left-color: Black; border-left-width: 0.5pt"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
