@@ -1,0 +1,880 @@
+<DOCUMENT>
+<TYPE>EX-99.5
+<SEQUENCE>6
+<FILENAME>tm206850d1_ex99-5.htm
+<DESCRIPTION>CLAYTON RATING AGENCY ATR QM DATA FIELDS
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.5</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Name:</TD>
+    <TD STYLE="font-weight: bold; text-align: left">Deephaven</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Project Name:</TD>
+    <TD STYLE="font-weight: bold; text-align: left">DRMT 2020-1</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Start - End Dates:</TD>
+    <TD STYLE="font-weight: bold; text-align: left">8/7/2019 - 11/11/2019</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Deal Loan Count:</TD>
+    <TD STYLE="font-weight: bold; text-align: left">32</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="width: 20%">&nbsp;</TD>
+    <TD STYLE="width: 80%">&nbsp;</TD>
+    </TR>
+<TR STYLE="font-size: 12pt; vertical-align: top; background-color: white">
+    <TD COLSPAN="2" STYLE="font-size: 12pt; font-weight: bold; text-align: left"><FONT STYLE="font-size: 12pt">Rating Agency ATR QM Data Fields</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    </TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-style: italic; text-align: left">Loans in Report:&nbsp;</TD>
+    <TD STYLE="font-style: italic; text-align: left">32</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: middle; background-color: #3366FF">
+    <TD STYLE="font-size: 8pt; color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Loan
+    Number</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Loan
+    Level ATR/QM Status</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Application
+    Date Prior to 1/10/2014</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">TRID
+    Indicator</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Lender
+    Application Date</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Broker
+    Application Date</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">GSE
+    Eligible</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: white; font-weight: bold; border-top: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">QRM
+    Flag</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">6412189550</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">0879901530</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">1022952874</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">8219747915</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">9190881021</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">ATR/QM:
+    Exempt</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Pre-TRID</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">9456167533</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">7948032212</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">8762377625</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">QM:
+    Safe Harbor</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">1639126043</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">QM:
+    Rebuttable Presumption</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">8601150818</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">3931001850</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">QM:
+    Rebuttable Presumption</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">5365104290</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">7055863215</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">QM:
+    Rebuttable Presumption</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">2128926767</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">5602584384</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">8242997233</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">QM:
+    Rebuttable Presumption</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">5256750541</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">7512704551</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">1550391691</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">4373404255</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">ATR/QM:
+    Exempt</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">8232652172</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">ATR/QM:
+    Exempt</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">3432051519</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">4427286379</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">9048113406</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">7548590093</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">QM:
+    Rebuttable Presumption</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">4943336932</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">1145266676</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">2609703143</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">1244316193</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">QM:
+    Rebuttable Presumption</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">4364027445</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">7750718752</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+<TR STYLE="font-size: 8pt; vertical-align: middle; background-color: white">
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-size: 8pt">3150913245</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Non-QM:
+    Lender documented all ATR UW factors</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">Yes</FONT></TD>
+    <TD COLSPAN="2" STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font-size: 8pt; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font-size: 8pt; border-right: Silver 1pt solid; border-bottom: Silver 0.5pt solid; border-left: Silver 0.5pt solid; color: #25396E; text-align: left"><FONT STYLE="font-size: 8pt">No</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: middle; background-color: #3366FF">
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 9%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Loan
+    Number</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 6%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">ATR/QM
+    Total Points and Fees</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Rate
+    Lock Date</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">APR</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 9%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Bwr
+    1 Employment Indicator</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 9%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Bwr
+    2 Employment Indicator</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 9%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Bwr
+    1 Foreign National Indicator</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 36%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Bwr
+    2 Foreign National Indicator</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 6%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Residual
+    Income Analysis in File</FONT></TD>
+    <TD STYLE="font: bold 8pt Times New Roman, Times, Serif; color: white; border-top: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 6%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">ATR/QM
+    Residual Income</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6412189550</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">61195</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4.8435</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">0879901530</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">11250</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5.5516</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">1022952874</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7145</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5.2907</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">8219747915</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">11695</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5.0924</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">9190881021</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">0</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5.125</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">9456167533</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">12786.14</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4.652</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Unemployed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7948032212</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">24602.5</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.0958</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">8762377625</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">28740.16</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4.8705</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">1639126043</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">14485.5</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.3962</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">8601150818</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">2684</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">8.3579</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">3931001850</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6810</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.2904</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5365104290</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">19375</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.1472</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7055863215</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6270.88</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.7931</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Retired</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">2128926767</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">15305</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.2713</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5602584384</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6399.4</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.0225</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">8242997233</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">2047.54</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.5179</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Retired</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5256750541</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4720.2</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.2981</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7512704551</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">2588.65</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.9749</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">1550391691</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4641</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.7841</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4373404255</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">0</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">8232652172</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">0</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">3432051519</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4380</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.0467</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4427286379</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">706.95</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.9408</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">9048113406</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">3439.48</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.1247</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7548590093</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">3511.6</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.4575</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Unemployed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4943336932</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5920</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.0598</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">1145266676</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6525</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.8764</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">2609703143</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">3810.3</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">8.2533</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">1244316193</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5150.45</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.1399</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Unemployed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Permanent
+    Resident Alien</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">4364027445</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">0</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">5.6388</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7750718752</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">1590</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">6.8634</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">No</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+<TR STYLE="font: 8pt Times New Roman, Times, Serif; vertical-align: middle; background-color: white">
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">3150913245</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">18390</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">7.2075</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Employed</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">U.S.
+    Citizen</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">(No
+    Data)</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">Yes</FONT></TD>
+    <TD STYLE="font: 8pt Times New Roman, Times, Serif; color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">XXXXXX</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
