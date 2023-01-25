@@ -1,0 +1,1238 @@
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>29
+<FILENAME>efc20-658_ex993s9.htm
+<DESCRIPTION>SCHEDULE 9 - SUPPLEMENTAL DATA REPORT
+<TEXT>
+<html>
+<head>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head><body>
+<table border="1" align="left" cellpadding="1" cellspacing="0">
+<tr>
+<td width="130" align="left">Loan_Number</td>
+<td width="135" align="left">Account_Number</td>
+<td width="647" align="left">Guidelines</td>
+<td width="135" align="left">Bank Statement Type</td>
+<td width="136" align="left">Bank_Statements__B1_Indicator</td>
+<td width="137" align="left">Total_Months_Bank_Statements_Borrower (Year 1)</td>
+<td width="174" align="left">Total_Months_Bank_Statements_Borrower (Year 2)</td>
+<td width="119" align="left">Bank_Statements__CB_Indicator</td>
+<td width="152" align="left">Total_Months_Bank_Statements_CB_1</td>
+<td width="142" align="left">Total_Months_Bank_Statements_CB_2</td>
+<td width="130" align="left">Bank_Statements__B3_Indicator</td>
+<td width="152" align="left">Total_Months_Bank_Statements_B3_1</td>
+<td width="211" align="left">Total_Months_Bank_Statements_B3_2</td>
+<td width="139" align="left">Bank_Statements__B4_Indicator</td>
+<td width="133" align="left">Total_Months_Bank_Statements_B4_1</td>
+<td width="106" align="left">Total_Months_Bank_Statements_B4_2</td>
+<td width="152" align="left">Borrower_Bank_Statement_Income</td>
+<td width="140" align="left">Borrower_Bank_Statement_Income_3</td>
+<td width="118" align="left">Borrower_Bank_Statement_Income_4</td>
+<td width="162" align="left">All_Borrower_Bank_Statement_Income</td>
+<td width="157" align="left">Profit_Loss_Indicator</td>
+<td width="130" align="left">Debt_Service_Ratio_Loan_Indicator</td>
+<td width="154" align="left">Debt_Service_Qualifying_Income</td>
+<td width="108" align="left">DSCR_Operating_Expense</td>
+<td width="110" align="left">DSCR_Guideline_Comparison</td>
+<td width="145" align="left">DSCR_Ratio_Output</td>
+<td width="118" align="left">Qualifying_Pymt_Considered</td>
+<td width="148" align="left">Subject Property Address</td>
+<td width="126" align="left">City</td>
+<td width="120" align="left">State</td>
+<td width="121" align="left">Zip</td>
+<td width="142" align="left">Lease In Place Flag</td>
+<td width="143" align="left">Actual In Place Rent</td>
+<td width="111" align="left">Third Party Market Rent Estimate</td>
+<td width="305" align="left">Comments</td>
+<td width="342" align="left">Income Doc Detail</td>
+<td width="352" align="left">B2 - Income Doc Detail</td>
+<td width="168" align="left">Expense Ratio (Only Bank Statement)</td>
+<td width="139" align="left">B1 - % of Business Ownership (Bank Statement loans)</td>
+<td width="128" align="left">B2 - % of Business Ownership (Bank Statement loans)</td>
+<td width="216" align="left">P&L Type (Bank Statement Loans)</td>
+<td width="122" align="left">Asset Depletion Flag</td>
+<td width="111" align="left">Modification Flag</td>
+<td width="124" align="left">Modification Effective Date</td>
+<td width="124" align="left">Modification First Payment Date</td>
+<td width="132" align="left">Modification Maturity Date</td>
+<td width="181" align="left">Modification Type</td>
+<td width="132" align="left">Modified Principal Balance</td>
+<td width="88" align="left">Modified P&I</td>
+<td width="106" align="left">Modified Interest Rate</td>
+<td width="121" align="left">Deferred Balance</td>
+</tr>
+<tr>
+<td width="130" align="left">300020017463</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Agency</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">&nbsp;</td>
+<td width="126" align="left">&nbsp;</td>
+<td width="120" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2017-2019 WVOE, 401k Earnings Statement</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">300020010994</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Agency</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">&nbsp;</td>
+<td width="126" align="left">&nbsp;</td>
+<td width="120" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2017-2018 W2, 2017-2019 WVOE, 2 months pay stubs</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">20042001762163</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Verus Mortgage Capital - Pre Close Review Req'd - BestEfforts* - NonQM - Credit Ascent Grade A 30 Yr Fixed - EG (Alt-A)</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2018-2019 W2, 2 months pay stubs</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">20281908635939</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM - SP M4 Moderate Credit, Bank Statement 30 Yr Fixed - EG</td>
+<td width="135" align="left">Business</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="left">12</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">6634.59</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">6634.59</td>
+<td width="157" align="left">Yes</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">24 months Bank statements</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="right">46.02</td>
+<td width="139" align="left">100%</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">CPA</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">33322001747342</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mtg - CCM Does Not UW - BestEfforts* - NonQM SP A5 Income per Bank Statements 30 Yr Fixed - EG (Alt-A)</td>
+<td width="135" align="left">Business</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="right">0</td>
+<td width="119" align="left">No</td>
+<td width="152" align="right">0</td>
+<td width="142" align="right">0</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">9900.19</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">9900.19</td>
+<td width="157" align="left">No</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">12 Months Bank statements</td>
+<td width="352" align="left">2018-2019 W2s, 2 months pay stubs</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">100%</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">CPA</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">34372001739392</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM - SP J8 Jumbo Prime 5/1 ARM - EG</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2018 W-2, 2018 SSA-1099, 2 months pay stubs, 24 months Retirement/SSI</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">37011912731400</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM - SP I5 Debt Service Coverage 5/1 ARM - EG</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">Yes</td>
+<td width="154" align="left">1450.00</td>
+<td width="108" align="right">0</td>
+<td width="110" align="right">0.8</td>
+<td width="145" align="left">1.742264944</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">Yes</td>
+<td width="143" align="right">$1,600.00</td>
+<td width="111" align="right">$1,450.00</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">Other (24 months Non-Sched E Rental Income)</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">37231911713390</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM - SP J8 Jumbo Prime 5/1 ARM - EG</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">33 months WVOE</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">38052001747639</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Galton Capital - Pre Close Review Req'd - BestEfforts* - NonQM - JMB A+ Full Doc 30 Yr Fixed First Liens (Alt-A)</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="right">0</td>
+<td width="108" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="145" align="right">0</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2018-2019 W-2, 2017-2018 1040 returns, 3 months pay stubs</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">40412002783569</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mtg - CCM Does Not UW - BestEfforts* - NonQM SP P2 High Prime - Bank Statement 30 Yr Fixed - EG (Alt-A)</td>
+<td width="135" align="left">Personal</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="right">0</td>
+<td width="119" align="left">No</td>
+<td width="152" align="right">0</td>
+<td width="142" align="right">0</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">6672.21</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">6672.21</td>
+<td width="157" align="left">No</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">12 Months Bank Statements</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="right">35.014</td>
+<td width="139" align="left">50%</td>
+<td width="128" align="left">50%</td>
+<td width="216" align="left">P&L not found in file. A letter from Borrower's CPA is included in the file</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">40471912724414</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">SG Capital - Pre Close Review Req'd - BestEfforts* - NonQM - EA Plus 30 Yr Fixed - EG</td>
+<td width="135" align="left">Business</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="right">0</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">9444.00</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">9444.00</td>
+<td width="157" align="left">No</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="right">0</td>
+<td width="108" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="145" align="right">0</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">12 Months Bank Statements</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="right">48.789</td>
+<td width="139" align="left">50%</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">Self Prepared</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">40472001754095</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Redwood - BestEfforts* - (No MI Required) Jumbo Select Non QM - 30 Year Fixed Rate (Jumbo)</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="right">0</td>
+<td width="108" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="145" align="right">0</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2017-2019 W2, 12 months Pay Stubs,2017-2018 1040</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">40761912725278</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Galton Capital - Pre Close Review Req'd - BestEfforts* - NonQM - JMB A+ Full Doc 30 Yr Fixed First Liens</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">No</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Yes</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="right">0</td>
+<td width="108" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="145" align="right">0</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2017-2018 W2, 2017-2018 K1, 2 months pay stubs, 2017-2018 1040,</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">56041908652427</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Galton Capital - Pre Close Review Req'd - BestEfforts* - NonQM - Expanded A+ Alt/Reduced Doc 30 Yr Fixed First Lien - EG (2019 Matrix)</td>
+<td width="135" align="left">Business</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="right">0</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">23781.12</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">23781.12</td>
+<td width="157" align="left">No</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="right">0</td>
+<td width="108" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="145" align="right">0</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">12 Months Bank Statements</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="right">25.257</td>
+<td width="139" align="left">100%</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">CPA</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">Yes</td>
+<td width="124" align="right">8/8/2006</td>
+<td width="124" align="right">10/1/2016</td>
+<td width="132" align="right">9/1/2036</td>
+<td width="181" align="left">Consolidated/Extension Modification</td>
+<td width="132" align="right">503000</td>
+<td width="88" align="left">3179.30</td>
+<td width="106" align="right">6.5</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">56041911716617</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM SP J8 Jumbo Prime 30 Yr Fixed - EG</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2018 W-2 and 1040, two months bank statements, 24 months VVOE</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">56061910691278</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">SG Capital - Pre Close Review Req'd - BestEfforts* - NonQM - EA Plus 30 Yr Fixed - EG</td>
+<td width="135" align="left">Personal</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="right">12</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">3249.17</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">3249.17</td>
+<td width="157" align="left">Yes</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">24 months Bank statements</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="right">42.921</td>
+<td width="139" align="left">100%</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">Self Prepared</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">56131910693539</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM - SP A5 Income per Bank Statements 30 Yr Fixed - EG</td>
+<td width="135" align="left">Business</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="right">0</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">1189235.44</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">1189235.44</td>
+<td width="157" align="left">No</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">12 Months Bank Statements</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="right">4.777</td>
+<td width="139" align="left">100%</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">P&L not found in file. A letter from Borrower's CPA is included in the file</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">56151909669486</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM - SP A5 Income per Bank Statements 5/1 ARM - EG</td>
+<td width="135" align="left">Business</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="right">0</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">28806.87</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">28806.87</td>
+<td width="157" align="left">No</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">12 Months Bank Statements</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="right">36.678</td>
+<td width="139" align="left">90%</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">P&L not found in file. A letter from Borrower's CPA is included in the file</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">56161911701850</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM - SP I5 Debt Service Coverage 30 Yr Fixed - EG</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">Yes</td>
+<td width="154" align="right">5300</td>
+<td width="108" align="right">0</td>
+<td width="110" align="right">1</td>
+<td width="145" align="left">1.0869394314965</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">Month-to-Month</td>
+<td width="143" align="right">$1,800.00</td>
+<td width="111" align="right">$5,300.00</td>
+<td width="305" align="left">2 unit property, 1 unit is vacant, one unit is occupied on month to month lease per appraisal. Actual lease not in file.</td>
+<td width="342" align="left">Dividend Income, two months statements</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">56201909670546</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Sprout Mortgage - CCM Does Not UW - BestEfforts* - NonQM - SP A5 Income per Bank Statements 5/1 ARM - EG</td>
+<td width="135" align="left">Business</td>
+<td width="136" align="left">Yes</td>
+<td width="137" align="right">12</td>
+<td width="174" align="right">0</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">17995.68</td>
+<td width="140" align="right">0</td>
+<td width="118" align="right">0</td>
+<td width="162" align="left">17995.68</td>
+<td width="157" align="left">No</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">12 Months Bank Statements, per Company</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="right">21.039</td>
+<td width="139" align="left">100%</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">P&L not found in file. A letter from Borrower's CPA is included in the file</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">71011910682748</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">Redwood - BestEfforts* - (No MI Required) Jumbo Select Non QM - 30 Year Fixed Rate (Jumbo)</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">No</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="right">0</td>
+<td width="108" align="right">0</td>
+<td width="110" align="right">0</td>
+<td width="145" align="right">0</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">2018 W2, 2018 and YTD Paystub, 2016-2018 Tax Return Transcripts</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">No</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="130" align="left">72532002771544</td>
+<td width="135" align="left">XXXXXXXX</td>
+<td width="647" align="left">SG Capital - Pre Close Review Req'd - BestEfforts* - NonQM - EA Plus 30 Yr Fixed - EG (Alt-A)</td>
+<td width="135" align="left">&nbsp;</td>
+<td width="136" align="left">No</td>
+<td width="137" align="left">&nbsp;</td>
+<td width="174" align="left">&nbsp;</td>
+<td width="119" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="211" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="133" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="152" align="left">&nbsp;</td>
+<td width="140" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="162" align="left">&nbsp;</td>
+<td width="157" align="left">Not Applicable</td>
+<td width="130" align="left">&nbsp;</td>
+<td width="154" align="left">&nbsp;</td>
+<td width="108" align="left">&nbsp;</td>
+<td width="110" align="left">&nbsp;</td>
+<td width="145" align="left">&nbsp;</td>
+<td width="118" align="left">&nbsp;</td>
+<td width="148" align="left">XXXXXXX</td>
+<td width="126" align="left">XXXXXXX</td>
+<td width="120" align="left">XX</td>
+<td width="121" align="left">XXXXXXX</td>
+<td width="142" align="left">&nbsp;</td>
+<td width="143" align="left">&nbsp;</td>
+<td width="111" align="left">&nbsp;</td>
+<td width="305" align="left">&nbsp;</td>
+<td width="342" align="left">SSI Award Letter 2019-2020, Asset Depletion loan</td>
+<td width="352" align="left">&nbsp;</td>
+<td width="168" align="left">&nbsp;</td>
+<td width="139" align="left">&nbsp;</td>
+<td width="128" align="left">&nbsp;</td>
+<td width="216" align="left">&nbsp;</td>
+<td width="122" align="left">Yes</td>
+<td width="111" align="left">No</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="124" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="181" align="left">&nbsp;</td>
+<td width="132" align="left">&nbsp;</td>
+<td width="88" align="left">&nbsp;</td>
+<td width="106" align="left">&nbsp;</td>
+<td width="121" align="left">&nbsp;</td>
+</tr>
+<tr>
+</tr></table>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
