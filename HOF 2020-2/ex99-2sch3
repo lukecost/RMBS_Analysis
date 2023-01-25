@@ -1,0 +1,135 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>10
+<FILENAME>ex99-2sch3.htm
+<DESCRIPTION>LOAN LEVEL TAPE COMPARE REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin-bottom: 0pt"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin-bottom: 0pt"><A HREF="hof-abs15g_062420.htm">HOF 2020-2 DEPOSITOR LLC ABS-15G</A></P>
+
+<P STYLE="text-align: right">Exhibit 99.2 - Schedule 3</P>
+
+
+<P STYLE="margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="white-space: nowrap; width: 20%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><B>Client Name:</B></FONT></TD>
+    <TD STYLE="white-space: nowrap; width: 80%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><B>Client Project Name:</B></FONT></TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><B>HOF 2020-2</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><B>Start - End Dates:</B></FONT></TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><B>2/15/2017 - 6/5/2020</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><B>Deal Loan Count:</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><B>11 </B></FONT></TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><B>Loan Level Tape Compare Upload</B></FONT><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><I>Loans in Report</I></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 8pt"><I>11 </I></FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle; background-color: blue">
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 15%">Loan Number</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 13%">Borrower Last Name</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 22%">Field Name</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 27%">Tape Data</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 23%">Reviewer Data</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">431120645</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">ATR/QM Status</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">QM: Safe Harbor</TD>
+    <TD STYLE="color: #25396E; border-top: #A6A6A6 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">431120381</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Loan Purpose</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Rate and Term Refi</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">Cashout Refi</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">431024224</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Alt Doc/Bank Statements</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">Full Doc</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">431024224</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original Term</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; border-top-color: silver; border-top-width: 0.5pt">XXXXX</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">431120639</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Alt Doc/Bank Statements</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: #A6A6A6 0.5pt solid; border-left: #A6A6A6 0.5pt solid; text-align: left">Full Doc</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">431120645</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">ATR/QM Status</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">QM: Safe Harbor</TD>
+    <TD STYLE="color: #25396E; border-top: silver 0.5pt solid; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Non-QM: Lender documented all ATR UW factors</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">431120381</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Loan Purpose</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Rate and Term Refi</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; border-top-color: silver; border-top-width: 0.5pt">Cashout Refi</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">431120640</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">XXXXX</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Alt Doc/Bank Statements</TD>
+    <TD STYLE="color: #25396E; border-right: #A6A6A6 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Full Doc</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; padding-top: 6pt; padding-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
