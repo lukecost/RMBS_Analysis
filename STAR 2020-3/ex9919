@@ -1,0 +1,915 @@
+<DOCUMENT>
+<TYPE>EX-99.19
+<SEQUENCE>20
+<FILENAME>efc20-568_ex9919.htm
+<DESCRIPTION>NDA DATA COMPARE REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00002.jpg">
+    <div><br>
+    </div>
+    <div>
+      <div style="line-height: 10.25pt; color: #000000; font-style: italic; font-weight: bold;">This document is proprietary and confidential. No part of this document may be disclosed in any manner to any third party whatsoever without the prior written
+        consent of New Diligence Advisors LLC.</div>
+    </div>
+  </div>
+  <div id="DSPFPageHeader"></div>
+  <div><br>
+  </div>
+  <div>
+    <table cellspacing="0" cellpadding="2" border="0" id="z33ba8c791c864baea4d4cd8cff80788d" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 14.88%; vertical-align: middle; background-color: #B8CCE4; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 10.25pt; font-weight: bold;">Customer Loan Id</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: middle; background-color: #B8CCE4; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 10.25pt; font-weight: bold;">Data Field</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: middle; background-color: #B8CCE4; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 10.25pt; font-weight: bold;">Bid Tape Field Value</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: middle; background-color: #B8CCE4; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 10.25pt; font-weight: bold;">Vendor Field Value</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: middle; background-color: #B8CCE4; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 10.25pt; font-weight: bold;">Comment</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: middle; background-color: #B8CCE4; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 10.25pt; font-weight: bold;">Seller Response</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: middle; background-color: #B8CCE4; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 10.25pt; font-weight: bold;">Vendor Rebuttal</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0331</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">52.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">51.948%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Verified with valuations.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0331</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">36.740%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">36.577%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0793</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original Appraisal Date</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">The appraisal is dated XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0793</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">46.030%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">22.882%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">The AMEX monthly payment was excluded per the guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX5511</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">20.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">19.615%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Validated audit value.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX5511</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">26.540%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">39.306%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX1894</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">71.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">70.149%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Verified with valuations.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX1894</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">18.090%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">16.679%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX3327</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">34.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">33.602%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Verified with valuations.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX3327</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original Appraised Value</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">The value on the appraisal is $XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0087</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">68.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">67.319%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">LTV of 67.319% verified by Note and Appraisal</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0087</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">45.130%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">45.087%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio is verified by Income and Credit Report</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX1102</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">7.700%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">7.662%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">BorrowerDTI of 7.662% is verified by the Credit Report and Income Docs</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0416</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">30.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">29.070%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">29.070% LTV is verified by the Appraisal</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0416</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">22.510%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">19.509%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">22.515% DTI is verified by the income docs and credit report.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX6210</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original Appraisal Date</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Appraisal is dated XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX6210</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">13.910%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">12.121%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">This is correct based on re-calculation with documentation in file.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0220</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">44.410%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">38.946%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX3373</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">40.620%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">40.744%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX3500</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">22.950%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">20.120%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">20.12% based on the documentation in file.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX2619</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">17.490%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">23.081%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Correct DTI per income and credit docs, DTI is within GL's.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0260</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">47.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">46.805%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Verified with valuations.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0260</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original Appraisal Date</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value: Appraisal date confirmed tape data date confirmed as CDA.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX6648</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original Appraisal Date</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">The appraisal is dated XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX6648</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">39.790%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">36.246%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">DTI Ratio of 39.745% is verified by the Credit Report and Income documents</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX2023</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">40.890%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">40.840%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX2024</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">46.410%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">49.025%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0439</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">41.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">40.737%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">LTV ratio of 40.731% verified by the Appraisal</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX2643</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">25.930%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">22.352%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX4721</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">31.970%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">30.937%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX1017</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">4.670%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">3.559%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">DTI Ratio Percent of 3.599% is verified by Income documents and ,Credit Report</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0397</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">44.070%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">42.757%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value DTI is 42.57%, as confirmed by income and debts; Tape value DTI is 44.07% - file u/w included TI from subject property
+              in debt calculation. DTI meets lender guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0426</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original Appraisal Date</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Appraisal date verified with the appraisal</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0426</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">24.570%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">24.419%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original Appraisal Date of XXX was verified by Original Appraisal</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0794</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original LTV Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">56.000%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">55.797%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Verified with valuations.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0794</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Original Appraisal Date</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XX/XX/XXX</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Based on the appraisal in file date</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 14.88%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">XXXXXXXX0794</div>
+          </td>
+          <td style="width: 10.7%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Borrower DTI Ratio Percent</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">46.030%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">44.890%</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">Audit value validated, within guidelines.</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+          <td style="width: 14.88%; vertical-align: top; border-right: #000000 2px solid; border-bottom: #000000 2px solid;">
+            <div style="line-height: 9.1pt;">&#160;</div>
+          </td>
+        </tr>
+
+    </table>
+  </div>
+  <div> </div>
+  <div style="line-height: 15.75pt;"><br style="line-height: 15.75pt;">
+  </div>
+  <div style="line-height: 15.75pt">&#160;</div>
+  <div id="DSPFPageFooter"></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
