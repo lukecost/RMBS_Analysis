@@ -1,0 +1,890 @@
+<DOCUMENT>
+<TYPE>EX-99.1(4)
+<SEQUENCE>6
+<FILENAME>e4400ex99-1sch4.htm
+<DESCRIPTION>VALUATION SUMMARY REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Valuation Summary Report -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002EE0,0x00004B00,0x00002EE0,0x00004B00,0x00007080,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00002580,0x00000000,0x0002B944 -->
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Verdana, Helvetica, Sans-Serif">
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; border-left: black 1pt solid; text-align: left">TPR Firm:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; text-align: left">EdgeMAC</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; text-align: left">Date Submitted:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; border-right: black 1pt solid; text-align: left">3/11/2019</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-left: black 1pt solid; text-align: left">Client Name:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; text-align: left">Sprout</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; text-align: left">Report:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-right: black 1pt solid; text-align: left">Valuation Summary Report</TD>
+    <TD COLSPAN="34" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: left">Client Project:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; text-align: left">HOF 2019-1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; text-align: left">Loans in report:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: left">20</TD>
+    <TD COLSPAN="34" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="37" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="38" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" BORDERCOLOR="Silver" STYLE="width: 100%; border-collapse: collapse; font: 10pt Verdana, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Report Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Edge MAC ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Seller Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Originator</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Origination Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Original Loan Amount</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Sales Price</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Original Appraised Property Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Original Property Valuation Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Property Value Used for Loan to Value1</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Second Appraisal/ Valuation Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Second Appraisal/ Valuation Variance Amount</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Second Appraisal/ Valuation Percent</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Second Appraisal/ Valuation Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Second Appraisal/ Valuation Type</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Second Full Appraisal Property Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Second Full Appraisal Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Second Full Appraisal Type</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Original Automated Valuation Model AVM Model Name</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Original AVM Confidence Score</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Desk Review Property Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Variance Percent</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Desk Review Risk Score</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Desk Review Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Form 2055 Appraisal Property Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Form 2055 Appraisal Appraisal Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Original Automated Valuation Model AVM Property Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Original Automated Valuation Model AVM Appraisal Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Broker s Price Opinion BPO Property Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Broker s Price Opinion BPO Appraisal Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Most Recent Property Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Most Recent Property Valuation Type</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Most Recent Property Valuation Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Most Recent AVM Model Name</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Most Recent AVM Confidence Score</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; background-color: #07292F">Collateral Underwriter Risk Score</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1806006375</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">6/11/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">($5,000.00)</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">-1%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">6/14/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">-0.89 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Low</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">6/14/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">6/14/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1806006435</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">5/22/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">6/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Low</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">6/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">6/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1808008174</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">9/5/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">9/11/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Low</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">9/11/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">9/11/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1808008188</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">8/23/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">9/5/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">9/5/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">9/5/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1809009591</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">10/5/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">10/18/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">10/18/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">10/18/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1810009697</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">10/22/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/8/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/8/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/8/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1810010106</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">10/30/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/7/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Low</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/7/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/7/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1810010113</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">10/29/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/8/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/8/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/8/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1810010352</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">10/26/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/7/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/7/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/7/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1810010429</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/5/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/9/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Low</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/9/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/9/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1810010489</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/6/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/9/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Low</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/9/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/9/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1811010999</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/16/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/26/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Low</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/26/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/26/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1811011067</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">11/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/3/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/3/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/3/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1811011381</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/8/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1811011689</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/14/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/20/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/20/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/20/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1811011830</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/18/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/2/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/2/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/2/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1811011840</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/11/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/19/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1812012253</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">12/28/2018</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/3/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/3/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/3/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1812012385</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/4/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/17/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/17/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/17/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">3/11/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">1812012643</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/8/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">$0.00</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">0%</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/17/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">0.00 %</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">Moderate</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/17/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">xxxxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">CDA</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom; text-align: right">1/17/2019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; padding-top: 6pt; padding-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
