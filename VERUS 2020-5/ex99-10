@@ -1,0 +1,347 @@
+<DOCUMENT>
+<TYPE>EX-99.10
+<SEQUENCE>11
+<FILENAME>tm2032552d1_ex99-10.htm
+<DESCRIPTION>CLAYTON LOAN LEVEL TAPE COMPARE UPLOAD
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>EXHIBIT 99.10 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Clayton
+Loan Level Tape Compare Upload</B></FONT></P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Name:</TD>
+    <TD COLSPAN="3" STYLE="text-align: left">Verus</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Client Project Name:</TD>
+    <TD COLSPAN="3" STYLE="text-align: left">Verus 2020-5</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Start - End Dates:</TD>
+    <TD COLSPAN="3" STYLE="text-align: left">4/2017 - 8/2020</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font-weight: bold; text-align: left">Deal Loan Count:</TD>
+    <TD COLSPAN="3" STYLE="text-align: left">74</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="width: 19%">&nbsp;</TD>
+    <TD STYLE="width: 38%">&nbsp;</TD>
+    <TD STYLE="width: 21%">&nbsp;</TD>
+    <TD STYLE="width: 22%">&nbsp;</TD></TR>
+<TR STYLE="background-color: white">
+    <TD COLSPAN="4" STYLE="font-weight: bold; vertical-align: top; text-align: left">Loan Level Tape Compare Upload</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: middle; background-color: blue">
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 19%">Loan Number</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 38%">Field Name</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 21%">Tape Data</TD>
+    <TD STYLE="color: white; font-weight: bold; border-top: silver 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; width: 22%">Reviewer Data</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">733697</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Loan Purpose</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Cashout Refi</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left; border-top-color: silver; border-top-width: 0.5pt">Rate and Term Refi</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">735978</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Self Employed Flag</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">735978</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2305.62</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2305.63</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">735986</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Alt Doc</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No Ratio</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">736678</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">47.2900</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">43.0732</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">736678</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Front)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">38.2500</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">34.0278</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">737989</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 1 Self Employed Flag</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">739821</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">39.8780</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">35.9641</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">739821</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Front)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">14.7540</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">10.7559</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">741612</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Self Employed Flag</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">741633</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 1 Self Employed Flag</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">741633</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">33.2470</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">27.8774</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">741633</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Front)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">30.5500</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">25.1824</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">742554</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">43.5170</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">39.0594</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">742554</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Front)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">31.0700</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">25.9219</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">743555</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">47.8020</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">45.5294</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">743555</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Front)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">12.8670</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">9.5818</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">744804</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Borrower 2 Self Employed Flag</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Yes</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">744804</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">28.1360</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">44.2656</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">744804</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Front)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">8.6850</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">14.7983</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746965</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">39.2430</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">36.8677</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746965</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Front)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">16.1000</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">12.3115</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">738477</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">32.5840</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">49.6876</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">738477</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Representative Credit Score for Grading</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">708</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">705</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">738498</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2601008.00</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2601.08</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">738502</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property City</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">xxxxxx</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">738502</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">SFR</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">738502</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Representative Credit Score for Grading</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">685</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">708</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746274</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Combined LTV</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">50</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">40</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746274</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original Appraised Value</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">xxxxxx</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">xxxxxx</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746274</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original LTV</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">50</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">40</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746274</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">SFR</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746275</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">38.7050</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">31.9456</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746276</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3 Family</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">747084</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4241.60</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3428.97</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">747085</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3141.34</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2360.77</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">747086</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Debt to Income Ratio (Back)</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">36.2360</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">42.4626</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">747086</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">6182.59</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">5175.96</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">747300</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2871.51</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2202.03</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">743874</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Alt Doc/Bank Statements</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Full Doc</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">743874</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4156.06</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3382.83</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">743874</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">SFR</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">745761</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Documentation Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Asset Depletion</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Alt Doc/Bank Statements</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">745761</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2967.88</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1806.88</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">745761</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Low Rise Condo (1-4)</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">High Rise Condo (9+)</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">745762</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">4983.82</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3802.20</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">745762</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">SFR</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746969</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1502.80</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">1034.40</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746969</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">SFR</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746969</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Representative Credit Score for Grading</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">698</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">695</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">747075</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Original P&amp;I</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">3194.44</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">2486.44</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">747075</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Property Type</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Detached PUD</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">SFR</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">746976</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Origination Channel</TD>
+    <TD STYLE="color: #25396E; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Wholesale</TD>
+    <TD STYLE="color: #25396E; border-right: #D9D9D9 0.5pt solid; border-bottom: silver 0.5pt solid; border-left: silver 0.5pt solid; text-align: left">Broker</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
