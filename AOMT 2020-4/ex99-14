@@ -1,0 +1,78 @@
+<DOCUMENT>
+<TYPE>EX-99.14
+<SEQUENCE>15
+<FILENAME>ex99-14.htm
+<DESCRIPTION>DIGITAL RISK VALUATION REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Valuation -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x000026AC,0x00004B00,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840,0x00003840 -->
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: times new roman; font-size: 10pt"><A HREF="aomt-abs15g_070920.htm">Angel Oak Mortgage Trust 2020-4 ABS-15G</A></FONT></P>
+
+<P STYLE="text-align: right; margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: times new roman; font-size: 10pt"><B>Exhibit
+99.14</B></FONT></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR>
+    <TD DIR="LTR" STYLE="font-weight: bold; vertical-align: top">Client:</TD>
+    <TD COLSPAN="2" DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx PCQC Non-QM</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="font-weight: bold; vertical-align: top">Batch:</TD>
+    <TD COLSPAN="2" DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD COLSPAN="5" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="font-weight: bold; vertical-align: top">Report Pulled:</TD>
+    <TD COLSPAN="2" DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD COLSPAN="5" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="font-weight: bold; vertical-align: top">Loan Count:</TD>
+    <TD COLSPAN="2" DIR="LTR" STYLE="vertical-align: top; text-align: left">1</TD>
+    <TD COLSPAN="5" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: #406380">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border: lightgrey 0.5pt solid; text-align: center">Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Appraised Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">Appraised Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">CDA Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">CDA Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">CDA Variance</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">CU Score</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; border-top: lightgrey 0.5pt solid; border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-left-color: lightgrey; border-left-width: 0.5pt">CU Score Date</TD></TR>
+<TR STYLE="vertical-align: middle">
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; border-left: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-top-width: 0.5pt; background-color: white">202004001</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">0</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">1</TD>
+    <TD DIR="LTR" STYLE="border-right: lightgrey 0.5pt solid; border-bottom: lightgrey 0.5pt solid; text-align: center; border-top-color: lightgrey; border-left-color: lightgrey; border-top-width: 0.5pt; border-left-width: 0.5pt">XXXX</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
