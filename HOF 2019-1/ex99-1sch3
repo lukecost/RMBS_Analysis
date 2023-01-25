@@ -1,0 +1,346 @@
+<DOCUMENT>
+<TYPE>EX-99.1(3)
+<SEQUENCE>5
+<FILENAME>e4400ex99-1sch3.htm
+<DESCRIPTION>FINAL TAPE COMPARE REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Final Tape Compare Report -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002EE0,0x00004B00,0x00002EE0,0x00004B00,0x00007080,0x00005DC0,0x00003840,0x00003840,0x0000E100,0x0002B944 -->
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Verdana, Helvetica, Sans-Serif">
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; border-left: black 1pt solid; text-align: left">TPR Firm:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; text-align: left">EdgeMAC</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; text-align: left">Date Submitted:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-top: black 1pt solid; border-right: black 1pt solid; text-align: left">3/11/2019</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-left: black 1pt solid; text-align: left">Client Name:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; text-align: left">Sprout</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; text-align: left">Report:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-right: black 1pt solid; text-align: left">Final Tape Compare Report</TD>
+    <TD COLSPAN="5" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: left">Client Project:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; text-align: left">HOF 2019-1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-bottom: black 1pt solid; text-align: left">Loans in report:</TD>
+    <TD DIR="LTR" STYLE="vertical-align: middle; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: left">20</TD>
+    <TD COLSPAN="5" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top">&nbsp;</TD>
+    <TD COLSPAN="8" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; vertical-align: bottom">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" BORDERCOLOR="Silver" STYLE="width: 100%; border-collapse: collapse; font: 10pt Verdana, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: top; background-color: #07292F">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold">Report Date</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold">Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold">Edge MAC ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold">Seller Loan Number</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold">Originator</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold">Field</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: right">Final Tape Data</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: right">Reviewer Data</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold">Comment</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006375</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">30.298</TD>
+    <TD DIR="LTR" STYLE="text-align: right">32.374</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006435</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="text-align: right">360</TD>
+    <TD DIR="LTR" STYLE="text-align: right">276</TD>
+    <TD DIR="LTR">Discrepancy:Verified by source document.</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1806006435</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Doc Type</TD>
+    <TD DIR="LTR" STYLE="text-align: right">Y</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12 Month Verification&nbsp;&nbsp;(Wage Earner Only)</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents.</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008174</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">14.794</TD>
+    <TD DIR="LTR" STYLE="text-align: right">13.453</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1808008188</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">31.338</TD>
+    <TD DIR="LTR" STYLE="text-align: right">31.015</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1809009591</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Appraisal Date</TD>
+    <TD DIR="LTR" STYLE="text-align: right">10/8/2018</TD>
+    <TD DIR="LTR" STYLE="text-align: right">10/5/2018</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810009697</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Doc Type</TD>
+    <TD DIR="LTR" STYLE="text-align: right">Y</TD>
+    <TD DIR="LTR" STYLE="text-align: right">12 Month Verification&nbsp;&nbsp;(Wage Earner Only)</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810009697</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">60.855</TD>
+    <TD DIR="LTR" STYLE="text-align: right">37.088</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010106</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DSCR</TD>
+    <TD DIR="LTR" STYLE="text-align: right">156.9</TD>
+    <TD DIR="LTR" STYLE="text-align: right">166.940</TD>
+    <TD DIR="LTR">Discrepancy: Verfied by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010113</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">13.276</TD>
+    <TD DIR="LTR" STYLE="text-align: right">14.226</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010352</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DSCR</TD>
+    <TD DIR="LTR" STYLE="text-align: right">119.7</TD>
+    <TD DIR="LTR" STYLE="text-align: right">117.060</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010429</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Note Date</TD>
+    <TD DIR="LTR" STYLE="text-align: right">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="text-align: right">XXXXXX</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by souce documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010489</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DSCR</TD>
+    <TD DIR="LTR" STYLE="text-align: right">115.7</TD>
+    <TD DIR="LTR" STYLE="text-align: right">116.800</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1810010489</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Note Date</TD>
+    <TD DIR="LTR" STYLE="text-align: right">XXXXXX</TD>
+    <TD DIR="LTR" STYLE="text-align: right">XXXXXX</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811010999</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">39.562</TD>
+    <TD DIR="LTR" STYLE="text-align: right">38.211</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011381</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">FTHB Flag</TD>
+    <TD DIR="LTR" STYLE="text-align: right">Y</TD>
+    <TD DIR="LTR" STYLE="text-align: right">Borrower has prior home ownership experience within the past 3 years</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011381</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Property Type</TD>
+    <TD DIR="LTR" STYLE="text-align: right">Attached</TD>
+    <TD DIR="LTR" STYLE="text-align: right">Single Family Detached</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011689</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DSCR</TD>
+    <TD DIR="LTR" STYLE="text-align: right">111.2</TD>
+    <TD DIR="LTR" STYLE="text-align: right">106.650</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011830</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">35.24</TD>
+    <TD DIR="LTR" STYLE="text-align: right">34.644</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011840</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="text-align: right">360</TD>
+    <TD DIR="LTR" STYLE="text-align: right">240</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source document.</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1811011840</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">33.323</TD>
+    <TD DIR="LTR" STYLE="text-align: right">33.438</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012253</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="text-align: right">360</TD>
+    <TD DIR="LTR" STYLE="text-align: right">240</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012253</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DSCR</TD>
+    <TD DIR="LTR" STYLE="text-align: right">104.3</TD>
+    <TD DIR="LTR" STYLE="text-align: right">103.510</TD>
+    <TD DIR="LTR">Discrepancy:&nbsp;&nbsp;Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012385</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="text-align: right">360</TD>
+    <TD DIR="LTR" STYLE="text-align: right">240</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012385</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">46.784</TD>
+    <TD DIR="LTR" STYLE="text-align: right">46.880</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source document</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012643</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="text-align: right">360</TD>
+    <TD DIR="LTR" STYLE="text-align: right">240</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source documents</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD DIR="LTR" STYLE="text-align: right">3/11/2019</TD>
+    <TD DIR="LTR">1812012643</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">xxxxxx</TD>
+    <TD DIR="LTR">Investor Qualifying DTI</TD>
+    <TD DIR="LTR" STYLE="text-align: right">32.795</TD>
+    <TD DIR="LTR" STYLE="text-align: right">32.936</TD>
+    <TD DIR="LTR">Discrepancy: Verified by source documents</TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; padding-top: 6pt; padding-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
