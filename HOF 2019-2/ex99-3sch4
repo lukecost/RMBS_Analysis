@@ -1,0 +1,1194 @@
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>18
+<FILENAME>e6037ex99-3sch4.htm
+<DESCRIPTION>DATA COMPARE REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- Field: Set; Name: Worksheet; Value: Data Compare -->
+
+<!-- Field: Set; Name: TableWidths; Value: 0x00002580,0x00002EE0,0x00002EE0,0x00005DC0,0x00003840,0x00003840,0x00002580,0x00009600,0x00000000 -->
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 9pt Calibri, Helvetica, Sans-Serif">
+<TR>
+    <TD STYLE="padding-top: 3px; padding-left: 3px; font-size: 11pt; vertical-align: top; text-align: left"><IMG SRC="image_001.jpg" ALT="" STYLE="height: 51px; width: 106px"></TD>
+    </TR>
+<TR>
+    <TD DIR="LTR" STYLE="color: navy; font-size: 14pt; font-weight: bold; vertical-align: top">Data Compare</TD>
+    </TR>
+<TR>
+    <TD DIR="LTR" STYLE="color: navy; font-size: 10pt; font-weight: bold; vertical-align: top">Run Date - 7/19/2019 6:04:58 PM</TD>
+    </TR>
+<TR>
+    <TD DIR="LTR" STYLE="color: navy; font-size: 10pt; font-weight: bold; vertical-align: top">&nbsp;</TD></TR>
+</TABLE>
+
+<TABLE BORDER="1" CELLPADDING="2" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: navy; width: 72pt">AMC Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: navy; width: 90pt">Customer Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: navy; width: 90pt">Seller Loan ID</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: navy; width: 180pt">Field Label</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: navy; width: 108pt">Bid Tape Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: navy; width: 108pt">Field Value</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: navy; width: 72pt">Compare Status</TD>
+    <TD DIR="LTR" STYLE="color: white; font-weight: bold; text-align: left; background-color: navy; width: 288pt">Comment</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">203611728</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">No Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">DS-45688</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">203611755</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">No Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">DS-45688</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">203612092</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">40.394</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">36.52817</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">DS-45688</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989133</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Amortization Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">ARM</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989133</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">744</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">684</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989179</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989179</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">42.89626</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989191</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Borrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989199</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989199</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989199</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">49.609</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">53.59754</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989230</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Borrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989230</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">51.07</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">54.33197</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989241</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989241</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989243</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989245</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">664</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">645</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value is mid FICO of borrower; unable to determine source of tape value.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989245</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">29.355</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">32.87818</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Lender calculated slightly higher monthly income using same business tax return in file; unable to determine use income worksheet, how the lender calculated this higher income.&nbsp;&nbsp;Monthly debt increased by $168 on GAP report.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989250</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">694</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">701</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989250</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989255</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Street</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989255</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989255</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Borrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989255</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Coborrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989255</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">35.664</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">45.7648</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Income variance. Lender incorrectly used W2 income from borrower's p previous employer in qualification. Income was also lower based on P&amp;L provided.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989266</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Street</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989266</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">672</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">645</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989266</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989266</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989279</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989279</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989279</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989279</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">49.765</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">44.07257</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989284</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Unable to verify due to missing information</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989284</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989286</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989286</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989289</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Unable to verify due to missing information</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989289</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">37.782</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">55.65525</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989292</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989292</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989292</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Coborrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989292</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">37.963</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">42.943</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989316</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Street</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989316</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989316</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989316</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">707</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">715</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989316</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Attached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">2 Family</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989316</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">53.923</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">37.54406</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989388</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">51.988</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">56.13902</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">DTI increased due to lender used higher rental income that was not verified by file documentation.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989409</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">710</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">767</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989409</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD Attached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989409</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Unable to verify due to missing information</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989409</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original CLTV</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">59.02</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">83.08</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Lender provided exception to use the higher appraised value.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989409</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original LTV</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">59.02</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">83.08</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Lender provided exception to use the higher appraised value.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989409</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Lender provided exception to use the higher appraised value.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989409</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">23.514</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">39.49471</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Subject rent loss was subtracted from income rather than added to debts.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989418</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989418</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">48.659</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">52.18466</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Transfers, wires and other unacceptable deposits were deducted from account balances used for qualifying income.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204989508</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD Attached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Appraisal confirms Attached PUD.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204992231</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD Attached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204992441</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD Attached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204992441</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">No Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204992514</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">3 Family</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204992514</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">No Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204992574</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">682</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">685</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204992574</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">No Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">204992574</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206161710</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Refi Purpose</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Cash-out - Other</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206444290</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">30</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects the Note value</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206444290</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206444290</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Refi Purpose</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Cash-out - Home Improvement</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Cash-out - Other</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206444291</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">30</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Tape value reflects term in years and review value reflects term in months.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206444291</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">3 Family</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206444291</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Tape value reflects purchase price and review value reflects appraisal value</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206447217</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">30</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects the Note value</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206447217</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206447217</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Refi Purpose</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Cash-out - Home Improvement</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Cash-out - Other</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Review value is from final 1003.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206447218</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">30</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects the Note value</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206447218</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206447218</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Tape value is purchase price and review value is appraisal value.</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206889289</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206889348</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Mixed Use</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918647</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">664</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">742</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value Representative FICO reflects the lowest mid score of all borrowers</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918647</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918647</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918647</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Coborrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value verified by Income, Employment, Credit or other documentation in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918647</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">30.077</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">36.14946</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Other</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918648</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">716</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">720</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value Representative FICO reflects the lowest mid score of all borrowers</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918653</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Original Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects the Note value</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918653</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Amortization Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">480</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">360</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects Amortization Term per Note</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918653</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Borrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value verified by Income, Employment, Credit or other documentation in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918653</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">44.31</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">52.88635</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Other</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918655</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918661</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">48.019</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">53.94734</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918671</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918674</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Refi Purpose</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Rate/Term</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Cash-out - Other</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918675</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918675</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918675</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">LTV Valuation Value</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field value reflects source document</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918684</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918684</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">16.536</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">26.16646</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918685</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918685</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">34.603</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">39.36986</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918699</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Borrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918699</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Coborrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918703</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918708</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918708</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">44.983</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">53.80365</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Other</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918714</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918715</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">696</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">739</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918715</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Coborrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918715</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">45.49</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">51.65585</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">&nbsp;</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918716</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Representative FICO</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">637</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">649</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value Representative FICO reflects the lowest mid score of all borrowers</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918716</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918716</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Borrower Self-Employed?</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">0</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">1</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value verified by Income, Employment, Credit or other documentation in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206918716</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Investor: Qualifying Total Debt Ratio</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">40.259</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">51.78547</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Other</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206945935</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206945937</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Street</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects Street per Note</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206945937</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Refi Purpose</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Cash-out - Debt Consolidation</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects borrower receiving cash out and/or paying off debts &gt; $2,000 or 2% of loan amount per HUD-1/CD</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206945939</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Refi Purpose</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Cash-out - Other</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects borrower receiving cash out and/or paying off debts &gt; $2,000 or 2% of loan amount per HUD-1/CD</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206945941</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">City</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects City per Note</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206964255</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Attached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Mixed Use</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206964258</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Attached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Mixed Use</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">206964274</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Full</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">207139472</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Property Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Single Family Detached</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">PUD</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value captured from Appraisal or Valuation model in file</TD></TR>
+<TR>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">207139472</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">xxxx</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Doc Type</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">&nbsp;</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left; background-color: whitesmoke">Alt</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Verified</TD>
+    <TD DIR="LTR" STYLE="vertical-align: top; text-align: left">Field Value reflects documentation located in origination file</TD></TR>
+</TABLE>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt"><P STYLE="margin: 0pt; border-bottom: Black 4px solid">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
