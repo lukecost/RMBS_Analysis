@@ -1,0 +1,2389 @@
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>4
+<FILENAME>e5570ex99-3.htm
+<DESCRIPTION>CLAYTON CONDITIONS DETAIL
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; text-align: right"><FONT STYLE="font-size: 11pt"><B>Exhibit 99.3</B></FONT></P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font: bold 8pt Arial, Helvetica, Sans-Serif; text-align: left; width: 22%">Client Name:</TD>
+    <TD STYLE="font: bold 8pt Arial, Helvetica, Sans-Serif; text-align: left; width: 78%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font: bold 8pt Arial, Helvetica, Sans-Serif; text-align: left">Client Project Name:</TD>
+    <TD STYLE="font: bold 8pt Arial, Helvetica, Sans-Serif; text-align: left">OBX 2019-INV2</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font: bold 8pt Arial, Helvetica, Sans-Serif; text-align: left">Start - End Dates:</TD>
+    <TD STYLE="font: bold 8pt Arial, Helvetica, Sans-Serif; text-align: left">10/4/2017 - 2/8/2018</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font: bold 8pt Arial, Helvetica, Sans-Serif; text-align: left">Deal Loan Count:</TD>
+    <TD STYLE="font: bold 8pt Arial, Helvetica, Sans-Serif; text-align: left">28</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="text-align: left; font: bold 12pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">Conditions Report 2.0</P>
+
+<P STYLE="text-align: left; font: bold 12pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="text-align: left; font: bold 12pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font: italic bold 8pt Arial, Helvetica, Sans-Serif; text-align: left; width: 22%">Loans in Report:</TD>
+    <TD STYLE="font: italic 8pt Arial, Helvetica, Sans-Serif; text-align: left; width: 78%">28</TD></TR>
+<TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="font: italic bold 8pt Arial, Helvetica, Sans-Serif; text-align: left">Loans with Conditions:</TD>
+    <TD STYLE="font: italic 8pt Arial, Helvetica, Sans-Serif; text-align: left">26</TD></TR>
+</TABLE>
+
+
+<P STYLE="text-align: left; font: bold 12pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<TABLE BORDER="1" CELLPADDING="2" CELLSPACING="0" BORDERCOLOR="Silver" STYLE="width: 100%; border-collapse: collapse; font: 8pt Arial, Helvetica, Sans-Serif">
+<TR STYLE="vertical-align: middle">
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Loan Number</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Original Principal Balance</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">State</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Initial Lender ATR/QM Status</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Loan Level ATR/QM Status</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Initial Securitization Overall Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Final Securitization Overall Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Initial Securitization Credit Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Final Securitization Credit Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Initial Securitization Property Valuations Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Final Securitization Property Valuations Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Initial Securitization Compliance Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Final Securitization Compliance Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Initial S&amp;P Overall Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Final S&amp;P Overall Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Initial S&amp;P Credit Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Final S&amp;P Credit Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Initial S&amp;P Property Valuations Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Final S&amp;P Property Valuations Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Initial S&amp;P Compliance Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Final S&amp;P Compliance Loan Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Condition Category</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Condition Sub Category</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Condition Status</TD>
+    <TD COLSPAN="2" STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Initial Securitization Condition Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #3366FF; white-space: nowrap">Final Securitization Condition Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Initial S&amp;P Condition Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: #FF6600; white-space: nowrap">Final S&amp;P Condition Grade</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Condition Code</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Condition Description</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Condition Material Indicator</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Initial Comments</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Client/Seller Response Comments</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Conclusion Comments</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">TRID Error Type</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Cure Method</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Compensating Factors</TD>
+    <TD STYLE="color: white; font-weight: bold; text-align: left; background-color: gray; white-space: nowrap">Loan Status</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000018872</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">HI</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Assets</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDAST3078</TD>
+    <TD STYLE="color: #25396E; text-align: left">Insufficient # of months cash reserves for PITI per guideline requirements</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">5.87 months PITI reserve shortfall.&nbsp;&nbsp;&nbsp;DU requires 6 months PITI reserves or $28,636.51, verified Post Close assets of $602.54 or .13 months PITI reserves (DU had required funds to close of $34,906.34 however PC CD has funds to close of $67,660.30).&nbsp;&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">10/18/2017 - Lender responded that assets total $64,508.14 including XXX checking/savings with balance of $22,241.52 as of 06/2017, XXX business checking with balance of $30,100 as of 06/2017 and XXX with balance of $12,166.62. Exception remains.&nbsp;&nbsp;Review included assets totaling $68,262.84 consisting of business XXX $30,100, XXX $25,996.22 and XXX $12,166.62.&nbsp;&nbsp;The final CD reflected funds required to close of $67,660.30 resulting in reserves of $602.54, or 0.13 months, and DU required verification of 6 months reserves of $28,636.51. 10/23/2017 - Lender provided a copy of Revolving Credit Mortgage dated 08/29/2017.&nbsp;&nbsp;Exception remains pending receipt of a verification of deposit or bank statements covering a two-month period required by DU. 10/25/2017- Lender sent in duplicate assets: XXX 06/30/17 XXX $30,100.00, XXX 7/31/17 XXX $2,411.14 (S), XXX 7/31/17 XXX $23,585.08 (C) and XXX Stock 6/1/17 XXX $12,166.62.&nbsp;&nbsp;DU dated 07/26/2017 submission #17 requires 6 months reserves for the subject property ($4,772.75 x 6 = $28,636.51).&nbsp;&nbsp;DU required funds to close of $34,906.34 of which is &lt; Final CD of $67,660.30.&nbsp;&nbsp;Exception remains. 11/16/2017 - Lender provided a copy of new note for subject loan completed 08/15/2017.Exception remains.&nbsp;&nbsp;XXX Compliance reviewed the note and opined that since the XXX note does not refer to the XXX Note, some type of reference is required on the mortgage to the XXX note since it would appear that right now only the XXX note secures it.11/20/2017 - Lender advised of new loan file submitted with note and mortgage dated XXX.&nbsp;&nbsp;Full review of file was completed.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/20/2017 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower at same employer for 10 years<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019873</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation to support value of $XXX. Desk review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Required funds to close $0.&nbsp;&nbsp;Statements in file supported assets of $453,543.19 with&nbsp;&nbsp;$275,511.23. 6 months reserves required (6x$2,799.98=$16,799.88).<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;28.96% LTV, max per guidelines is 80%<BR>
+<BR>
+CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower has more than 10 years at current job.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019875</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;Desk review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $181,588.13.&nbsp;&nbsp;Required reserves of $17,830.00 (6 months PITI $2,971.67 x 6 = $17,830.00).<BR>
+<BR>
+CFCFS1744: DTI below guideline requirement<BR>
+- Clayton Comments:&nbsp;&nbsp;32.46% DTI is less than 43% maximum allowed per guidelines.<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;65.68% LTV is less than 75% maximum allowed per guidelines.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019876</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Income/Employment</TD>
+    <TD STYLE="color: #25396E; text-align: left">Active</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDINC2496</TD>
+    <TD STYLE="color: #25396E; text-align: left">Verbal verification of employment completed outside the stated requirements and/or after closing/funding</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">The Verbal VOE for the Borrower dated XXX is &gt; 10 days from the Note signing date of XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower with same employer for 11 years.<BR>
+<BR>
+CFCFS1739: Postive mortgage payment history<BR>
+- Clayton Comments:&nbsp;&nbsp;No mortgage delinquencies for 82 months 0 x 30.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-Borrower in current profession for 20 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019876</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;Desk Review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower with same employer for 11 years.<BR>
+<BR>
+CFCFS1739: Postive mortgage payment history<BR>
+- Clayton Comments:&nbsp;&nbsp;No mortgage delinquencies for 82 months 0 x 30.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-Borrower in current profession for 20 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019876</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAFEMA858</TD>
+    <TD STYLE="color: #25396E; text-align: left">Natural Disaster Area, no subsequent inspection&nbsp;&nbsp;(Individual &amp; Public)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;No inspection since the 12/31/2017 XXX Disaster- Wildfires.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/6/2017- Lender responded that property was not affected in zip code for the XXX Wildfires.Exception remains.&nbsp;&nbsp;Issue was review by Senior Management and specific zip code is not use to determine if an area is affected in a disaster per XXX.&nbsp;&nbsp;If they designated that county as an disaster any zip code in that county would be also designated. With that said, the management team determine since the wildfire was contain 100% on 10/17/2017 we would need a post disaster report dated any-time after that date to satisfied exception.11/10/2017- Lender provide disaster report dated 11/09/17 that reflect no damage to subject property.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/10/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower with same employer for 11 years.<BR>
+<BR>
+CFCFS1739: Postive mortgage payment history<BR>
+- Clayton Comments:&nbsp;&nbsp;No mortgage delinquencies for 82 months 0 x 30.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-Borrower in current profession for 20 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019880</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;Desk review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $73,725.16 exceed DU required reserves of $31,464.84.<BR>
+<BR>
+CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower resided at primary residence for 15 years.<BR>
+<BR>
+CFCFS3836: Borrower Net Worth<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has net worth of $11,215,903.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019881</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CT</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Desk review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower with same employer for 7.94 years.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Mortgage payment history of 53 months 0 x 30 versus the minimum required of 12 months.<BR>
+<BR>
+CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower resided at primary residence for 7 years.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $1,239,334.26 or 359.58 months PITIA reserves.&nbsp;&nbsp;DU Approve/Eligible requires reserves of $27,942.95.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019882</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">MA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Desk review ordered on behalf of client&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower XXX for 15.54 years.<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;LTV at 42% versus the maximum allowed of 70%.<BR>
+<BR>
+CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower resided at primary residence for 11 years.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $297,140.82 exceed the required reserves of $29,761.40 as shown in DU.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019883</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">NJ</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Compliance</TD>
+    <TD STYLE="color: #25396E; text-align: left">Compliance Manual</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CMPMAN2990</TD>
+    <TD STYLE="color: #25396E; text-align: left">1003 - Final Application is not Accurate</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Provide the updated Final 1003 to show the Co-Borrower is a Foreign National as the Final 1003 shows as US Citizen.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/15/2017 - Lender provided copy of corrected application.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/15/2017 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower with current employer for&nbsp;&nbsp;6.1 years.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower has 10 years in same profession.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Mortgage payment history of 99 months 0 x 30 versus the minimum required of 12 months.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $206,302.05 exceed required reserves of $58,283.20 as shown in DU.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019883</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">NJ</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Desk review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower with current employer for&nbsp;&nbsp;6.1 years.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower has 10 years in same profession.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Mortgage payment history of 99 months 0 x 30 versus the minimum required of 12 months.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $206,302.05 exceed required reserves of $58,283.20 as shown in DU.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019884</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Desk review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017-Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Has been on his job for 29 years and 2 months.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Mortgage rated 31 months with 0x30.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;DU required $26,784.78. Reserves in file $413,801.32 or 129.95 months PITI reserves.<BR>
+<BR>
+CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-Borrower XXX for 18.7 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019885</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Desk review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower XXX for 8.8 years.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified Post Close assets of $174,460.72 or 44.26 months PITIA reserves which exceed DU Approve/Eligible reserves required of $38,516.98.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000019887</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">MA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation to support value of $XXX. Desk review ordered on behalf of Client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- CDA received.&nbsp;&nbsp;Value of $XXX support appraisal value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">11/1/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1739: Postive mortgage payment history<BR>
+- Clayton Comments:&nbsp;&nbsp;Current mortgage reflects 45 months with no delinquencies 0 x 30.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower is in current profession for 19 years.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $86,055.51 or 26.02 months PITIA reserves. DU required $19,846.26 reserves.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020002</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">WA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Application</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDAPP131</TD>
+    <TD STYLE="color: #25396E; text-align: left">Occupancy status not supported by file documentation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Loan is a refinance secured by an Investment Property; however, Appraisal notes property is occupied by owner.&nbsp;&nbsp;Provide appraisal update or resubmission as owner occupied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">12/14/2017- Lender provided revised appraisal reflecting the occupancy as vacant.</TD>
+    <TD STYLE="color: #25396E; text-align: left">12/14/2017- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower has 13.6 years in current job.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has 11 years in same profession.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $174,291.46 exceeds required PITI reserves of $63,372.84.<BR>
+<BR>
+CFCFS1746: Significant housing expense reduction<BR>
+- Clayton Comments:&nbsp;&nbsp;Housing expense was reduced 41.47%.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Mortgage payment history of 99 months 0 x 30 versus the minimum required of 12 months.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020002</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">WA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Terms/Guidelines</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDTER2548</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing AUS or AUS errors present</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Lender to provide an updated DU Approve/Eligible.&nbsp;&nbsp;Borrowers obtained the subject property within the past year&nbsp;&nbsp;(purchase date per Data Verify is XXX for $XXX).&nbsp;&nbsp;Based on purchase price, LTV/CLTV is 83.02%.&nbsp;&nbsp;Approval notes LTV/CLTV of 69% based off of appraised value of $XXX as of XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">12/15/2017- Lender responded.&nbsp;&nbsp;Per the selling guides chapter B2-1.2-02 there is no seasoning requirement for a Limited cash out refinance or requirement to use the purchase pricing.&nbsp;&nbsp;The appraisal in file accurately represents the subject property market value and can be used in the transaction.</TD>
+    <TD STYLE="color: #25396E; text-align: left">12/15/2017- Exception satisfied.&nbsp;&nbsp;Fannie Mae guides does not address seasoning requirements for a limited cash out.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower has 13.6 years in current job.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has 11 years in same profession.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $174,291.46 exceeds required PITI reserves of $63,372.84.<BR>
+<BR>
+CFCFS1746: Significant housing expense reduction<BR>
+- Clayton Comments:&nbsp;&nbsp;Housing expense was reduced 41.47%.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Mortgage payment history of 99 months 0 x 30 versus the minimum required of 12 months.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020002</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">WA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">D</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Desk Review ordered on behalf of client.</TD>
+    <TD STYLE="color: #25396E; text-align: left">12/05/2017&nbsp;&nbsp;Desk review received with value of $XXX supporting appraised value of $XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">12/05/2017&nbsp;&nbsp;Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower has 13.6 years in current job.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has 11 years in same profession.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves of $174,291.46 exceeds required PITI reserves of $63,372.84.<BR>
+<BR>
+CFCFS1746: Significant housing expense reduction<BR>
+- Clayton Comments:&nbsp;&nbsp;Housing expense was reduced 41.47%.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Mortgage payment history of 99 months 0 x 30 versus the minimum required of 12 months.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020232</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">WA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower Has been in his profession for 26 years.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Reserves in file $128,325.99 or 39.57. AUS required $19,456.00.<BR>
+<BR>
+CFCFS1739: Postive mortgage payment history<BR>
+- Clayton Comments:&nbsp;&nbsp;Mortgage on subject rated 85 months with 0x30.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020324</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">File is missing the desk review. A desk review has been ordered to support the original appraised value.</TD>
+    <TD STYLE="color: #25396E; text-align: left">1.31.18 A desk review was received with a reported value of&nbsp;&nbsp;XXX which supports the original appraised value of XXX.&nbsp;&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">1.31.18 Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020324</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAFEMA217</TD>
+    <TD STYLE="color: #25396E; text-align: left">Natural Disaster Area, no subsequent inspection (Individual)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Post FEMA disaster effective 01.31.2018; Wildfires, Flooding, Mudflows, and Debris Flows,&nbsp;&nbsp;Dec # 4353 - Note Date XXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">2.5.18 Client provided a post disaster inspection dated 1/23/18, however , a new exception has been issued for the date of the inspection since FEMA has not set and end&quot; date.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2.5.18&nbsp;&nbsp;Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020324</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">N/A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">N/A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAFEMA221</TD>
+    <TD STYLE="color: #25396E; text-align: left">Natural Disaster Area, Subseq inspect prior to Disaster (Individual)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Client provided a post disaster inspection dated 1/23/18, however,&nbsp;&nbsp;&nbsp;&nbsp;since FEMA has not set an &quot;end date&quot; this cannot clear without further guidance</TD>
+    <TD STYLE="color: #25396E; text-align: left">05/ 03/ 2019 Post Disaster Inspection received property confirmed no damage.</TD>
+    <TD STYLE="color: #25396E; text-align: left">05/03/2019 Exception Satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020329</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">WA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Income/Employment</TD>
+    <TD STYLE="color: #25396E; text-align: left">Active</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDINC2496</TD>
+    <TD STYLE="color: #25396E; text-align: left">Verbal verification of employment completed outside the stated requirements and/or after closing/funding</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">The Note date is 11/XX/2017.&nbsp;&nbsp;The Verification of Employment is dated 11/28/2017.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrower have been employed on the same job for 11 years and 6 months.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrower does not have any late mortgage payments within the past 24 months.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020329</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">WA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Income/Employment</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDINC2408</TD>
+    <TD STYLE="color: #25396E; text-align: left">Income verification does not meet guidelines</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Per DU, the borrower must provide&nbsp;&nbsp;personal tax returns covering the most recent two-year period (with all schedules) for Commission Income.&nbsp;&nbsp;The lender must provide 2015 Tax Returns including all Schedules.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2.5.18&nbsp;&nbsp;Client disagrees and states: Please see attached tax return transcripts from the IRS. Agency&nbsp;&nbsp;products allow for the use of an executed IRS Form 4506-T that has been processed by the IRS and contains income information as an alternative to obtaining the customer's signed and dated personal and/or business tax returns to document qualifying income for sources normally requiring individual federal tax returns.2.5.18 XXX agrees and reviewed the tax transcripts that were provided.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2.5.18&nbsp;&nbsp;&nbsp;Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrower have been employed on the same job for 11 years and 6 months.<BR>
+<BR>
+CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrower does not have any late mortgage payments within the past 24 months.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020355</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Income/Employment</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDINC3204</TD>
+    <TD STYLE="color: #25396E; text-align: left">Income Documentation Missing</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Provide liquidity ratio test to K-1 ordinary income vs. distribution income.&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/13/2018- Lender provide liquidity ratio test</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/13/2018- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been is same profession for 12 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020355</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing third party valuation to support original appraised value of $ XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - XXX desk review received supporting value of $XXX with no variance.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been is same profession for 12 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020355</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAFEMA217</TD>
+    <TD STYLE="color: #25396E; text-align: left">Natural Disaster Area, no subsequent inspection (Individual)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA disaster dated 1/2/2018 1/31/2018 Individual Wildfires, Flooding, Mudflows, and Debris Flows Wildfires, Flooding, Mudflows, and Debris Flows 4353; is after appraisal report dated 12/11/17.</TD>
+    <TD STYLE="color: #25396E; text-align: left">05/ 02/ 2019 Post Disaster Inspection received property confirmed no damage.</TD>
+    <TD STYLE="color: #25396E; text-align: left">05/02/2019 Exception Satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been is same profession for 12 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020356</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrower has been on the same job for 6 years.<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrower loan to value is 32.47%.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020357</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit/Mtg History</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDCRMH1805</TD>
+    <TD STYLE="color: #25396E; text-align: left">Debts/obligations not disclosed/accounted for at origination</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Insurance policy&nbsp;&nbsp;for XXX shows XXX as mortgagee.&nbsp;&nbsp;Provide evidence this mortgage has been paid or that borrower is not responsible.&nbsp;&nbsp;Otherwise, provide evidence of the P&amp;I payment.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/14/2018- Lender provided 2016 tax returns.Exception remains.&nbsp;&nbsp;Document does not support that mortgage has been paid off.02.20.2018 - XXX - Lender provided XXX showing no liens along with the tax returns Schedule E showing no mortgage interest.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02.20.2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has resided at current residence 42 years.<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been at current job for 10 years.<BR>
+<BR>
+CFCFS1739: Postive mortgage payment history<BR>
+- Clayton Comments:&nbsp;&nbsp;84 months of positive mortgage payment history.<BR>
+<BR>
+CFCFS1744: DTI below guideline requirement<BR>
+- Clayton Comments:&nbsp;&nbsp;DTI is 24.32% .<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;LTV of 56.39% is below LTV requirement of 90%.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020357</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR101</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal incomplete (missing map, layout, pages, etc)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal Incomplete. Top and bottom of each page is cut off. Unable to determine if appraisal made &quot;As Is&quot; or subject to. CDA will be ordered upon receipt of complete appraisal.&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/14/2018- Lender provided appraisal that is not cutoff.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/14/2018- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has resided at current residence 42 years.<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been at current job for 10 years.<BR>
+<BR>
+CFCFS1739: Postive mortgage payment history<BR>
+- Clayton Comments:&nbsp;&nbsp;84 months of positive mortgage payment history.<BR>
+<BR>
+CFCFS1744: DTI below guideline requirement<BR>
+- Clayton Comments:&nbsp;&nbsp;DTI is 24.32% .<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;LTV of 56.39% is below LTV requirement of 90%.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020357</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing third party valuation to support original appraised value of $XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/22/18 - CDA provided reflecting a value of $XXX or 0% variance.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/22/18 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has resided at current residence 42 years.<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been at current job for 10 years.<BR>
+<BR>
+CFCFS1739: Postive mortgage payment history<BR>
+- Clayton Comments:&nbsp;&nbsp;84 months of positive mortgage payment history.<BR>
+<BR>
+CFCFS1744: DTI below guideline requirement<BR>
+- Clayton Comments:&nbsp;&nbsp;DTI is 24.32% .<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;LTV of 56.39% is below LTV requirement of 90%.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020358</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing third party valuation to support original appraised value of $XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - XXX desk review received supporting value of $XXX with no variance.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower has been with same employer for 17.6 years.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been is same profession for 17 years.<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been with same employer for 15.6 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Client Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020358</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAFEMA217</TD>
+    <TD STYLE="color: #25396E; text-align: left">Natural Disaster Area, no subsequent inspection (Individual)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA disaster dated 1/2/2018 1/31/2018 Individual Wildfires, Flooding, Mudflows, and Debris Flows Wildfires, Flooding, Mudflows, and Debris Flows 4353 is after appraisal report dated 12/31/17.&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">05-08-2019- PDI Received- no damage reported.</TD>
+    <TD STYLE="color: #25396E; text-align: left">05-08-2019 Exception Satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-borrower has been with same employer for 17.6 years.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been is same profession for 17 years.<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has been with same employer for 15.6 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Client Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020359</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CO</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Active</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR101</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal incomplete (missing map, layout, pages, etc)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal top and bottom are cut off and not visible.&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has $278,493.41 in excess reserves.<BR>
+<BR>
+CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower credit score of 814 exceeds guidelines minimum 720 by 96 points.<BR>
+<BR>
+CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has occupied her current residence for 47 years.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020361</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing third party valuation to support original appraised value of $XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/09/2018 - Desk review received supporting appraised value of $XXX within a 0.0% tolerance.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/09/2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1744: DTI below guideline requirement<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower's DTI of 6.62% is 36.38 less than 43%.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;$ 273,266.29 post close reserves.&nbsp;&nbsp;Exceeds the 0 months required by LP<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020362</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing third party valuation to support original appraised value of $XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - XXX desk review received supporting value of $XXX with no variance.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has 17 years 3 months at the current job.<BR>
+<BR>
+CFCFS1735: Co-Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Co-Borrower has 11 years 5 months at their current job.<BR>
+<BR>
+CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has 10 years 9 months at the current residence.<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower has 18 years in their profession.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020363</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">DTI</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDDTI2540</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing verification of some or all components of non-subject PITI</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">The Lender must provide verification of taxes for the following properties:&nbsp;&nbsp;(1) XXX, XXX, CA and (2) XXX, XXX, CA.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/13/2018- Lender provided evidence to support taxes for XXX and XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/13/2018- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrower have 10 years on current job.<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrowers loan to value is 45%.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020364</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit/Mtg History</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDCRMH183</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit report incomplete</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Provide credit report with borrower's correct SSN.&nbsp;&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/16/2018- Lender responded, that Loan funded back in Decemeber and SSN being off by one digit doesn't affect the credit decision outcome.Exception remains. Will require updated credit report that reflect correct SSN and LP to be rerun.02.20.2018 - XXX - Lender provided the updated credit report with the B2's corrected SSN number on it.&nbsp;&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">02.20.2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrowers qualifying credit score is 788.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Per LP, Reserves are not required.&nbsp;&nbsp;The borrowers have $107,684.54 (35.23 Months PITI Reserves).<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020364</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Terms/Guidelines</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDTER2548</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing AUS or AUS errors present</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Provide updated credit report and LP with correct B2 SSN as indicated on the fraud report and corrected on the final 1003.&nbsp;&nbsp;&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/16/2018- Lender responded, that Loan funded back in December and SSN being off by one digit doesn't affect the credit decision outcome.Exception remains. Will require updated credit report that reflect correct SSN and LP to be rerun.02.20.2018 - XXX - Lender provided the updated LP reran with B2's updated corrected SSN number.&nbsp;&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">02.20.2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrowers qualifying credit score is 788.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Per LP, Reserves are not required.&nbsp;&nbsp;The borrowers have $107,684.54 (35.23 Months PITI Reserves).<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020364</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAFEMA217</TD>
+    <TD STYLE="color: #25396E; text-align: left">Natural Disaster Area, no subsequent inspection (Individual)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">The lender must provide a Home Inspection for the FEMA Disaster effective 1/31/18 (Wildfires, Flooding, Mudflows and Debris flows.</TD>
+    <TD STYLE="color: #25396E; text-align: left">05/ 02/ 2019 Post Disaster Inspection received property confirmed no damage.</TD>
+    <TD STYLE="color: #25396E; text-align: left">05/02/2019 Exception Satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;The borrowers qualifying credit score is 788.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Per LP, Reserves are not required.&nbsp;&nbsp;The borrowers have $107,684.54 (35.23 Months PITI Reserves).<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020365</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Income/Employment</TD>
+    <TD STYLE="color: #25396E; text-align: left">Active</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDINC2496</TD>
+    <TD STYLE="color: #25396E; text-align: left">Verbal verification of employment completed outside the stated requirements and/or after closing/funding</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Verbal verification is dated 1/17/18 which post closing.&nbsp;&nbsp;FNMA guidelines require verification within 10 business days prior to the note date of XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower employed 18 years in same profession.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves are $72,113.28; minimum required per DU approval was $19,263.78.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020365</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing third party valuation to support original appraised value of $XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - XXX desk review received supporting value of $XXX with -8.7% variance but within the 10% tolerance allowed.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower employed 18 years in same profession.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves are $72,113.28; minimum required per DU approval was $19,263.78.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020365</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAFEMA217</TD>
+    <TD STYLE="color: #25396E; text-align: left">Natural Disaster Area, no subsequent inspection (Individual)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">No inspection since the 1/31/18 FEMA Disaster - Wildfires, Flooding, Mudflows, and Debris Flows.</TD>
+    <TD STYLE="color: #25396E; text-align: left">05/ 02/ 2019 Post Disaster Inspection received property confirmed no damage.</TD>
+    <TD STYLE="color: #25396E; text-align: left">05/ 02/ 2019 Exception Satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrower employed 18 years in same profession.<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Verified reserves are $72,113.28; minimum required per DU approval was $19,263.78.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020366</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Assets</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDAST206</TD>
+    <TD STYLE="color: #25396E; text-align: left">Asset Amounts Are Unsupported by Documentation in File</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Provide explanation and supporting documentation for the following large deposits:XXX $23,335.14 11/17/2017, XXX $26,090.04 11/15/2017</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/21/2018- Lender provided 1008 reflecting that deposit was back out of account.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/21/2018- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Credit score of 798 exceeds guideline minimum of 620<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have 30 years in their proffession<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have 30 years in current job<BR>
+<BR>
+CFCFS1742: Consumer credit history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;No lates, collections or public records noted on credit report<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020366</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">DTI</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDDTI2540</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing verification of some or all components of non-subject PITI</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing proof of sale of property located at XXX, CA XXX.&nbsp;&nbsp;&nbsp;Mortgage statement provided also does not have address identified.&nbsp;&nbsp;Missing PITI docs for XXX.&nbsp;&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/21/2018- Lender provided PITI for property located XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/21/2018- Exception satisfied.&nbsp;&nbsp;Included PITI for property located at XXX into DTI so Final HUD is not needed.&nbsp;&nbsp;DTI is 37.95%.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Credit score of 798 exceeds guideline minimum of 620<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have 30 years in their proffession<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have 30 years in current job<BR>
+<BR>
+CFCFS1742: Consumer credit history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;No lates, collections or public records noted on credit report<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020366</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Terms/Guidelines</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">N/A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">N/A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDTER2548</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing AUS or AUS errors present</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated AUS to reflect DTI that is reflected on updated 1008 received 02/21/2018.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/23/2018 - Lender provided updated 1008 reflecting DTI of 31.341% incorporating the rental income from 1007 for subject property.&nbsp;&nbsp;Using rental income from 1007 in file, review DTI&nbsp;&nbsp;is 30.91%.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/23/2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Credit score of 798 exceeds guideline minimum of 620<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have 30 years in their proffession<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have 30 years in current job<BR>
+<BR>
+CFCFS1742: Consumer credit history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;No lates, collections or public records noted on credit report<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020366</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">Appraisal</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAAPPR3116</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing updated valuation</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing third party valuation to support original appraised value of $XXX.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - Clear Capital desk review received supporting value of $XXX with no variance.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02/15/2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1741: Credit score exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Credit score of 798 exceeds guideline minimum of 620<BR>
+<BR>
+CFCFS2854: Significant time in profession<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have 30 years in their proffession<BR>
+<BR>
+CFCFS1734: Borrower has significant time at current job<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have 30 years in current job<BR>
+<BR>
+CFCFS1742: Consumer credit history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;No lates, collections or public records noted on credit report<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020367</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">WA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit/Mtg History</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDCRMH1805</TD>
+    <TD STYLE="color: #25396E; text-align: left">Debts/obligations not disclosed/accounted for at origination</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">Provide documentation to verify the terms and conditions of the forgivable loan with XXX as indicated on the borrower's pay stubs. Letter of explanation in file indicates the documentation was provided in previous loans.&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/13/2018- Lender provided letter stated that loan is forgiven as long borrower is employed in 7 years.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/13/2018- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have resided in the existing primary residence for 11 years<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;Subject transaction LTV 60%. Maximum LTV allowed for subject transaction is 80%<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Total $20,900.20 reserves required. Verified $660,743.99 or 200.94 months total reserves.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020367</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">WA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Insurance</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDINSR289</TD>
+    <TD STYLE="color: #25396E; text-align: left">Insufficient Insurance Amount to Cover Loan Balance</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;Insufficient Insurance Amount $308,222 to Cover Loan Balance $XXX. Provide updated insurance policy with sufficient dwelling coverage, guaranteed replacement cost, or estimated cost to rebuild from insurance carrier.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/13/2018- Lender provided document reflecting definition of replacement cost.Exception remains.&nbsp;&nbsp;Provide replacement cost estimator to support the dwelling on declaration page.2/14/2018- Lender provided email from insurance agent verify that the estimate cost to rebuild $308,222.</TD>
+    <TD STYLE="color: #25396E; text-align: left">2/14/2018- Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1736: Significant time at current residence<BR>
+- Clayton Comments:&nbsp;&nbsp;Borrowers have resided in the existing primary residence for 11 years<BR>
+<BR>
+CFCFS1737: LTV below guideline requirements<BR>
+- Clayton Comments:&nbsp;&nbsp;Subject transaction LTV 60%. Maximum LTV allowed for subject transaction is 80%<BR>
+<BR>
+CFCFS1731: Verified cash reserves exceed guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;Total $20,900.20 reserves required. Verified $660,743.99 or 200.94 months total reserves.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020427</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Credit</TD>
+    <TD STYLE="color: #25396E; text-align: left">Application</TD>
+    <TD STYLE="color: #25396E; text-align: left">Active</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">CRDAPP2658</TD>
+    <TD STYLE="color: #25396E; text-align: left">Missing 3rd-party anti-fraud report</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">&nbsp;Missing 3rd-party anti-fraud report.&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;The Borrower has a 0 x 30; 62 month mortgage history review.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+<TR STYLE="vertical-align: middle; background-color: white">
+    <TD STYLE="color: #25396E; text-align: left">6000020427</TD>
+    <TD STYLE="color: #25396E; text-align: left">XXXXXX</TD>
+    <TD STYLE="color: #25396E; text-align: left">CA</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">ATR/QM: Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">B</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">Property Valuations</TD>
+    <TD STYLE="color: #25396E; text-align: left">FEMA</TD>
+    <TD STYLE="color: #25396E; text-align: left">Satisfied</TD>
+    <TD COLSPAN="2" STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">C</TD>
+    <TD STYLE="color: #25396E; text-align: left">A</TD>
+    <TD STYLE="color: #25396E; text-align: left">PRVAFEMA858</TD>
+    <TD STYLE="color: #25396E; text-align: left">Natural Disaster Area, no subsequent inspection&nbsp;&nbsp;(Individual &amp; Public)</TD>
+    <TD STYLE="color: #25396E; text-align: left">No</TD>
+    <TD STYLE="color: #25396E; text-align: left">No inspection since the 10/31/2017 XXX Disaster- Wildfires.&nbsp;</TD>
+    <TD STYLE="color: #25396E; text-align: left">02.20.2018 - XXX - Lender provided the Appraiser's Final Inspection Report for the subject property dated 02.14.2018 of which shows no damage.</TD>
+    <TD STYLE="color: #25396E; text-align: left">02.20.2018 - Exception satisfied.</TD>
+    <TD STYLE="color: #25396E; text-align: left">(No Data)</TD>
+    <TD STYLE="color: #25396E; text-align: left">Not Applicable</TD>
+    <TD STYLE="color: #25396E; text-align: left">CFCFS1740: Mortgage payment history exceeds guidelines<BR>
+- Clayton Comments:&nbsp;&nbsp;The Borrower has a 0 x 30; 62 month mortgage history review.<BR></TD>
+    <TD STYLE="color: #25396E; text-align: left">Complete</TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
