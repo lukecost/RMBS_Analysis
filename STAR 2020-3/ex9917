@@ -1,0 +1,978 @@
+<DOCUMENT>
+<TYPE>EX-99.17
+<SEQUENCE>18
+<FILENAME>efc20-568_ex9917.htm
+<DESCRIPTION>AMC DATA COMPARE
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: a!2f!o&FUfz5
+         Document created using EDGARfilings PROfile 7.0.1.0
+         Copyright 1995 - 2020 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div><img src="image00001.jpg">
+    <div>
+      <table cellspacing="0" cellpadding="2" border="0" id="z542e176697b34236ac362214d0a35b73" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 45.7%; vertical-align: top;" colspan="2">
+              <div style="line-height: 13.7pt; color: #214D88; font-family: 'Segoe UI'; font-size: 12pt; font-weight: bold;">Data Compare (Non-Ignored)</div>
+            </td>
+            <td style="width: 25.38%; vertical-align: top;">&#160;</td>
+            <td style="width: 28.92%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 45.7%; vertical-align: top;" colspan="2">
+              <div style="line-height: 11.4pt; color: #214D88; font-weight: bold;">Run Date - 7/15/2020 5:07:03 PM</div>
+            </td>
+            <td style="width: 25.38%; vertical-align: top;">&#160;</td>
+            <td style="width: 28.92%; vertical-align: top;">&#160;</td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="2" border="0" id="z3de3b3b261ea4fca8b729a290bff4a7b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">AMC Loan ID</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Customer Loan ID</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Seller Loan ID</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Investor Loan Number</div>
+              </td>
+              <td style="width: 16.19%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Field Label</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Bid Tape Field Value</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Field Value</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Compare Status</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; background-color: #214D88; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #FFFFFF; font-weight: bold;">Comment</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209979180</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Representative FICO</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value Representative FICO reflects the lowest mid score of all borrowers</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209979180</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Doc Type</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Alt</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Full</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value reflects documentation located in origination file</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209979186</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Representative FICO</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value Representative FICO reflects the lowest mid score of all borrowers</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209979186</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Doc Type</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Alt</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Full</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value reflects documentation located in origination file</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209979187</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Doc Type</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Alt</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Full</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value reflects documentation located in origination file</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209979188</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Refi Purpose</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Rate/Term</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Cash-out - Other</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value reflects borrower receiving cash out and/or paying off debts &gt; $2,000 or 2% of loan amount per
+                  HUD-1/CD</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209979189</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Doc Type</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Alt</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Full</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value reflects documentation located in origination file</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980829</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Coborrower First Name</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980829</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Coborrower Last Name</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980829</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Appraisal Date</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Tape&#160; Value reflects Appraisal Effective Date</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980829</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Contract Sales Price</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">0</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980829</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Originator Loan Designation</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Non QM</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">N/A</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field value reflects source document</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980829</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Borrower Full Name</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980829</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Housing Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">0</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980829</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">0</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980831</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Appraisal Date</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Tape&#160; Value reflects Appraisal Effective Date</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980836</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Appraisal Date</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Tape&#160; Value reflects Appraisal Effective Date</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980836</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980846</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Appraisal Date</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980846</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Contract Sales Price</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value reflects sales price as it appears on the sales/purchase contract and/or addendum</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980848</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Occupancy</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Primary</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investment</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value reflects Occupancy per the Approval/AUS</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980849</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Appraisal Date</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Tape&#160; Value reflects Appraisal Effective Date</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980850</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Appraisal Date</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Tape&#160; Value reflects Appraisal Effective Date</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980852</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Appraisal Date</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Tape&#160; Value reflects Appraisal Effective Date</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980852</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Borrower Full Name</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980852</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Housing Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">0</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209980852</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">0</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; background-color: #F5F5F5; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Unable to verify due to missing information</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209985969</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value DTI is higher than Tape value due to Lender used lower consumer debt than verified by audit</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209985992</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Lender used higher REO payments to qualify</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209986014</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Representative FICO</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value Representative FICO reflects the lowest mid score of all borrowers</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209986014</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">unable to determine; field value within tolerance of 1008 DTI</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209986026</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209986027</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">209986031</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 8.12%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.25%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">&#160;</td>
+              <td style="width: 16.19%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Investor: Qualifying Total Debt Ratio</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 9.72%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">[Redact]</div>
+              </td>
+              <td style="width: 6.49%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Verified</div>
+              </td>
+              <td style="width: 25.91%; vertical-align: top; border-left: #000000 2px solid; border-right: #000000 2px solid; border-top: #000000 2px solid; border-bottom: #000000 2px solid;">
+                <div style="line-height: 9.1pt; color: #000000;">Field Value DTI is higher than Tape value due to Lender used higher qualifying income than verified by audit</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
